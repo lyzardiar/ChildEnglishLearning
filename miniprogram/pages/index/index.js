@@ -22,12 +22,37 @@ Page({
   },
 
   async loadChildData() {
+    // 先用 globalData 立即渲染（如果有缓存）
     const { currentChild, children } = app.globalData
-    this.setData({ currentChild, children })
+    if (children.length > 0) {
+      this.setData({ currentChild, children })
+      if (currentChild) {
+        this.loadUnits()
+        this.loadCheckinStatus()
+      }
+    }
 
-    if (currentChild) {
-      this.loadUnits()
-      this.loadCheckinStatus()
+    // 再从云端拉取最新数据，避免 login 异步未完成时拿到空数组
+    try {
+      const res = await wx.cloud.callFunction({
+        name: 'login',
+        data: { action: 'getChildren' }
+      })
+      const freshChildren = (res.result && res.result.children) || []
+      app.globalData.children = freshChildren
+      if (freshChildren.length > 0 && !app.globalData.currentChild) {
+        app.globalData.currentChild = freshChildren[0]
+      }
+      this.setData({
+        children: freshChildren,
+        currentChild: app.globalData.currentChild
+      })
+      if (app.globalData.currentChild) {
+        this.loadUnits()
+        this.loadCheckinStatus()
+      }
+    } catch (err) {
+      console.error('加载孩子列表失败:', err)
     }
   },
 
