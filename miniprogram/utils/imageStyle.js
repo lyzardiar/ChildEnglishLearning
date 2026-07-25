@@ -40,7 +40,8 @@ function setStyle(styleKey) {
  * @returns {string} 云存储 fileID
  */
 function getWordImage(unitId, word, style) {
-  const s = style || getCurrentStyle()
+  // TODO: watercolor/pixel 风格图片上传云存储后去掉此回退
+  const s = 'flat'
   return `${FILE_PREFIX}images/words/${s}/${unitId}/${word}.png`
 }
 
