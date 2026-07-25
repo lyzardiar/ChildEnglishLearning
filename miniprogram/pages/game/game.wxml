@@ -1,0 +1,52 @@
+<view class="container">
+  <!-- 游戏选择界面 -->
+  <block wx:if="{{!currentGame}}">
+    <view class="game-list">
+      <view
+        class="game-card card"
+        wx:for="{{games}}"
+        wx:key="id"
+        data-id="{{item.id}}"
+        bindtap="onSelectGame"
+      >
+        <view class="game-icon-wrap" style="background: {{item.color}}20">
+          <image class="game-icon" src="{{item.icon}}" mode="aspectFit"/>
+        </view>
+        <view class="game-info">
+          <text class="game-name">{{item.name}}</text>
+          <text class="game-desc">{{item.desc}}</text>
+        </view>
+        <view class="game-arrow">›</view>
+      </view>
+    </view>
+  </block>
+
+  <!-- 听音选图游戏 -->
+  <block wx:if="{{currentGame === 'listen-match'}}">
+    <view class="game-header">
+      <text class="game-score">⭐ {{gameScore}}</text>
+      <text class="game-round">{{gameRound}} / {{totalRounds}}</text>
+      <view class="exit-btn" bindtap="onExitGame">✕</view>
+    </view>
+
+    <view class="listen-match-area">
+      <view class="listen-prompt">
+        <text class="listen-hint">听一听，点一点</text>
+      </view>
+
+      <view class="options-grid">
+        <view
+          class="option-item"
+          wx:for="{{listenMatchOptions}}"
+          wx:key="english"
+          data-english="{{item.english}}"
+          bindtap="onListenMatchAnswer"
+        >
+          <image class="option-img" src="{{item.image || '/images/placeholder.png'}}" mode="aspectFit"/>
+        </view>
+      </view>
+    </view>
+  </block>
+
+  <view class="tab-bar-placeholder"></view>
+</view>

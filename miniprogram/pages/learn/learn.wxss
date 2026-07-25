@@ -1,0 +1,161 @@
+/* 学习页样式 */
+.progress-bar {
+  height: 12rpx;
+  background: #E8F0FE;
+  border-radius: 6rpx;
+  overflow: hidden;
+  margin-bottom: 8rpx;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-primary-light));
+  border-radius: 6rpx;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  display: block;
+  text-align: right;
+  font-size: 22rpx;
+  color: var(--color-text-secondary);
+  margin-bottom: 24rpx;
+}
+
+/* 单词卡片 */
+.word-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48rpx 32rpx;
+  min-height: 480rpx;
+}
+
+.word-image {
+  width: 280rpx;
+  height: 280rpx;
+  margin-bottom: 32rpx;
+}
+
+.word-english {
+  font-size: 52rpx;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 12rpx;
+}
+
+.word-chinese {
+  font-size: 28rpx;
+  color: var(--color-text-secondary);
+  margin-bottom: 32rpx;
+}
+
+.play-btn {
+  width: 88rpx;
+  height: 88rpx;
+  border-radius: 50%;
+  background: #E8F0FE;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+}
+
+.play-btn.playing {
+  background: var(--color-primary);
+  animation: pulse 1s infinite;
+}
+
+.play-icon {
+  width: 44rpx;
+  height: 44rpx;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
+
+/* 跟读反馈 */
+.read-feedback {
+  display: flex;
+  justify-content: center;
+  margin: 24rpx 0;
+}
+
+.feedback-icon {
+  padding: 16rpx 40rpx;
+  border-radius: var(--radius-btn);
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.feedback-icon.correct {
+  background: #E8F5E9;
+  color: var(--color-success);
+}
+
+.feedback-icon.retry {
+  background: #FFF3E0;
+  color: var(--color-warning);
+}
+
+/* 操作按钮区 */
+.action-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 48rpx;
+  margin-top: 48rpx;
+  padding-bottom: 48rpx;
+}
+
+.nav-btn {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  background: #F0F0F0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-btn.disabled {
+  opacity: 0.3;
+}
+
+.nav-arrow {
+  font-size: 48rpx;
+  color: var(--color-text-secondary);
+}
+
+/* 跟读大按钮 */
+.read-btn {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-light));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8rpx;
+  box-shadow: 0 8rpx 24rpx rgba(74, 144, 217, 0.4);
+  transition: all 0.3s;
+}
+
+.read-btn.recording {
+  background: linear-gradient(135deg, #FF6B6B, #FF8E8E);
+  box-shadow: 0 8rpx 24rpx rgba(255, 107, 107, 0.4);
+  animation: pulse 1s infinite;
+}
+
+.mic-icon {
+  width: 56rpx;
+  height: 56rpx;
+}
+
+.read-btn-text {
+  font-size: 22rpx;
+  color: #FFF;
+}

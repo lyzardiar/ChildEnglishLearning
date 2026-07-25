@@ -1,0 +1,60 @@
+<view class="container">
+  <!-- 打卡统计 -->
+  <view class="stats-card card">
+    <view class="stat-item">
+      <text class="stat-num">{{streakDays}}</text>
+      <text class="stat-label">连续天数</text>
+    </view>
+    <view class="stat-divider"></view>
+    <view class="stat-item">
+      <text class="stat-num">{{totalDays}}</text>
+      <text class="stat-label">累计打卡</text>
+    </view>
+  </view>
+
+  <!-- 本周打卡 -->
+  <view class="week-card card">
+    <text class="section-title">本周</text>
+    <view class="week-row">
+      <view class="week-day" wx:for="{{weekDays}}" wx:key="index">
+        <text class="week-name">{{item.name}}</text>
+        <view class="week-dot {{item.checked ? 'checked' : ''}} {{item.isToday ? 'today' : ''}}">
+          <text wx:if="{{item.checked}}">✓</text>
+          <text wx:else>{{item.date}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 月历 -->
+  <view class="month-card card">
+    <text class="section-title">{{currentMonth}}</text>
+    <view class="month-grid">
+      <view class="month-header">
+        <text wx:for="{{['日','一','二','三','四','五','六']}}" wx:key="*this">{{item}}</text>
+      </view>
+      <view class="month-days">
+        <view
+          class="month-day {{item.checked ? 'checked' : ''}} {{item.isToday ? 'today' : ''}}"
+          wx:for="{{monthRecords}}"
+          wx:key="index"
+        >
+          <text>{{item.day}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 打卡按钮 -->
+  <view class="checkin-btn-area">
+    <view
+      class="checkin-btn {{todayChecked ? 'done' : ''}}"
+      bindtap="onCheckin"
+    >
+      <text class="checkin-btn-icon">{{todayChecked ? '✓' : '📚'}}</text>
+      <text class="checkin-btn-text">{{todayChecked ? '今日已打卡' : '我要打卡'}}</text>
+    </view>
+  </view>
+
+  <view class="tab-bar-placeholder"></view>
+</view>

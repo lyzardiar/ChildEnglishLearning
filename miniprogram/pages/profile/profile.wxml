@@ -1,0 +1,78 @@
+<view class="container">
+  <text class="page-title">小朋友档案</text>
+
+  <!-- 孩子列表 -->
+  <view class="child-list">
+    <view class="child-item card" wx:for="{{children}}" wx:key="_id">
+      <image class="child-avatar" src="{{item.avatar || '/images/default-avatar.png'}}" mode="aspectFill"/>
+      <view class="child-info">
+        <text class="child-name">{{item.name}}</text>
+        <text class="child-progress">
+          {{item.semester === 'upper' ? '上册' : '下册'}} · 第{{(item.currentUnit || 0) + 1}}单元
+        </text>
+      </view>
+      <view class="child-actions">
+        <view class="delete-btn" data-id="{{item._id}}" catchtap="onDeleteChild">
+          <text>删除</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 添加按钮 -->
+  <view class="add-btn" bindtap="onShowAddModal">
+    <text class="add-btn-icon">+</text>
+    <text class="add-btn-text">添加小朋友</text>
+  </view>
+
+  <!-- 图片风格切换 -->
+  <view class="style-section card">
+    <text class="section-title">图片风格</text>
+    <view class="style-list">
+      <view
+        class="style-item {{currentStyle === item.key ? 'active' : ''}}"
+        wx:for="{{styleList}}"
+        wx:key="key"
+        data-key="{{item.key}}"
+        bindtap="onSwitchStyle"
+      >
+        <text class="style-name">{{item.name}}</text>
+        <text class="style-desc">{{item.desc}}</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 添加孩子弹窗 -->
+  <view class="modal-mask" wx:if="{{showAddModal}}" bindtap="onHideAddModal">
+    <view class="modal-content" catchtap="">
+      <text class="modal-title">添加小朋友</text>
+
+      <!-- 头像选择 -->
+      <view class="avatar-picker">
+        <view
+          class="avatar-option {{selectedAvatar === index ? 'selected' : ''}}"
+          wx:for="{{avatarOptions}}"
+          wx:key="index"
+          data-index="{{index}}"
+          bindtap="onSelectAvatar"
+        >
+          <image src="{{item}}" mode="aspectFill"/>
+        </view>
+      </view>
+
+      <!-- 名字输入 -->
+      <input
+        class="name-input"
+        placeholder="输入小朋友的名字"
+        value="{{newChildName}}"
+        bindinput="onNameInput"
+        maxlength="8"
+      />
+
+      <!-- 确认按钮 -->
+      <view class="btn-large btn-primary" bindtap="onConfirmAdd">确认添加</view>
+    </view>
+  </view>
+
+  <view class="tab-bar-placeholder"></view>
+</view>

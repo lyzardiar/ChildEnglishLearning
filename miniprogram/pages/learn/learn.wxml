@@ -1,0 +1,52 @@
+<view class="container">
+  <!-- 进度条 -->
+  <view class="progress-bar">
+    <view class="progress-fill" style="width: {{totalCount > 0 ? (currentWordIndex / totalCount * 100) : 0}}%"></view>
+  </view>
+  <text class="progress-text">{{currentWordIndex + 1}} / {{totalCount}}</text>
+
+  <!-- 单词卡片 -->
+  <view class="word-card card" wx:if="{{currentWord}}">
+    <image
+      class="word-image"
+      src="{{currentWordImage}}"
+      mode="aspectFit"
+    />
+    <text class="word-english">{{currentWord.english}}</text>
+    <text class="word-chinese">{{currentWord.chinese}}</text>
+
+    <!-- 播放示范发音按钮 -->
+    <view class="play-btn {{isPlaying ? 'playing' : ''}}" bindtap="onPlayWord">
+      <image class="play-icon" src="/images/icon-speaker.png" mode="aspectFit"/>
+    </view>
+  </view>
+
+  <!-- 跟读结果反馈 -->
+  <view class="read-feedback" wx:if="{{readResult}}">
+    <view class="feedback-icon {{readResult}}">
+      <text>{{readResult === 'correct' ? '✓' : '再试一次'}}</text>
+    </view>
+  </view>
+
+  <!-- 操作按钮区 -->
+  <view class="action-area">
+    <!-- 上一个 -->
+    <view class="nav-btn {{currentWordIndex === 0 ? 'disabled' : ''}}" bindtap="onPrevWord">
+      <text class="nav-arrow">‹</text>
+    </view>
+
+    <!-- 跟读按钮（大圆形） -->
+    <view
+      class="read-btn {{isRecording ? 'recording' : ''}}"
+      bindtap="onStartRead"
+    >
+      <image class="mic-icon" src="/images/icon-mic.png" mode="aspectFit"/>
+      <text class="read-btn-text">{{isRecording ? '听你说...' : '跟读'}}</text>
+    </view>
+
+    <!-- 下一个 -->
+    <view class="nav-btn" bindtap="onNextWord">
+      <text class="nav-arrow">›</text>
+    </view>
+  </view>
+</view>

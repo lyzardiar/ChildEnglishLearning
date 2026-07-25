@@ -1,0 +1,44 @@
+<view class="container">
+  <!-- 播放控制 -->
+  <view class="player-controls card">
+    <view class="control-row">
+      <view class="ctrl-btn" bindtap="onPrev">
+        <text class="ctrl-icon">⏮</text>
+      </view>
+      <view class="ctrl-btn main {{isPlaying ? 'playing' : ''}}" bindtap="{{isPlaying ? 'onStop' : 'onPlayCurrent'}}">
+        <text class="ctrl-icon">{{isPlaying ? '⏸' : '▶'}}</text>
+      </view>
+      <view class="ctrl-btn" bindtap="onNext">
+        <text class="ctrl-icon">⏭</text>
+      </view>
+    </view>
+    <view class="play-all-btn" bindtap="onPlayAll">
+      <text>播放全部</text>
+    </view>
+  </view>
+
+  <!-- 句子列表 -->
+  <view class="sentence-list">
+    <view
+      class="sentence-item card {{currentSentenceIndex === index ? 'active' : ''}}"
+      wx:for="{{sentences}}"
+      wx:key="index"
+      data-index="{{index}}"
+      bindtap="onSelectSentence"
+    >
+      <view class="sentence-index">{{index + 1}}</view>
+      <view class="sentence-content">
+        <text class="sentence-en">{{item.english}}</text>
+        <text class="sentence-cn" wx:if="{{showChinese}}">{{item.chinese}}</text>
+      </view>
+      <view class="sentence-play" catchtap="onSelectSentence" data-index="{{index}}">
+        <text class="mini-play">🔊</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 显示/隐藏中文 -->
+  <view class="toggle-chinese" bindtap="onToggleChinese">
+    <text>{{showChinese ? '隐藏中文' : '显示中文'}}</text>
+  </view>
+</view>
