@@ -34,7 +34,8 @@
 
       <!-- 播放示范发音按钮 -->
       <view class="play-btn {{isPlaying ? 'playing' : ''}}" bindtap="onPlayWord">
-        <text class="play-emoji">🔊</text>
+        <text class="play-emoji" wx:if="{{!isPlaying}}">🔊</text>
+        <view class="loading-spinner" wx:else></view>
       </view>
     </view>
 
