@@ -1,4 +1,30 @@
 /* 听力页样式 */
+
+/* 顶部 Tab */
+.page-tabs {
+  display: flex;
+  background: #E8F0FE;
+  border-radius: 16rpx;
+  padding: 6rpx;
+  margin-bottom: 24rpx;
+}
+
+.page-tab {
+  flex: 1;
+  text-align: center;
+  padding: 18rpx 0;
+  border-radius: 16rpx;
+  font-size: 28rpx;
+  color: var(--color-text-secondary);
+  transition: all 0.3s;
+}
+
+.page-tab.active {
+  background: var(--color-primary);
+  color: #FFF;
+  font-weight: 600;
+}
+
 .player-controls {
   display: flex;
   flex-direction: column;
@@ -115,4 +141,25 @@
   font-size: 26rpx;
   color: var(--color-primary);
   margin-top: 16rpx;
+}
+
+/* 故事头部 */
+.story-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32rpx;
+}
+
+.story-title {
+  font-size: 34rpx;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 8rpx;
+}
+
+.story-title-cn {
+  font-size: 26rpx;
+  color: var(--color-text-secondary);
+  margin-bottom: 20rpx;
 }

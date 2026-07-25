@@ -8,6 +8,8 @@ Page({
     unitIndex: 0,
     unitId: '',
     unitTitle: '',
+    activeTab: 'words',
+    // 单词
     words: [],
     currentWordIndex: 0,
     currentWord: null,
@@ -17,7 +19,9 @@ Page({
     isRecording: false,
     readResult: null,
     learnedCount: 0,
-    totalCount: 0
+    totalCount: 0,
+    // 字母
+    letters: []
   },
 
   onLoad(options) {
@@ -43,13 +47,21 @@ Page({
         totalCount: words.length,
         currentWordIndex: 0,
         currentWord: firstWord,
-        currentWordImage: firstWord ? imageStyle.getWordImage(unit.id, firstWord.english) : ''
+        currentWordImage: firstWord ? imageStyle.getWordImage(unit.id, firstWord.english) : '',
+        letters: unit.letters || []
       })
       wx.setNavigationBarTitle({ title: unit.title })
     }
   },
 
-  // 播放单词示范发音
+  // 切换 tab
+  onSwitchTab(e) {
+    const tab = e.currentTarget.dataset.tab
+    this.setData({ activeTab: tab })
+  },
+
+  // === 单词相关 ===
+
   async onPlayWord() {
     const { currentWord } = this.data
     if (!currentWord) return
@@ -63,7 +75,6 @@ Page({
     this.setData({ isPlaying: false })
   },
 
-  // 开始跟读
   async onStartRead() {
     const { currentWord } = this.data
     if (!currentWord) return
@@ -88,13 +99,11 @@ Page({
     }
   },
 
-  // 下一个单词
   onNextWord() {
     const { currentWordIndex, words, learnedCount, unitId } = this.data
     const nextIndex = currentWordIndex + 1
 
     if (nextIndex >= words.length) {
-      // 最后一个单词也学会了，计数+1后完成
       this.setData({ learnedCount: learnedCount + 1 })
       this.onUnitComplete()
       return
@@ -110,7 +119,6 @@ Page({
     })
   },
 
-  // 上一个单词
   onPrevWord() {
     const { currentWordIndex, words, unitId } = this.data
     if (currentWordIndex <= 0) return
@@ -125,17 +133,34 @@ Page({
     })
   },
 
-  // 图片加载失败，显示占位符
   onImageError() {
     this.setData({ imageLoadError: true })
   },
 
-  // 单元完成
+  // === 字母相关 ===
+
+  async onPlayLetter(e) {
+    const index = e.currentTarget.dataset.index
+    const letter = this.data.letters[index]
+    if (!letter) return
+
+    // 播放 "A, a for ant" 格式
+    const text = `${letter.letter[0]}. ${letter.letter[0]} for ${letter.word}`
+    this.setData({ isPlaying: true })
+    try {
+      await speech.speak(text)
+    } catch (err) {
+      console.error('播放失败:', err)
+    }
+    this.setData({ isPlaying: false })
+  },
+
+  // === 单元完成 ===
+
   async onUnitComplete() {
     const { semester, unitIndex, totalCount } = this.data
     const currentChild = app.globalData.currentChild
 
-    // 保存学习进度到云数据库
     if (currentChild) {
       try {
         await wx.cloud.callFunction({

@@ -5,14 +5,22 @@ Page({
     semester: 'upper',
     unitIndex: 0,
     unitTitle: '',
+    activeTab: 'sentences',
+    // 句子
     sentences: [],
     currentSentenceIndex: 0,
+    // 故事
+    story: {},
+    currentStoryIndex: 0,
+    // 扩展
+    extendLines: [],
+    currentExtendIndex: 0,
+    // 通用
     isPlaying: false,
     playMode: 'single',
     showChinese: false
   },
 
-  // 内部停止标志，用于中断连续播放循环
   _stopFlag: false,
 
   onLoad(options) {
@@ -36,13 +44,23 @@ Page({
     if (unit) {
       this.setData({
         unitTitle: unit.title,
-        sentences: unit.sentences || []
+        sentences: unit.sentences || [],
+        story: unit.story || {},
+        extendLines: unit.extend || []
       })
       wx.setNavigationBarTitle({ title: `${unit.title} - 听课文` })
     }
   },
 
-  // 播放当前句
+  // 切换 tab
+  onSwitchTab(e) {
+    const tab = e.currentTarget.dataset.tab
+    this.onStop()
+    this.setData({ activeTab: tab })
+  },
+
+  // === 句子 ===
+
   async onPlayCurrent() {
     const { sentences, currentSentenceIndex } = this.data
     const sentence = sentences[currentSentenceIndex]
@@ -57,7 +75,6 @@ Page({
     this.setData({ isPlaying: false })
   },
 
-  // 点击某句的喇叭图标，播放该句
   async onPlaySentence(e) {
     const index = e.currentTarget.dataset.index
     this.setData({ currentSentenceIndex: index })
@@ -74,7 +91,6 @@ Page({
     this.setData({ isPlaying: false })
   },
 
-  // 连续播放全部
   async onPlayAll() {
     const { sentences } = this.data
     this._stopFlag = false
@@ -82,12 +98,10 @@ Page({
 
     for (let i = 0; i < sentences.length; i++) {
       if (this._stopFlag) break
-
       this.setData({ currentSentenceIndex: i })
       try {
         await speech.speak(sentences[i].english)
         if (this._stopFlag) break
-        // 句间停顿
         await new Promise(resolve => setTimeout(resolve, 800))
       } catch (err) {
         break
@@ -97,20 +111,115 @@ Page({
     this.setData({ isPlaying: false, playMode: 'single' })
   },
 
-  // 停止播放
+  // === 故事 ===
+
+  async onPlayStoryLine(e) {
+    const index = e.currentTarget.dataset.index
+    this.setData({ currentStoryIndex: index })
+
+    const line = this.data.story.lines[index]
+    if (!line) return
+
+    this.setData({ isPlaying: true })
+    try {
+      await speech.speak(line.english)
+    } catch (err) {
+      console.error('播放失败:', err)
+    }
+    this.setData({ isPlaying: false })
+  },
+
+  async onPlayStoryAll() {
+    if (this.data.isPlaying) {
+      this.onStop()
+      return
+    }
+
+    const lines = this.data.story.lines || []
+    this._stopFlag = false
+    this.setData({ playMode: 'all', isPlaying: true })
+
+    for (let i = 0; i < lines.length; i++) {
+      if (this._stopFlag) break
+      this.setData({ currentStoryIndex: i })
+      try {
+        await speech.speak(lines[i].english)
+        if (this._stopFlag) break
+        await new Promise(resolve => setTimeout(resolve, 1000))
+      } catch (err) {
+        break
+      }
+    }
+
+    this.setData({ isPlaying: false, playMode: 'single' })
+  },
+
+  onSelectStoryLine(e) {
+    const index = e.currentTarget.dataset.index
+    this.setData({ currentStoryIndex: index })
+  },
+
+  // === 扩展 ===
+
+  async onPlayExtendLine(e) {
+    const index = e.currentTarget.dataset.index
+    this.setData({ currentExtendIndex: index })
+
+    const line = this.data.extendLines[index]
+    if (!line) return
+
+    this.setData({ isPlaying: true })
+    try {
+      await speech.speak(line.english)
+    } catch (err) {
+      console.error('播放失败:', err)
+    }
+    this.setData({ isPlaying: false })
+  },
+
+  async onPlayExtendAll() {
+    if (this.data.isPlaying) {
+      this.onStop()
+      return
+    }
+
+    const lines = this.data.extendLines
+    this._stopFlag = false
+    this.setData({ playMode: 'all', isPlaying: true })
+
+    for (let i = 0; i < lines.length; i++) {
+      if (this._stopFlag) break
+      this.setData({ currentExtendIndex: i })
+      try {
+        await speech.speak(lines[i].english)
+        if (this._stopFlag) break
+        await new Promise(resolve => setTimeout(resolve, 800))
+      } catch (err) {
+        break
+      }
+    }
+
+    this.setData({ isPlaying: false, playMode: 'single' })
+  },
+
+  onSelectExtendLine(e) {
+    const index = e.currentTarget.dataset.index
+    this.setData({ currentExtendIndex: index })
+  },
+
+  // === 通用 ===
+
   onStop() {
     this._stopFlag = true
     speech.stop()
     this.setData({ isPlaying: false, playMode: 'single' })
   },
 
-  // 切换句子（仅选中，不播放）
   onSelectSentence(e) {
     const index = e.currentTarget.dataset.index
     this.setData({ currentSentenceIndex: index })
   },
 
-  // 上一句
   onPrev() {
     const { currentSentenceIndex } = this.data
     if (currentSentenceIndex > 0) {
@@ -118,7 +227,6 @@ Page({
     }
   },
 
-  // 下一句
   onNext() {
     const { currentSentenceIndex, sentences } = this.data
     if (currentSentenceIndex < sentences.length - 1) {
@@ -126,7 +234,6 @@ Page({
     }
   },
 
-  // 切换中文显示
   onToggleChinese() {
     this.setData({ showChinese: !this.data.showChinese })
   }

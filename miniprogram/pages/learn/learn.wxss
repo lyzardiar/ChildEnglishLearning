@@ -1,4 +1,30 @@
 /* 学习页样式 */
+
+/* 顶部 Tab */
+.page-tabs {
+  display: flex;
+  background: #E8F0FE;
+  border-radius: 16rpx;
+  padding: 6rpx;
+  margin-bottom: 24rpx;
+}
+
+.page-tab {
+  flex: 1;
+  text-align: center;
+  padding: 18rpx 0;
+  border-radius: 16rpx;
+  font-size: 28rpx;
+  color: var(--color-text-secondary);
+  transition: all 0.3s;
+}
+
+.page-tab.active {
+  background: var(--color-primary);
+  color: #FFF;
+  font-weight: 600;
+}
+
 .progress-bar {
   height: 12rpx;
   background: #E8F0FE;
@@ -182,4 +208,45 @@
 .read-btn-text {
   font-size: 22rpx;
   color: #FFF;
+}
+
+/* 字母认读 */
+.letters-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24rpx;
+}
+
+.letter-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32rpx 16rpx;
+  position: relative;
+}
+
+.letter-big {
+  font-size: 72rpx;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 12rpx;
+}
+
+.letter-word {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 6rpx;
+}
+
+.letter-chinese {
+  font-size: 24rpx;
+  color: var(--color-text-secondary);
+}
+
+.letter-play {
+  position: absolute;
+  top: 16rpx;
+  right: 16rpx;
+  font-size: 32rpx;
 }

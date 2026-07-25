@@ -1,44 +1,123 @@
 <view class="container">
-  <!-- 播放控制 -->
-  <view class="player-controls card">
-    <view class="control-row">
-      <view class="ctrl-btn" bindtap="onPrev">
-        <text class="ctrl-icon">⏮</text>
-      </view>
-      <view class="ctrl-btn main {{isPlaying ? 'playing' : ''}}" bindtap="{{isPlaying ? 'onStop' : 'onPlayCurrent'}}">
-        <text class="ctrl-icon">{{isPlaying ? '⏸' : '▶'}}</text>
-      </view>
-      <view class="ctrl-btn" bindtap="onNext">
-        <text class="ctrl-icon">⏭</text>
-      </view>
+  <!-- 顶部 Tab 切换 -->
+  <view class="page-tabs">
+    <view class="page-tab {{activeTab === 'sentences' ? 'active' : ''}}" bindtap="onSwitchTab" data-tab="sentences">
+      <text>💬 句子</text>
     </view>
-    <view class="play-all-btn" bindtap="onPlayAll">
-      <text>播放全部</text>
+    <view class="page-tab {{activeTab === 'story' ? 'active' : ''}}" bindtap="onSwitchTab" data-tab="story">
+      <text>📚 故事</text>
+    </view>
+    <view class="page-tab {{activeTab === 'extend' ? 'active' : ''}}" bindtap="onSwitchTab" data-tab="extend">
+      <text>🌟 扩展</text>
     </view>
   </view>
 
-  <!-- 句子列表 -->
-  <view class="sentence-list">
-    <view
-      class="sentence-item card {{currentSentenceIndex === index ? 'active' : ''}}"
-      wx:for="{{sentences}}"
-      wx:key="index"
-      data-index="{{index}}"
-      bindtap="onSelectSentence"
-    >
-      <view class="sentence-index">{{index + 1}}</view>
-      <view class="sentence-content">
-        <text class="sentence-en">{{item.english}}</text>
-        <text class="sentence-cn" wx:if="{{showChinese}}">{{item.chinese}}</text>
+  <!-- === 句子 === -->
+  <block wx:if="{{activeTab === 'sentences'}}">
+    <view class="player-controls card">
+      <view class="control-row">
+        <view class="ctrl-btn" bindtap="onPrev">
+          <text class="ctrl-icon">⏮</text>
+        </view>
+        <view class="ctrl-btn main {{isPlaying ? 'playing' : ''}}" bindtap="{{isPlaying ? 'onStop' : 'onPlayCurrent'}}">
+          <text class="ctrl-icon">{{isPlaying ? '⏸' : '▶'}}</text>
+        </view>
+        <view class="ctrl-btn" bindtap="onNext">
+          <text class="ctrl-icon">⏭</text>
+        </view>
       </view>
-      <view class="sentence-play" catchtap="onPlaySentence" data-index="{{index}}">
-        <text class="mini-play">🔊</text>
+      <view class="play-all-btn" bindtap="onPlayAll">
+        <text>播放全部</text>
       </view>
     </view>
-  </view>
 
-  <!-- 显示/隐藏中文 -->
-  <view class="toggle-chinese" bindtap="onToggleChinese">
-    <text>{{showChinese ? '隐藏中文' : '显示中文'}}</text>
-  </view>
+    <view class="sentence-list">
+      <view
+        class="sentence-item card {{currentSentenceIndex === index ? 'active' : ''}}"
+        wx:for="{{sentences}}"
+        wx:key="index"
+        data-index="{{index}}"
+        bindtap="onSelectSentence"
+      >
+        <view class="sentence-index">{{index + 1}}</view>
+        <view class="sentence-content">
+          <text class="sentence-en">{{item.english}}</text>
+          <text class="sentence-cn" wx:if="{{showChinese}}">{{item.chinese}}</text>
+        </view>
+        <view class="sentence-play" catchtap="onPlaySentence" data-index="{{index}}">
+          <text class="mini-play">🔊</text>
+        </view>
+      </view>
+    </view>
+
+    <view class="toggle-chinese" bindtap="onToggleChinese">
+      <text>{{showChinese ? '隐藏中文' : '显示中文'}}</text>
+    </view>
+  </block>
+
+  <!-- === 故事 === -->
+  <block wx:if="{{activeTab === 'story'}}">
+    <view class="story-header card" wx:if="{{story.title}}">
+      <text class="story-title">📖 {{story.title}}</text>
+      <text class="story-title-cn">{{story.titleChinese}}</text>
+      <view class="play-all-btn" bindtap="onPlayStoryAll">
+        <text>{{isPlaying ? '⏸ 停止' : '▶ 播放全部'}}</text>
+      </view>
+    </view>
+
+    <view class="sentence-list">
+      <view
+        class="sentence-item card {{currentStoryIndex === index ? 'active' : ''}}"
+        wx:for="{{story.lines}}"
+        wx:key="index"
+        data-index="{{index}}"
+        bindtap="onSelectStoryLine"
+      >
+        <view class="sentence-index">{{index + 1}}</view>
+        <view class="sentence-content">
+          <text class="sentence-en">{{item.english}}</text>
+          <text class="sentence-cn" wx:if="{{showChinese}}">{{item.chinese}}</text>
+        </view>
+        <view class="sentence-play" catchtap="onPlayStoryLine" data-index="{{index}}">
+          <text class="mini-play">🔊</text>
+        </view>
+      </view>
+    </view>
+
+    <view class="toggle-chinese" bindtap="onToggleChinese">
+      <text>{{showChinese ? '隐藏中文' : '显示中文'}}</text>
+    </view>
+  </block>
+
+  <!-- === 扩展 === -->
+  <block wx:if="{{activeTab === 'extend'}}">
+    <view class="player-controls card">
+      <view class="play-all-btn" bindtap="onPlayExtendAll">
+        <text>{{isPlaying ? '⏸ 停止' : '▶ 播放全部'}}</text>
+      </view>
+    </view>
+
+    <view class="sentence-list">
+      <view
+        class="sentence-item card {{currentExtendIndex === index ? 'active' : ''}}"
+        wx:for="{{extendLines}}"
+        wx:key="index"
+        data-index="{{index}}"
+        bindtap="onSelectExtendLine"
+      >
+        <view class="sentence-index">{{index + 1}}</view>
+        <view class="sentence-content">
+          <text class="sentence-en">{{item.english}}</text>
+          <text class="sentence-cn" wx:if="{{showChinese}}">{{item.chinese}}</text>
+        </view>
+        <view class="sentence-play" catchtap="onPlayExtendLine" data-index="{{index}}">
+          <text class="mini-play">🔊</text>
+        </view>
+      </view>
+    </view>
+
+    <view class="toggle-chinese" bindtap="onToggleChinese">
+      <text>{{showChinese ? '隐藏中文' : '显示中文'}}</text>
+    </view>
+  </block>
 </view>
