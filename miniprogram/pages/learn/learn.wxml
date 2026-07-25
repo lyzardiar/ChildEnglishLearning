@@ -39,21 +39,10 @@
       </view>
     </view>
 
-    <!-- 跟读结果反馈 -->
-    <view class="read-feedback" wx:if="{{readResult}}">
-      <view class="feedback-icon {{readResult}}">
-        <text>{{readResult === 'correct' ? '✓ 真棒！' : '再试一次'}}</text>
-      </view>
-    </view>
-
     <!-- 操作按钮区 -->
     <view class="action-area">
       <view class="nav-btn {{currentWordIndex === 0 ? 'disabled' : ''}}" bindtap="onPrevWord">
         <text class="nav-arrow">‹</text>
-      </view>
-      <view class="read-btn {{isRecording ? 'recording' : ''}}" bindtap="onStartRead">
-        <text class="mic-emoji">🎤</text>
-        <text class="read-btn-text">{{isRecording ? '听你说...' : '跟读'}}</text>
       </view>
       <view class="nav-btn" bindtap="onNextWord">
         <text class="nav-arrow">›</text>

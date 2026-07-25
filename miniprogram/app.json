@@ -38,11 +38,6 @@
       }
     ]
   },
-  "permission": {
-    "scope.record": {
-      "desc": "用于英语跟读练习"
-    }
-  },
   "requiredPrivateInfos": [],
   "sitemapLocation": "sitemap.json",
   "lazyCodeLoading": "requiredComponents"

@@ -16,8 +16,6 @@ Page({
     currentWordImage: '',
     imageLoadError: false,
     isPlaying: false,
-    isRecording: false,
-    readResult: null,
     learnedCount: 0,
     totalCount: 0,
     // 字母
@@ -75,30 +73,6 @@ Page({
     this.setData({ isPlaying: false })
   },
 
-  async onStartRead() {
-    const { currentWord } = this.data
-    if (!currentWord) return
-
-    this.setData({ isRecording: true, readResult: null })
-
-    try {
-      const result = await speech.recognize()
-      const isCorrect = speech.matchWord(result, currentWord.english)
-      this.setData({
-        isRecording: false,
-        readResult: isCorrect ? 'correct' : 'retry'
-      })
-
-      if (isCorrect) {
-        wx.vibrateShort({ type: 'medium' })
-        setTimeout(() => this.onNextWord(), 1200)
-      }
-    } catch (err) {
-      console.error('识别失败:', err)
-      this.setData({ isRecording: false, readResult: 'retry' })
-    }
-  },
-
   onNextWord() {
     const { currentWordIndex, words, learnedCount, unitId } = this.data
     const nextIndex = currentWordIndex + 1
@@ -114,7 +88,6 @@ Page({
       currentWord: words[nextIndex],
       currentWordImage: imageStyle.getWordImage(unitId, words[nextIndex].english),
       imageLoadError: false,
-      readResult: null,
       learnedCount: learnedCount + 1
     })
   },
@@ -128,8 +101,7 @@ Page({
       currentWordIndex: prevIndex,
       currentWord: words[prevIndex],
       currentWordImage: imageStyle.getWordImage(unitId, words[prevIndex].english),
-      imageLoadError: false,
-      readResult: null
+      imageLoadError: false
     })
   },
 
