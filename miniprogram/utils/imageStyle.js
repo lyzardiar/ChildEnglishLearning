@@ -5,7 +5,7 @@
  */
 
 const ENV_ID = 'cloud1-d8g5ssn6n94472f8a'
-const FILE_PREFIX = `cloud://${ENV_ID}.`
+const FILE_PREFIX = `cloud://${ENV_ID}.636c-${ENV_ID}-1458315262/`
 
 // 可用风格列表
 const STYLES = [
