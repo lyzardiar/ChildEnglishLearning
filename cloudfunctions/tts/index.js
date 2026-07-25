@@ -17,8 +17,8 @@ exports.main = async (event, context) => {
   const cleanText = text.trim()
 
   try {
-    // 缓存检查：用文本 md5 作为云存储路径，避免重复调用 API
-    const hash = crypto.createHash('md5').update(cleanText).digest('hex')
+    // 缓存检查：用文本+音色 md5 作为云存储路径，避免重复调用 API
+    const hash = crypto.createHash('md5').update(cleanText + '_v1050').digest('hex')
     const cloudPath = `tts-cache/${hash}.mp3`
 
     // 尝试获取已有缓存
