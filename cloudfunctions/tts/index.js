@@ -18,7 +18,7 @@ exports.main = async (event, context) => {
 
   try {
     // 缓存检查：用文本+音色 md5 作为云存储路径，避免重复调用 API
-    const hash = crypto.createHash('md5').update(cleanText + '_v1050').digest('hex')
+    const hash = crypto.createHash('md5').update(cleanText + '_v1050s1').digest('hex')
     const cloudPath = `tts-cache/${hash}.mp3`
 
     // 尝试获取已有缓存
@@ -65,7 +65,7 @@ function textToSpeech(text) {
       Text: text,
       SessionId: `tts_${Date.now()}`,
       Volume: 1.0,
-      Speed: 0.8,       // 稍慢一点，适合小朋友听
+      Speed: -1,        // 慢速，适合6岁小朋友跟读
       VoiceType: 1050,  // 英语女声 WeEmma
       Codec: 'mp3'
     })
