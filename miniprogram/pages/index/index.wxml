@@ -8,17 +8,17 @@
       data-id="{{item._id}}"
       bindtap="onSwitchChild"
     >
-      <image class="avatar-img" src="{{item.avatar || '/images/default-avatar.png'}}" mode="aspectFill"/>
+      <text class="avatar-emoji">{{item.avatar || '🧒'}}</text>
       <text class="child-name">{{item.name}}</text>
     </view>
-    <navigator url="/pages/profile/profile" class="add-child-btn">
+    <navigator url="/pages/profile/profile" open-type="switchTab" class="add-child-btn">
       <text class="add-icon">+</text>
     </navigator>
   </view>
 
   <!-- 无孩子时的引导 -->
   <view class="empty-guide" wx:if="{{children.length === 0}}">
-    <image class="guide-img" src="/images/welcome.png" mode="aspectFit"/>
+    <text class="guide-emoji">👋</text>
     <text class="guide-text">先添加一个小朋友吧</text>
     <navigator url="/pages/profile/profile" open-type="switchTab" class="btn-large btn-primary">添加小朋友</navigator>
   </view>
@@ -46,7 +46,7 @@
         <text class="streak-label">连续打卡天数</text>
       </view>
       <view class="checkin-badge {{todayChecked ? 'done' : ''}}">
-        <text>{{todayChecked ? '今日已打卡' : '今日未打卡'}}</text>
+        <text>{{todayChecked ? '今日已打卡 ✅' : '今日未打卡'}}</text>
       </view>
     </view>
 
@@ -65,17 +65,14 @@
             <text class="unit-title">{{item.title}}</text>
             <text class="unit-subtitle">{{item.subtitle}}</text>
           </view>
-          <view class="unit-progress">
-            <text class="progress-text">{{item.progress || 0}}%</text>
-          </view>
         </view>
         <view class="unit-actions">
           <view class="action-btn" data-index="{{index}}" bindtap="onEnterUnit">
-            <image class="action-icon" src="/images/icon-learn.png" mode="aspectFit"/>
+            <text class="action-emoji">📖</text>
             <text>学单词</text>
           </view>
           <view class="action-btn" data-index="{{index}}" bindtap="onEnterListen">
-            <image class="action-icon" src="/images/icon-listen.png" mode="aspectFit"/>
+            <text class="action-emoji">🎧</text>
             <text>听课文</text>
           </view>
         </view>

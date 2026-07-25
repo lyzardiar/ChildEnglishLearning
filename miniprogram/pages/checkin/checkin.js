@@ -6,8 +6,8 @@ Page({
     streakDays: 0,
     totalDays: 0,
     todayChecked: false,
-    weekDays: [],       // 本周打卡情况
-    monthRecords: [],   // 本月打卡日历
+    weekDays: [],
+    monthRecords: [],
     currentMonth: ''
   },
 
@@ -27,16 +27,15 @@ Page({
     const year = now.getFullYear()
     const month = now.getMonth() + 1
     this.setData({ currentMonth: `${year}年${month}月` })
-    this.generateMonthCalendar(year, month)
+    this.generateMonthCalendar(year, month, [])
   },
 
-  generateMonthCalendar(year, month) {
+  generateMonthCalendar(year, month, checkedDates) {
     const daysInMonth = new Date(year, month, 0).getDate()
-    const firstDay = new Date(year, month - 1, 1).getDay() // 0=周日
+    const firstDay = new Date(year, month - 1, 1).getDay()
     const today = new Date().getDate()
 
     const days = []
-    // 填充月初空白
     for (let i = 0; i < firstDay; i++) {
       days.push({ day: '', empty: true })
     }
@@ -44,7 +43,7 @@ Page({
       days.push({
         day: d,
         isToday: d === today,
-        checked: false // 后续从数据库加载
+        checked: checkedDates.includes(d)
       })
     }
     this.setData({ monthRecords: days })
@@ -57,22 +56,24 @@ Page({
     if (!currentChild) return
 
     try {
-      // TODO: 从云数据库加载打卡数据
-      // const res = await wx.cloud.callFunction({
-      //   name: 'dailyCheckin',
-      //   data: { action: 'getRecords', childId: currentChild._id }
-      // })
-      // this.setData({
-      //   streakDays: res.result.streakDays,
-      //   totalDays: res.result.totalDays,
-      //   todayChecked: res.result.todayChecked
-      // })
+      const res = await wx.cloud.callFunction({
+        name: 'dailyCheckin',
+        data: { action: 'getRecords', childId: currentChild._id }
+      })
 
-      // 生成周视图
-      this.generateWeekView()
+      if (res.result && res.result.code === 0) {
+        const { todayChecked, streakDays, totalDays, checkedDates } = res.result
+        this.setData({ todayChecked, streakDays, totalDays })
+
+        // 更新月历
+        const now = new Date()
+        this.generateMonthCalendar(now.getFullYear(), now.getMonth() + 1, checkedDates || [])
+      }
     } catch (err) {
       console.error('加载打卡数据失败:', err)
     }
+
+    this.generateWeekView()
   },
 
   generateWeekView() {
@@ -88,9 +89,30 @@ Page({
         name: weekNames[i],
         date: date.getDate(),
         isToday: i === dayOfWeek,
-        checked: false // TODO: 从数据加载
+        checked: false
       })
     }
+
+    // 如果有月历数据，同步本周的打卡状态
+    const { monthRecords } = this.data
+    const now = new Date()
+    const currentMonth = now.getMonth() + 1
+    const currentYear = now.getFullYear()
+    const todayDate = now.getDate()
+
+    for (let i = 0; i < 7; i++) {
+      const date = new Date(today)
+      date.setDate(today.getDate() - dayOfWeek + i)
+      // 只标记本月的日期
+      if (date.getMonth() + 1 === currentMonth && date.getFullYear() === currentYear) {
+        const dayNum = date.getDate()
+        const record = monthRecords.find(r => r.day === dayNum && !r.empty)
+        if (record && record.checked) {
+          weekDays[i].checked = true
+        }
+      }
+    }
+
     this.setData({ weekDays })
   },
 
@@ -107,21 +129,35 @@ Page({
     }
 
     try {
-      // TODO: 调用云函数打卡
-      // await wx.cloud.callFunction({
-      //   name: 'dailyCheckin',
-      //   data: { action: 'checkin', childId: currentChild._id }
-      // })
-
-      this.setData({
-        todayChecked: true,
-        streakDays: this.data.streakDays + 1,
-        totalDays: this.data.totalDays + 1
+      const res = await wx.cloud.callFunction({
+        name: 'dailyCheckin',
+        data: { action: 'checkin', childId: currentChild._id }
       })
 
-      wx.showToast({ title: '打卡成功！', icon: 'success' })
-      wx.vibrateShort({ type: 'heavy' })
+      if (res.result && res.result.code === 0) {
+        const streakDays = res.result.streakDays || this.data.streakDays + 1
+        this.setData({
+          todayChecked: true,
+          streakDays,
+          totalDays: this.data.totalDays + 1
+        })
+
+        // 更新月历中今天的状态
+        const today = new Date().getDate()
+        const monthRecords = this.data.monthRecords.map(r => {
+          if (r.day === today) return { ...r, checked: true }
+          return r
+        })
+        this.setData({ monthRecords })
+        this.generateWeekView()
+
+        wx.showToast({ title: '打卡成功！', icon: 'success' })
+        wx.vibrateShort({ type: 'heavy' })
+      } else {
+        wx.showToast({ title: res.result.message || '打卡失败', icon: 'none' })
+      }
     } catch (err) {
+      console.error('打卡失败:', err)
       wx.showToast({ title: '打卡失败，请重试', icon: 'none' })
     }
   }

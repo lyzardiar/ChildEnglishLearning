@@ -71,6 +71,29 @@
   height: 44rpx;
 }
 
+.play-emoji {
+  font-size: 40rpx;
+}
+
+.mic-emoji {
+  font-size: 48rpx;
+}
+
+.word-image-placeholder {
+  width: 280rpx;
+  height: 280rpx;
+  margin-bottom: 32rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F5F7FA;
+  border-radius: 24rpx;
+}
+
+.placeholder-emoji {
+  font-size: 96rpx;
+}
+
 @keyframes pulse {
   0%, 100% { transform: scale(1); }
   50% { transform: scale(1.1); }

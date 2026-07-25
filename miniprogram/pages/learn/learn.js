@@ -1,3 +1,4 @@
+const app = getApp()
 const speech = require('../../utils/speech')
 const imageStyle = require('../../utils/imageStyle')
 
@@ -11,9 +12,10 @@ Page({
     currentWordIndex: 0,
     currentWord: null,
     currentWordImage: '',
-    isPlaying: false,    // 是否正在播放示范发音
-    isRecording: false,  // 是否正在录音
-    readResult: null,    // 跟读结果: 'correct' | 'retry' | null
+    imageLoadError: false,
+    isPlaying: false,
+    isRecording: false,
+    readResult: null,
     learnedCount: 0,
     totalCount: 0
   },
@@ -78,7 +80,6 @@ Page({
 
       if (isCorrect) {
         wx.vibrateShort({ type: 'medium' })
-        // 延迟后自动进入下一个单词
         setTimeout(() => this.onNextWord(), 1200)
       }
     } catch (err) {
@@ -93,7 +94,8 @@ Page({
     const nextIndex = currentWordIndex + 1
 
     if (nextIndex >= words.length) {
-      // 本单元学完
+      // 最后一个单词也学会了，计数+1后完成
+      this.setData({ learnedCount: learnedCount + 1 })
       this.onUnitComplete()
       return
     }
@@ -102,6 +104,7 @@ Page({
       currentWordIndex: nextIndex,
       currentWord: words[nextIndex],
       currentWordImage: imageStyle.getWordImage(unitId, words[nextIndex].english),
+      imageLoadError: false,
       readResult: null,
       learnedCount: learnedCount + 1
     })
@@ -117,18 +120,45 @@ Page({
       currentWordIndex: prevIndex,
       currentWord: words[prevIndex],
       currentWordImage: imageStyle.getWordImage(unitId, words[prevIndex].english),
+      imageLoadError: false,
       readResult: null
     })
   },
 
+  // 图片加载失败，显示占位符
+  onImageError() {
+    this.setData({ imageLoadError: true })
+  },
+
   // 单元完成
-  onUnitComplete() {
+  async onUnitComplete() {
+    const { semester, unitIndex, totalCount } = this.data
+    const currentChild = app.globalData.currentChild
+
+    // 保存学习进度到云数据库
+    if (currentChild) {
+      try {
+        await wx.cloud.callFunction({
+          name: 'saveProgress',
+          data: {
+            action: 'save',
+            childId: currentChild._id,
+            semester,
+            unitIndex,
+            type: 'learn',
+            score: totalCount
+          }
+        })
+      } catch (err) {
+        console.error('保存进度失败:', err)
+      }
+    }
+
     wx.showModal({
       title: '太棒了！',
       content: '本单元单词全部学完啦！',
       showCancel: false,
       success: () => {
-        // TODO: 保存学习进度到云数据库
         wx.navigateBack()
       }
     })

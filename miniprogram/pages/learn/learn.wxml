@@ -8,23 +8,28 @@
   <!-- 单词卡片 -->
   <view class="word-card card" wx:if="{{currentWord}}">
     <image
+      wx:if="{{currentWordImage && !imageLoadError}}"
       class="word-image"
       src="{{currentWordImage}}"
       mode="aspectFit"
+      binderror="onImageError"
     />
+    <view wx:else class="word-image-placeholder">
+      <text class="placeholder-emoji">🖼️</text>
+    </view>
     <text class="word-english">{{currentWord.english}}</text>
     <text class="word-chinese">{{currentWord.chinese}}</text>
 
     <!-- 播放示范发音按钮 -->
     <view class="play-btn {{isPlaying ? 'playing' : ''}}" bindtap="onPlayWord">
-      <image class="play-icon" src="/images/icon-speaker.png" mode="aspectFit"/>
+      <text class="play-emoji">🔊</text>
     </view>
   </view>
 
   <!-- 跟读结果反馈 -->
   <view class="read-feedback" wx:if="{{readResult}}">
     <view class="feedback-icon {{readResult}}">
-      <text>{{readResult === 'correct' ? '✓' : '再试一次'}}</text>
+      <text>{{readResult === 'correct' ? '✓ 真棒！' : '再试一次'}}</text>
     </view>
   </view>
 
@@ -40,7 +45,7 @@
       class="read-btn {{isRecording ? 'recording' : ''}}"
       bindtap="onStartRead"
     >
-      <image class="mic-icon" src="/images/icon-mic.png" mode="aspectFit"/>
+      <text class="mic-emoji">🎤</text>
       <text class="read-btn-text">{{isRecording ? '听你说...' : '跟读'}}</text>
     </view>
 

@@ -4,7 +4,7 @@
   <!-- 孩子列表 -->
   <view class="child-list">
     <view class="child-item card" wx:for="{{children}}" wx:key="_id">
-      <image class="child-avatar" src="{{item.avatar || '/images/default-avatar.png'}}" mode="aspectFill"/>
+      <view class="child-avatar-emoji">{{item.avatar || '🧒'}}</view>
       <view class="child-info">
         <text class="child-name">{{item.name}}</text>
         <text class="child-progress">
@@ -44,7 +44,7 @@
 
   <!-- 添加孩子弹窗 -->
   <view class="modal-mask" wx:if="{{showAddModal}}" bindtap="onHideAddModal">
-    <view class="modal-content" catchtap="">
+    <view class="modal-content" catchtap="noop">
       <text class="modal-title">添加小朋友</text>
 
       <!-- 头像选择 -->
@@ -56,7 +56,7 @@
           data-index="{{index}}"
           bindtap="onSelectAvatar"
         >
-          <image src="{{item}}" mode="aspectFill"/>
+          <text class="avatar-emoji">{{item}}</text>
         </view>
       </view>
 
@@ -64,9 +64,11 @@
       <input
         class="name-input"
         placeholder="输入小朋友的名字"
-        value="{{newChildName}}"
         bindinput="onNameInput"
+        bindblur="onNameInput"
+        bindconfirm="onNameInput"
         maxlength="8"
+        focus="{{showAddModal}}"
       />
 
       <!-- 确认按钮 -->

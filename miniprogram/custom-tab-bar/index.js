@@ -9,12 +9,6 @@ Component({
         text: '首页'
       },
       {
-        key: 'learn',
-        pagePath: '/pages/learn/learn',
-        icon: '📖',
-        text: '学习'
-      },
-      {
         key: 'game',
         pagePath: '/pages/game/game',
         icon: '🎮',

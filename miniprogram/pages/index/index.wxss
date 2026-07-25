@@ -20,14 +20,19 @@
   transform: scale(1.1);
 }
 
-.avatar-img {
+.avatar-emoji {
+  font-size: 56rpx;
   width: 96rpx;
   height: 96rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 50%;
+  background: #F0F7FF;
   border: 4rpx solid transparent;
 }
 
-.child-avatar.active .avatar-img {
+.child-avatar.active .avatar-emoji {
   border-color: var(--color-primary);
 }
 
@@ -65,9 +70,8 @@
   padding-top: 120rpx;
 }
 
-.guide-img {
-  width: 320rpx;
-  height: 320rpx;
+.guide-emoji {
+  font-size: 120rpx;
   margin-bottom: 32rpx;
 }
 
@@ -205,6 +209,10 @@
   border-radius: var(--radius-btn);
   font-size: 24rpx;
   color: var(--color-text);
+}
+
+.action-emoji {
+  font-size: 32rpx;
 }
 
 .action-icon {

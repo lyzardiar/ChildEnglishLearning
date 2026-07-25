@@ -31,7 +31,7 @@
         <text class="sentence-en">{{item.english}}</text>
         <text class="sentence-cn" wx:if="{{showChinese}}">{{item.chinese}}</text>
       </view>
-      <view class="sentence-play" catchtap="onSelectSentence" data-index="{{index}}">
+      <view class="sentence-play" catchtap="onPlaySentence" data-index="{{index}}">
         <text class="mini-play">🔊</text>
       </view>
     </view>

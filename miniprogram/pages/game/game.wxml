@@ -1,6 +1,34 @@
 <view class="container">
   <!-- 游戏选择界面 -->
   <block wx:if="{{!currentGame}}">
+    <!-- 单元选择 -->
+    <view class="unit-selector card">
+      <view class="semester-tabs">
+        <view
+          class="tab {{semester === 'upper' ? 'active' : ''}}"
+          data-semester="upper"
+          bindtap="onSwitchSemester"
+        >上册</view>
+        <view
+          class="tab {{semester === 'lower' ? 'active' : ''}}"
+          data-semester="lower"
+          bindtap="onSwitchSemester"
+        >下册</view>
+      </view>
+      <scroll-view class="unit-scroll" scroll-x>
+        <view class="unit-chips">
+          <view
+            class="unit-chip {{unitIndex === index ? 'active' : ''}}"
+            wx:for="{{units}}"
+            wx:key="id"
+            data-index="{{index}}"
+            bindtap="onSelectUnit"
+          >{{index + 1}}</view>
+        </view>
+      </scroll-view>
+    </view>
+
+    <!-- 游戏列表 -->
     <view class="game-list">
       <view
         class="game-card card"
@@ -10,7 +38,7 @@
         bindtap="onSelectGame"
       >
         <view class="game-icon-wrap" style="background: {{item.color}}20">
-          <image class="game-icon" src="{{item.icon}}" mode="aspectFit"/>
+          <text class="game-emoji">{{item.icon}}</text>
         </view>
         <view class="game-info">
           <text class="game-name">{{item.name}}</text>
@@ -21,7 +49,7 @@
     </view>
   </block>
 
-  <!-- 听音选图游戏 -->
+  <!-- 听音选词游戏 -->
   <block wx:if="{{currentGame === 'listen-match'}}">
     <view class="game-header">
       <text class="game-score">⭐ {{gameScore}}</text>
@@ -30,19 +58,28 @@
     </view>
 
     <view class="listen-match-area">
-      <view class="listen-prompt">
-        <text class="listen-hint">听一听，点一点</text>
+      <view class="listen-prompt" bindtap="onReplayWord">
+        <text class="listen-hint">🔊 听一听，点一点</text>
+        <text class="replay-hint">点击重播</text>
+      </view>
+
+      <!-- 答题反馈 -->
+      <view class="answer-feedback" wx:if="{{lastAnswerCorrect !== null}}">
+        <text class="feedback-text {{lastAnswerCorrect ? 'correct' : 'wrong'}}">
+          {{lastAnswerCorrect ? '✓ 真棒！' : '✗ 再听听'}}
+        </text>
       </view>
 
       <view class="options-grid">
         <view
-          class="option-item"
+          class="option-item {{lastAnswerCorrect !== null && item.english === listenMatchCorrect ? 'highlight' : ''}}"
           wx:for="{{listenMatchOptions}}"
           wx:key="english"
           data-english="{{item.english}}"
           bindtap="onListenMatchAnswer"
         >
-          <image class="option-img" src="{{item.image || '/images/placeholder.png'}}" mode="aspectFit"/>
+          <text class="option-text">{{item.english}}</text>
+          <text class="option-chinese">{{item.chinese}}</text>
         </view>
       </view>
     </view>

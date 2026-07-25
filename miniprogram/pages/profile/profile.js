@@ -6,24 +6,40 @@ Page({
     children: [],
     showAddModal: false,
     newChildName: '',
-    avatarOptions: [
-      '/images/avatar-boy1.png',
-      '/images/avatar-girl1.png',
-      '/images/avatar-boy2.png',
-      '/images/avatar-girl2.png'
-    ],
+    avatarOptions: ['👦', '👧', '🧒', '👶'],
     selectedAvatar: 0,
     // 图片风格
     styleList: imageStyle.STYLES,
     currentStyle: imageStyle.getCurrentStyle()
   },
 
-  onShow() {
+  async onShow() {
     if (typeof this.getTabBar === 'function' && this.getTabBar()) {
       this.getTabBar().setData({ active: 'profile' })
     }
-    this.setData({ children: app.globalData.children })
+    await this.loadChildren()
   },
+
+  // 从云端加载孩子列表
+  async loadChildren() {
+    try {
+      const res = await wx.cloud.callFunction({
+        name: 'login',
+        data: { action: 'getChildren' }
+      })
+      const children = (res.result && res.result.children) || []
+      app.globalData.children = children
+      if (children.length > 0 && !app.globalData.currentChild) {
+        app.globalData.currentChild = children[0]
+      }
+      this.setData({ children })
+    } catch (err) {
+      console.error('加载孩子列表失败:', err)
+    }
+  },
+
+  // 空函数，用于阻止弹窗内容区事件冒泡
+  noop() {},
 
   // 显示添加孩子弹窗
   onShowAddModal() {
@@ -54,37 +70,24 @@ Page({
     }
 
     try {
-      // TODO: 调用云函数创建孩子档案
-      // const res = await wx.cloud.callFunction({
-      //   name: 'login',
-      //   data: {
-      //     action: 'addChild',
-      //     name: newChildName.trim(),
-      //     avatar: avatarOptions[selectedAvatar]
-      //   }
-      // })
-
-      // 临时本地添加（云函数就绪后替换）
-      const newChild = {
-        _id: 'temp_' + Date.now(),
-        name: newChildName.trim(),
-        avatar: avatarOptions[selectedAvatar],
-        semester: 'upper',
-        currentUnit: 0
-      }
-
-      app.globalData.children.push(newChild)
-      if (!app.globalData.currentChild) {
-        app.globalData.currentChild = newChild
-      }
-
-      this.setData({
-        children: app.globalData.children,
-        showAddModal: false
+      const res = await wx.cloud.callFunction({
+        name: 'login',
+        data: {
+          action: 'addChild',
+          name: newChildName.trim(),
+          avatar: avatarOptions[selectedAvatar]
+        }
       })
 
-      wx.showToast({ title: '添加成功', icon: 'success' })
+      if (res.result && res.result.code === 0) {
+        this.setData({ showAddModal: false })
+        wx.showToast({ title: '添加成功', icon: 'success' })
+        await this.loadChildren()
+      } else {
+        wx.showToast({ title: res.result.message || '添加失败', icon: 'none' })
+      }
     } catch (err) {
+      console.error('添加孩子失败:', err)
       wx.showToast({ title: '添加失败', icon: 'none' })
     }
   },
@@ -93,18 +96,27 @@ Page({
   onDeleteChild(e) {
     const childId = e.currentTarget.dataset.id
     const child = this.data.children.find(c => c._id === childId)
+    if (!child) return
 
     wx.showModal({
       title: '确认删除',
       content: `确定要删除「${child.name}」的学习档案吗？`,
       success: async (res) => {
         if (res.confirm) {
-          // TODO: 调用云函数删除
-          app.globalData.children = app.globalData.children.filter(c => c._id !== childId)
-          if (app.globalData.currentChild && app.globalData.currentChild._id === childId) {
-            app.globalData.currentChild = app.globalData.children[0] || null
+          try {
+            await wx.cloud.callFunction({
+              name: 'login',
+              data: { action: 'deleteChild', childId }
+            })
+            if (app.globalData.currentChild && app.globalData.currentChild._id === childId) {
+              app.globalData.currentChild = null
+            }
+            await this.loadChildren()
+            wx.showToast({ title: '已删除', icon: 'success' })
+          } catch (err) {
+            console.error('删除孩子失败:', err)
+            wx.showToast({ title: '删除失败', icon: 'none' })
           }
-          this.setData({ children: app.globalData.children })
         }
       }
     })

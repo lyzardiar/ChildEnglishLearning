@@ -6,15 +6,9 @@ App({
     }
 
     wx.cloud.init({
-      env: 'your-env-id', // TODO: 替换为你的云开发环境ID
+      env: 'cloud1-d8g5ssn6n94472f8a',
       traceUser: true
     })
-
-    this.globalData = {
-      openid: '',
-      currentChild: null, // 当前选中的孩子档案
-      children: []        // 家长下所有孩子
-    }
 
     this.login()
   },
@@ -35,8 +29,18 @@ App({
       if (this.globalData.children.length > 0) {
         this.globalData.currentChild = this.globalData.children[0]
       }
+
+      this.globalData.loginReady = true
     } catch (err) {
       console.error('登录失败:', err)
+      this.globalData.loginReady = true
+      // 延迟重试一次
+      setTimeout(() => {
+        if (!this.globalData.openid) {
+          console.log('重试登录...')
+          this.login()
+        }
+      }, 3000)
     }
   },
 
@@ -51,6 +55,7 @@ App({
   globalData: {
     openid: '',
     currentChild: null,
-    children: []
+    children: [],
+    loginReady: false
   }
 })

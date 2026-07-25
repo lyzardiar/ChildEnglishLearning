@@ -1,6 +1,6 @@
 /**
  * 语音工具模块（无插件版本）
- * TTS: 播放云存储中的预录音频
+ * TTS: 调用 tts 云函数（腾讯云 TTS），带云存储缓存
  * ASR: 录音后上传云函数进行语音识别
  */
 
@@ -9,7 +9,7 @@ let audioContext = null
 
 /**
  * 播放单词/句子发音
- * 优先播放云存储音频，如果没有则使用微信内置 TTS（基础库支持）
+ * 优先播放云存储音频，如果没有则调用 tts 云函数
  * @param {string} text - 英文文本
  * @param {string} audioUrl - 可选，云存储音频地址
  * @returns {Promise}
@@ -22,44 +22,56 @@ function speak(text, audioUrl) {
       audioContext = null
     }
 
-    audioContext = wx.createInnerAudioContext()
-
-    audioContext.onEnded(() => {
-      resolve()
-    })
-
-    audioContext.onError((err) => {
-      console.error('音频播放失败:', err)
-      // 如果云存储音频播放失败，尝试用内置 TTS
-      if (audioUrl) {
-        useBuiltinTTS(text).then(resolve).catch(reject)
-      } else {
-        reject(err)
-      }
-    })
-
     if (audioUrl) {
       // 有预录音频，直接播放
+      audioContext = wx.createInnerAudioContext()
       audioContext.src = audioUrl
+      audioContext.onEnded(() => resolve())
+      audioContext.onError((err) => {
+        console.error('音频播放失败，回退到 TTS:', err)
+        // 预录音频失败，回退到云函数 TTS
+        playViaTTS(text).then(resolve).catch(() => resolve())
+      })
       audioContext.play()
     } else {
-      // 没有预录音频，使用内置 TTS
-      useBuiltinTTS(text).then(resolve).catch(reject)
+      // 没有预录音频，调用 tts 云函数
+      playViaTTS(text).then(resolve).catch(() => resolve())
     }
   })
 }
 
 /**
- * 使用微信内置 TTS（基础库 2.30.0+ 支持）
- * 如果基础库不支持，则静默失败
+ * 调用 tts 云函数获取语音 URL 并播放
+ * 云函数内部有缓存机制，相同文本不会重复调用 API
  */
-function useBuiltinTTS(text) {
-  return new Promise((resolve, reject) => {
-    // 尝试使用 wx.createWebAudioContext 或回退到简单提示
-    // 注意：不是所有基础库版本都支持内置 TTS
-    // 这里做一个简单的回退：直接 resolve（后续补充真人录音后替换）
-    console.warn('暂无预录音频，TTS 功能待补充音频资源:', text)
-    resolve()
+function playViaTTS(text) {
+  return new Promise((resolve) => {
+    wx.cloud.callFunction({
+      name: 'tts',
+      data: { text }
+    }).then(res => {
+      const result = res.result
+      if (result && result.code === 0 && result.url) {
+        if (audioContext) {
+          audioContext.destroy()
+          audioContext = null
+        }
+        audioContext = wx.createInnerAudioContext()
+        audioContext.src = result.url
+        audioContext.onEnded(() => resolve())
+        audioContext.onError((err) => {
+          console.error('TTS 音频播放失败:', err)
+          resolve()
+        })
+        audioContext.play()
+      } else {
+        console.warn('TTS 返回异常:', result)
+        resolve()
+      }
+    }).catch(err => {
+      console.warn('TTS 云函数调用失败:', err)
+      resolve()
+    })
   })
 }
 
@@ -113,7 +125,12 @@ function recognize(options = {}) {
     recorderManager.onError((err) => {
       if (!finished) {
         finished = true
-        reject(err)
+        // 区分权限拒绝和其他错误
+        if (err && err.errMsg && err.errMsg.includes('auth')) {
+          reject(new Error('请允许使用麦克风权限'))
+        } else {
+          reject(err)
+        }
       }
     })
 
@@ -127,12 +144,12 @@ function recognize(options = {}) {
       frameSize: 50
     })
 
-    // 超时自动停止
+    // 超时自动停止（比 duration 多留 500ms 余量，避免和自动停止竞争）
     setTimeout(() => {
       if (!finished) {
         recorderManager.stop()
       }
-    }, duration)
+    }, duration + 500)
   })
 }
 

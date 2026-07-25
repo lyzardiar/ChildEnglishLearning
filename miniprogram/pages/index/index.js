@@ -4,8 +4,8 @@ Page({
   data: {
     currentChild: null,
     children: [],
-    units: [], // 当前册的单元列表
-    semester: 'upper', // upper=上册, lower=下册
+    units: [],
+    semester: 'upper',
     todayChecked: false,
     streakDays: 0
   },
@@ -26,22 +26,35 @@ Page({
     this.setData({ currentChild, children })
 
     if (currentChild) {
-      // TODO: 从云数据库加载学习进度
       this.loadUnits()
       this.loadCheckinStatus()
     }
   },
 
   loadUnits() {
-    // 加载当前学期的单元列表
     const bookData = require('../../data/index.js')
     const book = bookData.getBook(this.data.semester)
     this.setData({ units: book.units || [] })
   },
 
   async loadCheckinStatus() {
-    // TODO: 查询今日是否已打卡、连续天数
-    this.setData({ todayChecked: false, streakDays: 0 })
+    const { currentChild } = this.data
+    if (!currentChild) return
+
+    try {
+      const res = await wx.cloud.callFunction({
+        name: 'dailyCheckin',
+        data: { action: 'getRecords', childId: currentChild._id }
+      })
+      if (res.result && res.result.code === 0) {
+        this.setData({
+          todayChecked: res.result.todayChecked,
+          streakDays: res.result.streakDays
+        })
+      }
+    } catch (err) {
+      console.error('加载打卡状态失败:', err)
+    }
   },
 
   // 切换孩子
@@ -50,6 +63,7 @@ Page({
     app.switchChild(childId)
     this.setData({ currentChild: app.globalData.currentChild })
     this.loadUnits()
+    this.loadCheckinStatus()
   },
 
   // 切换学期
