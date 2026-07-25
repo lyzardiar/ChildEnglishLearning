@@ -1,6 +1,5 @@
 const app = getApp()
 const imageStyle = require('../../utils/imageStyle')
-const imageUploader = require('../../utils/imageUploader')
 
 Page({
   data: {
@@ -11,12 +10,8 @@ Page({
     selectedAvatar: 0,
     // 图片风格
     styleList: imageStyle.STYLES,
-    currentStyle: imageStyle.getCurrentStyle(),
-    uploading: false
+    currentStyle: imageStyle.getCurrentStyle()
   },
-
-  _styleTapCount: 0,
-  _styleTapTimer: null,
 
   async onShow() {
     if (typeof this.getTabBar === 'function' && this.getTabBar()) {
@@ -140,44 +135,5 @@ Page({
     imageStyle.setStyle(styleKey)
     this.setData({ currentStyle: styleKey })
     wx.showToast({ title: '已切换风格', icon: 'success' })
-  },
-
-  // 隐藏入口：连续点击"图片风格"标题 5 次触发云上传
-  onStyleTitleTap() {
-    this._styleTapCount++
-    clearTimeout(this._styleTapTimer)
-    this._styleTapTimer = setTimeout(() => { this._styleTapCount = 0 }, 2000)
-
-    if (this._styleTapCount >= 5) {
-      this._styleTapCount = 0
-      this.uploadImages()
-    }
-  },
-
-  // 批量上传图片到云存储
-  async uploadImages() {
-    if (this.data.uploading) return
-
-    this.setData({ uploading: true })
-    wx.showLoading({ title: '上传中 0%', mask: true })
-
-    try {
-      const result = await imageUploader.uploadAllImages((current, total, word) => {
-        wx.showLoading({ title: `上传中 ${Math.round(current / total * 100)}%`, mask: true })
-      })
-
-      wx.hideLoading()
-      if (result.skipped === 'all') {
-        wx.showToast({ title: '已全部上传过', icon: 'success' })
-      } else {
-        wx.showToast({ title: `完成！成功${result.success}张`, icon: 'success' })
-      }
-    } catch (err) {
-      wx.hideLoading()
-      console.error('上传失败:', err)
-      wx.showToast({ title: '上传出错', icon: 'none' })
-    }
-
-    this.setData({ uploading: false })
   }
 })

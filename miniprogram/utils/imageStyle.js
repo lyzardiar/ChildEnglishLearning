@@ -1,8 +1,11 @@
 /**
  * 图片路径工具
- * 优先使用云存储 fileID，回退到本地路径
- * 云存储路径约定: images/words/{style}/{unitId}/{word}.png
+ * 图片存储在微信云存储中，通过 fileID 直接访问
+ * fileID 格式: cloud://{env}.images/words/{style}/{unitId}/{word}.png
  */
+
+const ENV_ID = 'cloud1-d8g5ssn6n94472f8a'
+const FILE_PREFIX = `cloud://${ENV_ID}.`
 
 // 可用风格列表
 const STYLES = [
@@ -12,10 +15,6 @@ const STYLES = [
 ]
 
 const DEFAULT_STYLE = 'flat'
-const CACHE_KEY = 'imageFileIDs'
-
-// 内存缓存，避免每次读 storage
-let _fileIDCache = null
 
 function getCurrentStyle() {
   try {
@@ -34,49 +33,15 @@ function setStyle(styleKey) {
 }
 
 /**
- * 加载 fileID 缓存到内存
- */
-function _loadCache() {
-  if (_fileIDCache) return _fileIDCache
-  try {
-    _fileIDCache = wx.getStorageSync(CACHE_KEY) || {}
-  } catch (e) {
-    _fileIDCache = {}
-  }
-  return _fileIDCache
-}
-
-/**
- * 保存 fileID 缓存
- */
-function saveFileIDCache(map) {
-  _fileIDCache = map
-  try {
-    wx.setStorageSync(CACHE_KEY, map)
-  } catch (e) {
-    // ignore
-  }
-}
-
-/**
- * 获取单词配图路径
- * 优先返回云存储 fileID，没有则回退本地路径
+ * 获取单词配图的云存储 fileID
  * @param {string} unitId - 单元ID，如 'unit-01'
  * @param {string} word - 英文单词，如 'hello'
  * @param {string} style - 可选，指定风格
- * @returns {string} 图片路径或 fileID
+ * @returns {string} 云存储 fileID
  */
 function getWordImage(unitId, word, style) {
   const s = style || getCurrentStyle()
-  const cacheKey = `${s}/${unitId}/${word}`
-  const cache = _loadCache()
-
-  if (cache[cacheKey]) {
-    return cache[cacheKey]
-  }
-
-  // 回退到本地路径
-  return `/images/words/${s}/${unitId}/${word}.png`
+  return `${FILE_PREFIX}images/words/${s}/${unitId}/${word}.png`
 }
 
 /**
@@ -84,13 +49,7 @@ function getWordImage(unitId, word, style) {
  */
 function getWelcomeImage(style) {
   const s = style || getCurrentStyle()
-  const cache = _loadCache()
-  const cacheKey = `welcome-${s}`
-
-  if (cache[cacheKey]) {
-    return cache[cacheKey]
-  }
-  return `/images/welcome-${s}.png`
+  return `${FILE_PREFIX}images/welcome-${s}.png`
 }
 
 module.exports = {
@@ -99,7 +58,5 @@ module.exports = {
   getCurrentStyle,
   setStyle,
   getWordImage,
-  getWelcomeImage,
-  saveFileIDCache,
-  _loadCache
+  getWelcomeImage
 }
