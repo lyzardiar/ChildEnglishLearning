@@ -1,12 +1,12 @@
 """
 批量生成单词配图 - DashScope API (通义万相 wanx2.1-t2i-turbo)
+2024新版沪教牛津版（深圳用）一年级上册 - 6单元36词
 用法: python generate_images.py
 支持断点续跑：已存在的图片自动跳过
 """
 import requests
 import os
 import time
-import sys
 
 # === 配置 ===
 API_BASE = "https://ws-kqo9v7po1ltm5rmp.cn-beijing.maas.aliyuncs.com/api/v1"
@@ -14,107 +14,55 @@ API_KEY = "sk-ws-H.EIMYHXL.6wvp.MEUCIQCLmbE0Fx6PGULNn1STsXlaHQGfKzmE5NNd_LNg2TrG
 MODEL = "wanx2.1-t2i-turbo"
 OUTPUT_DIR = r"G:\work\git\ChildEnglishLearning\miniprogram\images\words\flat"
 
-# === 单词数据 ===
+# === 2024新版 一年级上册 单词数据 ===
 UNITS = [
-    ("unit-01", "#E3F2FD", [
-        ("hello", "a cute cartoon child waving hand happily with a big smile"),
-        ("hi", "a cheerful cartoon kid raising one hand in a friendly greeting gesture"),
-        ("goodbye", "a cute cartoon child waving goodbye with a gentle smile"),
-        ("bye", "a small cute cartoon bear waving paw saying bye-bye"),
-        ("morning", "a bright smiling sun rising over simple hills with a rooster"),
-        ("afternoon", "a happy sun high in the sky with fluffy clouds below"),
-    ]),
-    ("unit-02", "#E3F2FD", [
-        ("name", "a cute cartoon name tag badge with a smiling face on it"),
-        ("boy", "a cute cartoon boy with short hair smiling and standing"),
-        ("girl", "a cute cartoon girl with pigtails smiling and standing"),
-        ("teacher", "a friendly cartoon female teacher with glasses smiling"),
-        ("friend", "two cute cartoon kids holding hands and smiling at each other"),
-        ("nice", "a cute cartoon thumbs up hand with sparkles around it"),
-    ]),
-    ("unit-03", "#FFF3E0", [
-        ("father", "a cute cartoon dad with short hair smiling warmly"),
-        ("mother", "a cute cartoon mom with long hair smiling gently"),
+    ("unit-01", "#FFF3E0", [
+        ("grandma", "a cute cartoon grandmother with a bun hairstyle and glasses smiling warmly"),
+        ("grandpa", "a cute cartoon grandfather with white hair and glasses smiling kindly"),
+        ("dad", "a cute cartoon father with short hair smiling warmly"),
+        ("mum", "a cute cartoon mother with long hair smiling gently"),
         ("brother", "a cute cartoon little boy with a cap grinning playfully"),
         ("sister", "a cute cartoon little girl with a hair bow smiling sweetly"),
-        ("grandpa", "a cute cartoon grandfather with white hair and glasses smiling kindly"),
-        ("grandma", "a cute cartoon grandmother with a bun hairstyle and glasses smiling warmly"),
     ]),
-    ("unit-04", "#E8F5E9", [
-        ("eye", "a pair of big cute cartoon eyes with long eyelashes"),
-        ("ear", "a cute cartoon ear with sound waves coming in"),
-        ("nose", "a cute round cartoon nose on a simple face"),
-        ("mouth", "a cute cartoon smiling mouth with rosy lips"),
-        ("hand", "a cute cartoon open hand with five fingers spread out"),
-        ("foot", "a cute cartoon bare foot with tiny toes"),
+    ("unit-02", "#E3F2FD", [
+        ("cold", "a cute cartoon child shivering in winter clothes with snowflakes around"),
+        ("hot", "a cute cartoon child fanning themselves with sweat drops under a sun"),
+        ("thirsty", "a cute cartoon child drinking water from a glass eagerly"),
+        ("hungry", "a cute cartoon child holding an empty plate looking at food"),
+        ("happy", "a cute cartoon child jumping with joy and a big smile"),
+        ("tired", "a cute cartoon child yawning and rubbing eyes sleepily"),
     ]),
-    ("unit-05", "#F3E5F5", [
-        ("one", "one cute round red apple"),
-        ("two", "two cute round oranges side by side"),
-        ("three", "three cute colorful balloons floating together"),
-        ("four", "four cute little stars in a row smiling"),
-        ("five", "five cute little fingers on one hand waving"),
-        ("six", "six cute colorful candies in a group"),
-        ("seven", "seven cute little flowers in a bunch"),
-        ("eight", "eight cute little butterflies flying together"),
-        ("nine", "nine cute little birds sitting on a branch"),
-        ("ten", "ten cute little toes on two feet wiggling"),
+    ("unit-03", "#E8F5E9", [
+        ("pencil case", "a cute cartoon pencil case with a zipper and a happy face"),
+        ("pencil", "a cute cartoon yellow pencil with a smiling face"),
+        ("eraser", "a cute cartoon pink eraser with a happy face"),
+        ("ruler", "a cute cartoon ruler with measurement marks and a smiling face"),
+        ("pen", "a cute cartoon blue pen with a happy face"),
+        ("crayon", "a cute cartoon red crayon with a smiling face"),
     ]),
-    ("unit-06", "soft rainbow gradient", [
-        ("red", "a cute round red strawberry with a happy face"),
-        ("blue", "a cute round blue whale smiling and spouting water"),
+    ("unit-04", "#F3E5F5", [
+        ("read", "a cute cartoon child sitting and reading a book happily"),
+        ("draw", "a cute cartoon child drawing with colored pencils at a desk"),
+        ("sing", "a cute cartoon child singing into a microphone with music notes"),
+        ("write", "a cute cartoon child writing with a pencil at a desk"),
+        ("dance", "a cute cartoon child dancing happily with arms up"),
+        ("swim", "a cute cartoon child swimming in water with splashes"),
+    ]),
+    ("unit-05", "#DCEDC8", [
+        ("dog", "a cute round puppy with floppy ears wagging tail happily"),
+        ("cat", "a cute round orange cat with big eyes sitting and smiling"),
+        ("fish", "a cute round orange goldfish swimming with bubbles"),
+        ("bird", "a cute small round blue bird with wings spread singing"),
+        ("hamster", "a cute round hamster with puffy cheeks holding a seed"),
+        ("tortoise", "a cute round green tortoise with a shell smiling slowly"),
+    ]),
+    ("unit-06", "#FCE4EC", [
+        ("red", "a cute round red apple with a happy face"),
+        ("white", "a cute round white snowman with a happy face"),
         ("yellow", "a cute smiling yellow sun with rays"),
         ("green", "a cute round green frog sitting and smiling"),
-        ("orange", "a cute round orange fruit with a happy face"),
-        ("purple", "a cute bunch of purple grapes with a smiling face"),
-    ]),
-    ("unit-07", "#DCEDC8", [
-        ("cat", "a cute round orange cat with big eyes sitting and smiling"),
-        ("dog", "a cute round puppy with floppy ears wagging tail happily"),
-        ("bird", "a cute small round blue bird with wings spread singing"),
-        ("fish", "a cute round orange goldfish swimming with bubbles"),
-        ("rabbit", "a cute round white rabbit with long ears holding a carrot"),
-        ("monkey", "a cute cartoon monkey with a long tail hanging and smiling"),
-    ]),
-    ("unit-08", "#FCE4EC", [
-        ("apple", "a cute round red apple with a leaf and a happy face"),
-        ("banana", "a cute yellow banana with a smiling face"),
-        ("orange", "a cute round orange citrus fruit with a happy face and a leaf"),
-        ("pear", "a cute green pear with a smiling face and a small leaf"),
-        ("peach", "a cute round pink peach with a happy face and a leaf"),
-        ("grape", "a cute bunch of purple grapes with a smiling face"),
-    ]),
-    ("unit-09", "#FFFDE7", [
-        ("rice", "a cute bowl of white steamed rice with chopsticks and a happy face"),
-        ("egg", "a cute fried egg with a smiling yolk face"),
-        ("milk", "a cute carton of milk with a happy face and a straw"),
-        ("bread", "a cute slice of bread with a smiling face and rosy cheeks"),
-        ("cake", "a cute round birthday cake with cream and a cherry on top smiling"),
-        ("water", "a cute glass of water with a happy face and water drops around"),
-    ]),
-    ("unit-10", "#E1F5FE", [
-        ("ball", "a cute colorful bouncy ball with a happy face"),
-        ("doll", "a cute round rag doll with pigtails and a dress smiling"),
-        ("car", "a cute round red toy car with big eyes on the windshield"),
-        ("kite", "a cute colorful diamond kite with a happy face flying with a tail"),
-        ("robot", "a cute small round robot with antenna waving hello"),
-        ("bear", "a cute round brown teddy bear sitting and hugging itself"),
-    ]),
-    ("unit-11", "light blue gradient", [
-        ("sun", "a cute big smiling sun with rays spreading out"),
-        ("rain", "a cute smiling cloud with raindrops falling from it"),
-        ("wind", "a cute cartoon wind swirl with leaves blowing"),
-        ("cloud", "a cute fluffy white cloud with a happy sleeping face"),
-        ("hot", "a cute cartoon sun with sweat drops and a thermometer looking hot"),
-        ("cold", "a cute cartoon snowman shivering with a scarf looking cold"),
-    ]),
-    ("unit-12", "#FFEBEE", [
-        ("new", "a cute sparkling new star with shine effects around it"),
-        ("year", "a cute cartoon calendar with a happy face and a ribbon"),
-        ("happy", "a cute cartoon child jumping with joy and confetti around"),
-        ("party", "a cute party hat with balloons and confetti"),
-        ("sing", "a cute cartoon child singing into a microphone with music notes around"),
-        ("dance", "a cute cartoon child dancing happily with arms up and music notes"),
+        ("blue", "a cute round blue whale smiling and spouting water"),
+        ("black", "a cute round black cat with bright eyes smiling"),
     ]),
 ]
 
@@ -127,7 +75,6 @@ def build_prompt(desc, bg_color):
 
 
 def submit_task(prompt):
-    """提交异步生图任务，返回 task_id"""
     url = f"{API_BASE}/services/aigc/text2image/image-synthesis"
     headers = {
         "Authorization": f"Bearer {API_KEY}",
@@ -150,7 +97,6 @@ def submit_task(prompt):
 
 
 def poll_task(task_id, max_wait=120):
-    """轮询任务状态，返回图片 URL"""
     url = f"{API_BASE}/tasks/{task_id}"
     headers = {"Authorization": f"Bearer {API_KEY}"}
     start = time.time()
@@ -177,7 +123,6 @@ def poll_task(task_id, max_wait=120):
 
 
 def download_image(img_url, save_path):
-    """下载图片到本地"""
     resp = requests.get(img_url, timeout=60)
     if resp.status_code != 200:
         raise Exception(f"下载失败 HTTP {resp.status_code}")
@@ -186,12 +131,14 @@ def download_image(img_url, save_path):
     return len(resp.content)
 
 
-def generate_one(prompt, save_path):
-    """完整流程：提交 → 轮询 → 下载"""
-    task_id = submit_task(prompt)
-    img_url = poll_task(task_id)
-    size = download_image(img_url, save_path)
-    return size
+def compress_image(path):
+    """压缩为 256x256 + 128色"""
+    from PIL import Image
+    img = Image.open(path).convert("RGBA")
+    img = img.resize((256, 256), Image.LANCZOS)
+    img = img.quantize(colors=128, method=2).convert("RGBA")
+    img.save(path, "PNG", optimize=True)
+    return os.path.getsize(path)
 
 
 def main():
@@ -201,7 +148,7 @@ def main():
     failed = 0
     failed_list = []
 
-    print(f"=== 批量生成 flat 风格单词配图 ===")
+    print(f"=== 批量生成 flat 风格单词配图（2024新版一上） ===")
     print(f"总计: {total} 张 | 模型: {MODEL}")
     print(f"输出: {OUTPUT_DIR}")
     print()
@@ -213,19 +160,25 @@ def main():
 
         for word, desc in words:
             done += 1
-            save_path = os.path.join(unit_dir, f"{word}.png")
+            # 文件名：多词用下划线连接
+            filename = word.replace(" ", "_") + ".png"
+            save_path = os.path.join(unit_dir, filename)
 
             if os.path.exists(save_path) and os.path.getsize(save_path) > 1000:
-                print(f"  [{done}/{total}] {word}.png - 已存在，跳过")
+                print(f"  [{done}/{total}] {filename} - 已存在，跳过")
                 skipped += 1
                 continue
 
             prompt = build_prompt(desc, bg_color)
-            print(f"  [{done}/{total}] {word}.png ...", end="", flush=True)
+            print(f"  [{done}/{total}] {filename} ...", end="", flush=True)
 
             try:
-                size = generate_one(prompt, save_path)
-                print(f" OK ({size // 1024}KB)")
+                task_id = submit_task(prompt)
+                img_url = poll_task(task_id)
+                size = download_image(img_url, save_path)
+                # 压缩
+                final_size = compress_image(save_path)
+                print(f" OK ({final_size // 1024}KB)")
             except Exception as e:
                 failed += 1
                 failed_list.append(f"{unit_id}/{word}")

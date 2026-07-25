@@ -42,7 +42,8 @@ function setStyle(styleKey) {
 function getWordImage(unitId, word, style) {
   // TODO: watercolor/pixel 风格图片上传云存储后去掉此回退
   const s = 'flat'
-  return `${FILE_PREFIX}images/words/${s}/${unitId}/${word}.png`
+  const filename = word.replace(/ /g, '_')
+  return `${FILE_PREFIX}images/words/${s}/${unitId}/${filename}.png`
 }
 
 /**
