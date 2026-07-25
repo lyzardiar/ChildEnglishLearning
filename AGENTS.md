@@ -9,6 +9,11 @@
 - GitHub：https://github.com/lyzardiar/ChildEnglishLearning.git
 - 本地路径：C:\Users\23314\Documents\work\wx
 
+- tts: https://console.cloud.tencent.com/tts
+- qcloud: https://console.cloud.tencent.com/cam/capi
+- image: https://bailian.console.aliyun.com/cn-beijing?tab=costing-balance#/costing-balance/free-quota
+- 
+
 ## 技术方案
 
 - 前端：微信小程序原生（WXML/WXSS/JS）
