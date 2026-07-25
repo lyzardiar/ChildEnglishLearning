@@ -27,7 +27,7 @@
 
   <!-- 图片风格切换 -->
   <view class="style-section card">
-    <text class="section-title">图片风格</text>
+    <text class="section-title" bindtap="onStyleTitleTap">图片风格</text>
     <view class="style-list">
       <view
         class="style-item {{currentStyle === item.key ? 'active' : ''}}"
