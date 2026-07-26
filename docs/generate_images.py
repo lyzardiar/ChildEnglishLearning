@@ -9,12 +9,12 @@ import os
 import time
 
 # === 配置 ===
-# API Key 从 docs/config.py 读取（该文件已加入 .gitignore）
-# 首次使用请创建 docs/config.py:
-#   DASHSCOPE_API_KEY = "你的API Key"
-import sys
-sys.path.insert(0, os.path.dirname(__file__))
-from config import DASHSCOPE_API_KEY as API_KEY
+# API Key 统一从根目录 config.js 读取（已 gitignore）
+import re
+_config_path = os.path.join(os.path.dirname(__file__), '..', 'config.js')
+with open(_config_path, 'r', encoding='utf-8') as f:
+    _m = re.search(r"DASHSCOPE_API_KEY:\s*'([^']+)'", f.read())
+API_KEY = _m.group(1) if _m else ''
 
 API_BASE = "https://ws-kqo9v7po1ltm5rmp.cn-beijing.maas.aliyuncs.com/api/v1"
 MODEL = "wanx2.1-t2i-turbo"

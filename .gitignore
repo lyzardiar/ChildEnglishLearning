@@ -12,9 +12,6 @@ project.private.config.json
 .DS_Store
 Thumbs.db
 
-# 密钥
-key/
-*.key
+# 密钥（统一配置在根目录 config.js，不提交）
+config.js
 cloudfunctions/*/config.js
-scripts/config.js
-docs/config.py

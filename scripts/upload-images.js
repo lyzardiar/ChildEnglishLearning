@@ -10,10 +10,8 @@ const fs = require('fs')
 const path = require('path')
 
 // === 配置 ===
-// 密钥从 scripts/config.js 读取（该文件已加入 .gitignore）
-// 首次使用请创建 scripts/config.js:
-//   module.exports = { SECRET_ID: '你的ID', SECRET_KEY: '你的KEY' }
-const { SECRET_ID, SECRET_KEY } = require('./config')
+// 密钥统一从根目录 config.js 读取（已 gitignore）
+const { SECRET_ID, SECRET_KEY } = require('../config')
 const ENV_ID = 'cloud1-d8g5ssn6n94472f8a'
 const IMAGES_DIR = path.join(__dirname, '..', 'miniprogram', 'images', 'words')
 
