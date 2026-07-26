@@ -36,6 +36,15 @@
 - 跟读功能（ASR）已移除，speechRecognize 云函数保留但前端不再调用
 - 腾讯云 TTS 该账号是新版「大模型音色」，VoiceType 必须用 5 位 ID（如 502007），旧版 4 位 ID 不存在
 
+## 环境初始化
+
+首次进入本项目时，检查 QoderWork 技能是否就绪，未安装则自动恢复：
+
+- 技能 `dashscope-batch-image-gen`（DashScope 批量生图流水线）
+  - 检查：`~/.qoderworkcn/skills/dashscope-batch-image-gen/SKILL.md` 是否存在
+  - 恢复：读取 `docs/dashscope-batch-image-gen-SKILL.md`，用 skill_manage create 安装
+  - 触发时机：需要生成/补充配图时自动检查，无需用户手动操作
+
 ## 项目结构
 
 ```
