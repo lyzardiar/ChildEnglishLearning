@@ -4,10 +4,8 @@ const https = require('https')
 
 cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV })
 
-// TODO: 替换为你的腾讯云 API 密钥
-// 获取方式：https://console.cloud.tencent.com/cam/capi
-const SECRET_ID = 'YOUR_SECRET_ID'
-const SECRET_KEY = 'YOUR_SECRET_KEY'
+// 密钥从 config.js 读取（该文件已加入 .gitignore，不提交到仓库）
+const { SECRET_ID, SECRET_KEY } = require('./config')
 
 exports.main = async (event, context) => {
   const { fileID } = event
