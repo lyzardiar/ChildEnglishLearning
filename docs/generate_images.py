@@ -9,8 +9,14 @@ import os
 import time
 
 # === 配置 ===
+# API Key 从 docs/config.py 读取（该文件已加入 .gitignore）
+# 首次使用请创建 docs/config.py:
+#   DASHSCOPE_API_KEY = "你的API Key"
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
+from config import DASHSCOPE_API_KEY as API_KEY
+
 API_BASE = "https://ws-kqo9v7po1ltm5rmp.cn-beijing.maas.aliyuncs.com/api/v1"
-API_KEY = "sk-ws-H.EIMYHXL.6wvp.MEUCIQCLmbE0Fx6PGULNn1STsXlaHQGfKzmE5NNd_LNg2TrG4QIgS-aDzvFubLXIQ7ranD5GSmGRV7krcC4V3-535HoCxO4"
 MODEL = "wanx2.1-t2i-turbo"
 OUTPUT_DIR = r"G:\work\git\ChildEnglishLearning\miniprogram\images\words\flat"
 
