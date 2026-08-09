@@ -1,0 +1,334 @@
+{
+  "RequestId": "a16bea26-8c63-44ae-8e2c-09ca1eeaeb63",
+  "Data": {
+    "TaskId": 16292401697,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 28.676625,
+    "Result": "Cake.A kite, a kite, kitty flies a kite the kite is in the sky, a kite, a kite. Kitty flies a kite. The kite is in the sky.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Cake.",
+        "SliceSentence": "Cake .",
+        "WrittenText": "",
+        "StartMs": 800,
+        "EndMs": 1270,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Cake"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A kite,",
+        "SliceSentence": "A kite ,",
+        "WrittenText": "",
+        "StartMs": 3220,
+        "EndMs": 7980,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 4455,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 4455,
+            "OffsetEndMs": 4760,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 4455,
+            "OffsetEndMs": 4760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a kite,",
+        "SliceSentence": "a kite ,",
+        "WrittenText": "",
+        "StartMs": 8510,
+        "EndMs": 9180,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " kitty flies a kite the kite is in the sky,",
+        "SliceSentence": "kitty flies a kite the kite is in the sky ,",
+        "WrittenText": "",
+        "StartMs": 9980,
+        "EndMs": 15180,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "kitty"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 965,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1235,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1540,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2465,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2770,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4800,
+            "OffsetEndMs": 5200,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 4800,
+            "OffsetEndMs": 5200,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a kite,",
+        "SliceSentence": "a kite ,",
+        "WrittenText": "",
+        "StartMs": 18080,
+        "EndMs": 18750,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a kite.",
+        "SliceSentence": "a kite .",
+        "WrittenText": "",
+        "StartMs": 19340,
+        "EndMs": 19980,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Kitty flies a kite.",
+        "SliceSentence": "Kitty flies a kite .",
+        "WrittenText": "",
+        "StartMs": 20750,
+        "EndMs": 22320,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "Kitty"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1025,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1280,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The kite is in the sky.",
+        "SliceSentence": "The kite is in the sky .",
+        "WrittenText": "",
+        "StartMs": 22940,
+        "EndMs": 25800,
+        "SpeechSpeed": 8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

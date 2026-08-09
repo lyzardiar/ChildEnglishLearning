@@ -1,0 +1,3752 @@
+{
+  "RequestId": "eb326b8e-9587-434c-8171-4392114cd410",
+  "Data": {
+    "TaskId": 16292582891,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 296.952,
+    "Result": "Unit eight reading signs.Students book page 83.Words and expressions.Sign.Middle.Special path.May.Lost.Worry.Follow.In the middle.Look out.No smoking.No swimming.Get lost sometime.On the way.Students book page 48.Listen and say.Excuse me, where's the underground station?It's over there.Can you see that sign? Yes. Thank you. I just came from Shanghai. The sign for the underground station there is red.I see.There are different signs in different cities. In the UK, the sign is a big red circle. You can see the word underground in the middle.Are there any special signs in your country? Yes, we have some animal signs. Sometimes the animals use the roads too. We must look out for them.That's interesting.Students book page 49.Look and learn.Look out for children.Look out for animals.No smoking.No swimming.Keep quiet.Don't walk on the grass.Students book page 50.Read a story.The path of stones.One, Jack and Jane lived by the forest. Their father often said to them, never go into the forest, you may get lost.One day, Jack said to Jane, let's go into the forest and have a look.Two.Jack and Jane went into the forest. They saw beautiful flowers and interesting insects. They were happy.After some time, they felt hungry and tired.Three.Jane looked around. She could not find her way. She said to Jack. Jack, we're lost. Don't worry, look at the stones on the ground.I drop them on the way we can follow them back home, said Jack.Four, Jack and Jane followed the stones back home. Their father was very happy to see them.Students book page 53.Learn the sounds.Apple.Teacher.Lesson.Mother.Today.About guitar.Machine.Beautiful.Elephant together.Exciting.Listen and say.One before.Two.Monday.Three, father.Four.Animal.Five magazine.Six tomorrow.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit eight reading signs.",
+        "SliceSentence": "Unit eight reading signs .",
+        "WrittenText": "",
+        "StartMs": 1380,
+        "EndMs": 4010,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "eight"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "reading"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2630,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 83.",
+        "SliceSentence": "Students book page 83 .",
+        "WrittenText": "",
+        "StartMs": 6060,
+        "EndMs": 8720,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2660,
+            "Word": "83"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Words and expressions.",
+        "SliceSentence": "Words and expressions .",
+        "WrittenText": "",
+        "StartMs": 14100,
+        "EndMs": 15980,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Words"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1880,
+            "Word": "expressions"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sign.",
+        "SliceSentence": "Sign .",
+        "WrittenText": "",
+        "StartMs": 17020,
+        "EndMs": 17580,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Sign"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Middle.",
+        "SliceSentence": "Middle .",
+        "WrittenText": "",
+        "StartMs": 18860,
+        "EndMs": 19360,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Middle"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Special path.",
+        "SliceSentence": "Special path .",
+        "WrittenText": "",
+        "StartMs": 21080,
+        "EndMs": 22930,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Special"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "path"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "May.",
+        "SliceSentence": "May .",
+        "WrittenText": "",
+        "StartMs": 24700,
+        "EndMs": 25200,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "May"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Lost.",
+        "SliceSentence": "Lost .",
+        "WrittenText": "",
+        "StartMs": 26280,
+        "EndMs": 26630,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Lost"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Worry.",
+        "SliceSentence": "Worry .",
+        "WrittenText": "",
+        "StartMs": 28360,
+        "EndMs": 28920,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Worry"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Follow.",
+        "SliceSentence": "Follow .",
+        "WrittenText": "",
+        "StartMs": 29980,
+        "EndMs": 30420,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Follow"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the middle.",
+        "SliceSentence": "In the middle .",
+        "WrittenText": "",
+        "StartMs": 32200,
+        "EndMs": 33150,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 435,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 675,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 950,
+            "Word": "middle"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look out.",
+        "SliceSentence": "Look out .",
+        "WrittenText": "",
+        "StartMs": 34160,
+        "EndMs": 35170,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "No smoking.",
+        "SliceSentence": "No smoking .",
+        "WrittenText": "",
+        "StartMs": 36880,
+        "EndMs": 37890,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "smoking"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "No swimming.",
+        "SliceSentence": "No swimming .",
+        "WrittenText": "",
+        "StartMs": 39000,
+        "EndMs": 40190,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 790,
+            "OffsetEndMs": 1190,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 790,
+            "OffsetEndMs": 1190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Get lost sometime.",
+        "SliceSentence": "Get lost sometime .",
+        "WrittenText": "",
+        "StartMs": 41780,
+        "EndMs": 43960,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "lost"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "sometime"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "On the way.",
+        "SliceSentence": "On the way .",
+        "WrittenText": "",
+        "StartMs": 46120,
+        "EndMs": 47130,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 705,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1010,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 48.",
+        "SliceSentence": "Students book page 48 .",
+        "WrittenText": "",
+        "StartMs": 49100,
+        "EndMs": 51790,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2690,
+            "Word": "48"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 57040,
+        "EndMs": 58530,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 790,
+            "OffsetEndMs": 1140,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excuse me,",
+        "SliceSentence": "Excuse me ,",
+        "WrittenText": "",
+        "StartMs": 60120,
+        "EndMs": 61610,
+        "SpeechSpeed": 6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "Excuse"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " where's the underground station?",
+        "SliceSentence": "where's the underground station ?",
+        "WrittenText": "",
+        "StartMs": 62140,
+        "EndMs": 64610,
+        "SpeechSpeed": 13,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 785,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "underground"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It's over there.",
+        "SliceSentence": "It's over there .",
+        "WrittenText": "",
+        "StartMs": 65920,
+        "EndMs": 66900,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 375,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 600,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Can you see that sign?",
+        "SliceSentence": "Can you see that sign ?",
+        "WrittenText": "",
+        "StartMs": 67720,
+        "EndMs": 68970,
+        "SpeechSpeed": 16.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 450,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 675,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 930,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1250,
+            "Word": "sign"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1250,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes.",
+        "SliceSentence": "Yes .",
+        "WrittenText": "",
+        "StartMs": 69710,
+        "EndMs": 70110,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you.",
+        "SliceSentence": "Thank you .",
+        "WrittenText": "",
+        "StartMs": 70760,
+        "EndMs": 71670,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I just came from Shanghai.",
+        "SliceSentence": "I just came from Shanghai .",
+        "WrittenText": "",
+        "StartMs": 72170,
+        "EndMs": 74370,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "just"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "came"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1535,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 2200,
+            "Word": "Shanghai"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sign for the underground station there is red.",
+        "SliceSentence": "The sign for the underground station there is red .",
+        "WrittenText": "",
+        "StartMs": 75410,
+        "EndMs": 80010,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "sign"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1205,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1660,
+            "Word": "underground"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4205,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4205,
+            "OffsetEndMs": 4600,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 4205,
+            "OffsetEndMs": 4600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I see.",
+        "SliceSentence": "I see .",
+        "WrittenText": "",
+        "StartMs": 81460,
+        "EndMs": 82140,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 375,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 680,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "There are different signs in different cities.",
+        "SliceSentence": "There are different signs in different cities .",
+        "WrittenText": "",
+        "StartMs": 83060,
+        "EndMs": 85990,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 525,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 525,
+            "OffsetEndMs": 735,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1040,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2115,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2115,
+            "OffsetEndMs": 2450,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 2530,
+            "OffsetEndMs": 2930,
+            "Word": "cities"
+          },
+          {
+            "OffsetStartMs": 2530,
+            "OffsetEndMs": 2930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the UK,",
+        "SliceSentence": "In the UK ,",
+        "WrittenText": "",
+        "StartMs": 86760,
+        "EndMs": 87610,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "UK"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the sign is a big red circle.",
+        "SliceSentence": "the sign is a big red circle .",
+        "WrittenText": "",
+        "StartMs": 88290,
+        "EndMs": 90910,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "sign"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1235,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1445,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1750,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "circle"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can see the word underground in the middle.",
+        "SliceSentence": "You can see the word underground in the middle .",
+        "WrittenText": "",
+        "StartMs": 91680,
+        "EndMs": 95290,
+        "SpeechSpeed": 13,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 785,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 995,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1270,
+            "Word": "word"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "underground"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3155,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 3610,
+            "Word": "middle"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Are there any special signs in your country?",
+        "SliceSentence": "Are there any special signs in your country ?",
+        "WrittenText": "",
+        "StartMs": 96580,
+        "EndMs": 99480,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 375,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 615,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 920,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2000,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 2110,
+            "OffsetEndMs": 2400,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2595,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 2595,
+            "OffsetEndMs": 2900,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 2595,
+            "OffsetEndMs": 2900,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 100130,
+        "EndMs": 100530,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we have some animal signs.",
+        "SliceSentence": "we have some animal signs .",
+        "WrittenText": "",
+        "StartMs": 101360,
+        "EndMs": 103500,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 970,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "animal"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sometimes the animals use the roads too.",
+        "SliceSentence": "Sometimes the animals use the roads too .",
+        "WrittenText": "",
+        "StartMs": 104300,
+        "EndMs": 107880,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sometimes"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1130,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1420,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2780,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3070,
+            "Word": "roads"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We must look out for them.",
+        "SliceSentence": "We must look out for them .",
+        "WrittenText": "",
+        "StartMs": 108500,
+        "EndMs": 110460,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "must"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1115,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1400,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1670,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1960,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "That's interesting.",
+        "SliceSentence": "That's interesting .",
+        "WrittenText": "",
+        "StartMs": 111140,
+        "EndMs": 112210,
+        "SpeechSpeed": 16.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 675,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 1070,
+            "Word": "interesting"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 49.",
+        "SliceSentence": "Students book page 49 .",
+        "WrittenText": "",
+        "StartMs": 114400,
+        "EndMs": 117060,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2660,
+            "Word": "49"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look and learn.",
+        "SliceSentence": "Look and learn .",
+        "WrittenText": "",
+        "StartMs": 122300,
+        "EndMs": 123640,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 960,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1340,
+            "Word": "learn"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look out for children.",
+        "SliceSentence": "Look out for children .",
+        "WrittenText": "",
+        "StartMs": 124660,
+        "EndMs": 126120,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 465,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 800,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1170,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1460,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look out for animals.",
+        "SliceSentence": "Look out for animals .",
+        "WrittenText": "",
+        "StartMs": 127340,
+        "EndMs": 128860,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 495,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 830,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1230,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1520,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "No smoking.",
+        "SliceSentence": "No smoking .",
+        "WrittenText": "",
+        "StartMs": 130540,
+        "EndMs": 131460,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "smoking"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "No swimming.",
+        "SliceSentence": "No swimming .",
+        "WrittenText": "",
+        "StartMs": 132600,
+        "EndMs": 133760,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Keep quiet.",
+        "SliceSentence": "Keep quiet .",
+        "WrittenText": "",
+        "StartMs": 135080,
+        "EndMs": 136000,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Keep"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "quiet"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Don't walk on the grass.",
+        "SliceSentence": "Don't walk on the grass .",
+        "WrittenText": "",
+        "StartMs": 137040,
+        "EndMs": 138860,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 600,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 890,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1290,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1515,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1820,
+            "Word": "grass"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 50.",
+        "SliceSentence": "Students book page 50 .",
+        "WrittenText": "",
+        "StartMs": 140740,
+        "EndMs": 142980,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "50"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Read a story.",
+        "SliceSentence": "Read a story .",
+        "WrittenText": "",
+        "StartMs": 147940,
+        "EndMs": 149040,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 465,
+            "Word": "Read"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 780,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The path of stones.",
+        "SliceSentence": "The path of stones .",
+        "WrittenText": "",
+        "StartMs": 150340,
+        "EndMs": 151950,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 405,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 680,
+            "Word": "path"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1245,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1245,
+            "OffsetEndMs": 1610,
+            "Word": "stones"
+          },
+          {
+            "OffsetStartMs": 1245,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One,",
+        "SliceSentence": "One ,",
+        "WrittenText": "",
+        "StartMs": 153820,
+        "EndMs": 154350,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jack and Jane lived by the forest.",
+        "SliceSentence": "Jack and Jane lived by the forest .",
+        "WrittenText": "",
+        "StartMs": 155030,
+        "EndMs": 158070,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 920,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1300,
+            "Word": "Jane"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "lived"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2570,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2765,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3040,
+            "Word": "forest"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Their father often said to them,",
+        "SliceSentence": "Their father often said to them ,",
+        "WrittenText": "",
+        "StartMs": 158990,
+        "EndMs": 161130,
+        "SpeechSpeed": 15,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Their"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1640,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1865,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2140,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " never go into the forest,",
+        "SliceSentence": "never go into the forest ,",
+        "WrittenText": "",
+        "StartMs": 161600,
+        "EndMs": 163470,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "never"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1460,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1595,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1870,
+            "Word": "forest"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1870,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you may get lost.",
+        "SliceSentence": "you may get lost .",
+        "WrittenText": "",
+        "StartMs": 164210,
+        "EndMs": 165480,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 935,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "lost"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One day,",
+        "SliceSentence": "One day ,",
+        "WrittenText": "",
+        "StartMs": 166520,
+        "EndMs": 167470,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 570,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 950,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jack said to Jane,",
+        "SliceSentence": "Jack said to Jane ,",
+        "WrittenText": "",
+        "StartMs": 167730,
+        "EndMs": 169270,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1250,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": "Jane"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's go into the forest and have a look.",
+        "SliceSentence": "let's go into the forest and have a look .",
+        "WrittenText": "",
+        "StartMs": 169980,
+        "EndMs": 172420,
+        "SpeechSpeed": 16.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 740,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 995,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1130,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1390,
+            "Word": "forest"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1835,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2030,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2180,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2440,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two.",
+        "SliceSentence": "Two .",
+        "WrittenText": "",
+        "StartMs": 174220,
+        "EndMs": 174660,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Jack and Jane went into the forest.",
+        "SliceSentence": "Jack and Jane went into the forest .",
+        "WrittenText": "",
+        "StartMs": 175640,
+        "EndMs": 178270,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 750,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": "Jane"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "went"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2235,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2630,
+            "Word": "forest"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They saw beautiful flowers and interesting insects.",
+        "SliceSentence": "They saw beautiful flowers and interesting insects .",
+        "WrittenText": "",
+        "StartMs": 179070,
+        "EndMs": 183370,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 970,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "interesting"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 4300,
+            "Word": "insects"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 4300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They were happy.",
+        "SliceSentence": "They were happy .",
+        "WrittenText": "",
+        "StartMs": 183750,
+        "EndMs": 184480,
+        "SpeechSpeed": 21.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 455,
+            "Word": "were"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "After some time,",
+        "SliceSentence": "After some time ,",
+        "WrittenText": "",
+        "StartMs": 185700,
+        "EndMs": 186950,
+        "SpeechSpeed": 12,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "After"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 900,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they felt hungry and tired.",
+        "SliceSentence": "they felt hungry and tired .",
+        "WrittenText": "",
+        "StartMs": 187210,
+        "EndMs": 189170,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "felt"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 970,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1640,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1960,
+            "Word": "tired"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Three.",
+        "SliceSentence": "Three .",
+        "WrittenText": "",
+        "StartMs": 191360,
+        "EndMs": 191920,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Jane looked around.",
+        "SliceSentence": "Jane looked around .",
+        "WrittenText": "",
+        "StartMs": 192860,
+        "EndMs": 194260,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Jane"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "looked"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She could not find her way.",
+        "SliceSentence": "She could not find her way .",
+        "WrittenText": "",
+        "StartMs": 194850,
+        "EndMs": 196780,
+        "SpeechSpeed": 14,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "could"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 935,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1265,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1595,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1930,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She said to Jack.",
+        "SliceSentence": "She said to Jack .",
+        "WrittenText": "",
+        "StartMs": 197490,
+        "EndMs": 198730,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 950,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1240,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jack,",
+        "SliceSentence": "Jack ,",
+        "WrittenText": "",
+        "StartMs": 199020,
+        "EndMs": 199420,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we're lost.",
+        "SliceSentence": "we're lost .",
+        "WrittenText": "",
+        "StartMs": 200070,
+        "EndMs": 200860,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "we're"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 790,
+            "Word": "lost"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 201600,
+        "EndMs": 202390,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look at the stones on the ground.",
+        "SliceSentence": "look at the stones on the ground .",
+        "WrittenText": "",
+        "StartMs": 203220,
+        "EndMs": 204940,
+        "SpeechSpeed": 19.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "stones"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1280,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1445,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1720,
+            "Word": "ground"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I drop them on the way we can follow them back home,",
+        "SliceSentence": "I drop them on the way we can follow them back home ,",
+        "WrittenText": "",
+        "StartMs": 205780,
+        "EndMs": 209340,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 210,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 210,
+            "OffsetEndMs": 465,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 675,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 840,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1005,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1280,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2145,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 2145,
+            "OffsetEndMs": 2340,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2660,
+            "Word": "follow"
+          },
+          {
+            "OffsetStartMs": 2680,
+            "OffsetEndMs": 2985,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 2985,
+            "OffsetEndMs": 3225,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 3225,
+            "OffsetEndMs": 3560,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3225,
+            "OffsetEndMs": 3560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said Jack.",
+        "SliceSentence": "said Jack .",
+        "WrittenText": "",
+        "StartMs": 209930,
+        "EndMs": 210780,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Four,",
+        "SliceSentence": "Four ,",
+        "WrittenText": "",
+        "StartMs": 212500,
+        "EndMs": 213000,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Four"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jack and Jane followed the stones back home.",
+        "SliceSentence": "Jack and Jane followed the stones back home .",
+        "WrittenText": "",
+        "StartMs": 213800,
+        "EndMs": 217530,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "Jane"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "followed"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2480,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2800,
+            "Word": "stones"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3365,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3730,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Their father was very happy to see them.",
+        "SliceSentence": "Their father was very happy to see them .",
+        "WrittenText": "",
+        "StartMs": 218120,
+        "EndMs": 221340,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Their"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2630,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2870,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2870,
+            "OffsetEndMs": 3220,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 2870,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 53.",
+        "SliceSentence": "Students book page 53 .",
+        "WrittenText": "",
+        "StartMs": 223000,
+        "EndMs": 225840,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2840,
+            "Word": "53"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Learn the sounds.",
+        "SliceSentence": "Learn the sounds .",
+        "WrittenText": "",
+        "StartMs": 230940,
+        "EndMs": 232160,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Learn"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 930,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1220,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Apple.",
+        "SliceSentence": "Apple .",
+        "WrittenText": "",
+        "StartMs": 234000,
+        "EndMs": 234470,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Teacher.",
+        "SliceSentence": "Teacher .",
+        "WrittenText": "",
+        "StartMs": 235640,
+        "EndMs": 236110,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Teacher"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Lesson.",
+        "SliceSentence": "Lesson .",
+        "WrittenText": "",
+        "StartMs": 237340,
+        "EndMs": 237840,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Lesson"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mother.",
+        "SliceSentence": "Mother .",
+        "WrittenText": "",
+        "StartMs": 238960,
+        "EndMs": 239460,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Mother"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Today.",
+        "SliceSentence": "Today .",
+        "WrittenText": "",
+        "StartMs": 241960,
+        "EndMs": 242670,
+        "SpeechSpeed": 7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Today"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "About guitar.",
+        "SliceSentence": "About guitar .",
+        "WrittenText": "",
+        "StartMs": 243760,
+        "EndMs": 245670,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "About"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "guitar"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Machine.",
+        "SliceSentence": "Machine .",
+        "WrittenText": "",
+        "StartMs": 246980,
+        "EndMs": 247330,
+        "SpeechSpeed": 20,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Machine"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Beautiful.",
+        "SliceSentence": "Beautiful .",
+        "WrittenText": "",
+        "StartMs": 249640,
+        "EndMs": 250140,
+        "SpeechSpeed": 18,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Beautiful"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Elephant together.",
+        "SliceSentence": "Elephant together .",
+        "WrittenText": "",
+        "StartMs": 251360,
+        "EndMs": 253660,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Elephant"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Exciting.",
+        "SliceSentence": "Exciting .",
+        "WrittenText": "",
+        "StartMs": 254780,
+        "EndMs": 255490,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Exciting"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 257780,
+        "EndMs": 259270,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1110,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1490,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One before.",
+        "SliceSentence": "One before .",
+        "WrittenText": "",
+        "StartMs": 260960,
+        "EndMs": 262840,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "before"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two.",
+        "SliceSentence": "Two .",
+        "WrittenText": "",
+        "StartMs": 265180,
+        "EndMs": 265620,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Monday.",
+        "SliceSentence": "Monday .",
+        "WrittenText": "",
+        "StartMs": 266660,
+        "EndMs": 266950,
+        "SpeechSpeed": 20.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Monday"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Three,",
+        "SliceSentence": "Three ,",
+        "WrittenText": "",
+        "StartMs": 269660,
+        "EndMs": 270190,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " father.",
+        "SliceSentence": "father .",
+        "WrittenText": "",
+        "StartMs": 270900,
+        "EndMs": 271300,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Four.",
+        "SliceSentence": "Four .",
+        "WrittenText": "",
+        "StartMs": 273800,
+        "EndMs": 274240,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Four"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Animal.",
+        "SliceSentence": "Animal .",
+        "WrittenText": "",
+        "StartMs": 275340,
+        "EndMs": 275660,
+        "SpeechSpeed": 18.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Animal"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Five magazine.",
+        "SliceSentence": "Five magazine .",
+        "WrittenText": "",
+        "StartMs": 278040,
+        "EndMs": 279860,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "magazine"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Six tomorrow.",
+        "SliceSentence": "Six tomorrow .",
+        "WrittenText": "",
+        "StartMs": 282400,
+        "EndMs": 284310,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Six"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "tomorrow"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

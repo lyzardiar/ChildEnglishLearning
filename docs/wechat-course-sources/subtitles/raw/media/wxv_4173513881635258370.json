@@ -1,0 +1,366 @@
+{
+  "RequestId": "7cce081a-590d-4201-8ca6-144c8ff885eb",
+  "Data": {
+    "TaskId": 16292441674,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 35.294313,
+    "Result": "The blind men and the elephant four blind men sit under a tree, come and feel my elephant. The elephant is hard. No, it's soft, it's thick. No, it's thick. It's.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The blind men and the elephant four blind men sit under a tree,",
+        "SliceSentence": "The blind men and the elephant four blind men sit under a tree ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 9830,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 960,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1280,
+            "Word": "blind"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1760,
+            "Word": "men"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2235,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2475,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2475,
+            "OffsetEndMs": 2750,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 5680,
+            "OffsetEndMs": 6080,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 6490,
+            "OffsetEndMs": 6890,
+            "Word": "blind"
+          },
+          {
+            "OffsetStartMs": 7240,
+            "OffsetEndMs": 7640,
+            "Word": "men"
+          },
+          {
+            "OffsetStartMs": 8050,
+            "OffsetEndMs": 8450,
+            "Word": "sit"
+          },
+          {
+            "OffsetStartMs": 8590,
+            "OffsetEndMs": 8990,
+            "Word": "under"
+          },
+          {
+            "OffsetStartMs": 9130,
+            "OffsetEndMs": 9480,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 9480,
+            "OffsetEndMs": 9830,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 9480,
+            "OffsetEndMs": 9830,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " come and feel my elephant.",
+        "SliceSentence": "come and feel my elephant .",
+        "WrittenText": "",
+        "StartMs": 15760,
+        "EndMs": 17780,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "feel"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1655,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The elephant is hard.",
+        "SliceSentence": "The elephant is hard .",
+        "WrittenText": "",
+        "StartMs": 21310,
+        "EndMs": 22760,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 520,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1115,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 24010,
+        "EndMs": 24410,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's soft,",
+        "SliceSentence": "it's soft ,",
+        "WrittenText": "",
+        "StartMs": 24610,
+        "EndMs": 25460,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": "soft"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's thick.",
+        "SliceSentence": "it's thick .",
+        "WrittenText": "",
+        "StartMs": 26920,
+        "EndMs": 27830,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": "thick"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 29080,
+        "EndMs": 29480,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's thick.",
+        "SliceSentence": "it's thick .",
+        "WrittenText": "",
+        "StartMs": 29740,
+        "EndMs": 30590,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": "thick"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's.",
+        "SliceSentence": "It's .",
+        "WrittenText": "",
+        "StartMs": 32200,
+        "EndMs": 32870,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

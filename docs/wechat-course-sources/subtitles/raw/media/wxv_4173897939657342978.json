@@ -1,0 +1,909 @@
+{
+  "RequestId": "039230b1-2310-492b-9009-8d0f6ba4543b",
+  "Data": {
+    "TaskId": 16292505274,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 80.94475,
+    "Result": "The farmer and the dress farmer Thomas has a cow.It gives milk every day. His wife, Rosa, sells the milk. One day Thomas asks Rosa to go to a dance. No, says Rosa, I don't have a dress. Thomas has an idea. He sells the cow and buys a beautiful dress for Rosa. Look at the new dress Rosa. We can go to the dance now. He says Rosa is angry. Our cow gives us milk every day we sell the milk and buy food. We can't eat the dress. We need our cow.Thomas buys his cow back.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The farmer and the dress farmer Thomas has a cow.",
+        "SliceSentence": "The farmer and the dress farmer Thomas has a cow .",
+        "WrittenText": "",
+        "StartMs": 560,
+        "EndMs": 7960,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 420,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 710,
+            "Word": "farmer"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2010,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2330,
+            "Word": "dress"
+          },
+          {
+            "OffsetStartMs": 4990,
+            "OffsetEndMs": 5390,
+            "Word": "farmer"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": "Thomas"
+          },
+          {
+            "OffsetStartMs": 6400,
+            "OffsetEndMs": 6800,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 6820,
+            "OffsetEndMs": 7110,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7400,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It gives milk every day.",
+        "SliceSentence": "It gives milk every day .",
+        "WrittenText": "",
+        "StartMs": 9320,
+        "EndMs": 11620,
+        "SpeechSpeed": 10,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 555,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 870,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " His wife,",
+        "SliceSentence": "His wife ,",
+        "WrittenText": "",
+        "StartMs": 12660,
+        "EndMs": 13355,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "His"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "wife"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Rosa,",
+        "SliceSentence": "Rosa ,",
+        "WrittenText": "",
+        "StartMs": 13355,
+        "EndMs": 14110,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "Rosa"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sells the milk.",
+        "SliceSentence": "sells the milk .",
+        "WrittenText": "",
+        "StartMs": 14310,
+        "EndMs": 15370,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "sells"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 800,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1060,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day Thomas asks Rosa to go to a dance.",
+        "SliceSentence": "One day Thomas asks Rosa to go to a dance .",
+        "WrittenText": "",
+        "StartMs": 19080,
+        "EndMs": 23230,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "Thomas"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "asks"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2950,
+            "Word": "Rosa"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3245,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3470,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3470,
+            "OffsetEndMs": 3710,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3710,
+            "OffsetEndMs": 3875,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3875,
+            "OffsetEndMs": 4150,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 3875,
+            "OffsetEndMs": 4150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 24420,
+        "EndMs": 24820,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Rosa,",
+        "SliceSentence": "says Rosa ,",
+        "WrittenText": "",
+        "StartMs": 25380,
+        "EndMs": 26410,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1030,
+            "Word": "Rosa"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't have a dress.",
+        "SliceSentence": "I don't have a dress .",
+        "WrittenText": "",
+        "StartMs": 26820,
+        "EndMs": 28180,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 710,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 860,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1055,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1360,
+            "Word": "dress"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thomas has an idea.",
+        "SliceSentence": "Thomas has an idea .",
+        "WrittenText": "",
+        "StartMs": 29190,
+        "EndMs": 30790,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thomas"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1115,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1325,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1600,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He sells the cow and buys a beautiful dress for Rosa.",
+        "SliceSentence": "He sells the cow and buys a beautiful dress for Rosa .",
+        "WrittenText": "",
+        "StartMs": 32760,
+        "EndMs": 37690,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 905,
+            "Word": "sells"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1070,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1330,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2090,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2570,
+            "Word": "buys"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2860,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "dress"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4310,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 4310,
+            "OffsetEndMs": 4930,
+            "Word": "Rosa"
+          },
+          {
+            "OffsetStartMs": 4310,
+            "OffsetEndMs": 4930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the new dress Rosa.",
+        "SliceSentence": "Look at the new dress Rosa .",
+        "WrittenText": "",
+        "StartMs": 39810,
+        "EndMs": 42070,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 860,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1145,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "dress"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 2260,
+            "Word": "Rosa"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can go to the dance now.",
+        "SliceSentence": "We can go to the dance now .",
+        "WrittenText": "",
+        "StartMs": 42930,
+        "EndMs": 45010,
+        "SpeechSpeed": 13,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 860,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1100,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He says Rosa is angry.",
+        "SliceSentence": "He says Rosa is angry .",
+        "WrittenText": "",
+        "StartMs": 45540,
+        "EndMs": 48460,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 2315,
+            "Word": "Rosa"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2600,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2920,
+            "Word": "angry"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Our cow gives us milk every day we sell the milk and buy food.",
+        "SliceSentence": "Our cow gives us milk every day we sell the milk and buy food .",
+        "WrittenText": "",
+        "StartMs": 49950,
+        "EndMs": 57850,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2150,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2530,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 5100,
+            "OffsetEndMs": 5435,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 5435,
+            "OffsetEndMs": 5770,
+            "Word": "sell"
+          },
+          {
+            "OffsetStartMs": 5880,
+            "OffsetEndMs": 6155,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6155,
+            "OffsetEndMs": 6430,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7190,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 7190,
+            "OffsetEndMs": 7520,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 7520,
+            "OffsetEndMs": 7900,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 7520,
+            "OffsetEndMs": 7900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can't eat the dress.",
+        "SliceSentence": "We can't eat the dress .",
+        "WrittenText": "",
+        "StartMs": 59160,
+        "EndMs": 61060,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 905,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1210,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1580,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1900,
+            "Word": "dress"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We need our cow.",
+        "SliceSentence": "We need our cow .",
+        "WrittenText": "",
+        "StartMs": 62070,
+        "EndMs": 63730,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1265,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1660,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Thomas buys his cow back.",
+        "SliceSentence": "Thomas buys his cow back .",
+        "WrittenText": "",
+        "StartMs": 69600,
+        "EndMs": 73100,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "Thomas"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2235,
+            "Word": "buys"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2430,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2750,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 3100,
+            "OffsetEndMs": 3500,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 3100,
+            "OffsetEndMs": 3500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5870,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

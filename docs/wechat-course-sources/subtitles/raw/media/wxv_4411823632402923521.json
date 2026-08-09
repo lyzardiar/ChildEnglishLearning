@@ -1,0 +1,546 @@
+{
+  "RequestId": "0a50e186-3137-4dcb-afdc-3987f5d45294",
+  "Data": {
+    "TaskId": 16292409753,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 39.962938,
+    "Result": "How do I grow one? Look, I'm an egg. I'm small. Two, now I'm a Caterpillar. I'm green. I have many legs. Three, now I'm in a cocoon. It's warm inside four, now I'm a butterfly. My wings are big and beautiful. I can fly.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "How do I grow one?",
+        "SliceSentence": "How do I grow one ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3860,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1440,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1820,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2420,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 4390,
+        "EndMs": 4790,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm an egg.",
+        "SliceSentence": "I'm an egg .",
+        "WrittenText": "",
+        "StartMs": 5380,
+        "EndMs": 6830,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 970,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm small.",
+        "SliceSentence": "I'm small .",
+        "WrittenText": "",
+        "StartMs": 7660,
+        "EndMs": 8690,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Two,",
+        "SliceSentence": "Two ,",
+        "WrittenText": "",
+        "StartMs": 10060,
+        "EndMs": 10460,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " now I'm a Caterpillar.",
+        "SliceSentence": "now I'm a Caterpillar .",
+        "WrittenText": "",
+        "StartMs": 11200,
+        "EndMs": 13970,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1235,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1475,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 2770,
+            "Word": "Caterpillar"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm green.",
+        "SliceSentence": "I'm green .",
+        "WrittenText": "",
+        "StartMs": 14410,
+        "EndMs": 15410,
+        "SpeechSpeed": 10,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have many legs.",
+        "SliceSentence": "I have many legs .",
+        "WrittenText": "",
+        "StartMs": 16390,
+        "EndMs": 18050,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Three,",
+        "SliceSentence": "Three ,",
+        "WrittenText": "",
+        "StartMs": 19300,
+        "EndMs": 19700,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " now I'm in a cocoon.",
+        "SliceSentence": "now I'm in a cocoon .",
+        "WrittenText": "",
+        "StartMs": 20530,
+        "EndMs": 23180,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1355,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1610,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1955,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2650,
+            "Word": "cocoon"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's warm inside four,",
+        "SliceSentence": "It's warm inside four ,",
+        "WrittenText": "",
+        "StartMs": 23980,
+        "EndMs": 27530,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 910,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "inside"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " now I'm a butterfly.",
+        "SliceSentence": "now I'm a butterfly .",
+        "WrittenText": "",
+        "StartMs": 28600,
+        "EndMs": 31430,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1460,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1720,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2830,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My wings are big and beautiful.",
+        "SliceSentence": "My wings are big and beautiful .",
+        "WrittenText": "",
+        "StartMs": 32230,
+        "EndMs": 35600,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "wings"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can fly.",
+        "SliceSentence": "I can fly .",
+        "WrittenText": "",
+        "StartMs": 36850,
+        "EndMs": 38420,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

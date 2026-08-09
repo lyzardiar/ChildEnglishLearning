@@ -1,0 +1,375 @@
+{
+  "RequestId": "87f9c5e5-5b43-4524-8e7d-4d9215c19e12",
+  "Data": {
+    "TaskId": 16292437547,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 43.746375,
+    "Result": "Hours of sleep. This is a BAT BAT's sleep for about 20 hours a day. This is a squirrel. Squirrels sleep for about 15 hours a day. We sleep about 10 hours a day. This is a giraffe giraffe's sleep for about two hours a day.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Hours of sleep.",
+        "SliceSentence": "Hours of sleep .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2420,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "Hours"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2000,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2420,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a BAT BAT's sleep for about 20 hours a day.",
+        "SliceSentence": "This is a BAT BAT's sleep for about 20 hours a day .",
+        "WrittenText": "",
+        "StartMs": 5620,
+        "EndMs": 14300,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1670,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2050,
+            "Word": "BAT"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 4060,
+            "Word": "BAT's"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4720,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5410,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 5550,
+            "OffsetEndMs": 5950,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 6360,
+            "OffsetEndMs": 6760,
+            "Word": "20"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7510,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 7950,
+            "OffsetEndMs": 8315,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 8315,
+            "OffsetEndMs": 8680,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 8315,
+            "OffsetEndMs": 8680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a squirrel.",
+        "SliceSentence": "This is a squirrel .",
+        "WrittenText": "",
+        "StartMs": 15790,
+        "EndMs": 18380,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2590,
+            "Word": "squirrel"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Squirrels sleep for about 15 hours a day.",
+        "SliceSentence": "Squirrels sleep for about 15 hours a day .",
+        "WrittenText": "",
+        "StartMs": 19480,
+        "EndMs": 25100,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Squirrels"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "15"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 4980,
+            "OffsetEndMs": 5300,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5300,
+            "OffsetEndMs": 5620,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 5300,
+            "OffsetEndMs": 5620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We sleep about 10 hours a day.",
+        "SliceSentence": "We sleep about 10 hours a day .",
+        "WrittenText": "",
+        "StartMs": 26560,
+        "EndMs": 31370,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3700,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4475,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4475,
+            "OffsetEndMs": 4810,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 4475,
+            "OffsetEndMs": 4810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a giraffe giraffe's sleep for about two hours a day.",
+        "SliceSentence": "This is a giraffe giraffe's sleep for about two hours a day .",
+        "WrittenText": "",
+        "StartMs": 33130,
+        "EndMs": 42200,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1670,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2680,
+            "Word": "giraffe"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 4780,
+            "Word": "giraffe's"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5440,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6130,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 6330,
+            "OffsetEndMs": 6730,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 7020,
+            "OffsetEndMs": 7420,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 7590,
+            "OffsetEndMs": 7990,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 8430,
+            "OffsetEndMs": 8750,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 8750,
+            "OffsetEndMs": 9070,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 8750,
+            "OffsetEndMs": 9070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

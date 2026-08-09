@@ -1,0 +1,401 @@
+{
+  "RequestId": "bcf02334-b67a-4f38-8902-b7759f7f3837",
+  "Data": {
+    "TaskId": 16292404032,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.464563,
+    "Result": "P.A pig on the farm. A panda in the zoo. The pig is fat. The panda is fat too. As on the farm, a panda in the zoo. The pig is fat. The panda is fat too.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 800,
+        "EndMs": 1270,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A pig on the farm.",
+        "SliceSentence": "A pig on the farm .",
+        "WrittenText": "",
+        "StartMs": 2920,
+        "EndMs": 9210,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 4510,
+            "OffsetEndMs": 4830,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5150,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 5320,
+            "OffsetEndMs": 5700,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 5700,
+            "OffsetEndMs": 5985,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5985,
+            "OffsetEndMs": 6290,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 5985,
+            "OffsetEndMs": 6290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A panda in the zoo.",
+        "SliceSentence": "A panda in the zoo .",
+        "WrittenText": "",
+        "StartMs": 9800,
+        "EndMs": 11640,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1205,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The pig is fat.",
+        "SliceSentence": "The pig is fat .",
+        "WrittenText": "",
+        "StartMs": 12230,
+        "EndMs": 13980,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "fat"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The panda is fat too.",
+        "SliceSentence": "The panda is fat too .",
+        "WrittenText": "",
+        "StartMs": 14540,
+        "EndMs": 16440,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1160,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1520,
+            "Word": "fat"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " As on the farm,",
+        "SliceSentence": "As on the farm ,",
+        "WrittenText": "",
+        "StartMs": 19310,
+        "EndMs": 21120,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 920,
+            "Word": "As"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1235,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a panda in the zoo.",
+        "SliceSentence": "a panda in the zoo .",
+        "WrittenText": "",
+        "StartMs": 21680,
+        "EndMs": 23550,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1535,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1870,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The pig is fat.",
+        "SliceSentence": "The pig is fat .",
+        "WrittenText": "",
+        "StartMs": 24110,
+        "EndMs": 25860,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "fat"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The panda is fat too.",
+        "SliceSentence": "The panda is fat too .",
+        "WrittenText": "",
+        "StartMs": 26480,
+        "EndMs": 28320,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1160,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1475,
+            "Word": "fat"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1840,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

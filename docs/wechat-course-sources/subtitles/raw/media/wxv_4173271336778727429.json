@@ -1,0 +1,647 @@
+{
+  "RequestId": "f014868a-6a25-4361-9f87-bcd4283a1086",
+  "Data": {
+    "TaskId": 16292418765,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 97.314813,
+    "Result": "On the farm.Hello aie hi kids. Welcome to my farm. How are you? I'm hungry an Apple for you judy. I'm thirsty, some orange juice for you and I'm hot a fan for you, John.I.Run, run. Oh my trousers. Oh no. Look out robot. Thank you, Mark. You're welcome.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "On the farm.",
+        "SliceSentence": "On the farm .",
+        "WrittenText": "",
+        "StartMs": 1060,
+        "EndMs": 2070,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 705,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1010,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hello aie hi kids.",
+        "SliceSentence": "Hello aie hi kids .",
+        "WrittenText": "",
+        "StartMs": 4000,
+        "EndMs": 8010,
+        "SpeechSpeed": 4.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1880,
+            "Word": "aie"
+          },
+          {
+            "OffsetStartMs": 3040,
+            "OffsetEndMs": 3440,
+            "Word": "hi"
+          },
+          {
+            "OffsetStartMs": 3610,
+            "OffsetEndMs": 4010,
+            "Word": "kids"
+          },
+          {
+            "OffsetStartMs": 3610,
+            "OffsetEndMs": 4010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Welcome to my farm.",
+        "SliceSentence": "Welcome to my farm .",
+        "WrittenText": "",
+        "StartMs": 8810,
+        "EndMs": 10740,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Welcome"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1130,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1480,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How are you?",
+        "SliceSentence": "How are you ?",
+        "WrittenText": "",
+        "StartMs": 13340,
+        "EndMs": 14730,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm hungry an Apple for you judy.",
+        "SliceSentence": "I'm hungry an Apple for you judy .",
+        "WrittenText": "",
+        "StartMs": 18860,
+        "EndMs": 31200,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 910,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 9270,
+            "OffsetEndMs": 9670,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 9840,
+            "OffsetEndMs": 10240,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 10560,
+            "OffsetEndMs": 10955,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 10955,
+            "OffsetEndMs": 11350,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 11670,
+            "OffsetEndMs": 12340,
+            "Word": "judy"
+          },
+          {
+            "OffsetStartMs": 11670,
+            "OffsetEndMs": 12340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm thirsty,",
+        "SliceSentence": "I'm thirsty ,",
+        "WrittenText": "",
+        "StartMs": 35930,
+        "EndMs": 37410,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1480,
+            "Word": "thirsty"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1480,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " some orange juice for you and I'm hot a fan for you,",
+        "SliceSentence": "some orange juice for you and I'm hot a fan for you ,",
+        "WrittenText": "",
+        "StartMs": 46910,
+        "EndMs": 58050,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "orange"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2300,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2650,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 7410,
+            "OffsetEndMs": 7970,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 7970,
+            "OffsetEndMs": 8230,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 9330,
+            "OffsetEndMs": 9730,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 9750,
+            "OffsetEndMs": 10150,
+            "Word": "fan"
+          },
+          {
+            "OffsetStartMs": 10440,
+            "OffsetEndMs": 10790,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 10790,
+            "OffsetEndMs": 11140,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 10790,
+            "OffsetEndMs": 11140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 9500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " John.",
+        "SliceSentence": "John .",
+        "WrittenText": "",
+        "StartMs": 58280,
+        "EndMs": 58680,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "John"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I.",
+        "SliceSentence": "I .",
+        "WrittenText": "",
+        "StartMs": 64480,
+        "EndMs": 64770,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Run,",
+        "SliceSentence": "Run ,",
+        "WrittenText": "",
+        "StartMs": 66020,
+        "EndMs": 68770,
+        "SpeechSpeed": 1.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "Run"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " run.",
+        "SliceSentence": "run .",
+        "WrittenText": "",
+        "StartMs": 69090,
+        "EndMs": 69490,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh my trousers.",
+        "SliceSentence": "Oh my trousers .",
+        "WrittenText": "",
+        "StartMs": 70110,
+        "EndMs": 72040,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1145,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1930,
+            "Word": "trousers"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no.",
+        "SliceSentence": "Oh no .",
+        "WrittenText": "",
+        "StartMs": 77910,
+        "EndMs": 78790,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look out robot.",
+        "SliceSentence": "Look out robot .",
+        "WrittenText": "",
+        "StartMs": 80520,
+        "EndMs": 82450,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "robot"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you,",
+        "SliceSentence": "Thank you ,",
+        "WrittenText": "",
+        "StartMs": 90660,
+        "EndMs": 91570,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mark.",
+        "SliceSentence": "Mark .",
+        "WrittenText": "",
+        "StartMs": 91620,
+        "EndMs": 92020,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mark"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're welcome.",
+        "SliceSentence": "You're welcome .",
+        "WrittenText": "",
+        "StartMs": 93300,
+        "EndMs": 94120,
+        "SpeechSpeed": 18.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0ODQy",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:07,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 7000
+      },
+      "text": " unit 6 tadpole tadpole",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.816353,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,810",
+            "to": "00:00:01,780"
+          },
+          "offsets": {
+            "from": 810,
+            "to": 1780
+          },
+          "id": 4326,
+          "p": 0.328642,
+          "t_dtw": -1
+        },
+        {
+          "text": " 6",
+          "timestamps": {
+            "from": "00:00:01,780",
+            "to": "00:00:01,990"
+          },
+          "offsets": {
+            "from": 1780,
+            "to": 1990
+          },
+          "id": 718,
+          "p": 0.328122,
+          "t_dtw": -1
+        },
+        {
+          "text": " tad",
+          "timestamps": {
+            "from": "00:00:03,370",
+            "to": "00:00:03,670"
+          },
+          "offsets": {
+            "from": 3370,
+            "to": 3670
+          },
+          "id": 36264,
+          "p": 0.585656,
+          "t_dtw": -1
+        },
+        {
+          "text": "pole",
+          "timestamps": {
+            "from": "00:00:03,770",
+            "to": "00:00:04,090"
+          },
+          "offsets": {
+            "from": 3770,
+            "to": 4090
+          },
+          "id": 36869,
+          "p": 0.991824,
+          "t_dtw": -1
+        },
+        {
+          "text": " tad",
+          "timestamps": {
+            "from": "00:00:04,560",
+            "to": "00:00:05,420"
+          },
+          "offsets": {
+            "from": 4560,
+            "to": 5420
+          },
+          "id": 36264,
+          "p": 0.540741,
+          "t_dtw": -1
+        },
+        {
+          "text": "pole",
+          "timestamps": {
+            "from": "00:00:07,000",
+            "to": "00:00:07,000"
+          },
+          "offsets": {
+            "from": 7000,
+            "to": 7000
+          },
+          "id": 36869,
+          "p": 0.997283,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_350]",
+          "timestamps": {
+            "from": "00:00:07,000",
+            "to": "00:00:07,000"
+          },
+          "offsets": {
+            "from": 7000,
+            "to": 7000
+          },
+          "id": 50713,
+          "p": 0.0352893,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,000",
+        "to": "00:00:10,000"
+      },
+      "offsets": {
+        "from": 7000,
+        "to": 10000
+      },
+      "text": " frog frog",
+      "tokens": [
+        {
+          "text": " frog",
+          "timestamps": {
+            "from": "00:00:07,810",
+            "to": "00:00:08,500"
+          },
+          "offsets": {
+            "from": 7810,
+            "to": 8500
+          },
+          "id": 21264,
+          "p": 0.998384,
+          "t_dtw": -1
+        },
+        {
+          "text": " frog",
+          "timestamps": {
+            "from": "00:00:08,500",
+            "to": "00:00:08,950"
+          },
+          "offsets": {
+            "from": 8500,
+            "to": 8950
+          },
+          "id": 21264,
+          "p": 0.995763,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_500]",
+          "timestamps": {
+            "from": "00:00:10,000",
+            "to": "00:00:10,000"
+          },
+          "offsets": {
+            "from": 10000,
+            "to": 10000
+          },
+          "id": 50863,
+          "p": 0.209358,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,000",
+        "to": "00:00:14,000"
+      },
+      "offsets": {
+        "from": 10000,
+        "to": 14000
+      },
+      "text": " butterfly butterfly",
+      "tokens": [
+        {
+          "text": " butterfly",
+          "timestamps": {
+            "from": "00:00:10,810",
+            "to": "00:00:11,900"
+          },
+          "offsets": {
+            "from": 10810,
+            "to": 11900
+          },
+          "id": 35113,
+          "p": 0.997862,
+          "t_dtw": -1
+        },
+        {
+          "text": " butterfly",
+          "timestamps": {
+            "from": "00:00:13,370",
+            "to": "00:00:14,000"
+          },
+          "offsets": {
+            "from": 13370,
+            "to": 14000
+          },
+          "id": 35113,
+          "p": 0.998746,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_700]",
+          "timestamps": {
+            "from": "00:00:14,000",
+            "to": "00:00:14,000"
+          },
+          "offsets": {
+            "from": 14000,
+            "to": 14000
+          },
+          "id": 51063,
+          "p": 0.894568,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,000",
+        "to": "00:00:18,000"
+      },
+      "offsets": {
+        "from": 14000,
+        "to": 18000
+      },
+      "text": " goldfish goldfish",
+      "tokens": [
+        {
+          "text": " gold",
+          "timestamps": {
+            "from": "00:00:14,810",
+            "to": "00:00:15,000"
+          },
+          "offsets": {
+            "from": 14810,
+            "to": 15000
+          },
+          "id": 3869,
+          "p": 0.995611,
+          "t_dtw": -1
+        },
+        {
+          "text": "fish",
+          "timestamps": {
+            "from": "00:00:15,000",
+            "to": "00:00:15,860"
+          },
+          "offsets": {
+            "from": 15000,
+            "to": 15860
+          },
+          "id": 11084,
+          "p": 0.997147,
+          "t_dtw": -1
+        },
+        {
+          "text": " gold",
+          "timestamps": {
+            "from": "00:00:15,860",
+            "to": "00:00:16,000"
+          },
+          "offsets": {
+            "from": 15860,
+            "to": 16000
+          },
+          "id": 3869,
+          "p": 0.997997,
+          "t_dtw": -1
+        },
+        {
+          "text": "fish",
+          "timestamps": {
+            "from": "00:00:17,370",
+            "to": "00:00:18,000"
+          },
+          "offsets": {
+            "from": 17370,
+            "to": 18000
+          },
+          "id": 11084,
+          "p": 0.992833,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_900]",
+          "timestamps": {
+            "from": "00:00:18,000",
+            "to": "00:00:18,000"
+          },
+          "offsets": {
+            "from": 18000,
+            "to": 18000
+          },
+          "id": 51263,
+          "p": 0.923607,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,000",
+        "to": "00:00:21,000"
+      },
+      "offsets": {
+        "from": 18000,
+        "to": 21000
+      },
+      "text": " duck duck",
+      "tokens": [
+        {
+          "text": " duck",
+          "timestamps": {
+            "from": "00:00:18,810",
+            "to": "00:00:19,500"
+          },
+          "offsets": {
+            "from": 18810,
+            "to": 19500
+          },
+          "id": 22045,
+          "p": 0.994681,
+          "t_dtw": -1
+        },
+        {
+          "text": " duck",
+          "timestamps": {
+            "from": "00:00:19,500",
+            "to": "00:00:19,950"
+          },
+          "offsets": {
+            "from": 19500,
+            "to": 19950
+          },
+          "id": 22045,
+          "p": 0.997909,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1050]",
+          "timestamps": {
+            "from": "00:00:21,000",
+            "to": "00:00:21,000"
+          },
+          "offsets": {
+            "from": 21000,
+            "to": 21000
+          },
+          "id": 51413,
+          "p": 0.849473,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,000",
+        "to": "00:00:25,000"
+      },
+      "offsets": {
+        "from": 21000,
+        "to": 25000
+      },
+      "text": " tortoise tortoise",
+      "tokens": [
+        {
+          "text": " tort",
+          "timestamps": {
+            "from": "00:00:21,810",
+            "to": "00:00:22,000"
+          },
+          "offsets": {
+            "from": 21810,
+            "to": 22000
+          },
+          "id": 7619,
+          "p": 0.971991,
+          "t_dtw": -1
+        },
+        {
+          "text": "oise",
+          "timestamps": {
+            "from": "00:00:22,000",
+            "to": "00:00:22,860"
+          },
+          "offsets": {
+            "from": 22000,
+            "to": 22860
+          },
+          "id": 25678,
+          "p": 0.997828,
+          "t_dtw": -1
+        },
+        {
+          "text": " tort",
+          "timestamps": {
+            "from": "00:00:22,860",
+            "to": "00:00:23,000"
+          },
+          "offsets": {
+            "from": 22860,
+            "to": 23000
+          },
+          "id": 7619,
+          "p": 0.991235,
+          "t_dtw": -1
+        },
+        {
+          "text": "oise",
+          "timestamps": {
+            "from": "00:00:24,370",
+            "to": "00:00:25,000"
+          },
+          "offsets": {
+            "from": 24370,
+            "to": 25000
+          },
+          "id": 25678,
+          "p": 0.998432,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1250]",
+          "timestamps": {
+            "from": "00:00:25,000",
+            "to": "00:00:25,000"
+          },
+          "offsets": {
+            "from": 25000,
+            "to": 25000
+          },
+          "id": 51613,
+          "p": 0.345323,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

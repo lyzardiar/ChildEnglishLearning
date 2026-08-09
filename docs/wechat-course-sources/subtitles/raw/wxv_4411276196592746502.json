@@ -1,0 +1,262 @@
+{
+  "RequestId": "1fe53e24-1ce6-46ca-8f50-be7e00d9eeb4",
+  "Data": {
+    "TaskId": 16291890557,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 22.871688,
+    "Result": "C.Little cat, little cat, here's a cat for you, little cat, little cat, here's a cat for you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "C.",
+        "SliceSentence": "C .",
+        "WrittenText": "",
+        "StartMs": 1000,
+        "EndMs": 1530,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "C"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Little cat,",
+        "SliceSentence": "Little cat ,",
+        "WrittenText": "",
+        "StartMs": 4000,
+        "EndMs": 9630,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5120,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 5230,
+            "OffsetEndMs": 5630,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 5230,
+            "OffsetEndMs": 5630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little cat,",
+        "SliceSentence": "little cat ,",
+        "WrittenText": "",
+        "StartMs": 9860,
+        "EndMs": 10770,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a cat for you,",
+        "SliceSentence": "here's a cat for you ,",
+        "WrittenText": "",
+        "StartMs": 11000,
+        "EndMs": 12630,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 965,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1295,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little cat,",
+        "SliceSentence": "little cat ,",
+        "WrittenText": "",
+        "StartMs": 17030,
+        "EndMs": 18000,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little cat,",
+        "SliceSentence": "little cat ,",
+        "WrittenText": "",
+        "StartMs": 18260,
+        "EndMs": 19170,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a cat for you.",
+        "SliceSentence": "here's a cat for you .",
+        "WrittenText": "",
+        "StartMs": 19430,
+        "EndMs": 21000,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

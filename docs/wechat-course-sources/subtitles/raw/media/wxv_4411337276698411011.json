@@ -1,0 +1,814 @@
+{
+  "RequestId": "8f5a322c-eced-4f6d-b9b4-625ab4da93e1",
+  "Data": {
+    "TaskId": 16292451599,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 77.276,
+    "Result": "What are your hobbies? Hello, children, let's talk about hobbies. What do you like doing in your free time? I like singing and dancing. I like music. This is me in my dancing class. Look at my purple skirt. I reading. I like painting too. This is me in my favourite park. I like playing ping pong and riding my bike. This is me on my bike.I like swimming. I like playing basketball, too. This is me in a game.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What are your hobbies?",
+        "SliceSentence": "What are your hobbies ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2510,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1500,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1860,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2510,
+            "Word": "hobbies"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2510,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 5140,
+        "EndMs": 5540,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " children,",
+        "SliceSentence": "children ,",
+        "WrittenText": "",
+        "StartMs": 5800,
+        "EndMs": 6200,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's talk about hobbies.",
+        "SliceSentence": "let's talk about hobbies .",
+        "WrittenText": "",
+        "StartMs": 7330,
+        "EndMs": 10190,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1090,
+            "Word": "talk"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2860,
+            "Word": "hobbies"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you like doing in your free time?",
+        "SliceSentence": "What do you like doing in your free time ?",
+        "WrittenText": "",
+        "StartMs": 11260,
+        "EndMs": 15500,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1115,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2975,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3340,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3845,
+            "Word": "free"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4240,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4240,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like singing and dancing.",
+        "SliceSentence": "I like singing and dancing .",
+        "WrittenText": "",
+        "StartMs": 18040,
+        "EndMs": 21080,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "singing"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2660,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 3040,
+            "Word": "dancing"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like music.",
+        "SliceSentence": "I like music .",
+        "WrittenText": "",
+        "StartMs": 22390,
+        "EndMs": 24110,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "music"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is me in my dancing class.",
+        "SliceSentence": "This is me in my dancing class .",
+        "WrittenText": "",
+        "StartMs": 25180,
+        "EndMs": 28760,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2180,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2510,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2890,
+            "Word": "dancing"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at my purple skirt.",
+        "SliceSentence": "Look at my purple skirt .",
+        "WrittenText": "",
+        "StartMs": 30130,
+        "EndMs": 33200,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "purple"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3070,
+            "Word": "skirt"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I reading.",
+        "SliceSentence": "I reading .",
+        "WrittenText": "",
+        "StartMs": 36640,
+        "EndMs": 38030,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "reading"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like painting too.",
+        "SliceSentence": "I like painting too .",
+        "WrittenText": "",
+        "StartMs": 39070,
+        "EndMs": 41480,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "painting"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is me in my favourite park.",
+        "SliceSentence": "This is me in my favourite park .",
+        "WrittenText": "",
+        "StartMs": 42670,
+        "EndMs": 46850,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2255,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2620,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3760,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like playing ping pong and riding my bike.",
+        "SliceSentence": "I like playing ping pong and riding my bike .",
+        "WrittenText": "",
+        "StartMs": 49810,
+        "EndMs": 54350,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1940,
+            "Word": "ping"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2350,
+            "Word": "pong"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3350,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3700,
+            "Word": "riding"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4220,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is me on my bike.",
+        "SliceSentence": "This is me on my bike .",
+        "WrittenText": "",
+        "StartMs": 55630,
+        "EndMs": 58100,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2135,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2470,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I like swimming.",
+        "SliceSentence": "I like swimming .",
+        "WrittenText": "",
+        "StartMs": 60280,
+        "EndMs": 61710,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 435,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 830,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like playing basketball,",
+        "SliceSentence": "I like playing basketball ,",
+        "WrittenText": "",
+        "StartMs": 62480,
+        "EndMs": 64530,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "basketball"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 65360,
+        "EndMs": 65760,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is me in a game.",
+        "SliceSentence": "This is me in a game .",
+        "WrittenText": "",
+        "StartMs": 67640,
+        "EndMs": 70050,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1700,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2045,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "game"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "RequestId": "ca94b792-4feb-4fa6-98c7-5b35915f2942",
+  "Data": {
+    "TaskId": 16292435580,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 63.78525,
+    "Result": "Ugh.Ugh.Bug.Bug.Hug.Hug.Mug.Mug.I drink milk from a mug, I find a mug in the mug, ig ug ug mom gives me a hug, I drink milk from a mug, I find a bugg in the mug, ug. Ug, ug mom gives me a hug.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Ugh.",
+        "SliceSentence": "Ugh .",
+        "WrittenText": "",
+        "StartMs": 760,
+        "EndMs": 1530,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 770,
+            "Word": "Ugh"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ugh.",
+        "SliceSentence": "Ugh .",
+        "WrittenText": "",
+        "StartMs": 2060,
+        "EndMs": 2680,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Ugh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bug.",
+        "SliceSentence": "Bug .",
+        "WrittenText": "",
+        "StartMs": 6940,
+        "EndMs": 7470,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Bug"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bug.",
+        "SliceSentence": "Bug .",
+        "WrittenText": "",
+        "StartMs": 8520,
+        "EndMs": 8780,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Bug"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hug.",
+        "SliceSentence": "Hug .",
+        "WrittenText": "",
+        "StartMs": 12620,
+        "EndMs": 13480,
+        "SpeechSpeed": 3.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "Hug"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hug.",
+        "SliceSentence": "Hug .",
+        "WrittenText": "",
+        "StartMs": 14040,
+        "EndMs": 14690,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "Hug"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mug.",
+        "SliceSentence": "Mug .",
+        "WrittenText": "",
+        "StartMs": 18980,
+        "EndMs": 19840,
+        "SpeechSpeed": 3.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "Mug"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mug.",
+        "SliceSentence": "Mug .",
+        "WrittenText": "",
+        "StartMs": 20400,
+        "EndMs": 20930,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "Mug"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I drink milk from a mug,",
+        "SliceSentence": "I drink milk from a mug ,",
+        "WrittenText": "",
+        "StartMs": 23000,
+        "EndMs": 33250,
+        "SpeechSpeed": 2.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 5890,
+            "OffsetEndMs": 6290,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 6550,
+            "OffsetEndMs": 6950,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 8290,
+            "OffsetEndMs": 8690,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 8860,
+            "OffsetEndMs": 9260,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 9460,
+            "OffsetEndMs": 10250,
+            "Word": "mug"
+          },
+          {
+            "OffsetStartMs": 9460,
+            "OffsetEndMs": 10250,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I find a mug in the mug,",
+        "SliceSentence": "I find a mug in the mug ,",
+        "WrittenText": "",
+        "StartMs": 33660,
+        "EndMs": 37990,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 950,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1990,
+            "Word": "mug"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 4330,
+            "Word": "mug"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 4330,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ig ug ug mom gives me a hug,",
+        "SliceSentence": "ig ug ug mom gives me a hug ,",
+        "WrittenText": "",
+        "StartMs": 38430,
+        "EndMs": 43900,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "ig"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1265,
+            "Word": "ug"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1960,
+            "Word": "ug"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 4440,
+            "OffsetEndMs": 4775,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4775,
+            "OffsetEndMs": 5470,
+            "Word": "hug"
+          },
+          {
+            "OffsetStartMs": 4775,
+            "OffsetEndMs": 5470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I drink milk from a mug,",
+        "SliceSentence": "I drink milk from a mug ,",
+        "WrittenText": "",
+        "StartMs": 46800,
+        "EndMs": 51070,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4270,
+            "Word": "mug"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4270,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I find a bugg in the mug,",
+        "SliceSentence": "I find a bugg in the mug ,",
+        "WrittenText": "",
+        "StartMs": 51480,
+        "EndMs": 55900,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1295,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1990,
+            "Word": "bugg"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4420,
+            "Word": "mug"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4420,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ug.",
+        "SliceSentence": "ug .",
+        "WrittenText": "",
+        "StartMs": 56310,
+        "EndMs": 57005,
+        "SpeechSpeed": 4.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "ug"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ug,",
+        "SliceSentence": "Ug ,",
+        "WrittenText": "",
+        "StartMs": 57005,
+        "EndMs": 57605,
+        "SpeechSpeed": 5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 600,
+            "Word": "Ug"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ug mom gives me a hug.",
+        "SliceSentence": "ug mom gives me a hug .",
+        "WrittenText": "",
+        "StartMs": 57605,
+        "EndMs": 61840,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "ug"
+          },
+          {
+            "OffsetStartMs": 1165,
+            "OffsetEndMs": 1565,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 1705,
+            "OffsetEndMs": 2105,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 2305,
+            "OffsetEndMs": 2705,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3205,
+            "OffsetEndMs": 3540,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 4235,
+            "Word": "hug"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 4235,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

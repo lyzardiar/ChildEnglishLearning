@@ -1,0 +1,888 @@
+{
+  "RequestId": "78ff02f9-cd88-4625-8af0-9faca44cf999",
+  "Data": {
+    "TaskId": 16292587834,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 64.203188,
+    "Result": "The journey of a plastic bottle.I'm a plastic bottle. A week ago I was full of water. Then a woman bought me at the supermarket and took me home. The next morning the woman drank the water and threw me into a rubbish bin. A street cleaner found me. He put me into a truck. There were a lot of other bottles in the truck. The truck took us to a factory. Some people cleaned us and put us into a big machine.We became small pieces.Finally, they made us into a piece of cloth. Look at your t shirt.Does it look like a plastic bottle?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The journey of a plastic bottle.",
+        "SliceSentence": "The journey of a plastic bottle .",
+        "WrittenText": "",
+        "StartMs": 2020,
+        "EndMs": 4200,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 420,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 710,
+            "Word": "journey"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1185,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1380,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1670,
+            "Word": "plastic"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "bottle"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm a plastic bottle.",
+        "SliceSentence": "I'm a plastic bottle .",
+        "WrittenText": "",
+        "StartMs": 10420,
+        "EndMs": 12090,
+        "SpeechSpeed": 12,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 615,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 780,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "plastic"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "bottle"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A week ago I was full of water.",
+        "SliceSentence": "A week ago I was full of water .",
+        "WrittenText": "",
+        "StartMs": 13400,
+        "EndMs": 16020,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 560,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 940,
+            "Word": "ago"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1550,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1820,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2105,
+            "Word": "full"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2330,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2620,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then a woman bought me at the supermarket and took me home.",
+        "SliceSentence": "Then a woman bought me at the supermarket and took me home .",
+        "WrittenText": "",
+        "StartMs": 17960,
+        "EndMs": 21990,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 725,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1025,
+            "Word": "woman"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1355,
+            "Word": "bought"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1565,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1730,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 1880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2500,
+            "Word": "supermarket"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3290,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3290,
+            "OffsetEndMs": 3545,
+            "Word": "took"
+          },
+          {
+            "OffsetStartMs": 3545,
+            "OffsetEndMs": 3755,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3755,
+            "OffsetEndMs": 4030,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3755,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The next morning the woman drank the water and threw me into a rubbish bin.",
+        "SliceSentence": "The next morning the woman drank the water and threw me into a rubbish bin .",
+        "WrittenText": "",
+        "StartMs": 22820,
+        "EndMs": 28470,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 515,
+            "Word": "next"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 880,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1790,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2080,
+            "Word": "woman"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2510,
+            "Word": "drank"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2735,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 3010,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3815,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3815,
+            "OffsetEndMs": 4130,
+            "Word": "threw"
+          },
+          {
+            "OffsetStartMs": 4130,
+            "OffsetEndMs": 4480,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 4865,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 4865,
+            "OffsetEndMs": 4985,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4985,
+            "OffsetEndMs": 5330,
+            "Word": "rubbish"
+          },
+          {
+            "OffsetStartMs": 5330,
+            "OffsetEndMs": 5650,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 5330,
+            "OffsetEndMs": 5650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A street cleaner found me.",
+        "SliceSentence": "A street cleaner found me .",
+        "WrittenText": "",
+        "StartMs": 30230,
+        "EndMs": 32010,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1115,
+            "Word": "cleaner"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1385,
+            "Word": "found"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1780,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He put me into a truck.",
+        "SliceSentence": "He put me into a truck .",
+        "WrittenText": "",
+        "StartMs": 32810,
+        "EndMs": 34500,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1250,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1400,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1690,
+            "Word": "truck"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There were a lot of other bottles in the truck.",
+        "SliceSentence": "There were a lot of other bottles in the truck .",
+        "WrittenText": "",
+        "StartMs": 35120,
+        "EndMs": 38190,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "were"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 830,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1025,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1280,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1610,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 2255,
+            "Word": "bottles"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2555,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2765,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3070,
+            "Word": "truck"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The truck took us to a factory.",
+        "SliceSentence": "The truck took us to a factory .",
+        "WrittenText": "",
+        "StartMs": 38930,
+        "EndMs": 40860,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "truck"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1040,
+            "Word": "took"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1310,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1520,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1655,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1930,
+            "Word": "factory"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people cleaned us and put us into a big machine.",
+        "SliceSentence": "Some people cleaned us and put us into a big machine .",
+        "WrittenText": "",
+        "StartMs": 42170,
+        "EndMs": 45870,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1175,
+            "Word": "cleaned"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1420,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2000,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2255,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2590,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 2990,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3140,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3140,
+            "OffsetEndMs": 3365,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3700,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We became small pieces.",
+        "SliceSentence": "We became small pieces .",
+        "WrittenText": "",
+        "StartMs": 46840,
+        "EndMs": 48390,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 450,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "became"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1215,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1550,
+            "Word": "pieces"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Finally,",
+        "SliceSentence": "Finally ,",
+        "WrittenText": "",
+        "StartMs": 49780,
+        "EndMs": 50250,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Finally"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they made us into a piece of cloth.",
+        "SliceSentence": "they made us into a piece of cloth .",
+        "WrittenText": "",
+        "StartMs": 50960,
+        "EndMs": 53130,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "made"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 880,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1280,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1415,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1625,
+            "Word": "piece"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1865,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2170,
+            "Word": "cloth"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at your t shirt.",
+        "SliceSentence": "Look at your t shirt .",
+        "WrittenText": "",
+        "StartMs": 54380,
+        "EndMs": 55650,
+        "SpeechSpeed": 16.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 665,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 920,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Does it look like a plastic bottle?",
+        "SliceSentence": "Does it look like a plastic bottle ?",
+        "WrittenText": "",
+        "StartMs": 57700,
+        "EndMs": 60120,
+        "SpeechSpeed": 14,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 765,
+            "Word": "Does"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 975,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1200,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1410,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1605,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1605,
+            "OffsetEndMs": 1910,
+            "Word": "plastic"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2420,
+            "Word": "bottle"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2050,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

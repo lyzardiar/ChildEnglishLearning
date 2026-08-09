@@ -1,0 +1,744 @@
+{
+  "RequestId": "d3c2d397-0af5-49ee-8f37-a61d4167d217",
+  "Data": {
+    "TaskId": 16292475015,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 74.071688,
+    "Result": "We like different weather.How is the weather ub?It's rainy. I don't like the rain. I like the rain. It's windy today. I like the wind. I can fly my kite. Let's go to the park. Hooray. Oh no, my hat and my plants.I don't like the wind. Oh dear, it's hot today. I don't like the sun.I'm very happy. I like the sun.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "We like different weather.",
+        "SliceSentence": "We like different weather .",
+        "WrittenText": "",
+        "StartMs": 160,
+        "EndMs": 2730,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 900,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "weather"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How is the weather ub?",
+        "SliceSentence": "How is the weather ub ?",
+        "WrittenText": "",
+        "StartMs": 7480,
+        "EndMs": 9840,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 620,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 975,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1215,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1520,
+            "Word": "weather"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2360,
+            "Word": "ub"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2360,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It's rainy.",
+        "SliceSentence": "It's rainy .",
+        "WrittenText": "",
+        "StartMs": 10920,
+        "EndMs": 12470,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 660,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1550,
+            "Word": "rainy"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't like the rain.",
+        "SliceSentence": "I don't like the rain .",
+        "WrittenText": "",
+        "StartMs": 13360,
+        "EndMs": 15590,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1115,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1925,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2230,
+            "Word": "rain"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the rain.",
+        "SliceSentence": "I like the rain .",
+        "WrittenText": "",
+        "StartMs": 17320,
+        "EndMs": 19430,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1805,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2110,
+            "Word": "rain"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's windy today.",
+        "SliceSentence": "It's windy today .",
+        "WrittenText": "",
+        "StartMs": 25120,
+        "EndMs": 26990,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1420,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the wind.",
+        "SliceSentence": "I like the wind .",
+        "WrittenText": "",
+        "StartMs": 27640,
+        "EndMs": 29240,
+        "SpeechSpeed": 10,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1295,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can fly my kite.",
+        "SliceSentence": "I can fly my kite .",
+        "WrittenText": "",
+        "StartMs": 30040,
+        "EndMs": 32060,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1655,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's go to the park.",
+        "SliceSentence": "Let's go to the park .",
+        "WrittenText": "",
+        "StartMs": 33370,
+        "EndMs": 35510,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1595,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1850,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2140,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hooray.",
+        "SliceSentence": "Hooray .",
+        "WrittenText": "",
+        "StartMs": 36910,
+        "EndMs": 37580,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": "Hooray"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 39730,
+        "EndMs": 40610,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my hat and my plants.",
+        "SliceSentence": "my hat and my plants .",
+        "WrittenText": "",
+        "StartMs": 41650,
+        "EndMs": 44330,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "hat"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I don't like the wind.",
+        "SliceSentence": "I don't like the wind .",
+        "WrittenText": "",
+        "StartMs": 45660,
+        "EndMs": 47870,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 1020,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1370,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1875,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1875,
+            "OffsetEndMs": 2210,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1875,
+            "OffsetEndMs": 2210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh dear,",
+        "SliceSentence": "Oh dear ,",
+        "WrittenText": "",
+        "StartMs": 49720,
+        "EndMs": 50750,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "dear"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's hot today.",
+        "SliceSentence": "it's hot today .",
+        "WrittenText": "",
+        "StartMs": 52300,
+        "EndMs": 54470,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1060,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't like the sun.",
+        "SliceSentence": "I don't like the sun .",
+        "WrittenText": "",
+        "StartMs": 55060,
+        "EndMs": 57290,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1085,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1420,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm very happy.",
+        "SliceSentence": "I'm very happy .",
+        "WrittenText": "",
+        "StartMs": 60940,
+        "EndMs": 63330,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1340,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1760,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1990,
+            "OffsetEndMs": 2390,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1990,
+            "OffsetEndMs": 2390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the sun.",
+        "SliceSentence": "I like the sun .",
+        "WrittenText": "",
+        "StartMs": 64490,
+        "EndMs": 66540,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1715,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2050,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

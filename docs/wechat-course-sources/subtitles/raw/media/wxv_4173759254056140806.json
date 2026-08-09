@@ -1,0 +1,953 @@
+{
+  "RequestId": "d76f3eeb-11cf-4234-afe8-fe5b0d04b47b",
+  "Data": {
+    "TaskId": 16292472838,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 86.1925,
+    "Result": "A funny food face. What do you have mum? Let's see some fruits and vegetables. Oh no, I don't like carrots. Let's cut the fruit and vegetables. We can have some fun. Do you like carrot? Chen Chen? No, I don't. Carrots are good for you. What do you like? Wei hui? I like carrots. Okay, carrots for the eyes. I like.Apples. I like bananas. Haha, this is fun. We like the food face, mom. That's great.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A funny food face.",
+        "SliceSentence": "A funny food face .",
+        "WrittenText": "",
+        "StartMs": 160,
+        "EndMs": 2250,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 675,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 1040,
+            "Word": "funny"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "face"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you have mum?",
+        "SliceSentence": "What do you have mum ?",
+        "WrittenText": "",
+        "StartMs": 5210,
+        "EndMs": 7050,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 755,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1010,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's see some fruits and vegetables.",
+        "SliceSentence": "Let's see some fruits and vegetables .",
+        "WrittenText": "",
+        "StartMs": 8450,
+        "EndMs": 15870,
+        "SpeechSpeed": 5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 5400,
+            "OffsetEndMs": 5800,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 6000,
+            "OffsetEndMs": 6400,
+            "Word": "fruits"
+          },
+          {
+            "OffsetStartMs": 6540,
+            "OffsetEndMs": 6940,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 7020,
+            "OffsetEndMs": 7420,
+            "Word": "vegetables"
+          },
+          {
+            "OffsetStartMs": 7020,
+            "OffsetEndMs": 7420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 18290,
+        "EndMs": 19290,
+        "SpeechSpeed": 6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't like carrots.",
+        "SliceSentence": "I don't like carrots .",
+        "WrittenText": "",
+        "StartMs": 20360,
+        "EndMs": 22590,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1025,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1330,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 2230,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's cut the fruit and vegetables.",
+        "SliceSentence": "Let's cut the fruit and vegetables .",
+        "WrittenText": "",
+        "StartMs": 26810,
+        "EndMs": 29970,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 785,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1835,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2200,
+            "Word": "fruit"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2780,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3160,
+            "Word": "vegetables"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can have some fun.",
+        "SliceSentence": "We can have some fun .",
+        "WrittenText": "",
+        "StartMs": 31280,
+        "EndMs": 33450,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like carrot?",
+        "SliceSentence": "Do you like carrot ?",
+        "WrittenText": "",
+        "StartMs": 35120,
+        "EndMs": 36480,
+        "SpeechSpeed": 14,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 980,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1360,
+            "Word": "carrot"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1360,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Chen Chen?",
+        "SliceSentence": "Chen Chen ?",
+        "WrittenText": "",
+        "StartMs": 36860,
+        "EndMs": 37860,
+        "SpeechSpeed": 10,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1000,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1000,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 38900,
+        "EndMs": 39300,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't.",
+        "SliceSentence": "I don't .",
+        "WrittenText": "",
+        "StartMs": 39740,
+        "EndMs": 40980,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1240,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Carrots are good for you.",
+        "SliceSentence": "Carrots are good for you .",
+        "WrittenText": "",
+        "StartMs": 41750,
+        "EndMs": 44370,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 880,
+            "Word": "Carrots"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1430,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1810,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2255,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you like?",
+        "SliceSentence": "What do you like ?",
+        "WrittenText": "",
+        "StartMs": 45620,
+        "EndMs": 47340,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 995,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1355,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1720,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1720,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wei hui?",
+        "SliceSentence": "Wei hui ?",
+        "WrittenText": "",
+        "StartMs": 47660,
+        "EndMs": 48420,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Wei"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "hui"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like carrots.",
+        "SliceSentence": "I like carrots .",
+        "WrittenText": "",
+        "StartMs": 49280,
+        "EndMs": 51360,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 2080,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 52700,
+        "EndMs": 53100,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " carrots for the eyes.",
+        "SliceSentence": "carrots for the eyes .",
+        "WrittenText": "",
+        "StartMs": 53810,
+        "EndMs": 56160,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1730,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2015,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2350,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like.",
+        "SliceSentence": "I like .",
+        "WrittenText": "",
+        "StartMs": 59540,
+        "EndMs": 60510,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Apples.",
+        "SliceSentence": "Apples .",
+        "WrittenText": "",
+        "StartMs": 60640,
+        "EndMs": 61200,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Apples"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like bananas.",
+        "SliceSentence": "I like bananas .",
+        "WrittenText": "",
+        "StartMs": 62870,
+        "EndMs": 65070,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 2200,
+            "Word": "bananas"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Haha,",
+        "SliceSentence": "Haha ,",
+        "WrittenText": "",
+        "StartMs": 66440,
+        "EndMs": 67230,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "Haha"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " this is fun.",
+        "SliceSentence": "this is fun .",
+        "WrittenText": "",
+        "StartMs": 68000,
+        "EndMs": 69570,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We like the food face,",
+        "SliceSentence": "We like the food face ,",
+        "WrittenText": "",
+        "StartMs": 71390,
+        "EndMs": 73770,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1750,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "face"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mom.",
+        "SliceSentence": "mom .",
+        "WrittenText": "",
+        "StartMs": 74060,
+        "EndMs": 74460,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's great.",
+        "SliceSentence": "That's great .",
+        "WrittenText": "",
+        "StartMs": 75680,
+        "EndMs": 76860,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 815,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

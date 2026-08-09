@@ -1,0 +1,1166 @@
+{
+  "RequestId": "2179a400-711f-46f9-821a-9b580321afdb",
+  "Data": {
+    "TaskId": 16292508789,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 97.19875,
+    "Result": "Our way to school. The light is green. Let's cross the road. What should we do first? Look, left no cars. Look right, no cars. It's safe to cross. Good job. I like walking to school. I don't like walking. Can I ride a bike to school? No children under 12 years old can't ride on the road. All right, look, the light is green hor.Up. Don't run on the road, chichi dad. Can I skate to school and can I skate? No, sorry kids, we can't skate on the road. It's not safe. Oh no, we're late dad. Walk, don't run.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Our way to school.",
+        "SliceSentence": "Our way to school .",
+        "WrittenText": "",
+        "StartMs": 520,
+        "EndMs": 2280,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1380,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The light is green.",
+        "SliceSentence": "The light is green .",
+        "WrittenText": "",
+        "StartMs": 9560,
+        "EndMs": 11430,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "light"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's cross the road.",
+        "SliceSentence": "Let's cross the road .",
+        "WrittenText": "",
+        "StartMs": 12320,
+        "EndMs": 14220,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "cross"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1580,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1900,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What should we do first?",
+        "SliceSentence": "What should we do first ?",
+        "WrittenText": "",
+        "StartMs": 15110,
+        "EndMs": 17310,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "first"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 18740,
+        "EndMs": 19140,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " left no cars.",
+        "SliceSentence": "left no cars .",
+        "WrittenText": "",
+        "StartMs": 19430,
+        "EndMs": 21720,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "cars"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look right,",
+        "SliceSentence": "Look right ,",
+        "WrittenText": "",
+        "StartMs": 23090,
+        "EndMs": 24120,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " no cars.",
+        "SliceSentence": "no cars .",
+        "WrittenText": "",
+        "StartMs": 25070,
+        "EndMs": 25980,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "cars"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's safe to cross.",
+        "SliceSentence": "It's safe to cross .",
+        "WrittenText": "",
+        "StartMs": 26960,
+        "EndMs": 29190,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1880,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "cross"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good job.",
+        "SliceSentence": "Good job .",
+        "WrittenText": "",
+        "StartMs": 30320,
+        "EndMs": 31080,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like walking to school.",
+        "SliceSentence": "I like walking to school .",
+        "WrittenText": "",
+        "StartMs": 33140,
+        "EndMs": 35430,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "walking"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1940,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2290,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't like walking.",
+        "SliceSentence": "I don't like walking .",
+        "WrittenText": "",
+        "StartMs": 37910,
+        "EndMs": 39810,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 965,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1270,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "walking"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can I ride a bike to school?",
+        "SliceSentence": "Can I ride a bike to school ?",
+        "WrittenText": "",
+        "StartMs": 40880,
+        "EndMs": 43620,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1610,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1930,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2390,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2740,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2740,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No children under 12 years old can't ride on the road.",
+        "SliceSentence": "No children under 12 years old can't ride on the road .",
+        "WrittenText": "",
+        "StartMs": 44690,
+        "EndMs": 50010,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "under"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2795,
+            "Word": "12"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3110,
+            "Word": "years"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3460,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4235,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 4235,
+            "OffsetEndMs": 4535,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4850,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 4850,
+            "OffsetEndMs": 5045,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5045,
+            "OffsetEndMs": 5320,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 5045,
+            "OffsetEndMs": 5320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " All right,",
+        "SliceSentence": "All right ,",
+        "WrittenText": "",
+        "StartMs": 50600,
+        "EndMs": 51420,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look,",
+        "SliceSentence": "look ,",
+        "WrittenText": "",
+        "StartMs": 57110,
+        "EndMs": 57510,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the light is green hor.",
+        "SliceSentence": "the light is green hor .",
+        "WrittenText": "",
+        "StartMs": 57890,
+        "EndMs": 60630,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "light"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1145,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "hor"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Up.",
+        "SliceSentence": "Up .",
+        "WrittenText": "",
+        "StartMs": 61000,
+        "EndMs": 61320,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't run on the road,",
+        "SliceSentence": "Don't run on the road ,",
+        "WrittenText": "",
+        "StartMs": 62210,
+        "EndMs": 63780,
+        "SpeechSpeed": 14,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 800,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1070,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " chichi dad.",
+        "SliceSentence": "chichi dad .",
+        "WrittenText": "",
+        "StartMs": 64250,
+        "EndMs": 69060,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "chichi"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 4810,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 4810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can I skate to school and can I skate?",
+        "SliceSentence": "Can I skate to school and can I skate ?",
+        "WrittenText": "",
+        "StartMs": 69650,
+        "EndMs": 74670,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1330,
+            "Word": "skate"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1850,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2230,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4130,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 4130,
+            "OffsetEndMs": 4480,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 5020,
+            "Word": "skate"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 5020,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 75830,
+        "EndMs": 76230,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sorry kids,",
+        "SliceSentence": "sorry kids ,",
+        "WrittenText": "",
+        "StartMs": 76550,
+        "EndMs": 77460,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "sorry"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "kids"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can't skate on the road.",
+        "SliceSentence": "we can't skate on the road .",
+        "WrittenText": "",
+        "StartMs": 78170,
+        "EndMs": 80250,
+        "SpeechSpeed": 13,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 845,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "skate"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1595,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1805,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2080,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's not safe.",
+        "SliceSentence": "It's not safe .",
+        "WrittenText": "",
+        "StartMs": 80840,
+        "EndMs": 82050,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 815,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 83780,
+        "EndMs": 84660,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we're late dad.",
+        "SliceSentence": "we're late dad .",
+        "WrittenText": "",
+        "StartMs": 85730,
+        "EndMs": 88170,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "we're"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 730,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Walk,",
+        "SliceSentence": "Walk ,",
+        "WrittenText": "",
+        "StartMs": 88760,
+        "EndMs": 89160,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Walk"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " don't run.",
+        "SliceSentence": "don't run .",
+        "WrittenText": "",
+        "StartMs": 89600,
+        "EndMs": 90690,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 770,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

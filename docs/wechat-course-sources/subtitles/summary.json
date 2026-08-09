@@ -1,0 +1,799 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-08T23:20:50.997Z",
+  "model": "qwen2.5:1.5b",
+  "units": [
+    {
+      "unitId": "grade1-lower-extras",
+      "videoTracks": 0,
+      "audioTracks": 9,
+      "videoLines": 0,
+      "audioLines": 165
+    },
+    {
+      "unitId": "grade1-lower-unit-01",
+      "videoTracks": 6,
+      "audioTracks": 9,
+      "videoLines": 70,
+      "audioLines": 249
+    },
+    {
+      "unitId": "grade1-lower-unit-02",
+      "videoTracks": 6,
+      "audioTracks": 9,
+      "videoLines": 46,
+      "audioLines": 146
+    },
+    {
+      "unitId": "grade1-lower-unit-03",
+      "videoTracks": 6,
+      "audioTracks": 10,
+      "videoLines": 59,
+      "audioLines": 236
+    },
+    {
+      "unitId": "grade1-lower-unit-04",
+      "videoTracks": 6,
+      "audioTracks": 9,
+      "videoLines": 60,
+      "audioLines": 287
+    },
+    {
+      "unitId": "grade1-lower-unit-05",
+      "videoTracks": 6,
+      "audioTracks": 9,
+      "videoLines": 57,
+      "audioLines": 194
+    },
+    {
+      "unitId": "grade1-lower-unit-06",
+      "videoTracks": 8,
+      "audioTracks": 9,
+      "videoLines": 69,
+      "audioLines": 238
+    },
+    {
+      "unitId": "grade1-upper-extras",
+      "videoTracks": 0,
+      "audioTracks": 11,
+      "videoLines": 0,
+      "audioLines": 75
+    },
+    {
+      "unitId": "grade1-upper-unit-01",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 60,
+      "audioLines": 141
+    },
+    {
+      "unitId": "grade1-upper-unit-02",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 71,
+      "audioLines": 208
+    },
+    {
+      "unitId": "grade1-upper-unit-03",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 68,
+      "audioLines": 58
+    },
+    {
+      "unitId": "grade1-upper-unit-04",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 72,
+      "audioLines": 137
+    },
+    {
+      "unitId": "grade1-upper-unit-05",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 67,
+      "audioLines": 127
+    },
+    {
+      "unitId": "grade1-upper-unit-06",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 82,
+      "audioLines": 157
+    },
+    {
+      "unitId": "grade2-lower-extras",
+      "videoTracks": 0,
+      "audioTracks": 10,
+      "videoLines": 0,
+      "audioLines": 159
+    },
+    {
+      "unitId": "grade2-lower-unit-01",
+      "videoTracks": 4,
+      "audioTracks": 7,
+      "videoLines": 68,
+      "audioLines": 157
+    },
+    {
+      "unitId": "grade2-lower-unit-02",
+      "videoTracks": 4,
+      "audioTracks": 7,
+      "videoLines": 67,
+      "audioLines": 146
+    },
+    {
+      "unitId": "grade2-lower-unit-03",
+      "videoTracks": 4,
+      "audioTracks": 7,
+      "videoLines": 66,
+      "audioLines": 163
+    },
+    {
+      "unitId": "grade2-lower-unit-04",
+      "videoTracks": 4,
+      "audioTracks": 7,
+      "videoLines": 68,
+      "audioLines": 125
+    },
+    {
+      "unitId": "grade2-lower-unit-05",
+      "videoTracks": 4,
+      "audioTracks": 7,
+      "videoLines": 44,
+      "audioLines": 184
+    },
+    {
+      "unitId": "grade2-lower-unit-06",
+      "videoTracks": 1,
+      "audioTracks": 6,
+      "videoLines": 21,
+      "audioLines": 265
+    },
+    {
+      "unitId": "grade2-upper-extras",
+      "videoTracks": 0,
+      "audioTracks": 9,
+      "videoLines": 0,
+      "audioLines": 54
+    },
+    {
+      "unitId": "grade2-upper-unit-01",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 48,
+      "audioLines": 71
+    },
+    {
+      "unitId": "grade2-upper-unit-02",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 44,
+      "audioLines": 59
+    },
+    {
+      "unitId": "grade2-upper-unit-03",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 45,
+      "audioLines": 62
+    },
+    {
+      "unitId": "grade2-upper-unit-04",
+      "videoTracks": 4,
+      "audioTracks": 1,
+      "videoLines": 43,
+      "audioLines": 83
+    },
+    {
+      "unitId": "grade2-upper-unit-05",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 34,
+      "audioLines": 153
+    },
+    {
+      "unitId": "grade2-upper-unit-06",
+      "videoTracks": 2,
+      "audioTracks": 1,
+      "videoLines": 15,
+      "audioLines": 160
+    },
+    {
+      "unitId": "grade3-lower-extras",
+      "videoTracks": 0,
+      "audioTracks": 10,
+      "videoLines": 0,
+      "audioLines": 86
+    },
+    {
+      "unitId": "grade3-lower-unit-01",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 43,
+      "audioLines": 51
+    },
+    {
+      "unitId": "grade3-lower-unit-02",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 28,
+      "audioLines": 944
+    },
+    {
+      "unitId": "grade3-lower-unit-03",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 38,
+      "audioLines": 1071
+    },
+    {
+      "unitId": "grade3-lower-unit-04",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 549
+    },
+    {
+      "unitId": "grade3-lower-unit-05",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 34,
+      "audioLines": 813
+    },
+    {
+      "unitId": "grade3-lower-unit-06",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 41,
+      "audioLines": 1088
+    },
+    {
+      "unitId": "grade3-lower-unit-07",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 37,
+      "audioLines": 1097
+    },
+    {
+      "unitId": "grade3-lower-unit-08",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 33,
+      "audioLines": 1030
+    },
+    {
+      "unitId": "grade3-upper-extras",
+      "videoTracks": 0,
+      "audioTracks": 11,
+      "videoLines": 0,
+      "audioLines": 250
+    },
+    {
+      "unitId": "grade3-upper-unit-01",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 25,
+      "audioLines": 121
+    },
+    {
+      "unitId": "grade3-upper-unit-02",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 34,
+      "audioLines": 113
+    },
+    {
+      "unitId": "grade3-upper-unit-03",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 23,
+      "audioLines": 100
+    },
+    {
+      "unitId": "grade3-upper-unit-04",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 24,
+      "audioLines": 133
+    },
+    {
+      "unitId": "grade3-upper-unit-05",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 32,
+      "audioLines": 65
+    },
+    {
+      "unitId": "grade3-upper-unit-06",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 42,
+      "audioLines": 58
+    },
+    {
+      "unitId": "grade3-upper-unit-07",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 28,
+      "audioLines": 147
+    },
+    {
+      "unitId": "grade3-upper-unit-08",
+      "videoTracks": 2,
+      "audioTracks": 2,
+      "videoLines": 18,
+      "audioLines": 84
+    },
+    {
+      "unitId": "grade4-lower-extras",
+      "videoTracks": 0,
+      "audioTracks": 8,
+      "videoLines": 0,
+      "audioLines": 135
+    },
+    {
+      "unitId": "grade4-lower-unit-01",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 51,
+      "audioLines": 899
+    },
+    {
+      "unitId": "grade4-lower-unit-02",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 44,
+      "audioLines": 915
+    },
+    {
+      "unitId": "grade4-lower-unit-03",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 42,
+      "audioLines": 1129
+    },
+    {
+      "unitId": "grade4-lower-unit-04",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 928
+    },
+    {
+      "unitId": "grade4-lower-unit-05",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 43,
+      "audioLines": 860
+    },
+    {
+      "unitId": "grade4-lower-unit-06",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 51,
+      "audioLines": 995
+    },
+    {
+      "unitId": "grade4-lower-unit-07",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 55,
+      "audioLines": 1081
+    },
+    {
+      "unitId": "grade4-lower-unit-08",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 826
+    },
+    {
+      "unitId": "grade4-upper-extras",
+      "videoTracks": 0,
+      "audioTracks": 4,
+      "videoLines": 0,
+      "audioLines": 102
+    },
+    {
+      "unitId": "grade4-upper-unit-01",
+      "videoTracks": 3,
+      "audioTracks": 9,
+      "videoLines": 38,
+      "audioLines": 232
+    },
+    {
+      "unitId": "grade4-upper-unit-02",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 37,
+      "audioLines": 101
+    },
+    {
+      "unitId": "grade4-upper-unit-03",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 47,
+      "audioLines": 49
+    },
+    {
+      "unitId": "grade4-upper-unit-04",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 55,
+      "audioLines": 53
+    },
+    {
+      "unitId": "grade4-upper-unit-05",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 44,
+      "audioLines": 48
+    },
+    {
+      "unitId": "grade4-upper-unit-06",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 27,
+      "audioLines": 72
+    },
+    {
+      "unitId": "grade4-upper-unit-07",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 46,
+      "audioLines": 83
+    },
+    {
+      "unitId": "grade4-upper-unit-08",
+      "videoTracks": 3,
+      "audioTracks": 1,
+      "videoLines": 34,
+      "audioLines": 43
+    },
+    {
+      "unitId": "grade5-lower-unit-01",
+      "videoTracks": 3,
+      "audioTracks": 3,
+      "videoLines": 54,
+      "audioLines": 1123
+    },
+    {
+      "unitId": "grade5-lower-unit-02",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 43,
+      "audioLines": 938
+    },
+    {
+      "unitId": "grade5-lower-unit-03",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 36,
+      "audioLines": 896
+    },
+    {
+      "unitId": "grade5-lower-unit-04",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 37,
+      "audioLines": 812
+    },
+    {
+      "unitId": "grade5-lower-unit-05",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 42,
+      "audioLines": 842
+    },
+    {
+      "unitId": "grade5-lower-unit-06",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 790
+    },
+    {
+      "unitId": "grade5-lower-unit-07",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 737
+    },
+    {
+      "unitId": "grade5-lower-unit-08",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 49,
+      "audioLines": 957
+    },
+    {
+      "unitId": "grade5-lower-unit-09",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 53,
+      "audioLines": 1069
+    },
+    {
+      "unitId": "grade5-lower-unit-10",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 31,
+      "audioLines": 662
+    },
+    {
+      "unitId": "grade5-lower-unit-11",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 25,
+      "audioLines": 588
+    },
+    {
+      "unitId": "grade5-lower-unit-12",
+      "videoTracks": 1,
+      "audioTracks": 4,
+      "videoLines": 28,
+      "audioLines": 505
+    },
+    {
+      "unitId": "grade5-upper-unit-01",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 100,
+      "audioLines": 49
+    },
+    {
+      "unitId": "grade5-upper-unit-02",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 117,
+      "audioLines": 83
+    },
+    {
+      "unitId": "grade5-upper-unit-03",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 150,
+      "audioLines": 143
+    },
+    {
+      "unitId": "grade5-upper-unit-04",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 114,
+      "audioLines": 42
+    },
+    {
+      "unitId": "grade5-upper-unit-05",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 154,
+      "audioLines": 145
+    },
+    {
+      "unitId": "grade5-upper-unit-06",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 130,
+      "audioLines": 116
+    },
+    {
+      "unitId": "grade5-upper-unit-07",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 140,
+      "audioLines": 159
+    },
+    {
+      "unitId": "grade5-upper-unit-08",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 124,
+      "audioLines": 134
+    },
+    {
+      "unitId": "grade5-upper-unit-09",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 109,
+      "audioLines": 105
+    },
+    {
+      "unitId": "grade5-upper-unit-10",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 105,
+      "audioLines": 120
+    },
+    {
+      "unitId": "grade5-upper-unit-11",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 113,
+      "audioLines": 101
+    },
+    {
+      "unitId": "grade5-upper-unit-12",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 114,
+      "audioLines": 107
+    },
+    {
+      "unitId": "grade6-lower-unit-01",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 41,
+      "audioLines": 869
+    },
+    {
+      "unitId": "grade6-lower-unit-02",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 1006
+    },
+    {
+      "unitId": "grade6-lower-unit-03",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 31,
+      "audioLines": 681
+    },
+    {
+      "unitId": "grade6-lower-unit-04",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 35,
+      "audioLines": 800
+    },
+    {
+      "unitId": "grade6-lower-unit-05",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 41,
+      "audioLines": 829
+    },
+    {
+      "unitId": "grade6-lower-unit-06",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 24,
+      "audioLines": 711
+    },
+    {
+      "unitId": "grade6-lower-unit-07",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 45,
+      "audioLines": 778
+    },
+    {
+      "unitId": "grade6-lower-unit-08",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 40,
+      "audioLines": 785
+    },
+    {
+      "unitId": "grade6-lower-unit-09",
+      "videoTracks": 3,
+      "audioTracks": 4,
+      "videoLines": 44,
+      "audioLines": 756
+    },
+    {
+      "unitId": "grade6-lower-unit-10",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 43,
+      "audioLines": 764
+    },
+    {
+      "unitId": "grade6-lower-unit-11",
+      "videoTracks": 2,
+      "audioTracks": 4,
+      "videoLines": 22,
+      "audioLines": 783
+    },
+    {
+      "unitId": "grade6-lower-unit-12",
+      "videoTracks": 1,
+      "audioTracks": 4,
+      "videoLines": 31,
+      "audioLines": 483
+    },
+    {
+      "unitId": "grade6-upper-unit-01",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 85,
+      "audioLines": 90
+    },
+    {
+      "unitId": "grade6-upper-unit-02",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 93,
+      "audioLines": 76
+    },
+    {
+      "unitId": "grade6-upper-unit-03",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 124,
+      "audioLines": 144
+    },
+    {
+      "unitId": "grade6-upper-unit-04",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 106,
+      "audioLines": 170
+    },
+    {
+      "unitId": "grade6-upper-unit-05",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 119,
+      "audioLines": 136
+    },
+    {
+      "unitId": "grade6-upper-unit-06",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 92,
+      "audioLines": 70
+    },
+    {
+      "unitId": "grade6-upper-unit-07",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 176,
+      "audioLines": 185
+    },
+    {
+      "unitId": "grade6-upper-unit-08",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 172,
+      "audioLines": 146
+    },
+    {
+      "unitId": "grade6-upper-unit-09",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 120,
+      "audioLines": 105
+    },
+    {
+      "unitId": "grade6-upper-unit-10",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 276,
+      "audioLines": 84
+    },
+    {
+      "unitId": "grade6-upper-unit-11",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 94,
+      "audioLines": 83
+    },
+    {
+      "unitId": "grade6-upper-unit-12",
+      "videoTracks": 1,
+      "audioTracks": 2,
+      "videoLines": 182,
+      "audioLines": 206
+    }
+  ],
+  "totals": {
+    "units": 112,
+    "videoTracks": 268,
+    "audioTracks": 417,
+    "videoLines": 6582,
+    "audioLines": 42573,
+    "issues": 0
+  }
+}

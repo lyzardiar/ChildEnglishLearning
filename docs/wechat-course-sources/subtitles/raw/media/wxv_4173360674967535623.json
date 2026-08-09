@@ -1,0 +1,395 @@
+{
+  "RequestId": "2fa6d326-d443-4241-a672-b33fcc573db7",
+  "Data": {
+    "TaskId": 16292426011,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 48.32075,
+    "Result": "A big fish.Let's go fishing. Okay, mum, what's this mum? Shh, what's this mum? Where's little cat? I'm sorry mom. Look mom a big fish. Well done.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A big fish.",
+        "SliceSentence": "A big fish .",
+        "WrittenText": "",
+        "StartMs": 360,
+        "EndMs": 1580,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 405,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 740,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's go fishing.",
+        "SliceSentence": "Let's go fishing .",
+        "WrittenText": "",
+        "StartMs": 3560,
+        "EndMs": 7000,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2415,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 2415,
+            "OffsetEndMs": 2780,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3040,
+            "OffsetEndMs": 3440,
+            "Word": "fishing"
+          },
+          {
+            "OffsetStartMs": 3040,
+            "OffsetEndMs": 3440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 8430,
+        "EndMs": 8810,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mum,",
+        "SliceSentence": "mum ,",
+        "WrittenText": "",
+        "StartMs": 8810,
+        "EndMs": 9190,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's this mum?",
+        "SliceSentence": "what's this mum ?",
+        "WrittenText": "",
+        "StartMs": 14790,
+        "EndMs": 15970,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Shh,",
+        "SliceSentence": "Shh ,",
+        "WrittenText": "",
+        "StartMs": 16500,
+        "EndMs": 16930,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Shh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's this mum?",
+        "SliceSentence": "what's this mum ?",
+        "WrittenText": "",
+        "StartMs": 25470,
+        "EndMs": 26710,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where's little cat?",
+        "SliceSentence": "Where's little cat ?",
+        "WrittenText": "",
+        "StartMs": 29760,
+        "EndMs": 31690,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 935,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1300,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm sorry mom.",
+        "SliceSentence": "I'm sorry mom .",
+        "WrittenText": "",
+        "StartMs": 37470,
+        "EndMs": 38860,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "sorry"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look mom a big fish.",
+        "SliceSentence": "Look mom a big fish .",
+        "WrittenText": "",
+        "StartMs": 41850,
+        "EndMs": 44020,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1490,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1775,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Well done.",
+        "SliceSentence": "Well done .",
+        "WrittenText": "",
+        "StartMs": 44730,
+        "EndMs": 45790,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Well"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "done"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

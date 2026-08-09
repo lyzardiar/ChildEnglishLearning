@@ -1,0 +1,375 @@
+{
+  "RequestId": "8e4938bc-d3fd-4ad2-88b5-65eedca7bdbf",
+  "Data": {
+    "TaskId": 16292577529,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 25.077563,
+    "Result": "Alice has a pen holder. She got it from her friend Anne. Anne made the pen holder with paper and a can. Tony made a paper doorknob and put it on the door. But every time he opens the door, the doorknob falls onto the floor.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Alice has a pen holder.",
+        "SliceSentence": "Alice has a pen holder .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3390,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2175,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2175,
+            "OffsetEndMs": 2460,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2745,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 2745,
+            "OffsetEndMs": 3390,
+            "Word": "holder"
+          },
+          {
+            "OffsetStartMs": 2745,
+            "OffsetEndMs": 3390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She got it from her friend Anne.",
+        "SliceSentence": "She got it from her friend Anne .",
+        "WrittenText": "",
+        "StartMs": 3390,
+        "EndMs": 5720,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 585,
+            "Word": "got"
+          },
+          {
+            "OffsetStartMs": 585,
+            "OffsetEndMs": 900,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1185,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1470,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "Anne"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Anne made the pen holder with paper and a can.",
+        "SliceSentence": "Anne made the pen holder with paper and a can .",
+        "WrittenText": "",
+        "StartMs": 5920,
+        "EndMs": 9890,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Anne"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": "made"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2315,
+            "Word": "holder"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2480,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2770,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3365,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3970,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tony made a paper doorknob and put it on the door.",
+        "SliceSentence": "Tony made a paper doorknob and put it on the door .",
+        "WrittenText": "",
+        "StartMs": 11860,
+        "EndMs": 15920,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Tony"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1040,
+            "Word": "made"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1660,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2510,
+            "Word": "doorknob"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2615,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2825,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3110,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3425,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3725,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4060,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But every time he opens the door,",
+        "SliceSentence": "But every time he opens the door ,",
+        "WrittenText": "",
+        "StartMs": 16450,
+        "EndMs": 18915,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1505,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "opens"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2210,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2465,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2465,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the doorknob falls onto the floor.",
+        "SliceSentence": "the doorknob falls onto the floor .",
+        "WrittenText": "",
+        "StartMs": 18915,
+        "EndMs": 21290,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 285,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 930,
+            "Word": "doorknob"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1170,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1565,
+            "Word": "onto"
+          },
+          {
+            "OffsetStartMs": 1735,
+            "OffsetEndMs": 2055,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2375,
+            "Word": "floor"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2375,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

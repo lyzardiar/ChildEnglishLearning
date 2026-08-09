@@ -1,0 +1,467 @@
+{
+  "RequestId": "5965ea83-8510-4f8f-ae30-d8a850e5a29b",
+  "Data": {
+    "TaskId": 16292442191,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 33.459938,
+    "Result": "At.At.I have a little cat. It's cute and fat. Where is my cat? Oh, it's under my hat. I have a little cat. It's cute and fat. Where is my cat? Oh, it's under my hat.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "At.",
+        "SliceSentence": "At .",
+        "WrittenText": "",
+        "StartMs": 520,
+        "EndMs": 960,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "At.",
+        "SliceSentence": "At .",
+        "WrittenText": "",
+        "StartMs": 1940,
+        "EndMs": 2260,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I have a little cat.",
+        "SliceSentence": "I have a little cat .",
+        "WrittenText": "",
+        "StartMs": 4120,
+        "EndMs": 9690,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3520,
+            "OffsetEndMs": 3920,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4400,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 4420,
+            "OffsetEndMs": 4740,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5060,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 5170,
+            "OffsetEndMs": 5570,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 5170,
+            "OffsetEndMs": 5570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cute and fat.",
+        "SliceSentence": "It's cute and fat .",
+        "WrittenText": "",
+        "StartMs": 10040,
+        "EndMs": 11550,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 890,
+            "Word": "cute"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1175,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "fat"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is my cat?",
+        "SliceSentence": "Where is my cat ?",
+        "WrittenText": "",
+        "StartMs": 12440,
+        "EndMs": 13920,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1160,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 14690,
+        "EndMs": 15090,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's under my hat.",
+        "SliceSentence": "it's under my hat .",
+        "WrittenText": "",
+        "StartMs": 15680,
+        "EndMs": 17430,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 700,
+            "Word": "under"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "hat"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a little cat.",
+        "SliceSentence": "I have a little cat .",
+        "WrittenText": "",
+        "StartMs": 20810,
+        "EndMs": 22950,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 920,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1235,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cute and fat.",
+        "SliceSentence": "It's cute and fat .",
+        "WrittenText": "",
+        "StartMs": 23210,
+        "EndMs": 24810,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 890,
+            "Word": "cute"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1235,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "fat"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is my cat?",
+        "SliceSentence": "Where is my cat ?",
+        "WrittenText": "",
+        "StartMs": 25580,
+        "EndMs": 27150,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 950,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1250,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 27980,
+        "EndMs": 28380,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's under my hat.",
+        "SliceSentence": "it's under my hat .",
+        "WrittenText": "",
+        "StartMs": 28850,
+        "EndMs": 30630,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "under"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "hat"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

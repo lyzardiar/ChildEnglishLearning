@@ -1,5 +1,6 @@
 const app = getApp()
 const speech = require('../../utils/speech')
+const bookData = require('../../data/index.js')
 
 Page({
   data: {
@@ -7,25 +8,20 @@ Page({
       {
         id: 'listen-match',
         name: '听音选词',
-        icon: '👂',
+        icon: '♪',
         desc: '听单词，选出正确的选项',
-        color: '#4A90D9'
+        color: '#1677C8'
       },
       {
-        id: 'pair-match',
-        name: '图片配对',
-        icon: '🃏',
-        desc: '把单词和图片配成对',
-        color: '#52C41A'
-      },
-      {
-        id: 'whack-mole',
-        name: '打地鼠',
-        icon: '🔨',
-        desc: '听到单词，快速点击对应地鼠',
-        color: '#FAAD14'
+        id: 'meaning-match',
+        name: '中英配对',
+        icon: '中',
+        desc: '看中文，选出对应英文',
+        color: '#E85D4A'
       }
     ],
+    grades: bookData.getGrades(),
+    grade: 1,
     semester: 'upper',
     unitIndex: 0,
     units: [],
@@ -37,10 +33,15 @@ Page({
     // 听音选词
     listenMatchCorrect: '',
     listenMatchOptions: [],
+    promptChinese: '',
     lastAnswerCorrect: null
   },
 
   onLoad() {
+    const child = app.globalData.currentChild
+    const grade = Number(child && child.grade) || Number(wx.getStorageSync('currentGrade')) || 1
+    const semester = (child && child.semester) || wx.getStorageSync('currentSemester') || 'upper'
+    this.setData({ grade, semester })
     this.loadUnits()
   },
 
@@ -51,9 +52,13 @@ Page({
   },
 
   loadUnits() {
-    const bookData = require('../../data/index.js')
-    const book = bookData.getBook(this.data.semester)
+    const book = bookData.getBook(this.data.semester, this.data.grade)
     this.setData({ units: book.units || [] })
+  },
+
+  onSwitchGrade(e) {
+    this.setData({ grade: Number(e.currentTarget.dataset.grade), unitIndex: 0 })
+    this.loadUnits()
   },
 
   // 切换学期
@@ -78,8 +83,7 @@ Page({
 
   startGame(gameId) {
     const { semester, unitIndex } = this.data
-    const bookData = require('../../data/index.js')
-    const data = bookData.getBook(semester)
+    const data = bookData.getBook(semester, this.data.grade)
     const unit = data.units[unitIndex]
     const words = unit ? unit.words || [] : []
 
@@ -96,11 +100,8 @@ Page({
       case 'listen-match':
         this.startListenMatch()
         break
-      case 'pair-match':
-        this.startPairMatch()
-        break
-      case 'whack-mole':
-        this.startWhackMole()
+      case 'meaning-match':
+        this.nextMeaningMatchRound()
         break
     }
   },
@@ -164,21 +165,41 @@ Page({
     setTimeout(() => this.nextListenMatchRound(), 1000)
   },
 
-  // === 图片配对 ===
-  startPairMatch() {
-    wx.showToast({ title: '开发中，敬请期待', icon: 'none' })
-    this.setData({ currentGame: null })
+  nextMeaningMatchRound() {
+    const { gameRound, totalRounds } = this.data
+    if (gameRound >= totalRounds) {
+      this.onGameComplete()
+      return
+    }
+
+    const words = this.gameWords
+    const correct = words[Math.floor(Math.random() * words.length)]
+    const options = [correct]
+    while (options.length < Math.min(4, words.length)) {
+      const candidate = words[Math.floor(Math.random() * words.length)]
+      if (!options.some(item => item.english === candidate.english)) options.push(candidate)
+    }
+    options.sort(() => Math.random() - 0.5)
+    this.setData({
+      gameRound: gameRound + 1,
+      promptChinese: correct.chinese,
+      listenMatchCorrect: correct.english,
+      listenMatchOptions: options,
+      lastAnswerCorrect: null
+    })
   },
 
-  // === 打地鼠 ===
-  startWhackMole() {
-    wx.showToast({ title: '开发中，敬请期待', icon: 'none' })
-    this.setData({ currentGame: null })
+  onMeaningMatchAnswer(e) {
+    const answer = e.currentTarget.dataset.english
+    const correct = answer === this.data.listenMatchCorrect
+    this.setData({ gameScore: this.data.gameScore + (correct ? 1 : 0), lastAnswerCorrect: correct })
+    wx.vibrateShort({ type: correct ? 'medium' : 'heavy' })
+    setTimeout(() => this.nextMeaningMatchRound(), 900)
   },
 
   // 游戏完成
   async onGameComplete() {
-    const { gameScore, totalRounds, semester, unitIndex } = this.data
+    const { gameScore, totalRounds, grade, semester, unitIndex } = this.data
     const currentChild = app.globalData.currentChild
 
     // 保存游戏分数到云数据库
@@ -189,6 +210,7 @@ Page({
           data: {
             action: 'save',
             childId: currentChild._id,
+            grade,
             semester,
             unitIndex,
             type: 'game',

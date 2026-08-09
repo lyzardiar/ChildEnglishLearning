@@ -1,0 +1,965 @@
+{
+  "RequestId": "c3a59a5d-339c-417c-85be-be69cba7437f",
+  "Data": {
+    "TaskId": 16292513213,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 84.776063,
+    "Result": "Look at your bedroom. What a mess. Let's tidy it up. Sure, Sally, whose socks are those? Are they yours? Peter no, they aren't. They're paul's.Can you put them on his bed? Sure. Whose cap is this? It's mine. There's a t shirt. Is this yours too, Peter? No, it's paul's. Can you put it on his bed?Sure, the room is now clean and tidy. Thank you for your help, Sally. You're welcome, Peter.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Look at your bedroom.",
+        "SliceSentence": "Look at your bedroom .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 12830,
+        "SpeechSpeed": 1.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 11470,
+            "OffsetEndMs": 11790,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 11790,
+            "OffsetEndMs": 12015,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 12015,
+            "OffsetEndMs": 12320,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 12430,
+            "OffsetEndMs": 12830,
+            "Word": "bedroom"
+          },
+          {
+            "OffsetStartMs": 12430,
+            "OffsetEndMs": 12830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What a mess.",
+        "SliceSentence": "What a mess .",
+        "WrittenText": "",
+        "StartMs": 13690,
+        "EndMs": 14720,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "mess"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's tidy it up.",
+        "SliceSentence": "Let's tidy it up .",
+        "WrittenText": "",
+        "StartMs": 15820,
+        "EndMs": 17330,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 1085,
+            "Word": "tidy"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1235,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1510,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sure,",
+        "SliceSentence": "Sure ,",
+        "WrittenText": "",
+        "StartMs": 18010,
+        "EndMs": 18410,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sure"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sally,",
+        "SliceSentence": "Sally ,",
+        "WrittenText": "",
+        "StartMs": 18610,
+        "EndMs": 19340,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Sally"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " whose socks are those?",
+        "SliceSentence": "whose socks are those ?",
+        "WrittenText": "",
+        "StartMs": 21460,
+        "EndMs": 22820,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "whose"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 815,
+            "Word": "socks"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1085,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "those"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Are they yours?",
+        "SliceSentence": "Are they yours ?",
+        "WrittenText": "",
+        "StartMs": 23530,
+        "EndMs": 24410,
+        "SpeechSpeed": 17,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 880,
+            "Word": "yours"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 880,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Peter no,",
+        "SliceSentence": "Peter no ,",
+        "WrittenText": "",
+        "StartMs": 24460,
+        "EndMs": 27410,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they aren't.",
+        "SliceSentence": "they aren't .",
+        "WrittenText": "",
+        "StartMs": 27760,
+        "EndMs": 28820,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1060,
+            "Word": "aren't"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They're paul's.",
+        "SliceSentence": "They're paul's .",
+        "WrittenText": "",
+        "StartMs": 28900,
+        "EndMs": 30140,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "They're"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 1240,
+            "Word": "paul's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Can you put them on his bed?",
+        "SliceSentence": "Can you put them on his bed ?",
+        "WrittenText": "",
+        "StartMs": 30900,
+        "EndMs": 32960,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 435,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 675,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 900,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1140,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1410,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1710,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2060,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2060,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sure.",
+        "SliceSentence": "Sure .",
+        "WrittenText": "",
+        "StartMs": 34270,
+        "EndMs": 34670,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sure"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Whose cap is this?",
+        "SliceSentence": "Whose cap is this ?",
+        "WrittenText": "",
+        "StartMs": 40420,
+        "EndMs": 41810,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Whose"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "cap"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1070,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1390,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's mine.",
+        "SliceSentence": "It's mine .",
+        "WrittenText": "",
+        "StartMs": 46120,
+        "EndMs": 46940,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "mine"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's a t shirt.",
+        "SliceSentence": "There's a t shirt .",
+        "WrittenText": "",
+        "StartMs": 48610,
+        "EndMs": 49880,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 620,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 890,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1270,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is this yours too,",
+        "SliceSentence": "Is this yours too ,",
+        "WrittenText": "",
+        "StartMs": 50260,
+        "EndMs": 51765,
+        "SpeechSpeed": 12,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 970,
+            "Word": "yours"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1505,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1505,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Peter?",
+        "SliceSentence": "Peter ?",
+        "WrittenText": "",
+        "StartMs": 51765,
+        "EndMs": 52160,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 55480,
+        "EndMs": 55880,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's paul's.",
+        "SliceSentence": "it's paul's .",
+        "WrittenText": "",
+        "StartMs": 56110,
+        "EndMs": 57470,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 1360,
+            "Word": "paul's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you put it on his bed?",
+        "SliceSentence": "Can you put it on his bed ?",
+        "WrittenText": "",
+        "StartMs": 59110,
+        "EndMs": 60920,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 770,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 965,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1205,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1475,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1810,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1810,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sure,",
+        "SliceSentence": "Sure ,",
+        "WrittenText": "",
+        "StartMs": 62540,
+        "EndMs": 66070,
+        "SpeechSpeed": 1.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 3130,
+            "OffsetEndMs": 3530,
+            "Word": "Sure"
+          },
+          {
+            "OffsetStartMs": 3130,
+            "OffsetEndMs": 3530,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the room is now clean and tidy.",
+        "SliceSentence": "the room is now clean and tidy .",
+        "WrittenText": "",
+        "StartMs": 73500,
+        "EndMs": 76360,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 605,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 935,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2060,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2860,
+            "Word": "tidy"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you for your help,",
+        "SliceSentence": "Thank you for your help ,",
+        "WrittenText": "",
+        "StartMs": 76740,
+        "EndMs": 77960,
+        "SpeechSpeed": 19.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 785,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 950,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1220,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1220,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sally.",
+        "SliceSentence": "Sally .",
+        "WrittenText": "",
+        "StartMs": 77960,
+        "EndMs": 78610,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "Sally"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're welcome,",
+        "SliceSentence": "You're welcome ,",
+        "WrittenText": "",
+        "StartMs": 79170,
+        "EndMs": 79930,
+        "SpeechSpeed": 19.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Peter.",
+        "SliceSentence": "Peter .",
+        "WrittenText": "",
+        "StartMs": 80100,
+        "EndMs": 80500,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

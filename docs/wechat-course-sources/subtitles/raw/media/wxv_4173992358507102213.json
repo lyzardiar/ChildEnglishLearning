@@ -1,0 +1,444 @@
+{
+  "RequestId": "9c8702c7-609e-4c6c-95de-e991c0db2ba3",
+  "Data": {
+    "TaskId": 16292511205,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 36.966188,
+    "Result": "The double ninth festival this is a famous poem about the double ninth festival. On this day, families climb mountains. Together, they drink flower tea and eat chongyang cakes. People also visit their parents or grandparents. They bring them gifts and help them at home. Then they have a family dinner.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The double ninth festival this is a famous poem about the double ninth festival.",
+        "SliceSentence": "The double ninth festival this is a famous poem about the double ninth festival .",
+        "WrittenText": "",
+        "StartMs": 300,
+        "EndMs": 8840,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 570,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 890,
+            "Word": "double"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1755,
+            "Word": "ninth"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2120,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 4330,
+            "OffsetEndMs": 4730,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 4810,
+            "OffsetEndMs": 5130,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5130,
+            "OffsetEndMs": 5355,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5355,
+            "OffsetEndMs": 5660,
+            "Word": "famous"
+          },
+          {
+            "OffsetStartMs": 5890,
+            "OffsetEndMs": 6290,
+            "Word": "poem"
+          },
+          {
+            "OffsetStartMs": 6730,
+            "OffsetEndMs": 7065,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 7065,
+            "OffsetEndMs": 7290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7290,
+            "OffsetEndMs": 7580,
+            "Word": "double"
+          },
+          {
+            "OffsetStartMs": 7630,
+            "OffsetEndMs": 8205,
+            "Word": "ninth"
+          },
+          {
+            "OffsetStartMs": 8205,
+            "OffsetEndMs": 8540,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 8205,
+            "OffsetEndMs": 8540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On this day,",
+        "SliceSentence": "On this day ,",
+        "WrittenText": "",
+        "StartMs": 10660,
+        "EndMs": 11690,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " families climb mountains.",
+        "SliceSentence": "families climb mountains .",
+        "WrittenText": "",
+        "StartMs": 12010,
+        "EndMs": 13610,
+        "SpeechSpeed": 15.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1205,
+            "Word": "climb"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1600,
+            "Word": "mountains"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Together,",
+        "SliceSentence": "Together ,",
+        "WrittenText": "",
+        "StartMs": 14170,
+        "EndMs": 14570,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Together"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they drink flower tea and eat chongyang cakes.",
+        "SliceSentence": "they drink flower tea and eat chongyang cakes .",
+        "WrittenText": "",
+        "StartMs": 15700,
+        "EndMs": 19310,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2210,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2495,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 3200,
+            "Word": "chongyang"
+          },
+          {
+            "OffsetStartMs": 3200,
+            "OffsetEndMs": 3610,
+            "Word": "cakes"
+          },
+          {
+            "OffsetStartMs": 3200,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People also visit their parents or grandparents.",
+        "SliceSentence": "People also visit their parents or grandparents .",
+        "WrittenText": "",
+        "StartMs": 21010,
+        "EndMs": 24800,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1790,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2110,
+            "Word": "parents"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2675,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3790,
+            "Word": "grandparents"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They bring them gifts and help them at home.",
+        "SliceSentence": "They bring them gifts and help them at home .",
+        "WrittenText": "",
+        "StartMs": 26110,
+        "EndMs": 29930,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "bring"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1130,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1510,
+            "Word": "gifts"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2465,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2810,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 2810,
+            "OffsetEndMs": 3170,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 3170,
+            "OffsetEndMs": 3485,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3485,
+            "OffsetEndMs": 3820,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3485,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then they have a family dinner.",
+        "SliceSentence": "Then they have a family dinner .",
+        "WrittenText": "",
+        "StartMs": 31420,
+        "EndMs": 33590,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 665,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "dinner"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

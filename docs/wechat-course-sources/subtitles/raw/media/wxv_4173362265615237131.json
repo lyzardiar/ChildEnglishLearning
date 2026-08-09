@@ -1,0 +1,666 @@
+{
+  "RequestId": "2d226d23-eb1f-4411-902a-badbddd525b6",
+  "Data": {
+    "TaskId": 16292426875,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.1165,
+    "Result": "P.S.S.S s.Toe.Snake.Snake.The.T.T.T t.Toe.Wow.Tiger.Tiger.S for snake t for tiger who is the king? The snake or the tiger? S for snake t for tiger who is the king, the snake or the tiger?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 620,
+        "EndMs": 1060,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "S.",
+        "SliceSentence": "S .",
+        "WrittenText": "",
+        "StartMs": 2020,
+        "EndMs": 2430,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "S"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "S.",
+        "SliceSentence": "S .",
+        "WrittenText": "",
+        "StartMs": 3440,
+        "EndMs": 3730,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "S"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "S s.",
+        "SliceSentence": "S s .",
+        "WrittenText": "",
+        "StartMs": 5180,
+        "EndMs": 6670,
+        "SpeechSpeed": 2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "S"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "s"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 8140,
+        "EndMs": 8550,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Snake.",
+        "SliceSentence": "Snake .",
+        "WrittenText": "",
+        "StartMs": 12280,
+        "EndMs": 12930,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Snake"
+          },
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Snake.",
+        "SliceSentence": "Snake .",
+        "WrittenText": "",
+        "StartMs": 13820,
+        "EndMs": 14500,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Snake"
+          },
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 17720,
+        "EndMs": 17920,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "T.",
+        "SliceSentence": "T .",
+        "WrittenText": "",
+        "StartMs": 19240,
+        "EndMs": 19710,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "T.",
+        "SliceSentence": "T .",
+        "WrittenText": "",
+        "StartMs": 20560,
+        "EndMs": 20880,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "T t.",
+        "SliceSentence": "T t .",
+        "WrittenText": "",
+        "StartMs": 22280,
+        "EndMs": 23680,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 24960,
+        "EndMs": 25370,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wow.",
+        "SliceSentence": "Wow .",
+        "WrittenText": "",
+        "StartMs": 26840,
+        "EndMs": 27310,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Wow"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tiger.",
+        "SliceSentence": "Tiger .",
+        "WrittenText": "",
+        "StartMs": 29280,
+        "EndMs": 29570,
+        "SpeechSpeed": 17.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Tiger"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tiger.",
+        "SliceSentence": "Tiger .",
+        "WrittenText": "",
+        "StartMs": 30580,
+        "EndMs": 31020,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Tiger"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "S for snake t for tiger who is the king?",
+        "SliceSentence": "S for snake t for tiger who is the king ?",
+        "WrittenText": "",
+        "StartMs": 34360,
+        "EndMs": 42690,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "S"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3650,
+            "Word": "snake"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 4960,
+            "OffsetEndMs": 5360,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 5560,
+            "OffsetEndMs": 5960,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 6790,
+            "OffsetEndMs": 7190,
+            "Word": "who"
+          },
+          {
+            "OffsetStartMs": 7390,
+            "OffsetEndMs": 7785,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7785,
+            "OffsetEndMs": 8055,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8055,
+            "OffsetEndMs": 8330,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 8055,
+            "OffsetEndMs": 8330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The snake or the tiger?",
+        "SliceSentence": "The snake or the tiger ?",
+        "WrittenText": "",
+        "StartMs": 43310,
+        "EndMs": 45090,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "snake"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1205,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1780,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " S for snake t for tiger who is the king,",
+        "SliceSentence": "S for snake t for tiger who is the king ,",
+        "WrittenText": "",
+        "StartMs": 48350,
+        "EndMs": 54720,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "S"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "snake"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5110,
+            "Word": "who"
+          },
+          {
+            "OffsetStartMs": 5340,
+            "OffsetEndMs": 5720,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5720,
+            "OffsetEndMs": 6035,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6035,
+            "OffsetEndMs": 6370,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 6035,
+            "OffsetEndMs": 6370,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the snake or the tiger?",
+        "SliceSentence": "the snake or the tiger ?",
+        "WrittenText": "",
+        "StartMs": 55220,
+        "EndMs": 57060,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "snake"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1205,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1520,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

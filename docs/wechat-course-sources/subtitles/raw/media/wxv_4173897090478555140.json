@@ -1,0 +1,1221 @@
+{
+  "RequestId": "bcaef976-af93-48da-bd3c-99cf60e4cfdb",
+  "Data": {
+    "TaskId": 16292504786,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 111.943438,
+    "Result": "Let's go shopping. We need to buy some food. Let's play a game. We have 60 Yuan. Here's the shopping list for each team. The faster team can buy some candy. We need some bread and a box of eggs. Here they are. How much are the eggs? They're 15 Yuan and the bread is 12 Yuan. We need some apples. Here they are, right? And some carrots.Okay, great. How much are they? This bag of apples is 12 Yuan. This bag of carrots is five Yuan. Oh no, dad, we win. Mom, we still have 16 Yuan. What would you like? Chen Lei? I'd like a bar of chocolate. I can share it with you all. Thanks.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Let's go shopping.",
+        "SliceSentence": "Let's go shopping .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2270,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 980,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We need to buy some food.",
+        "SliceSentence": "We need to buy some food .",
+        "WrittenText": "",
+        "StartMs": 6820,
+        "EndMs": 9350,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1385,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1720,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2150,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2530,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's play a game.",
+        "SliceSentence": "Let's play a game .",
+        "WrittenText": "",
+        "StartMs": 10540,
+        "EndMs": 12020,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 905,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1480,
+            "Word": "game"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have 60 Yuan.",
+        "SliceSentence": "We have 60 Yuan .",
+        "WrittenText": "",
+        "StartMs": 12940,
+        "EndMs": 16980,
+        "SpeechSpeed": 4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 2140,
+            "Word": "60"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4040,
+            "Word": "Yuan"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here's the shopping list for each team.",
+        "SliceSentence": "Here'sthe shopping list for each team .",
+        "WrittenText": "",
+        "StartMs": 16980,
+        "EndMs": 18950,
+        "SpeechSpeed": 19.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 165,
+            "Word": "Here'sthe"
+          },
+          {
+            "OffsetStartMs": 165,
+            "OffsetEndMs": 440,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 900,
+            "Word": "list"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1230,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1575,
+            "Word": "each"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1970,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The faster team can buy some candy.",
+        "SliceSentence": "The faster team can buy some candy .",
+        "WrittenText": "",
+        "StartMs": 20050,
+        "EndMs": 22580,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 550,
+            "Word": "faster"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1160,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1520,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1880,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2195,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2530,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We need some bread and a box of eggs.",
+        "SliceSentence": "We need some bread and a box of eggs .",
+        "WrittenText": "",
+        "StartMs": 25150,
+        "EndMs": 29060,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1475,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1870,
+            "Word": "bread"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2450,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2750,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3545,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 3545,
+            "OffsetEndMs": 3910,
+            "Word": "eggs"
+          },
+          {
+            "OffsetStartMs": 3545,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here they are.",
+        "SliceSentence": "Here they are .",
+        "WrittenText": "",
+        "StartMs": 31030,
+        "EndMs": 32120,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How much are the eggs?",
+        "SliceSentence": "How much are the eggs ?",
+        "WrittenText": "",
+        "StartMs": 33340,
+        "EndMs": 35180,
+        "SpeechSpeed": 12,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1355,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1565,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1840,
+            "Word": "eggs"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They're 15 Yuan and the bread is 12 Yuan.",
+        "SliceSentence": "They're 15 Yuanand the bread is 12 Yuan .",
+        "WrittenText": "",
+        "StartMs": 39910,
+        "EndMs": 51675,
+        "SpeechSpeed": 3.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "They're"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 2170,
+            "Word": "15"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "Yuanand"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3890,
+            "OffsetEndMs": 4240,
+            "Word": "bread"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 4810,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 6100,
+            "Word": "12"
+          },
+          {
+            "OffsetStartMs": 11460,
+            "OffsetEndMs": 11765,
+            "Word": "Yuan"
+          },
+          {
+            "OffsetStartMs": 11460,
+            "OffsetEndMs": 11765,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We need some apples.",
+        "SliceSentence": "Weneed some apples .",
+        "WrittenText": "",
+        "StartMs": 51675,
+        "EndMs": 52670,
+        "SpeechSpeed": 20.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 300,
+            "Word": "Weneed"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 645,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 995,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 995,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here they are,",
+        "SliceSentence": "Here they are ,",
+        "WrittenText": "",
+        "StartMs": 54280,
+        "EndMs": 55310,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 695,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " right?",
+        "SliceSentence": "right ?",
+        "WrittenText": "",
+        "StartMs": 56770,
+        "EndMs": 57170,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " And some carrots.",
+        "SliceSentence": "And some carrots .",
+        "WrittenText": "",
+        "StartMs": 58690,
+        "EndMs": 60140,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 770,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1450,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 60460,
+        "EndMs": 62220,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1760,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " great.",
+        "SliceSentence": "great .",
+        "WrittenText": "",
+        "StartMs": 66290,
+        "EndMs": 66690,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How much are they?",
+        "SliceSentence": "How much are they ?",
+        "WrittenText": "",
+        "StartMs": 67790,
+        "EndMs": 69060,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 935,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This bag of apples is 12 Yuan.",
+        "SliceSentence": "This bag of apples is 12 Yuan .",
+        "WrittenText": "",
+        "StartMs": 70640,
+        "EndMs": 76090,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1205,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1540,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3730,
+            "Word": "12"
+          },
+          {
+            "OffsetStartMs": 5070,
+            "OffsetEndMs": 5450,
+            "Word": "Yuan"
+          },
+          {
+            "OffsetStartMs": 5070,
+            "OffsetEndMs": 5450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This bag of carrots is five Yuan.",
+        "SliceSentence": "Thisbag of carrots is five Yuan .",
+        "WrittenText": "",
+        "StartMs": 76090,
+        "EndMs": 79320,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 375,
+            "Word": "Thisbag"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 690,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1370,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2130,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2510,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 2680,
+            "OffsetEndMs": 3230,
+            "Word": "Yuan"
+          },
+          {
+            "OffsetStartMs": 2680,
+            "OffsetEndMs": 3230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 82550,
+        "EndMs": 83430,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " dad,",
+        "SliceSentence": "dad ,",
+        "WrittenText": "",
+        "StartMs": 83600,
+        "EndMs": 84000,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we win.",
+        "SliceSentence": "we win .",
+        "WrittenText": "",
+        "StartMs": 85460,
+        "EndMs": 86100,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "win"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mom,",
+        "SliceSentence": "Mom ,",
+        "WrittenText": "",
+        "StartMs": 86210,
+        "EndMs": 86610,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mom"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we still have 16 Yuan.",
+        "SliceSentence": "we still have 16 Yuan .",
+        "WrittenText": "",
+        "StartMs": 88580,
+        "EndMs": 92290,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 2740,
+            "Word": "16"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3710,
+            "Word": "Yuan"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What would you like?",
+        "SliceSentence": "Whatwould you like ?",
+        "WrittenText": "",
+        "StartMs": 92290,
+        "EndMs": 93030,
+        "SpeechSpeed": 27,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 225,
+            "Word": "Whatwould"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 435,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 740,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 740,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Chen Lei?",
+        "SliceSentence": "Chen Lei ?",
+        "WrittenText": "",
+        "StartMs": 93080,
+        "EndMs": 93990,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 910,
+            "Word": "Lei"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 910,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'd like a bar of chocolate.",
+        "SliceSentence": "I'd like a bar of chocolate .",
+        "WrittenText": "",
+        "StartMs": 94790,
+        "EndMs": 97050,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "I'd"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 815,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1130,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "bar"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1910,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "chocolate"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can share it with you all.",
+        "SliceSentence": "I can share it with you all .",
+        "WrittenText": "",
+        "StartMs": 101450,
+        "EndMs": 103740,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1805,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2015,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2290,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thanks.",
+        "SliceSentence": "Thanks .",
+        "WrittenText": "",
+        "StartMs": 104870,
+        "EndMs": 105270,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thanks"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

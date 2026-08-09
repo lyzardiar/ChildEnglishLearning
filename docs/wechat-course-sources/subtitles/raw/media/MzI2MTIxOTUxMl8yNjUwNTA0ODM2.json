@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0ODM2",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:16,720"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 16720
+      },
+      "text": " unit 2 window window blackboard blackboard door door desk desk",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.791887,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,620",
+            "to": "00:00:01,140"
+          },
+          "offsets": {
+            "from": 620,
+            "to": 1140
+          },
+          "id": 4326,
+          "p": 0.335816,
+          "t_dtw": -1
+        },
+        {
+          "text": " 2",
+          "timestamps": {
+            "from": "00:00:01,140",
+            "to": "00:00:01,670"
+          },
+          "offsets": {
+            "from": 1140,
+            "to": 1670
+          },
+          "id": 362,
+          "p": 0.72658,
+          "t_dtw": -1
+        },
+        {
+          "text": " window",
+          "timestamps": {
+            "from": "00:00:02,890",
+            "to": "00:00:03,490"
+          },
+          "offsets": {
+            "from": 2890,
+            "to": 3490
+          },
+          "id": 4324,
+          "p": 0.762209,
+          "t_dtw": -1
+        },
+        {
+          "text": " window",
+          "timestamps": {
+            "from": "00:00:04,040",
+            "to": "00:00:04,870"
+          },
+          "offsets": {
+            "from": 4040,
+            "to": 4870
+          },
+          "id": 4324,
+          "p": 0.925846,
+          "t_dtw": -1
+        },
+        {
+          "text": " black",
+          "timestamps": {
+            "from": "00:00:06,650",
+            "to": "00:00:06,890"
+          },
+          "offsets": {
+            "from": 6650,
+            "to": 6890
+          },
+          "id": 2042,
+          "p": 0.768728,
+          "t_dtw": -1
+        },
+        {
+          "text": "board",
+          "timestamps": {
+            "from": "00:00:06,960",
+            "to": "00:00:07,480"
+          },
+          "offsets": {
+            "from": 6960,
+            "to": 7480
+          },
+          "id": 3526,
+          "p": 0.942651,
+          "t_dtw": -1
+        },
+        {
+          "text": " black",
+          "timestamps": {
+            "from": "00:00:07,940",
+            "to": "00:00:08,890"
+          },
+          "offsets": {
+            "from": 7940,
+            "to": 8890
+          },
+          "id": 2042,
+          "p": 0.932781,
+          "t_dtw": -1
+        },
+        {
+          "text": "board",
+          "timestamps": {
+            "from": "00:00:08,890",
+            "to": "00:00:08,980"
+          },
+          "offsets": {
+            "from": 8890,
+            "to": 8980
+          },
+          "id": 3526,
+          "p": 0.982634,
+          "t_dtw": -1
+        },
+        {
+          "text": " door",
+          "timestamps": {
+            "from": "00:00:10,670",
+            "to": "00:00:11,180"
+          },
+          "offsets": {
+            "from": 10670,
+            "to": 11180
+          },
+          "id": 3420,
+          "p": 0.818217,
+          "t_dtw": -1
+        },
+        {
+          "text": " door",
+          "timestamps": {
+            "from": "00:00:11,710",
+            "to": "00:00:12,180"
+          },
+          "offsets": {
+            "from": 11710,
+            "to": 12180
+          },
+          "id": 3420,
+          "p": 0.944454,
+          "t_dtw": -1
+        },
+        {
+          "text": " desk",
+          "timestamps": {
+            "from": "00:00:13,960",
+            "to": "00:00:14,510"
+          },
+          "offsets": {
+            "from": 13960,
+            "to": 14510
+          },
+          "id": 6915,
+          "p": 0.840639,
+          "t_dtw": -1
+        },
+        {
+          "text": " desk",
+          "timestamps": {
+            "from": "00:00:15,000",
+            "to": "00:00:15,700"
+          },
+          "offsets": {
+            "from": 15000,
+            "to": 15700
+          },
+          "id": 6915,
+          "p": 0.954257,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_836]",
+          "timestamps": {
+            "from": "00:00:16,720",
+            "to": "00:00:16,720"
+          },
+          "offsets": {
+            "from": 16720,
+            "to": 16720
+          },
+          "id": 51199,
+          "p": 0.0669535,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,720",
+        "to": "00:00:25,000"
+      },
+      "offsets": {
+        "from": 16720,
+        "to": 25000
+      },
+      "text": " chair chair school bag school bag",
+      "tokens": [
+        {
+          "text": " chair",
+          "timestamps": {
+            "from": "00:00:17,340",
+            "to": "00:00:18,320"
+          },
+          "offsets": {
+            "from": 17340,
+            "to": 18320
+          },
+          "id": 5118,
+          "p": 0.939334,
+          "t_dtw": -1
+        },
+        {
+          "text": " chair",
+          "timestamps": {
+            "from": "00:00:19,610",
+            "to": "00:00:20,210"
+          },
+          "offsets": {
+            "from": 19610,
+            "to": 20210
+          },
+          "id": 5118,
+          "p": 0.99632,
+          "t_dtw": -1
+        },
+        {
+          "text": " school",
+          "timestamps": {
+            "from": "00:00:20,770",
+            "to": "00:00:21,560"
+          },
+          "offsets": {
+            "from": 20770,
+            "to": 21560
+          },
+          "id": 1524,
+          "p": 0.87483,
+          "t_dtw": -1
+        },
+        {
+          "text": " bag",
+          "timestamps": {
+            "from": "00:00:21,840",
+            "to": "00:00:22,650"
+          },
+          "offsets": {
+            "from": 21840,
+            "to": 22650
+          },
+          "id": 6131,
+          "p": 0.71587,
+          "t_dtw": -1
+        },
+        {
+          "text": " school",
+          "timestamps": {
+            "from": "00:00:23,370",
+            "to": "00:00:24,200"
+          },
+          "offsets": {
+            "from": 23370,
+            "to": 24200
+          },
+          "id": 1524,
+          "p": 0.987952,
+          "t_dtw": -1
+        },
+        {
+          "text": " bag",
+          "timestamps": {
+            "from": "00:00:24,660",
+            "to": "00:00:24,880"
+          },
+          "offsets": {
+            "from": 24660,
+            "to": 24880
+          },
+          "id": 6131,
+          "p": 0.958939,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1250]",
+          "timestamps": {
+            "from": "00:00:25,000",
+            "to": "00:00:25,000"
+          },
+          "offsets": {
+            "from": 25000,
+            "to": 25000
+          },
+          "id": 51613,
+          "p": 0.201423,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

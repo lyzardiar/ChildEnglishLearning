@@ -1,0 +1,258 @@
+{
+  "RequestId": "72779d28-b111-4931-b428-fa5c9326052c",
+  "Data": {
+    "TaskId": 16292413359,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 26.426938,
+    "Result": "Why yeah, I have a yo yo it is yellow can you play? Yo yo, I have a yo yo it is yellow. Can you play yo-yo?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Why yeah,",
+        "SliceSentence": "Why yeah ,",
+        "WrittenText": "",
+        "StartMs": 800,
+        "EndMs": 2410,
+        "SpeechSpeed": 5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "yeah"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a yo yo it is yellow can you play?",
+        "SliceSentence": "I have a yo yo it is yellow can you play ?",
+        "WrittenText": "",
+        "StartMs": 7290,
+        "EndMs": 13060,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1520,
+            "Word": "yo"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "yo"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5120,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 5120,
+            "OffsetEndMs": 5420,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 5420,
+            "OffsetEndMs": 5770,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 5420,
+            "OffsetEndMs": 5770,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yo yo,",
+        "SliceSentence": "Yo yo ,",
+        "WrittenText": "",
+        "StartMs": 13140,
+        "EndMs": 13900,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Yo"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "yo"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a yo yo it is yellow.",
+        "SliceSentence": "I have a yo yo it is yellow .",
+        "WrittenText": "",
+        "StartMs": 16920,
+        "EndMs": 20800,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1160,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1460,
+            "Word": "yo"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1840,
+            "Word": "yo"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you play yo-yo?",
+        "SliceSentence": "Can you play yo-yo ?",
+        "WrittenText": "",
+        "StartMs": 21600,
+        "EndMs": 23560,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1960,
+            "Word": "yo-yo"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1960,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

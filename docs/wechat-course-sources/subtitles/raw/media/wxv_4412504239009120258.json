@@ -1,0 +1,381 @@
+{
+  "RequestId": "78df1eca-1c74-4750-9a6c-cd9225d9bb1c",
+  "Data": {
+    "TaskId": 16292490002,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.232563,
+    "Result": "SP spa special St. Stop student.The students all have fun with paint. They splash it, spray it, spray it. They make special shapes like spots and stars. When it's finished, we'll display it.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "SP spa special St.",
+        "SliceSentence": "SP spa special St .",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 24890,
+        "SpeechSpeed": 0.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 6340,
+            "OffsetEndMs": 6740,
+            "Word": "SP"
+          },
+          {
+            "OffsetStartMs": 7540,
+            "OffsetEndMs": 7970,
+            "Word": "spa"
+          },
+          {
+            "OffsetStartMs": 15040,
+            "OffsetEndMs": 15440,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 24370,
+            "OffsetEndMs": 24770,
+            "Word": "St"
+          },
+          {
+            "OffsetStartMs": 24370,
+            "OffsetEndMs": 24770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Stop student.",
+        "SliceSentence": "Stop student .",
+        "WrittenText": "",
+        "StartMs": 25570,
+        "EndMs": 33770,
+        "SpeechSpeed": 1.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Stop"
+          },
+          {
+            "OffsetStartMs": 7800,
+            "OffsetEndMs": 8200,
+            "Word": "student"
+          },
+          {
+            "OffsetStartMs": 7800,
+            "OffsetEndMs": 8200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The students all have fun with paint.",
+        "SliceSentence": "The students all have fun with paint .",
+        "WrittenText": "",
+        "StartMs": 36300,
+        "EndMs": 42500,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2415,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 2415,
+            "OffsetEndMs": 2750,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 4030,
+            "OffsetEndMs": 4430,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5120,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 5290,
+            "OffsetEndMs": 5690,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": "paint"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They splash it,",
+        "SliceSentence": "They splash it ,",
+        "WrittenText": "",
+        "StartMs": 43090,
+        "EndMs": 44240,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "splash"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " spray it,",
+        "SliceSentence": "spray it ,",
+        "WrittenText": "",
+        "StartMs": 44620,
+        "EndMs": 45320,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "spray"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " spray it.",
+        "SliceSentence": "spray it .",
+        "WrittenText": "",
+        "StartMs": 45850,
+        "EndMs": 46580,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "spray"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They make special shapes like spots and stars.",
+        "SliceSentence": "They make special shapes like spots and stars .",
+        "WrittenText": "",
+        "StartMs": 47860,
+        "EndMs": 52130,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1840,
+            "Word": "shapes"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "spots"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3700,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4270,
+            "Word": "stars"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " When it's finished,",
+        "SliceSentence": "When it's finished ,",
+        "WrittenText": "",
+        "StartMs": 52960,
+        "EndMs": 54410,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "When"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 1130,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "finished"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we'll display it.",
+        "SliceSentence": "we'll display it .",
+        "WrittenText": "",
+        "StartMs": 55300,
+        "EndMs": 57170,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1550,
+            "Word": "display"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1870,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

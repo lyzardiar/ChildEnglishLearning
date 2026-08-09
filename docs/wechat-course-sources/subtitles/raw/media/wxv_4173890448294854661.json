@@ -1,0 +1,1265 @@
+{
+  "RequestId": "315b2626-c4de-4ff2-9a5f-becc48cab83e",
+  "Data": {
+    "TaskId": 16292502766,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 129.0565,
+    "Result": "Numbers, numbers, one, two.345678.Nine, ten, eleven, twelve, thirteen fourteen fifteen sixteen, seventeen, eighteen, nineteen, twenty. Look at the numbers. Some numbers are even and some numbers are odd. The even numbers are blue and the odd numbers are red. We use numbers every day. They help us count things. Plus you have five orange pencils, I have six green pencils. How many pencils do we have? We have 11 pencils.We say five plus six equals 11 we write minus. You have five apples. Your sister comes and eats one Apple. Now, how many apples do you have? I have four apples. Now we say five minus one equals four, we write.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Numbers,",
+        "SliceSentence": "Numbers ,",
+        "WrittenText": "",
+        "StartMs": 640,
+        "EndMs": 1320,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Numbers"
+          },
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " numbers,",
+        "SliceSentence": "numbers ,",
+        "WrittenText": "",
+        "StartMs": 1910,
+        "EndMs": 2310,
+        "SpeechSpeed": 20,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " one,",
+        "SliceSentence": "one ,",
+        "WrittenText": "",
+        "StartMs": 4940,
+        "EndMs": 5340,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " two.",
+        "SliceSentence": "two .",
+        "WrittenText": "",
+        "StartMs": 6020,
+        "EndMs": 6420,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "345678.",
+        "SliceSentence": "345678 .",
+        "WrittenText": "",
+        "StartMs": 7480,
+        "EndMs": 14460,
+        "SpeechSpeed": 0.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 6980,
+            "Word": "345678"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 6980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Nine,",
+        "SliceSentence": "Nine ,",
+        "WrittenText": "",
+        "StartMs": 15640,
+        "EndMs": 16020,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Nine"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ten,",
+        "SliceSentence": "ten ,",
+        "WrittenText": "",
+        "StartMs": 16970,
+        "EndMs": 17370,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "ten"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " eleven,",
+        "SliceSentence": "eleven ,",
+        "WrittenText": "",
+        "StartMs": 18440,
+        "EndMs": 18840,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "eleven"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " twelve,",
+        "SliceSentence": "twelve ,",
+        "WrittenText": "",
+        "StartMs": 19790,
+        "EndMs": 20190,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "twelve"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " thirteen fourteen fifteen sixteen,",
+        "SliceSentence": "thirteen fourteen fifteen sixteen ,",
+        "WrittenText": "",
+        "StartMs": 21380,
+        "EndMs": 26160,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "thirteen"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "fourteen"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "fifteen"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4780,
+            "Word": "sixteen"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4780,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " seventeen,",
+        "SliceSentence": "seventeen ,",
+        "WrittenText": "",
+        "StartMs": 27650,
+        "EndMs": 28050,
+        "SpeechSpeed": 25,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "seventeen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " eighteen,",
+        "SliceSentence": "eighteen ,",
+        "WrittenText": "",
+        "StartMs": 29300,
+        "EndMs": 29700,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "eighteen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nineteen,",
+        "SliceSentence": "nineteen ,",
+        "WrittenText": "",
+        "StartMs": 31130,
+        "EndMs": 31530,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nineteen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " twenty.",
+        "SliceSentence": "twenty .",
+        "WrittenText": "",
+        "StartMs": 32930,
+        "EndMs": 33330,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "twenty"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the numbers.",
+        "SliceSentence": "Look at the numbers .",
+        "WrittenText": "",
+        "StartMs": 34910,
+        "EndMs": 36150,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 755,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 965,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1240,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some numbers are even and some numbers are odd.",
+        "SliceSentence": "Some numbers are even and some numbers are odd .",
+        "WrittenText": "",
+        "StartMs": 37340,
+        "EndMs": 42570,
+        "SpeechSpeed": 9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1630,
+            "Word": "even"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3230,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3230,
+            "OffsetEndMs": 3590,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3590,
+            "OffsetEndMs": 3970,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4780,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "odd"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The even numbers are blue and the odd numbers are red.",
+        "SliceSentence": "The even numbers are blue and the odd numbers are red .",
+        "WrittenText": "",
+        "StartMs": 43790,
+        "EndMs": 49170,
+        "SpeechSpeed": 10,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "even"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3260,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3515,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3515,
+            "OffsetEndMs": 3820,
+            "Word": "odd"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4985,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 4985,
+            "OffsetEndMs": 5380,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 4985,
+            "OffsetEndMs": 5380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use numbers every day.",
+        "SliceSentence": "We use numbers every day .",
+        "WrittenText": "",
+        "StartMs": 50930,
+        "EndMs": 53430,
+        "SpeechSpeed": 10,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They help us count things.",
+        "SliceSentence": "They help us count things .",
+        "WrittenText": "",
+        "StartMs": 54380,
+        "EndMs": 56340,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "count"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Plus you have five orange pencils,",
+        "SliceSentence": "Plus you have five orange pencils ,",
+        "WrittenText": "",
+        "StartMs": 58010,
+        "EndMs": 63540,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Plus"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2765,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3130,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4510,
+            "Word": "orange"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5530,
+            "Word": "pencils"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5530,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have six green pencils.",
+        "SliceSentence": "I have six green pencils .",
+        "WrittenText": "",
+        "StartMs": 64610,
+        "EndMs": 68010,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "six"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 3400,
+            "Word": "pencils"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 3400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How many pencils do we have?",
+        "SliceSentence": "How many pencils do we have ?",
+        "WrittenText": "",
+        "StartMs": 69200,
+        "EndMs": 71610,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 815,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1570,
+            "Word": "pencils"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1910,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2120,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2410,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2410,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have 11 pencils.",
+        "SliceSentence": "We have 11 pencils .",
+        "WrittenText": "",
+        "StartMs": 72860,
+        "EndMs": 75840,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "11"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2980,
+            "Word": "pencils"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We say five plus six equals 11 we write minus.",
+        "SliceSentence": "We say five plus six equals 11 we write minus .",
+        "WrittenText": "",
+        "StartMs": 78360,
+        "EndMs": 92000,
+        "SpeechSpeed": 3.3,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 825,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1220,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "plus"
+          },
+          {
+            "OffsetStartMs": 3430,
+            "OffsetEndMs": 3830,
+            "Word": "six"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": "equals"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6170,
+            "Word": "11"
+          },
+          {
+            "OffsetStartMs": 8290,
+            "OffsetEndMs": 8640,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 8640,
+            "OffsetEndMs": 8990,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 13240,
+            "OffsetEndMs": 13640,
+            "Word": "minus"
+          },
+          {
+            "OffsetStartMs": 13240,
+            "OffsetEndMs": 13640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You have five apples.",
+        "SliceSentence": "You have five apples .",
+        "WrittenText": "",
+        "StartMs": 94960,
+        "EndMs": 97070,
+        "SpeechSpeed": 10,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Your sister comes and eats one Apple.",
+        "SliceSentence": "Your sister comes and eats one Apple .",
+        "WrittenText": "",
+        "StartMs": 98860,
+        "EndMs": 102200,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Your"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2660,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 2975,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3340,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now,",
+        "SliceSentence": "Now ,",
+        "WrittenText": "",
+        "StartMs": 103840,
+        "EndMs": 104240,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " how many apples do you have?",
+        "SliceSentence": "how many apples do you have ?",
+        "WrittenText": "",
+        "StartMs": 104530,
+        "EndMs": 106910,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 815,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1820,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2060,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2380,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have four apples.",
+        "SliceSentence": "I have four apples .",
+        "WrittenText": "",
+        "StartMs": 108130,
+        "EndMs": 110420,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now we say five minus one equals four,",
+        "SliceSentence": "Now we say five minus one equals four ,",
+        "WrittenText": "",
+        "StartMs": 110890,
+        "EndMs": 118310,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2615,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 3010,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4990,
+            "Word": "minus"
+          },
+          {
+            "OffsetStartMs": 5250,
+            "OffsetEndMs": 5650,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 6060,
+            "OffsetEndMs": 6460,
+            "Word": "equals"
+          },
+          {
+            "OffsetStartMs": 7020,
+            "OffsetEndMs": 7420,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 7020,
+            "OffsetEndMs": 7420,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we write.",
+        "SliceSentence": "we write .",
+        "WrittenText": "",
+        "StartMs": 120310,
+        "EndMs": 121010,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,978 @@
+{
+  "RequestId": "830ac328-07a5-42ca-bc61-e597e29635a8",
+  "Data": {
+    "TaskId": 16292536067,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 90.348875,
+    "Result": "A toothless tiger.All the animals are afraid of the tiger. I'm the king of the forest, help, help the animals have a meeting. A clever Fox has a good idea. What shall we do? I have an idea. The Fox gives the tiger a lot of candy. The tiger likes the candy very much. My king, I have a present for you. It's the best food in the world really. Try it. You'll love it.The tiger eats the candy every day. Soon he has a toothache. The animals come to help. They pull all the tiger's teeth out. He becomes a toothless tiger.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A toothless tiger.",
+        "SliceSentence": "A toothless tiger .",
+        "WrittenText": "",
+        "StartMs": 1340,
+        "EndMs": 2950,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 405,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 1190,
+            "Word": "toothless"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "All the animals are afraid of the tiger.",
+        "SliceSentence": "All the animals are afraid of the tiger .",
+        "WrittenText": "",
+        "StartMs": 4400,
+        "EndMs": 12670,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 5110,
+            "OffsetEndMs": 5490,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5745,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5745,
+            "OffsetEndMs": 6020,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 6490,
+            "OffsetEndMs": 6885,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 6885,
+            "OffsetEndMs": 7280,
+            "Word": "afraid"
+          },
+          {
+            "OffsetStartMs": 7420,
+            "OffsetEndMs": 7755,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 7755,
+            "OffsetEndMs": 7980,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7980,
+            "OffsetEndMs": 8270,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 7980,
+            "OffsetEndMs": 8270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm the king of the forest,",
+        "SliceSentence": "I'm the king of the forest ,",
+        "WrittenText": "",
+        "StartMs": 16410,
+        "EndMs": 18970,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 950,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1270,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1865,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2210,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "forest"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " help,",
+        "SliceSentence": "help ,",
+        "WrittenText": "",
+        "StartMs": 21300,
+        "EndMs": 21700,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " help the animals have a meeting.",
+        "SliceSentence": "help the animals have a meeting .",
+        "WrittenText": "",
+        "StartMs": 22230,
+        "EndMs": 26620,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2795,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3070,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3920,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3920,
+            "OffsetEndMs": 4115,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4115,
+            "OffsetEndMs": 4390,
+            "Word": "meeting"
+          },
+          {
+            "OffsetStartMs": 4115,
+            "OffsetEndMs": 4390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A clever Fox has a good idea.",
+        "SliceSentence": "A clever Fox has a good idea .",
+        "WrittenText": "",
+        "StartMs": 27690,
+        "EndMs": 30220,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "clever"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1745,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 1985,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2210,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2530,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What shall we do?",
+        "SliceSentence": "What shall we do ?",
+        "WrittenText": "",
+        "StartMs": 31590,
+        "EndMs": 33070,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 815,
+            "Word": "shall"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1145,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have an idea.",
+        "SliceSentence": "I have an idea .",
+        "WrittenText": "",
+        "StartMs": 37440,
+        "EndMs": 38890,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 980,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1190,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1450,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The Fox gives the tiger a lot of candy.",
+        "SliceSentence": "The Fox gives the tiger a lot of candy .",
+        "WrittenText": "",
+        "StartMs": 40410,
+        "EndMs": 43810,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1820,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2110,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2675,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 2885,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3095,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3400,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The tiger likes the candy very much.",
+        "SliceSentence": "The tiger likes the candy very much .",
+        "WrittenText": "",
+        "StartMs": 45060,
+        "EndMs": 47860,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1780,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My king,",
+        "SliceSentence": "My king ,",
+        "WrittenText": "",
+        "StartMs": 49320,
+        "EndMs": 50260,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a present for you.",
+        "SliceSentence": "I have a present for you .",
+        "WrittenText": "",
+        "StartMs": 50640,
+        "EndMs": 52840,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1300,
+            "Word": "present"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1865,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2200,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the best food in the world really.",
+        "SliceSentence": "It's the best food in the world really .",
+        "WrittenText": "",
+        "StartMs": 53160,
+        "EndMs": 56980,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 785,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1180,
+            "Word": "best"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2120,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2270,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2530,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "really"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Try it.",
+        "SliceSentence": "Try it .",
+        "WrittenText": "",
+        "StartMs": 59220,
+        "EndMs": 60010,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Try"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You'll love it.",
+        "SliceSentence": "You'll love it .",
+        "WrittenText": "",
+        "StartMs": 60300,
+        "EndMs": 61630,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "You'll"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 935,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The tiger eats the candy every day.",
+        "SliceSentence": "The tiger eats the candy every day .",
+        "WrittenText": "",
+        "StartMs": 64880,
+        "EndMs": 69190,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1485,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1760,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2790,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 2970,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3260,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 3430,
+            "OffsetEndMs": 3830,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 3910,
+            "OffsetEndMs": 4310,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 3910,
+            "OffsetEndMs": 4310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Soon he has a toothache.",
+        "SliceSentence": "Soon he has a toothache .",
+        "WrittenText": "",
+        "StartMs": 69990,
+        "EndMs": 72340,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Soon"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1145,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1430,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1730,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2350,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The animals come to help.",
+        "SliceSentence": "The animals come to help .",
+        "WrittenText": "",
+        "StartMs": 75180,
+        "EndMs": 77200,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1505,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1745,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2020,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They pull all the tiger's teeth out.",
+        "SliceSentence": "They pull all the tiger's teeth out .",
+        "WrittenText": "",
+        "StartMs": 78810,
+        "EndMs": 81370,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "pull"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1145,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1415,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1985,
+            "Word": "tiger's"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2210,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He becomes a toothless tiger.",
+        "SliceSentence": "He becomes a toothless tiger .",
+        "WrittenText": "",
+        "StartMs": 82530,
+        "EndMs": 85030,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "becomes"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1355,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 2050,
+            "Word": "toothless"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

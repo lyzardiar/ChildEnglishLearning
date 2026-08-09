@@ -1,0 +1,658 @@
+{
+  "RequestId": "37717e4e-f564-48b0-b117-2bb9da88e2c4",
+  "Data": {
+    "TaskId": 16292526202,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 66.014313,
+    "Result": "Welcome to Sanya.Sanya is on Hainan island. It is in the south of China. There are many wonderful beaches on the island and the weather is nice all year round. You can swim under the blue sky and the warm sun sana is a great place for families. You can visit the sea world. You will love the fish and sea plants there. There is a big butterfly park in Sanya too. You will see many beautiful butterflies there. Come and visit sana now.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Welcome to Sanya.",
+        "SliceSentence": "Welcome to Sanya .",
+        "WrittenText": "",
+        "StartMs": 1420,
+        "EndMs": 3270,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Welcome"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1215,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1850,
+            "Word": "Sanya"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sanya is on Hainan island.",
+        "SliceSentence": "Sanya is on Hainan island .",
+        "WrittenText": "",
+        "StartMs": 4200,
+        "EndMs": 9410,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3620,
+            "Word": "Sanya"
+          },
+          {
+            "OffsetStartMs": 3670,
+            "OffsetEndMs": 3990,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4245,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 4245,
+            "OffsetEndMs": 4875,
+            "Word": "Hainan"
+          },
+          {
+            "OffsetStartMs": 4875,
+            "OffsetEndMs": 5210,
+            "Word": "island"
+          },
+          {
+            "OffsetStartMs": 4875,
+            "OffsetEndMs": 5210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is in the south of China.",
+        "SliceSentence": "It is in the south of China .",
+        "WrittenText": "",
+        "StartMs": 12340,
+        "EndMs": 14300,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 485,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 695,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1180,
+            "Word": "south"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1625,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1960,
+            "Word": "China"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are many wonderful beaches on the island and the weather is nice all year round.",
+        "SliceSentence": "There are many wonderful beaches on the island and the weather is nice all year round .",
+        "WrittenText": "",
+        "StartMs": 16960,
+        "EndMs": 23300,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 17,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 820,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "wonderful"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 2315,
+            "Word": "beaches"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2600,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2765,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3010,
+            "Word": "island"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3905,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3905,
+            "OffsetEndMs": 4085,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4085,
+            "OffsetEndMs": 4360,
+            "Word": "weather"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4730,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4730,
+            "OffsetEndMs": 5080,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5600,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 5600,
+            "OffsetEndMs": 5960,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 5960,
+            "OffsetEndMs": 6340,
+            "Word": "round"
+          },
+          {
+            "OffsetStartMs": 5960,
+            "OffsetEndMs": 6340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can swim under the blue sky and the warm sun sana is a great place for families.",
+        "SliceSentence": "You can swim under the blue sky and the warm sun sana is a great place for families .",
+        "WrittenText": "",
+        "StartMs": 26560,
+        "EndMs": 35090,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 19,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "under"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3320,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3530,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3530,
+            "OffsetEndMs": 3820,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4270,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6455,
+            "Word": "sana"
+          },
+          {
+            "OffsetStartMs": 6455,
+            "OffsetEndMs": 6695,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 6695,
+            "OffsetEndMs": 6995,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6995,
+            "OffsetEndMs": 7390,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 7470,
+            "OffsetEndMs": 7870,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 7890,
+            "OffsetEndMs": 8210,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 8210,
+            "OffsetEndMs": 8530,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 8210,
+            "OffsetEndMs": 8530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can visit the sea world.",
+        "SliceSentence": "You can visit the sea world .",
+        "WrittenText": "",
+        "StartMs": 37090,
+        "EndMs": 39050,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1325,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1595,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1960,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will love the fish and sea plants there.",
+        "SliceSentence": "You will love the fish and sea plants there .",
+        "WrittenText": "",
+        "StartMs": 42250,
+        "EndMs": 45380,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 940,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1265,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1570,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1940,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2285,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2680,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There is a big butterfly park in Sanya too.",
+        "SliceSentence": "There is a big butterfly park in Sanya too .",
+        "WrittenText": "",
+        "StartMs": 47050,
+        "EndMs": 50870,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 710,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1000,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 2075,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2470,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2855,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3485,
+            "Word": "Sanya"
+          },
+          {
+            "OffsetStartMs": 3485,
+            "OffsetEndMs": 3820,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 3485,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will see many beautiful butterflies there.",
+        "SliceSentence": "You will see many beautiful butterflies there .",
+        "WrittenText": "",
+        "StartMs": 53740,
+        "EndMs": 56930,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 850,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2795,
+            "Word": "butterflies"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3190,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come and visit sana now.",
+        "SliceSentence": "Come and visit sana now .",
+        "WrittenText": "",
+        "StartMs": 61570,
+        "EndMs": 63530,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1640,
+            "Word": "sana"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1960,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4640,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "RequestId": "2fab33c0-b838-4fe8-96a2-b16ea6bb6d33",
+  "Data": {
+    "TaskId": 16292468942,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 69.729563,
+    "Result": "How are you? Good morning boys and girls. How are you?Not so good. I'm cold.Okay, gwenda, let's close the window.I'm sad I can't find my pencil. Look, Charlie, I'm happy. I'm happy too. Well, how are you now? How are you? Phew. Now please look at the blackboard.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "How are you?",
+        "SliceSentence": "How are you ?",
+        "WrittenText": "",
+        "StartMs": 360,
+        "EndMs": 3350,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2150,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2610,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2990,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2990,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good morning boys and girls.",
+        "SliceSentence": "Good morning boys and girls .",
+        "WrittenText": "",
+        "StartMs": 8140,
+        "EndMs": 10730,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "boys"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2210,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2590,
+            "Word": "girls"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How are you?",
+        "SliceSentence": "How are you ?",
+        "WrittenText": "",
+        "StartMs": 11440,
+        "EndMs": 12620,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Not so good.",
+        "SliceSentence": "Not so good .",
+        "WrittenText": "",
+        "StartMs": 14200,
+        "EndMs": 15990,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Not"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm cold.",
+        "SliceSentence": "I'm cold .",
+        "WrittenText": "",
+        "StartMs": 16790,
+        "EndMs": 17700,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 19900,
+        "EndMs": 20790,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " gwenda,",
+        "SliceSentence": "gwenda ,",
+        "WrittenText": "",
+        "StartMs": 20930,
+        "EndMs": 21840,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "gwenda"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's close the window.",
+        "SliceSentence": "let's close the window .",
+        "WrittenText": "",
+        "StartMs": 22520,
+        "EndMs": 24540,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "close"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1715,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2020,
+            "Word": "window"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm sad I can't find my pencil.",
+        "SliceSentence": "I'm sad I can't find my pencil .",
+        "WrittenText": "",
+        "StartMs": 26920,
+        "EndMs": 34140,
+        "SpeechSpeed": 4.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2860,
+            "OffsetEndMs": 3555,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 3555,
+            "OffsetEndMs": 3830,
+            "Word": "sad"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5370,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5985,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 5985,
+            "OffsetEndMs": 6290,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 6460,
+            "OffsetEndMs": 6840,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7220,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 35690,
+        "EndMs": 36090,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Charlie,",
+        "SliceSentence": "Charlie ,",
+        "WrittenText": "",
+        "StartMs": 36680,
+        "EndMs": 37560,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 880,
+            "Word": "Charlie"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm happy.",
+        "SliceSentence": "I'm happy .",
+        "WrittenText": "",
+        "StartMs": 40040,
+        "EndMs": 41010,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 970,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm happy too.",
+        "SliceSentence": "I'm happy too .",
+        "WrittenText": "",
+        "StartMs": 42740,
+        "EndMs": 44490,
+        "SpeechSpeed": 8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 910,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Well,",
+        "SliceSentence": "Well ,",
+        "WrittenText": "",
+        "StartMs": 49370,
+        "EndMs": 49770,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Well"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " how are you now?",
+        "SliceSentence": "how are you now ?",
+        "WrittenText": "",
+        "StartMs": 50480,
+        "EndMs": 52290,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1445,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1810,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1810,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How are you?",
+        "SliceSentence": "How are you ?",
+        "WrittenText": "",
+        "StartMs": 53390,
+        "EndMs": 55380,
+        "SpeechSpeed": 6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Phew.",
+        "SliceSentence": "Phew .",
+        "WrittenText": "",
+        "StartMs": 56510,
+        "EndMs": 57360,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "Phew"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now please look at the blackboard.",
+        "SliceSentence": "Now please look at the blackboard .",
+        "WrittenText": "",
+        "StartMs": 57800,
+        "EndMs": 61050,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2315,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2585,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 3250,
+            "Word": "blackboard"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

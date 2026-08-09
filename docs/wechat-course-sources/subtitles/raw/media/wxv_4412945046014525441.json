@@ -1,0 +1,1059 @@
+{
+  "RequestId": "e9584ed4-0b4f-432f-944b-658ba0f4e6dc",
+  "Data": {
+    "TaskId": 16292581394,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 79.853438,
+    "Result": "Today is sunday. Sally and Peter are in the park. A boy is crying. Hello, what's the matter? Can we help you? I can't find my dog. We can help you. What does your dog look like? She's small and white. She has a pink bell around her neck. I saw her half an hour ago. She was near the gate. I saw her two minutes ago. She was near the lake. Let's go to the lake then. We should also ask the gatekeeper, Peter.You go to the lake, I'm going to ask the gatekeeper. Okay, let's meet here in 15 minutes. Thank you for your help.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Today is sunday.",
+        "SliceSentence": "Today is sunday .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2150,
+        "SpeechSpeed": 7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "Today"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1800,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2150,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sally and Peter are in the park.",
+        "SliceSentence": "Sally and Peter are in the park .",
+        "WrittenText": "",
+        "StartMs": 5560,
+        "EndMs": 8000,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "Sally"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 905,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1270,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1790,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2015,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2180,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2440,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A boy is crying.",
+        "SliceSentence": "A boy is crying .",
+        "WrittenText": "",
+        "StartMs": 9520,
+        "EndMs": 11000,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1085,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1480,
+            "Word": "crying"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 15610,
+        "EndMs": 16010,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's the matter?",
+        "SliceSentence": "what's the matter ?",
+        "WrittenText": "",
+        "StartMs": 17050,
+        "EndMs": 17990,
+        "SpeechSpeed": 19.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "matter"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can we help you?",
+        "SliceSentence": "Can we help you ?",
+        "WrittenText": "",
+        "StartMs": 18940,
+        "EndMs": 20210,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't find my dog.",
+        "SliceSentence": "I can't find my dog .",
+        "WrittenText": "",
+        "StartMs": 22180,
+        "EndMs": 24110,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 935,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1580,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1930,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can help you.",
+        "SliceSentence": "We can help you .",
+        "WrittenText": "",
+        "StartMs": 27220,
+        "EndMs": 28610,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What does your dog look like?",
+        "SliceSentence": "What does your dog look like ?",
+        "WrittenText": "",
+        "StartMs": 29050,
+        "EndMs": 30770,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 785,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1085,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1385,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1720,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1720,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She's small and white.",
+        "SliceSentence": "She's small and white .",
+        "WrittenText": "",
+        "StartMs": 32260,
+        "EndMs": 34250,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "She's"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1610,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1990,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She has a pink bell around her neck.",
+        "SliceSentence": "She has a pink bell around her neck .",
+        "WrittenText": "",
+        "StartMs": 34780,
+        "EndMs": 37550,
+        "SpeechSpeed": 13,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 785,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1090,
+            "Word": "pink"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "bell"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2210,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2465,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2770,
+            "Word": "neck"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I saw her half an hour ago.",
+        "SliceSentence": "I saw her half an hour ago .",
+        "WrittenText": "",
+        "StartMs": 39400,
+        "EndMs": 41630,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 980,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1295,
+            "Word": "half"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1535,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1810,
+            "Word": "hour"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "ago"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She was near the gate.",
+        "SliceSentence": "She was near the gate .",
+        "WrittenText": "",
+        "StartMs": 42370,
+        "EndMs": 43640,
+        "SpeechSpeed": 17.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 800,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1010,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1270,
+            "Word": "gate"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I saw her two minutes ago.",
+        "SliceSentence": "I saw her two minutes ago .",
+        "WrittenText": "",
+        "StartMs": 46420,
+        "EndMs": 48620,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1070,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1340,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1660,
+            "Word": "minutes"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "ago"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She was near the lake.",
+        "SliceSentence": "She was near the lake .",
+        "WrittenText": "",
+        "StartMs": 49210,
+        "EndMs": 50660,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 935,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1190,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1450,
+            "Word": "lake"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's go to the lake then.",
+        "SliceSentence": "Let's go to the lake then .",
+        "WrittenText": "",
+        "StartMs": 53410,
+        "EndMs": 55370,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 875,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1115,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1265,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1540,
+            "Word": "lake"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We should also ask the gatekeeper,",
+        "SliceSentence": "We should also ask the gatekeeper ,",
+        "WrittenText": "",
+        "StartMs": 56950,
+        "EndMs": 59570,
+        "SpeechSpeed": 13,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 880,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "ask"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1715,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2620,
+            "Word": "gatekeeper"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2620,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Peter.",
+        "SliceSentence": "Peter .",
+        "WrittenText": "",
+        "StartMs": 59980,
+        "EndMs": 60380,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You go to the lake,",
+        "SliceSentence": "You go to the lake ,",
+        "WrittenText": "",
+        "StartMs": 60480,
+        "EndMs": 62090,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 765,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1020,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1200,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1610,
+            "Word": "lake"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to ask the gatekeeper.",
+        "SliceSentence": "I'm going to ask the gatekeeper .",
+        "WrittenText": "",
+        "StartMs": 62770,
+        "EndMs": 65210,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 725,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 920,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1180,
+            "Word": "ask"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 2440,
+            "Word": "gatekeeper"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 70360,
+        "EndMs": 70760,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's meet here in 15 minutes.",
+        "SliceSentence": "let's meet here in 15 minutes .",
+        "WrittenText": "",
+        "StartMs": 71110,
+        "EndMs": 73460,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 755,
+            "Word": "meet"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1070,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1355,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "15"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "minutes"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you for your help.",
+        "SliceSentence": "Thank you for your help .",
+        "WrittenText": "",
+        "StartMs": 76090,
+        "EndMs": 77540,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 695,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 920,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1130,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

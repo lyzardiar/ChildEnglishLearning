@@ -1,0 +1,231 @@
+{
+  "RequestId": "aad6e3a1-ae92-4d3f-81ba-7942ba92b44c",
+  "Data": {
+    "TaskId": 16292439243,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 21.873188,
+    "Result": "Heroes around us Mrs Chang takes care of sick people. She is kind and helpful. Mr song can fix things. He is always happy to help.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Heroes around us Mrs Chang takes care of sick people.",
+        "SliceSentence": "Heroes around us Mrs Chang takes care of sick people .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 7880,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1640,
+            "Word": "Heroes"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2280,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2660,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 5230,
+            "OffsetEndMs": 5630,
+            "Word": "Mrs"
+          },
+          {
+            "OffsetStartMs": 5740,
+            "OffsetEndMs": 6170,
+            "Word": "Chang"
+          },
+          {
+            "OffsetStartMs": 6190,
+            "OffsetEndMs": 6585,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 6585,
+            "OffsetEndMs": 6930,
+            "Word": "care"
+          },
+          {
+            "OffsetStartMs": 6930,
+            "OffsetEndMs": 7200,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 7200,
+            "OffsetEndMs": 7500,
+            "Word": "sick"
+          },
+          {
+            "OffsetStartMs": 7500,
+            "OffsetEndMs": 7880,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 7500,
+            "OffsetEndMs": 7880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She is kind and helpful.",
+        "SliceSentence": "She is kind and helpful .",
+        "WrittenText": "",
+        "StartMs": 10000,
+        "EndMs": 12260,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "kind"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1895,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2260,
+            "Word": "helpful"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mr song can fix things.",
+        "SliceSentence": "Mr song can fix things .",
+        "WrittenText": "",
+        "StartMs": 13750,
+        "EndMs": 16550,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "song"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "fix"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He is always happy to help.",
+        "SliceSentence": "He is always happy to help .",
+        "WrittenText": "",
+        "StartMs": 17320,
+        "EndMs": 20060,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2450,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

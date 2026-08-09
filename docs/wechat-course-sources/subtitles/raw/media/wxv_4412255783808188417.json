@@ -1,0 +1,639 @@
+{
+  "RequestId": "405e819e-4c15-4d0d-b295-376d054b8b06",
+  "Data": {
+    "TaskId": 16292439598,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.186125,
+    "Result": "I I.Kite kite.White, white.Bike.Bike.Five.Five.Mike, look at the kite. It's blue and white. Look at the bike. Five people ride the bike. Mike, look at the kite. It's blue and white. Look at the bike. Five people ride a bike.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I I.",
+        "SliceSentence": "I I .",
+        "WrittenText": "",
+        "StartMs": 600,
+        "EndMs": 2180,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Kite kite.",
+        "SliceSentence": "Kite kite .",
+        "WrittenText": "",
+        "StartMs": 7200,
+        "EndMs": 8780,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Kite"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "White,",
+        "SliceSentence": "White ,",
+        "WrittenText": "",
+        "StartMs": 12420,
+        "EndMs": 12980,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "White"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " white.",
+        "SliceSentence": "white .",
+        "WrittenText": "",
+        "StartMs": 13720,
+        "EndMs": 14120,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bike.",
+        "SliceSentence": "Bike .",
+        "WrittenText": "",
+        "StartMs": 18360,
+        "EndMs": 18770,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Bike"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bike.",
+        "SliceSentence": "Bike .",
+        "WrittenText": "",
+        "StartMs": 19700,
+        "EndMs": 19990,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Bike"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Five.",
+        "SliceSentence": "Five .",
+        "WrittenText": "",
+        "StartMs": 23640,
+        "EndMs": 24050,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Five.",
+        "SliceSentence": "Five .",
+        "WrittenText": "",
+        "StartMs": 25080,
+        "EndMs": 25340,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mike,",
+        "SliceSentence": "Mike ,",
+        "WrittenText": "",
+        "StartMs": 27000,
+        "EndMs": 30950,
+        "SpeechSpeed": 1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "Mike"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look at the kite.",
+        "SliceSentence": "look at the kite .",
+        "WrittenText": "",
+        "StartMs": 31750,
+        "EndMs": 33290,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1220,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's blue and white.",
+        "SliceSentence": "It's blue and white .",
+        "WrittenText": "",
+        "StartMs": 33820,
+        "EndMs": 35690,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the bike.",
+        "SliceSentence": "Look at the bike .",
+        "WrittenText": "",
+        "StartMs": 37690,
+        "EndMs": 39260,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Five people ride the bike.",
+        "SliceSentence": "Five people ride the bike .",
+        "WrittenText": "",
+        "StartMs": 40060,
+        "EndMs": 42830,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mike,",
+        "SliceSentence": "Mike ,",
+        "WrittenText": "",
+        "StartMs": 46090,
+        "EndMs": 46490,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mike"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look at the kite.",
+        "SliceSentence": "look at the kite .",
+        "WrittenText": "",
+        "StartMs": 47230,
+        "EndMs": 48860,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 995,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1310,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's blue and white.",
+        "SliceSentence": "It's blue and white .",
+        "WrittenText": "",
+        "StartMs": 49330,
+        "EndMs": 51260,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the bike.",
+        "SliceSentence": "Look at the bike .",
+        "WrittenText": "",
+        "StartMs": 53200,
+        "EndMs": 54830,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1265,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Five people ride a bike.",
+        "SliceSentence": "Five people ride a bike .",
+        "WrittenText": "",
+        "StartMs": 55660,
+        "EndMs": 58310,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

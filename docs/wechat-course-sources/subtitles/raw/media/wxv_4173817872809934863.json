@@ -1,0 +1,305 @@
+{
+  "RequestId": "d590a67e-ad93-4132-b033-d907757a970f",
+  "Data": {
+    "TaskId": 16292500952,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 43.886938,
+    "Result": "A a Kate, what's your name? My name is Kate. I live on a farm next to a lake. The kitchen is my favourite place. Today I'm going to bake a cake.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A a Kate,",
+        "SliceSentence": "A a Kate ,",
+        "WrittenText": "",
+        "StartMs": 60,
+        "EndMs": 15260,
+        "SpeechSpeed": 0.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 5830,
+            "OffsetEndMs": 6230,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 14800,
+            "OffsetEndMs": 15200,
+            "Word": "Kate"
+          },
+          {
+            "OffsetStartMs": 14800,
+            "OffsetEndMs": 15200,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's your name?",
+        "SliceSentence": "what's your name ?",
+        "WrittenText": "",
+        "StartMs": 21520,
+        "EndMs": 23000,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My name is Kate.",
+        "SliceSentence": "My name is Kate .",
+        "WrittenText": "",
+        "StartMs": 23740,
+        "EndMs": 25460,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 995,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1355,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1720,
+            "Word": "Kate"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I live on a farm next to a lake.",
+        "SliceSentence": "I live on a farm next to a lake .",
+        "WrittenText": "",
+        "StartMs": 26110,
+        "EndMs": 30290,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1055,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1295,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "next"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3560,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3845,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4180,
+            "Word": "lake"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The kitchen is my favourite place.",
+        "SliceSentence": "The kitchen is my favourite place .",
+        "WrittenText": "",
+        "StartMs": 30730,
+        "EndMs": 34880,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "kitchen"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 3520,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Today I'm going to bake a cake.",
+        "SliceSentence": "Today I'm going to bake a cake .",
+        "WrittenText": "",
+        "StartMs": 35770,
+        "EndMs": 39680,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Today"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1850,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2170,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2495,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 3035,
+            "Word": "bake"
+          },
+          {
+            "OffsetStartMs": 3035,
+            "OffsetEndMs": 3370,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

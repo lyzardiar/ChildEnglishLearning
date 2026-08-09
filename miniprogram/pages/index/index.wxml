@@ -1,84 +1,136 @@
-<view class="container">
-  <!-- 顶部：孩子选择 -->
-  <view class="child-bar" wx:if="{{children.length > 0}}">
-    <view
-      class="child-avatar {{currentChild._id === item._id ? 'active' : ''}}"
-      wx:for="{{children}}"
-      wx:key="_id"
-      data-id="{{item._id}}"
-      bindtap="onSwitchChild"
-    >
-      <text class="avatar-emoji">{{item.avatar || '🧒'}}</text>
-      <text class="child-name">{{item.name}}</text>
+<view class="home-page">
+  <view class="hero-band">
+    <image wx:if="{{!heroImageError}}" class="hero-image" src="{{heroImage}}" mode="aspectFit" binderror="onHeroImageError" />
+    <view class="hero-copy">
+      <text class="hero-brand">小一伊英语</text>
+      <text class="hero-line">今天从哪一课开始？</text>
     </view>
-    <navigator url="/pages/profile/profile" open-type="switchTab" class="add-child-btn">
-      <text class="add-icon">+</text>
-    </navigator>
   </view>
 
-  <!-- 无孩子时的引导 -->
-  <view class="empty-guide" wx:if="{{children.length === 0}}">
-    <text class="guide-emoji">👋</text>
-    <text class="guide-text">先添加一个小朋友吧</text>
-    <navigator url="/pages/profile/profile" open-type="switchTab" class="btn-large btn-primary">添加小朋友</navigator>
-  </view>
+  <view class="content-wrap">
+    <scroll-view class="child-scroll" scroll-x enhanced show-scrollbar="{{false}}">
+      <view class="child-row">
+        <view
+          class="child-item {{currentChild && currentChild._id === item._id ? 'active' : ''}}"
+          wx:for="{{children}}"
+          wx:key="_id"
+          data-id="{{item._id}}"
+          bindtap="onSwitchChild"
+        >
+          <text class="child-avatar">{{item.avatar || '同'}}</text>
+          <text class="child-name">{{item.name}}</text>
+        </view>
+        <navigator class="child-item add-child" url="/pages/profile/profile" open-type="switchTab">
+          <text class="child-avatar">+</text>
+          <text class="child-name">档案</text>
+        </navigator>
+      </view>
+    </scroll-view>
 
-  <!-- 主内容区 -->
-  <block wx:if="{{currentChild}}">
-    <!-- 学期切换 -->
-    <view class="semester-tabs">
-      <view
-        class="tab {{semester === 'upper' ? 'active' : ''}}"
-        data-semester="upper"
-        bindtap="onSwitchSemester"
-      >上册</view>
-      <view
-        class="tab {{semester === 'lower' ? 'active' : ''}}"
-        data-semester="lower"
-        bindtap="onSwitchSemester"
-      >下册</view>
+    <view class="selector-label-row">
+      <text class="selector-title">选择年级</text>
+      <text class="selector-current">{{gradeName}} · {{semesterName}}</text>
     </view>
 
-    <!-- 打卡状态 -->
-    <view class="checkin-status card">
-      <view class="streak-info">
-        <text class="streak-num">{{streakDays}}</text>
-        <text class="streak-label">连续打卡天数</text>
+    <scroll-view class="grade-scroll" scroll-x enhanced show-scrollbar="{{false}}">
+      <view class="grade-row">
+        <view
+          class="grade-option {{grade === item.grade ? 'active' : ''}}"
+          wx:for="{{grades}}"
+          wx:key="grade"
+          data-grade="{{item.grade}}"
+          bindtap="onSwitchGrade"
+        >{{item.grade}}年级</view>
       </view>
-      <view class="checkin-badge {{todayChecked ? 'done' : ''}}">
-        <text>{{todayChecked ? '今日已打卡 ✅' : '今日未打卡'}}</text>
+    </scroll-view>
+
+    <view class="semester-control">
+      <view class="semester-option {{semester === 'upper' ? 'active' : ''}}" data-semester="upper" bindtap="onSwitchSemester">上册</view>
+      <view class="semester-option {{semester === 'lower' ? 'active' : ''}}" data-semester="lower" bindtap="onSwitchSemester">下册</view>
+    </view>
+
+    <view class="summary-band">
+      <view class="summary-item">
+        <text class="summary-value">{{units.length}}</text>
+        <text class="summary-label">单元</text>
+      </view>
+      <view class="summary-item">
+        <text class="summary-value">{{videoCount}}</text>
+        <text class="summary-label">动画</text>
+      </view>
+      <view class="summary-item">
+        <text class="summary-value">{{audioCount}}</text>
+        <text class="summary-label">音频</text>
+      </view>
+      <navigator class="checkin-summary" url="/pages/checkin/checkin" open-type="switchTab">
+        <text class="checkin-value">{{todayChecked ? '已完成' : streakDays + ' 天'}}</text>
+        <text class="summary-label">今日打卡</text>
+      </navigator>
+    </view>
+
+    <view class="catalog-control">
+      <view class="catalog-option {{catalogTab === 'units' ? 'active' : ''}}" data-tab="units" bindtap="onSwitchCatalog">
+        <text>单元课程</text>
+        <text class="catalog-count">{{units.length}}</text>
+      </view>
+      <view class="catalog-option {{catalogTab === 'appendices' ? 'active' : ''}}" data-tab="appendices" bindtap="onSwitchCatalog">
+        <text>配套附录</text>
+        <text class="catalog-count">{{appendices.length}}</text>
       </view>
     </view>
 
-    <!-- 单元列表 -->
-    <view class="unit-list">
-      <view
-        class="unit-card card"
-        wx:for="{{units}}"
-        wx:key="id"
-      >
-        <view class="unit-header" data-index="{{index}}" bindtap="onEnterUnit">
-          <view class="unit-icon">
-            <text class="unit-num">{{index + 1}}</text>
-          </view>
-          <view class="unit-info">
+    <block wx:if="{{catalogTab === 'units'}}">
+      <view class="section-title-row">
+        <text class="section-heading">课程目录</text>
+        <text class="section-meta">{{units.length}} 个单元</text>
+      </view>
+      <view class="unit-list">
+        <view class="unit-row" wx:for="{{units}}" wx:key="id" data-index="{{index}}" bindtap="onEnterUnit">
+          <view class="unit-number">{{item.unitNumber}}</view>
+          <view class="unit-main">
             <text class="unit-title">{{item.title}}</text>
-            <text class="unit-subtitle">{{item.subtitle}}</text>
+            <text class="unit-translation">{{item.titleChinese}}</text>
+            <view class="unit-media">
+              <text wx:if="{{item.counts.videos}}">▷ {{item.counts.videos}} 段动画</text>
+              <text wx:if="{{item.counts.audios}}">♪ {{item.counts.audios}} 条音频</text>
+              <text wx:if="{{!item.counts.audios && !item.counts.videos}}">资源整理中</text>
+            </view>
           </view>
-        </view>
-        <view class="unit-actions">
-          <view class="action-btn" data-index="{{index}}" bindtap="onEnterUnit">
-            <text class="action-emoji">📖</text>
-            <text>学单词</text>
-          </view>
-          <view class="action-btn" data-index="{{index}}" bindtap="onEnterListen">
-            <text class="action-emoji">🎧</text>
-            <text>听课文</text>
-          </view>
+          <text class="unit-arrow">›</text>
         </view>
       </view>
-    </view>
-  </block>
+    </block>
+
+    <block wx:else>
+      <view class="section-title-row">
+        <text class="section-heading">配套附录</text>
+        <text class="section-meta">{{availableAppendixCount}} 类可播放 · {{appendixAudioCount}} 条音频</text>
+      </view>
+      <view class="appendix-list" wx:if="{{appendices.length}}">
+        <view
+          class="appendix-row {{item.availability !== 'ready' ? 'unavailable' : ''}}"
+          wx:for="{{appendices}}"
+          wx:key="id"
+          data-index="{{index}}"
+          bindtap="onEnterAppendix"
+        >
+          <view class="appendix-mark {{item.type}}">{{item.mark}}</view>
+          <view class="appendix-main">
+            <view class="appendix-title-row">
+              <text class="appendix-title">{{item.title}}</text>
+              <text class="appendix-tag">{{item.categoryChinese}}</text>
+            </view>
+            <text class="appendix-chinese">{{item.titleChinese}}</text>
+            <text class="appendix-media ready" wx:if="{{item.availability === 'ready'}}">♪ {{item.counts.audios}} 条音频 · {{item.durationText}}</text>
+            <text class="appendix-media" wx:else>{{item.statusText}}</text>
+          </view>
+          <text class="unit-arrow" wx:if="{{item.availability === 'ready'}}">›</text>
+          <text class="appendix-wait" wx:else>待补</text>
+        </view>
+      </view>
+      <view class="empty-catalog" wx:else>本册暂无单独附录资源</view>
+    </block>
+  </view>
 
   <view class="tab-bar-placeholder"></view>
 </view>

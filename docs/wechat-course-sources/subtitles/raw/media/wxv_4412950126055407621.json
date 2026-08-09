@@ -1,0 +1,735 @@
+{
+  "RequestId": "b0f4ddce-03fb-4193-9b17-a1706a0bb72a",
+  "Data": {
+    "TaskId": 16292592767,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 70.193938,
+    "Result": "Christmas is on the 25th of December. It is an important festival in many western countries. People usually give presents to each other at Christmas. They also like to decorate a tree and put it up in their homes on Christmas Eve. Children wait for presents from father Christmas. Thanksgiving is on the fourth thursday in november. It is a special holiday. In the us, people often travel far to be with their families for Thanksgiving day, they usually eat Turkey at the.Thanksgiving meal they also talk about their favourite moments of the last year.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Christmas is on the 25th of December.",
+        "SliceSentence": "Christmas is on the 25 thof December .",
+        "WrittenText": "",
+        "StartMs": 80,
+        "EndMs": 4000,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1845,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2070,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2310,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 3110,
+            "Word": "25"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3540,
+            "Word": "thof"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3920,
+            "Word": "December"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is an important festival in many western countries.",
+        "SliceSentence": "It is an important festival in many western countries .",
+        "WrittenText": "",
+        "StartMs": 5640,
+        "EndMs": 9400,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 875,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1270,
+            "Word": "important"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2510,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2825,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3220,
+            "Word": "western"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "countries"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People usually give presents to each other at Christmas.",
+        "SliceSentence": "People usually give presents to each other at Christmas .",
+        "WrittenText": "",
+        "StartMs": 12930,
+        "EndMs": 16930,
+        "SpeechSpeed": 14,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1745,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2110,
+            "Word": "presents"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2735,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 2930,
+            "Word": "each"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3250,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3635,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 4000,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 4000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They also like to decorate a tree and put it up in their homes on Christmas Eve.",
+        "SliceSentence": "They also like to decorate a tree and put it up in their homes on Christmas Eve .",
+        "WrittenText": "",
+        "StartMs": 23610,
+        "EndMs": 32350,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1520,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 2195,
+            "Word": "decorate"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2495,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2830,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3455,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3455,
+            "OffsetEndMs": 3740,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 3965,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3965,
+            "OffsetEndMs": 4250,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 4250,
+            "OffsetEndMs": 4535,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4760,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 4760,
+            "OffsetEndMs": 5080,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 7470,
+            "OffsetEndMs": 7835,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 7835,
+            "OffsetEndMs": 8200,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 8340,
+            "OffsetEndMs": 8740,
+            "Word": "Eve"
+          },
+          {
+            "OffsetStartMs": 8340,
+            "OffsetEndMs": 8740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Children wait for presents from father Christmas.",
+        "SliceSentence": "Children wait for presents from father Christmas .",
+        "WrittenText": "",
+        "StartMs": 32640,
+        "EndMs": 35950,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Children"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1025,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1355,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "presents"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2480,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2800,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thanksgiving is on the fourth thursday in november.",
+        "SliceSentence": "Thanksgiving is on the fourth thursday in november .",
+        "WrittenText": "",
+        "StartMs": 39690,
+        "EndMs": 43630,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thanksgiving"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1475,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1700,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 1910,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2200,
+            "Word": "fourth"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "thursday"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "november"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is a special holiday.",
+        "SliceSentence": "It is a special holiday .",
+        "WrittenText": "",
+        "StartMs": 45900,
+        "EndMs": 47830,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 965,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "holiday"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the us,",
+        "SliceSentence": "In the us ,",
+        "WrittenText": "",
+        "StartMs": 48270,
+        "EndMs": 49090,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " people often travel far to be with their families for Thanksgiving day,",
+        "SliceSentence": "people often travel far to be with their families for Thanksgiving day ,",
+        "WrittenText": "",
+        "StartMs": 50280,
+        "EndMs": 55690,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "travel"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "far"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2525,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2705,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 2930,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3170,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 3170,
+            "OffsetEndMs": 3490,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4280,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 4280,
+            "OffsetEndMs": 4570,
+            "Word": "Thanksgiving"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5410,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they usually eat Turkey at the.",
+        "SliceSentence": "they usually eat Turkey at the .",
+        "WrittenText": "",
+        "StartMs": 57450,
+        "EndMs": 60460,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "Turkey"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2630,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 3010,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Thanksgiving meal they also talk about their favourite moments of the last year.",
+        "SliceSentence": "Thanksgiving meal they also talk about their favourite moments of the last year .",
+        "WrittenText": "",
+        "StartMs": 60560,
+        "EndMs": 67660,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Thanksgiving"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "meal"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2655,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 2655,
+            "OffsetEndMs": 2960,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3620,
+            "Word": "talk"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4035,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 4035,
+            "OffsetEndMs": 4320,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 5010,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5330,
+            "Word": "moments"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6120,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6315,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6315,
+            "OffsetEndMs": 6590,
+            "Word": "last"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 100,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "RequestId": "0e7769d1-67c2-4424-bc8c-be2432509caf",
+  "Data": {
+    "TaskId": 16292442656,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.789688,
+    "Result": "APP.Up.A man wears a cap. He has a map. He takes a nap. Where is his map? A man wears a cap. He has a map. He takes a nap. Where is his map?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "APP.",
+        "SliceSentence": "APP .",
+        "WrittenText": "",
+        "StartMs": 660,
+        "EndMs": 1070,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "APP"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Up.",
+        "SliceSentence": "Up .",
+        "WrittenText": "",
+        "StartMs": 2060,
+        "EndMs": 2470,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A man wears a cap.",
+        "SliceSentence": "A man wears a cap .",
+        "WrittenText": "",
+        "StartMs": 4960,
+        "EndMs": 9990,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3570,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3890,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 4120,
+            "OffsetEndMs": 4590,
+            "Word": "wears"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4740,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5030,
+            "Word": "cap"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He has a map.",
+        "SliceSentence": "He has a map .",
+        "WrittenText": "",
+        "StartMs": 10790,
+        "EndMs": 12420,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1325,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1630,
+            "Word": "map"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He takes a nap.",
+        "SliceSentence": "He takes a nap .",
+        "WrittenText": "",
+        "StartMs": 13190,
+        "EndMs": 14790,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 965,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1280,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "nap"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is his map?",
+        "SliceSentence": "Where is his map ?",
+        "WrittenText": "",
+        "StartMs": 15620,
+        "EndMs": 17190,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "map"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A man wears a cap.",
+        "SliceSentence": "A man wears a cap .",
+        "WrittenText": "",
+        "StartMs": 20120,
+        "EndMs": 21900,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1325,
+            "Word": "wears"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1475,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1780,
+            "Word": "cap"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He has a map.",
+        "SliceSentence": "He has a map .",
+        "WrittenText": "",
+        "StartMs": 22670,
+        "EndMs": 24330,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1355,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "map"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He takes a nap.",
+        "SliceSentence": "He takes a nap .",
+        "WrittenText": "",
+        "StartMs": 25130,
+        "EndMs": 26760,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1310,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "nap"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is his map?",
+        "SliceSentence": "Where is his map ?",
+        "WrittenText": "",
+        "StartMs": 27560,
+        "EndMs": 29130,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 905,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1220,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1570,
+            "Word": "map"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

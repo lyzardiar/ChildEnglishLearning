@@ -1,0 +1,641 @@
+{
+  "RequestId": "9e8b3ba8-7d5d-4070-b27e-37053405341a",
+  "Data": {
+    "TaskId": 16292432429,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 57.655188,
+    "Result": "Up, up.Hop, hop.Shop shop.Mop. Mop.Penny loves to hop, hop, hop, hops. She hops to the shop. She buys a new mop. Penny loves to hop, hop, hop, hop. She hops to the shop. She buys a new mop.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Up,",
+        "SliceSentence": "Up ,",
+        "WrittenText": "",
+        "StartMs": 820,
+        "EndMs": 1230,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " up.",
+        "SliceSentence": "up .",
+        "WrittenText": "",
+        "StartMs": 2000,
+        "EndMs": 2400,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hop,",
+        "SliceSentence": "Hop ,",
+        "WrittenText": "",
+        "StartMs": 5760,
+        "EndMs": 6200,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Hop"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hop.",
+        "SliceSentence": "hop .",
+        "WrittenText": "",
+        "StartMs": 6940,
+        "EndMs": 7340,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Shop shop.",
+        "SliceSentence": "Shop shop .",
+        "WrittenText": "",
+        "StartMs": 11240,
+        "EndMs": 12850,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Shop"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mop.",
+        "SliceSentence": "Mop .",
+        "WrittenText": "",
+        "StartMs": 16720,
+        "EndMs": 17610,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 890,
+            "Word": "Mop"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mop.",
+        "SliceSentence": "Mop .",
+        "WrittenText": "",
+        "StartMs": 17960,
+        "EndMs": 18690,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Mop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Penny loves to hop,",
+        "SliceSentence": "Penny loves to hop ,",
+        "WrittenText": "",
+        "StartMs": 21300,
+        "EndMs": 27200,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "Penny"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5325,
+            "Word": "loves"
+          },
+          {
+            "OffsetStartMs": 5325,
+            "OffsetEndMs": 5610,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 5900,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 5900,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hop,",
+        "SliceSentence": "hop ,",
+        "WrittenText": "",
+        "StartMs": 27970,
+        "EndMs": 28370,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hop,",
+        "SliceSentence": "hop ,",
+        "WrittenText": "",
+        "StartMs": 28630,
+        "EndMs": 29030,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hops.",
+        "SliceSentence": "hops .",
+        "WrittenText": "",
+        "StartMs": 29200,
+        "EndMs": 29990,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "hops"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She hops to the shop.",
+        "SliceSentence": "She hops to the shop .",
+        "WrittenText": "",
+        "StartMs": 30460,
+        "EndMs": 34340,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1960,
+            "Word": "hops"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She buys a new mop.",
+        "SliceSentence": "She buys a new mop .",
+        "WrittenText": "",
+        "StartMs": 35200,
+        "EndMs": 39530,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2140,
+            "Word": "buys"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4330,
+            "Word": "mop"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Penny loves to hop,",
+        "SliceSentence": "Penny loves to hop ,",
+        "WrittenText": "",
+        "StartMs": 42340,
+        "EndMs": 43910,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Penny"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "loves"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hop,",
+        "SliceSentence": "hop ,",
+        "WrittenText": "",
+        "StartMs": 44710,
+        "EndMs": 45110,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hop,",
+        "SliceSentence": "hop ,",
+        "WrittenText": "",
+        "StartMs": 45340,
+        "EndMs": 45740,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hop.",
+        "SliceSentence": "hop .",
+        "WrittenText": "",
+        "StartMs": 45940,
+        "EndMs": 46340,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She hops to the shop.",
+        "SliceSentence": "She hops to the shop .",
+        "WrittenText": "",
+        "StartMs": 47110,
+        "EndMs": 51050,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1990,
+            "Word": "hops"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She buys a new mop.",
+        "SliceSentence": "She buys a new mop .",
+        "WrittenText": "",
+        "StartMs": 51880,
+        "EndMs": 56120,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2020,
+            "Word": "buys"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2780,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3130,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 4240,
+            "Word": "mop"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 4240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

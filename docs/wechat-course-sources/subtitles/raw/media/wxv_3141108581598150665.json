@@ -1,0 +1,4278 @@
+{
+  "RequestId": "421b01c5-f947-4349-b735-af69faec9211",
+  "Data": {
+    "TaskId": 16292560539,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 659.307375,
+    "Result": "Unit 10 wind. Blow gently, softly, strongly, happily. Move slowly, quickly. Sound paper.Quiet, the children are flying their kites happily. Me too. Why new words?Blow.Blow.Gently.Gently.Softly.Softly.Strongly.Strongly.Happily.Happily.Windmill.Windmill.Move.Move.Slowly.Slowly.Quickly.Quickly.Sound.Sound.Windmill.Windmill.Cut.Cut.Paper.Paper.Quiet.Quiet.Listen and say.The children are flying their kites happily.The wind is blowing, it is blowing gently. The flowers are dancing in the wind. Softly, the wind is blowing. It is blowing strongly. The children are flying their kites. Happily, the wind is blowing, it is blowing gently. The windmill is moving slowly. The wind is blowing, it is blowing strongly. The windmill is moving quickly.Read a story.The sound of the wind.Little duck has a wind bell on her window. Wow, that's the sound of the wind. Little rabbit has a wind bell in her room. It's like music. I love it. I like the sound of the wind. Me too. Little pig wants to hear the sound of the wind too. Little pig is cutting some paper. He wants to make a paper wind bell.The wind is blowing gently.Little pig hears the sound of the wind.He does not like it.It's too quiet. Why?Sentence patterns.The wind is blowing. It is blowing gently.The flowers are dancing in the wind softly.The children are flying their kites happily.Softly happilyd I y go foods don't.The windmill is moving slowly.The windmill is moving quickly.Slowly, quickly moving, the windmill is moving slowly.The windmill is moving quickly.It rains heavily.He touches the baby's face gently.Y Y I L Y you heavily youi E E J that E L Y you gently.The wind is blowing. It is blowing gently.The flowers are dancing in the wind softly.The children are flying their kites happily.The windmill is moving slowly.The windmill is moving quickly.It rains heavily.He touches the baby's face gently.Learn the sounds.Sk sk scarf scarf. Sk skateboard skateboard scarlett is in the park. She's wearing a red scarf. She's skating on a skateboard and she's skating fast and fast. Scarlett is in the pub, she's wearing a red scarf, she's skating on a skateboard and she's skating fast and far.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit 10 wind.",
+        "SliceSentence": "Unit 10 wind .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2270,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Blow gently,",
+        "SliceSentence": "Blow gently ,",
+        "WrittenText": "",
+        "StartMs": 43240,
+        "EndMs": 44900,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Blow"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 40970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " softly,",
+        "SliceSentence": "softly ,",
+        "WrittenText": "",
+        "StartMs": 46240,
+        "EndMs": 47060,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "softly"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " strongly,",
+        "SliceSentence": "strongly ,",
+        "WrittenText": "",
+        "StartMs": 48100,
+        "EndMs": 48500,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "strongly"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " happily.",
+        "SliceSentence": "happily .",
+        "WrittenText": "",
+        "StartMs": 49780,
+        "EndMs": 50600,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Move slowly,",
+        "SliceSentence": "Move slowly ,",
+        "WrittenText": "",
+        "StartMs": 51460,
+        "EndMs": 53990,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Move"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "slowly"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " quickly.",
+        "SliceSentence": "quickly .",
+        "WrittenText": "",
+        "StartMs": 55450,
+        "EndMs": 55850,
+        "SpeechSpeed": 20,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "quickly"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sound paper.",
+        "SliceSentence": "Sound paper .",
+        "WrittenText": "",
+        "StartMs": 57250,
+        "EndMs": 59480,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sound"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quiet,",
+        "SliceSentence": "Quiet ,",
+        "WrittenText": "",
+        "StartMs": 60220,
+        "EndMs": 61470,
+        "SpeechSpeed": 4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "Quiet"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the children are flying their kites happily.",
+        "SliceSentence": "the children are flying their kites happily .",
+        "WrittenText": "",
+        "StartMs": 69140,
+        "EndMs": 72780,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1355,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2210,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2590,
+            "Word": "kites"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3640,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Me too.",
+        "SliceSentence": "Me too .",
+        "WrittenText": "",
+        "StartMs": 74030,
+        "EndMs": 74970,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why new words?",
+        "SliceSentence": "Why new words ?",
+        "WrittenText": "",
+        "StartMs": 76190,
+        "EndMs": 84630,
+        "SpeechSpeed": 1.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 7680,
+            "OffsetEndMs": 8060,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 8060,
+            "OffsetEndMs": 8440,
+            "Word": "words"
+          },
+          {
+            "OffsetStartMs": 8060,
+            "OffsetEndMs": 8440,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Blow.",
+        "SliceSentence": "Blow .",
+        "WrittenText": "",
+        "StartMs": 87080,
+        "EndMs": 87580,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Blow"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Blow.",
+        "SliceSentence": "Blow .",
+        "WrittenText": "",
+        "StartMs": 90360,
+        "EndMs": 90860,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Blow"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Gently.",
+        "SliceSentence": "Gently .",
+        "WrittenText": "",
+        "StartMs": 97660,
+        "EndMs": 98160,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Gently"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Gently.",
+        "SliceSentence": "Gently .",
+        "WrittenText": "",
+        "StartMs": 101020,
+        "EndMs": 101520,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Gently"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Softly.",
+        "SliceSentence": "Softly .",
+        "WrittenText": "",
+        "StartMs": 108500,
+        "EndMs": 109450,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 950,
+            "Word": "Softly"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Softly.",
+        "SliceSentence": "Softly .",
+        "WrittenText": "",
+        "StartMs": 111500,
+        "EndMs": 112450,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 950,
+            "Word": "Softly"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Strongly.",
+        "SliceSentence": "Strongly .",
+        "WrittenText": "",
+        "StartMs": 118860,
+        "EndMs": 119600,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Strongly"
+          },
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Strongly.",
+        "SliceSentence": "Strongly .",
+        "WrittenText": "",
+        "StartMs": 122020,
+        "EndMs": 122760,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Strongly"
+          },
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Happily.",
+        "SliceSentence": "Happily .",
+        "WrittenText": "",
+        "StartMs": 129420,
+        "EndMs": 130280,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 860,
+            "Word": "Happily"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Happily.",
+        "SliceSentence": "Happily .",
+        "WrittenText": "",
+        "StartMs": 132440,
+        "EndMs": 133300,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "Happily"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Windmill.",
+        "SliceSentence": "Windmill .",
+        "WrittenText": "",
+        "StartMs": 139940,
+        "EndMs": 140860,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 920,
+            "Word": "Windmill"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Windmill.",
+        "SliceSentence": "Windmill .",
+        "WrittenText": "",
+        "StartMs": 143180,
+        "EndMs": 144100,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 920,
+            "Word": "Windmill"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Move.",
+        "SliceSentence": "Move .",
+        "WrittenText": "",
+        "StartMs": 150440,
+        "EndMs": 150910,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Move"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Move.",
+        "SliceSentence": "Move .",
+        "WrittenText": "",
+        "StartMs": 153680,
+        "EndMs": 154150,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Move"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Slowly.",
+        "SliceSentence": "Slowly .",
+        "WrittenText": "",
+        "StartMs": 161040,
+        "EndMs": 161720,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Slowly"
+          },
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Slowly.",
+        "SliceSentence": "Slowly .",
+        "WrittenText": "",
+        "StartMs": 164560,
+        "EndMs": 165240,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Slowly"
+          },
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quickly.",
+        "SliceSentence": "Quickly .",
+        "WrittenText": "",
+        "StartMs": 171560,
+        "EndMs": 172120,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Quickly"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quickly.",
+        "SliceSentence": "Quickly .",
+        "WrittenText": "",
+        "StartMs": 175000,
+        "EndMs": 175560,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Quickly"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sound.",
+        "SliceSentence": "Sound .",
+        "WrittenText": "",
+        "StartMs": 182180,
+        "EndMs": 182710,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Sound"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sound.",
+        "SliceSentence": "Sound .",
+        "WrittenText": "",
+        "StartMs": 185700,
+        "EndMs": 186230,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Sound"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Windmill.",
+        "SliceSentence": "Windmill .",
+        "WrittenText": "",
+        "StartMs": 192760,
+        "EndMs": 193710,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 950,
+            "Word": "Windmill"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Windmill.",
+        "SliceSentence": "Windmill .",
+        "WrittenText": "",
+        "StartMs": 196080,
+        "EndMs": 197030,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 950,
+            "Word": "Windmill"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Cut.",
+        "SliceSentence": "Cut .",
+        "WrittenText": "",
+        "StartMs": 203300,
+        "EndMs": 203710,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Cut"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Cut.",
+        "SliceSentence": "Cut .",
+        "WrittenText": "",
+        "StartMs": 206660,
+        "EndMs": 207070,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Cut"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Paper.",
+        "SliceSentence": "Paper .",
+        "WrittenText": "",
+        "StartMs": 213860,
+        "EndMs": 214300,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Paper"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Paper.",
+        "SliceSentence": "Paper .",
+        "WrittenText": "",
+        "StartMs": 217060,
+        "EndMs": 217500,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Paper"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quiet.",
+        "SliceSentence": "Quiet .",
+        "WrittenText": "",
+        "StartMs": 224380,
+        "EndMs": 224910,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Quiet"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quiet.",
+        "SliceSentence": "Quiet .",
+        "WrittenText": "",
+        "StartMs": 227460,
+        "EndMs": 227990,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Quiet"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 239460,
+        "EndMs": 240860,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1020,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The children are flying their kites happily.",
+        "SliceSentence": "The children are flying their kites happily .",
+        "WrittenText": "",
+        "StartMs": 244840,
+        "EndMs": 249840,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1665,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1665,
+            "OffsetEndMs": 1970,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2715,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2715,
+            "OffsetEndMs": 3110,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3555,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 3555,
+            "OffsetEndMs": 3920,
+            "Word": "kites"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 5000,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 5000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The wind is blowing,",
+        "SliceSentence": "The wind is blowing ,",
+        "WrittenText": "",
+        "StartMs": 250540,
+        "EndMs": 253440,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1640,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2205,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2900,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2900,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is blowing gently.",
+        "SliceSentence": "it is blowing gently .",
+        "WrittenText": "",
+        "StartMs": 254150,
+        "EndMs": 255750,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 560,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 1235,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The flowers are dancing in the wind.",
+        "SliceSentence": "The flowers are dancing in the wind .",
+        "WrittenText": "",
+        "StartMs": 257630,
+        "EndMs": 260280,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1145,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "dancing"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2165,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2360,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2650,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Softly,",
+        "SliceSentence": "Softly ,",
+        "WrittenText": "",
+        "StartMs": 260450,
+        "EndMs": 261360,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "Softly"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the wind is blowing.",
+        "SliceSentence": "the wind is blowing .",
+        "WrittenText": "",
+        "StartMs": 265820,
+        "EndMs": 267570,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1040,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1750,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is blowing strongly.",
+        "SliceSentence": "It is blowing strongly .",
+        "WrittenText": "",
+        "StartMs": 267980,
+        "EndMs": 269820,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 1330,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "strongly"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The children are flying their kites.",
+        "SliceSentence": "The children are flying their kites .",
+        "WrittenText": "",
+        "StartMs": 272990,
+        "EndMs": 275490,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2135,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2500,
+            "Word": "kites"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Happily,",
+        "SliceSentence": "Happily ,",
+        "WrittenText": "",
+        "StartMs": 275690,
+        "EndMs": 276540,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "Happily"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the wind is blowing,",
+        "SliceSentence": "the wind is blowing ,",
+        "WrittenText": "",
+        "StartMs": 277820,
+        "EndMs": 279540,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1010,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1720,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1720,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is blowing gently.",
+        "SliceSentence": "it is blowing gently .",
+        "WrittenText": "",
+        "StartMs": 280340,
+        "EndMs": 281910,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 1220,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1570,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The windmill is moving slowly.",
+        "SliceSentence": "The windmill is moving slowly .",
+        "WrittenText": "",
+        "StartMs": 284600,
+        "EndMs": 287220,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 1000,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1415,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "slowly"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The wind is blowing,",
+        "SliceSentence": "The wind is blowing ,",
+        "WrittenText": "",
+        "StartMs": 290000,
+        "EndMs": 291810,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1085,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1810,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is blowing strongly.",
+        "SliceSentence": "it is blowing strongly .",
+        "WrittenText": "",
+        "StartMs": 292730,
+        "EndMs": 294600,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 635,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1360,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "strongly"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The windmill is moving quickly.",
+        "SliceSentence": "The windmill is moving quickly .",
+        "WrittenText": "",
+        "StartMs": 296870,
+        "EndMs": 299520,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 1030,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1535,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1930,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "quickly"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Read a story.",
+        "SliceSentence": "Read a story .",
+        "WrittenText": "",
+        "StartMs": 304640,
+        "EndMs": 312190,
+        "SpeechSpeed": 1.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 6550,
+            "OffsetEndMs": 6930,
+            "Word": "Read"
+          },
+          {
+            "OffsetStartMs": 6930,
+            "OffsetEndMs": 7230,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7230,
+            "OffsetEndMs": 7550,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 7230,
+            "OffsetEndMs": 7550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The sound of the wind.",
+        "SliceSentence": "The sound of the wind .",
+        "WrittenText": "",
+        "StartMs": 316740,
+        "EndMs": 318500,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 420,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 740,
+            "Word": "sound"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1260,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1470,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1760,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Little duck has a wind bell on her window.",
+        "SliceSentence": "Little duck has a wind bell on her window .",
+        "WrittenText": "",
+        "StartMs": 319540,
+        "EndMs": 325440,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3135,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 3135,
+            "OffsetEndMs": 3530,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 3640,
+            "OffsetEndMs": 3960,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4185,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4185,
+            "OffsetEndMs": 4485,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 4485,
+            "OffsetEndMs": 4880,
+            "Word": "bell"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5340,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 5340,
+            "OffsetEndMs": 5580,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 5900,
+            "Word": "window"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 5900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wow,",
+        "SliceSentence": "Wow ,",
+        "WrittenText": "",
+        "StartMs": 332300,
+        "EndMs": 332700,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wow"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that's the sound of the wind.",
+        "SliceSentence": "that's the sound of the wind .",
+        "WrittenText": "",
+        "StartMs": 333260,
+        "EndMs": 335340,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 860,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1180,
+            "Word": "sound"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1505,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1745,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2080,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little rabbit has a wind bell in her room.",
+        "SliceSentence": "Little rabbit has a wind bell in her room .",
+        "WrittenText": "",
+        "StartMs": 338060,
+        "EndMs": 341430,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1475,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1670,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1925,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2290,
+            "Word": "bell"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2690,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 2990,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3370,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's like music.",
+        "SliceSentence": "It's like music .",
+        "WrittenText": "",
+        "StartMs": 343280,
+        "EndMs": 344430,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 755,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "music"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I love it.",
+        "SliceSentence": "I love it .",
+        "WrittenText": "",
+        "StartMs": 345110,
+        "EndMs": 346230,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the sound of the wind.",
+        "SliceSentence": "I like the sound of the wind .",
+        "WrittenText": "",
+        "StartMs": 349310,
+        "EndMs": 351570,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1565,
+            "Word": "sound"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1835,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 1985,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2260,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Me too.",
+        "SliceSentence": "Me too .",
+        "WrittenText": "",
+        "StartMs": 354230,
+        "EndMs": 355170,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little pig wants to hear the sound of the wind too.",
+        "SliceSentence": "Little pig wants to hear the sound of the wind too .",
+        "WrittenText": "",
+        "StartMs": 356360,
+        "EndMs": 360090,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1490,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1745,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2000,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2270,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2560,
+            "Word": "sound"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2885,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3020,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3020,
+            "OffsetEndMs": 3280,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3730,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little pig is cutting some paper.",
+        "SliceSentence": "Little pig is cutting some paper .",
+        "WrittenText": "",
+        "StartMs": 361670,
+        "EndMs": 364050,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1310,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1660,
+            "Word": "cutting"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2060,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2380,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He wants to make a paper wind bell.",
+        "SliceSentence": "He wants to make a paper wind bell .",
+        "WrittenText": "",
+        "StartMs": 364790,
+        "EndMs": 367320,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 560,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 800,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1025,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1325,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1660,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2165,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2530,
+            "Word": "bell"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The wind is blowing gently.",
+        "SliceSentence": "The wind is blowing gently .",
+        "WrittenText": "",
+        "StartMs": 369040,
+        "EndMs": 370890,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 360,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 650,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1050,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1530,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1850,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Little pig hears the sound of the wind.",
+        "SliceSentence": "Little pig hears the sound of the wind .",
+        "WrittenText": "",
+        "StartMs": 373220,
+        "EndMs": 376390,
+        "SpeechSpeed": 12,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 765,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1160,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1965,
+            "Word": "hears"
+          },
+          {
+            "OffsetStartMs": 1965,
+            "OffsetEndMs": 2160,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2450,
+            "Word": "sound"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2745,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2745,
+            "OffsetEndMs": 2895,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3170,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "He does not like it.",
+        "SliceSentence": "He does not like it .",
+        "WrittenText": "",
+        "StartMs": 378420,
+        "EndMs": 379910,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 345,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 540,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 825,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1140,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It's too quiet.",
+        "SliceSentence": "It's too quiet .",
+        "WrittenText": "",
+        "StartMs": 382280,
+        "EndMs": 383470,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 555,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 810,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1190,
+            "Word": "quiet"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why?",
+        "SliceSentence": "Why ?",
+        "WrittenText": "",
+        "StartMs": 383940,
+        "EndMs": 384340,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sentence patterns.",
+        "SliceSentence": "Sentence patterns .",
+        "WrittenText": "",
+        "StartMs": 386160,
+        "EndMs": 400190,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 12880,
+            "OffsetEndMs": 13280,
+            "Word": "Sentence"
+          },
+          {
+            "OffsetStartMs": 13630,
+            "OffsetEndMs": 14030,
+            "Word": "patterns"
+          },
+          {
+            "OffsetStartMs": 13630,
+            "OffsetEndMs": 14030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The wind is blowing.",
+        "SliceSentence": "The wind is blowing .",
+        "WrittenText": "",
+        "StartMs": 404100,
+        "EndMs": 406100,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 435,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 740,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1305,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 2000,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 2000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is blowing gently.",
+        "SliceSentence": "It is blowing gently .",
+        "WrittenText": "",
+        "StartMs": 406360,
+        "EndMs": 407990,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1265,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The flowers are dancing in the wind softly.",
+        "SliceSentence": "The flowers are dancing in the wind softly .",
+        "WrittenText": "",
+        "StartMs": 410840,
+        "EndMs": 414640,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 710,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1215,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1550,
+            "Word": "dancing"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2235,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2720,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3800,
+            "Word": "softly"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The children are flying their kites happily.",
+        "SliceSentence": "The children are flying their kites happily .",
+        "WrittenText": "",
+        "StartMs": 416500,
+        "EndMs": 420090,
+        "SpeechSpeed": 12,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 375,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 680,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1335,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1730,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2205,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2570,
+            "Word": "kites"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3590,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Softly happilyd I y go foods don't.",
+        "SliceSentence": "Softly happilyd I y go foods don't .",
+        "WrittenText": "",
+        "StartMs": 431880,
+        "EndMs": 451040,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 770,
+            "Word": "Softly"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 6500,
+            "Word": "happilyd"
+          },
+          {
+            "OffsetStartMs": 9940,
+            "OffsetEndMs": 10290,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 10290,
+            "OffsetEndMs": 10640,
+            "Word": "y"
+          },
+          {
+            "OffsetStartMs": 10750,
+            "OffsetEndMs": 11150,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 14050,
+            "OffsetEndMs": 14450,
+            "Word": "foods"
+          },
+          {
+            "OffsetStartMs": 16450,
+            "OffsetEndMs": 19160,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 16450,
+            "OffsetEndMs": 19160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The windmill is moving slowly.",
+        "SliceSentence": "The windmill is moving slowly .",
+        "WrittenText": "",
+        "StartMs": 452940,
+        "EndMs": 455630,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 390,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 1070,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1500,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1880,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "slowly"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The windmill is moving quickly.",
+        "SliceSentence": "The windmill is moving quickly .",
+        "WrittenText": "",
+        "StartMs": 457460,
+        "EndMs": 460180,
+        "SpeechSpeed": 11,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 1100,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1605,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1605,
+            "OffsetEndMs": 2000,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "quickly"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Slowly,",
+        "SliceSentence": "Slowly ,",
+        "WrittenText": "",
+        "StartMs": 461760,
+        "EndMs": 462440,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Slowly"
+          },
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " quickly moving,",
+        "SliceSentence": "quickly moving ,",
+        "WrittenText": "",
+        "StartMs": 462730,
+        "EndMs": 465350,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "quickly"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the windmill is moving slowly.",
+        "SliceSentence": "the windmill is moving slowly .",
+        "WrittenText": "",
+        "StartMs": 469270,
+        "EndMs": 471890,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 1000,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1415,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "slowly"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The windmill is moving quickly.",
+        "SliceSentence": "The windmill is moving quickly .",
+        "WrittenText": "",
+        "StartMs": 472920,
+        "EndMs": 478340,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3060,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3770,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 3880,
+            "OffsetEndMs": 4275,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4275,
+            "OffsetEndMs": 4670,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5420,
+            "Word": "quickly"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It rains heavily.",
+        "SliceSentence": "It rains heavily .",
+        "WrittenText": "",
+        "StartMs": 484620,
+        "EndMs": 485870,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 420,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "rains"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "heavily"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "He touches the baby's face gently.",
+        "SliceSentence": "He touches the baby's face gently .",
+        "WrittenText": "",
+        "StartMs": 487860,
+        "EndMs": 490520,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 1035,
+            "Word": "touches"
+          },
+          {
+            "OffsetStartMs": 1035,
+            "OffsetEndMs": 1290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1890,
+            "Word": "baby's"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2150,
+            "Word": "face"
+          },
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Y Y I L Y you heavily youi E E J that E L Y you gently.",
+        "SliceSentence": "Y Y I L Y you heavily youi E E J that E L Y you gently .",
+        "WrittenText": "",
+        "StartMs": 492880,
+        "EndMs": 508890,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Y"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "Y"
+          },
+          {
+            "OffsetStartMs": 6490,
+            "OffsetEndMs": 6890,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 8110,
+            "OffsetEndMs": 8460,
+            "Word": "L"
+          },
+          {
+            "OffsetStartMs": 8460,
+            "OffsetEndMs": 8810,
+            "Word": "Y"
+          },
+          {
+            "OffsetStartMs": 9100,
+            "OffsetEndMs": 9500,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 9520,
+            "OffsetEndMs": 9920,
+            "Word": "heavily"
+          },
+          {
+            "OffsetStartMs": 10600,
+            "OffsetEndMs": 11205,
+            "Word": "youi"
+          },
+          {
+            "OffsetStartMs": 11205,
+            "OffsetEndMs": 11505,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 11505,
+            "OffsetEndMs": 11840,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 11860,
+            "OffsetEndMs": 12260,
+            "Word": "J"
+          },
+          {
+            "OffsetStartMs": 12310,
+            "OffsetEndMs": 12800,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 13330,
+            "OffsetEndMs": 13730,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 14230,
+            "OffsetEndMs": 14595,
+            "Word": "L"
+          },
+          {
+            "OffsetStartMs": 14595,
+            "OffsetEndMs": 14960,
+            "Word": "Y"
+          },
+          {
+            "OffsetStartMs": 15220,
+            "OffsetEndMs": 15615,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 15615,
+            "OffsetEndMs": 16010,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 15615,
+            "OffsetEndMs": 16010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The wind is blowing.",
+        "SliceSentence": "The wind is blowing .",
+        "WrittenText": "",
+        "StartMs": 518720,
+        "EndMs": 520720,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 435,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 740,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1305,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 2000,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 2000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 9830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is blowing gently.",
+        "SliceSentence": "It is blowing gently .",
+        "WrittenText": "",
+        "StartMs": 520980,
+        "EndMs": 522610,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 1265,
+            "Word": "blowing"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The flowers are dancing in the wind softly.",
+        "SliceSentence": "The flowers are dancing in the wind softly .",
+        "WrittenText": "",
+        "StartMs": 533920,
+        "EndMs": 537720,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 710,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1215,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1550,
+            "Word": "dancing"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2235,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2720,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3800,
+            "Word": "softly"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The children are flying their kites happily.",
+        "SliceSentence": "The children are flying their kites happily .",
+        "WrittenText": "",
+        "StartMs": 545600,
+        "EndMs": 549190,
+        "SpeechSpeed": 12,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 710,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1335,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1730,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2205,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2570,
+            "Word": "kites"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3590,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The windmill is moving slowly.",
+        "SliceSentence": "The windmill is moving slowly .",
+        "WrittenText": "",
+        "StartMs": 559060,
+        "EndMs": 561750,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 390,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 1070,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1485,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1880,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "slowly"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 9870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The windmill is moving quickly.",
+        "SliceSentence": "The windmill is moving quickly .",
+        "WrittenText": "",
+        "StartMs": 569060,
+        "EndMs": 571780,
+        "SpeechSpeed": 11,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 375,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 1100,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1605,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1605,
+            "OffsetEndMs": 2000,
+            "Word": "moving"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "quickly"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It rains heavily.",
+        "SliceSentence": "It rains heavily .",
+        "WrittenText": "",
+        "StartMs": 579800,
+        "EndMs": 581050,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 420,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "rains"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "heavily"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "He touches the baby's face gently.",
+        "SliceSentence": "He touches the baby's face gently .",
+        "WrittenText": "",
+        "StartMs": 588000,
+        "EndMs": 590660,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 420,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1035,
+            "Word": "touches"
+          },
+          {
+            "OffsetStartMs": 1035,
+            "OffsetEndMs": 1290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1905,
+            "Word": "baby's"
+          },
+          {
+            "OffsetStartMs": 1905,
+            "OffsetEndMs": 2180,
+            "Word": "face"
+          },
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "gently"
+          },
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Learn the sounds.",
+        "SliceSentence": "Learn the sounds .",
+        "WrittenText": "",
+        "StartMs": 604880,
+        "EndMs": 606040,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Learn"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 870,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1160,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 14220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sk sk scarf scarf.",
+        "SliceSentence": "Sk sk scarf scarf .",
+        "WrittenText": "",
+        "StartMs": 607540,
+        "EndMs": 619890,
+        "SpeechSpeed": 1.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2410,
+            "OffsetEndMs": 2810,
+            "Word": "Sk"
+          },
+          {
+            "OffsetStartMs": 4240,
+            "OffsetEndMs": 4640,
+            "Word": "sk"
+          },
+          {
+            "OffsetStartMs": 9520,
+            "OffsetEndMs": 10280,
+            "Word": "scarf"
+          },
+          {
+            "OffsetStartMs": 11530,
+            "OffsetEndMs": 12350,
+            "Word": "scarf"
+          },
+          {
+            "OffsetStartMs": 11530,
+            "OffsetEndMs": 12350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sk skateboard skateboard scarlett is in the park.",
+        "SliceSentence": "Sk skateboard skateboard scarlett is in the park .",
+        "WrittenText": "",
+        "StartMs": 624110,
+        "EndMs": 639660,
+        "SpeechSpeed": 3.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sk"
+          },
+          {
+            "OffsetStartMs": 5550,
+            "OffsetEndMs": 6310,
+            "Word": "skateboard"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 8470,
+            "Word": "skateboard"
+          },
+          {
+            "OffsetStartMs": 13470,
+            "OffsetEndMs": 14195,
+            "Word": "scarlett"
+          },
+          {
+            "OffsetStartMs": 14195,
+            "OffsetEndMs": 14470,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 14640,
+            "OffsetEndMs": 15005,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 15005,
+            "OffsetEndMs": 15260,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 15260,
+            "OffsetEndMs": 15550,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 15260,
+            "OffsetEndMs": 15550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She's wearing a red scarf.",
+        "SliceSentence": "She's wearing a red scarf .",
+        "WrittenText": "",
+        "StartMs": 639920,
+        "EndMs": 642400,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "She's"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "wearing"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1835,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2480,
+            "Word": "scarf"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She's skating on a skateboard and she's skating fast and fast.",
+        "SliceSentence": "She's skating on a skateboard and she's skating fast and fast .",
+        "WrittenText": "",
+        "StartMs": 642400,
+        "EndMs": 646920,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 585,
+            "Word": "She's"
+          },
+          {
+            "OffsetStartMs": 585,
+            "OffsetEndMs": 1200,
+            "Word": "skating"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1500,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1800,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2400,
+            "Word": "skateboard"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2700,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3060,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3600,
+            "Word": "skating"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3900,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4200,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4520,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Scarlett is in the pub,",
+        "SliceSentence": "Scarlett is in the pub ,",
+        "WrittenText": "",
+        "StartMs": 647090,
+        "EndMs": 649260,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 785,
+            "Word": "Scarlett"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1060,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1595,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1865,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2170,
+            "Word": "pub"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2170,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she's wearing a red scarf,",
+        "SliceSentence": "she's wearing a red scarf ,",
+        "WrittenText": "",
+        "StartMs": 649460,
+        "EndMs": 651940,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "wearing"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1850,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2480,
+            "Word": "scarf"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2480,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she's skating on a skateboard and she's skating fast and far.",
+        "SliceSentence": "she's skating on a skateboard and she's skating fast and far .",
+        "WrittenText": "",
+        "StartMs": 651940,
+        "EndMs": 656430,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 615,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 1185,
+            "Word": "skating"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1485,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1755,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2355,
+            "Word": "skateboard"
+          },
+          {
+            "OffsetStartMs": 2355,
+            "OffsetEndMs": 2655,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2655,
+            "OffsetEndMs": 3030,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3570,
+            "Word": "skating"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3870,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4170,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4490,
+            "Word": "far"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

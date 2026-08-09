@@ -1,0 +1,661 @@
+{
+  "RequestId": "feaa89bc-dae0-4435-a8bd-8dfb04e44ee5",
+  "Data": {
+    "TaskId": 16292531559,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 50.944563,
+    "Result": "Which dress do you like? The blue one or the pink one? I like the pink one, pink is my favourite colour. I like the blue one too. It's beautiful. You can try both on that's great. Which pair of trousers do you like? The white one or the brown one? I like the brown one, here you are. It's your size. Okay, I'll try on the trousers.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Which dress do you like?",
+        "SliceSentence": "Which dress do you like ?",
+        "WrittenText": "",
+        "StartMs": 300,
+        "EndMs": 6470,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 4660,
+            "OffsetEndMs": 5060,
+            "Word": "Which"
+          },
+          {
+            "OffsetStartMs": 5080,
+            "OffsetEndMs": 5475,
+            "Word": "dress"
+          },
+          {
+            "OffsetStartMs": 5475,
+            "OffsetEndMs": 5745,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 5745,
+            "OffsetEndMs": 5895,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 5895,
+            "OffsetEndMs": 6170,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 5895,
+            "OffsetEndMs": 6170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The blue one or the pink one?",
+        "SliceSentence": "The blue one or the pink one ?",
+        "WrittenText": "",
+        "StartMs": 6700,
+        "EndMs": 9020,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1430,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1625,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1900,
+            "Word": "pink"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the pink one,",
+        "SliceSentence": "I like the pink one ,",
+        "WrittenText": "",
+        "StartMs": 10450,
+        "EndMs": 12260,
+        "SpeechSpeed": 11,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 965,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1270,
+            "Word": "pink"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " pink is my favourite colour.",
+        "SliceSentence": "pink is my favourite colour .",
+        "WrittenText": "",
+        "StartMs": 12640,
+        "EndMs": 14900,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "pink"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 740,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1055,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1910,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "colour"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the blue one too.",
+        "SliceSentence": "I like the blue one too .",
+        "WrittenText": "",
+        "StartMs": 16120,
+        "EndMs": 17990,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 575,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1175,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1505,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's beautiful.",
+        "SliceSentence": "It's beautiful .",
+        "WrittenText": "",
+        "StartMs": 18760,
+        "EndMs": 19640,
+        "SpeechSpeed": 17,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 880,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can try both on that's great.",
+        "SliceSentence": "You can try both on that's great .",
+        "WrittenText": "",
+        "StartMs": 21850,
+        "EndMs": 25400,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 590,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 890,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1205,
+            "Word": "both"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 3155,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3550,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Which pair of trousers do you like?",
+        "SliceSentence": "Which pair of trousers do you like ?",
+        "WrittenText": "",
+        "StartMs": 32980,
+        "EndMs": 35390,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Which"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "pair"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1055,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1730,
+            "Word": "trousers"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 1925,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2105,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2410,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2410,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The white one or the brown one?",
+        "SliceSentence": "The white one or the brown one ?",
+        "WrittenText": "",
+        "StartMs": 35710,
+        "EndMs": 38090,
+        "SpeechSpeed": 13,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 545,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 910,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1460,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1685,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1985,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2380,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the brown one,",
+        "SliceSentence": "I like the brown one ,",
+        "WrittenText": "",
+        "StartMs": 39460,
+        "EndMs": 40940,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 800,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1085,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1480,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1480,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here you are.",
+        "SliceSentence": "here you are .",
+        "WrittenText": "",
+        "StartMs": 41620,
+        "EndMs": 42440,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 545,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's your size.",
+        "SliceSentence": "It's your size .",
+        "WrittenText": "",
+        "StartMs": 42790,
+        "EndMs": 43820,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 650,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "size"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 45640,
+        "EndMs": 46040,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll try on the trousers.",
+        "SliceSentence": "I'll try on the trousers .",
+        "WrittenText": "",
+        "StartMs": 46240,
+        "EndMs": 47840,
+        "SpeechSpeed": 15.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 635,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 830,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1010,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1600,
+            "Word": "trousers"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

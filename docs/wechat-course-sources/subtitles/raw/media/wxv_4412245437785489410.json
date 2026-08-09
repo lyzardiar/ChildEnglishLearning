@@ -1,0 +1,644 @@
+{
+  "RequestId": "88389fff-3c0e-44c8-ba89-f78c66c8c90f",
+  "Data": {
+    "TaskId": 16292438022,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 55.727875,
+    "Result": "A.A.Cake.Cake.Bake, bake.Name, name.My name is Kate today. I am eight, mom bakes me a cake. Look, my name is on the cake. My name is Kate today. I'm eight, mom makes me a cake. Look, my name is on the cake.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A.",
+        "SliceSentence": "A .",
+        "WrittenText": "",
+        "StartMs": 940,
+        "EndMs": 1380,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A.",
+        "SliceSentence": "A .",
+        "WrittenText": "",
+        "StartMs": 2380,
+        "EndMs": 2640,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Cake.",
+        "SliceSentence": "Cake .",
+        "WrittenText": "",
+        "StartMs": 7580,
+        "EndMs": 8050,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Cake"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Cake.",
+        "SliceSentence": "Cake .",
+        "WrittenText": "",
+        "StartMs": 9020,
+        "EndMs": 9310,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Cake"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bake,",
+        "SliceSentence": "Bake ,",
+        "WrittenText": "",
+        "StartMs": 14220,
+        "EndMs": 15140,
+        "SpeechSpeed": 4.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 920,
+            "Word": "Bake"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 920,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " bake.",
+        "SliceSentence": "bake .",
+        "WrittenText": "",
+        "StartMs": 15490,
+        "EndMs": 16280,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "bake"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Name,",
+        "SliceSentence": "Name ,",
+        "WrittenText": "",
+        "StartMs": 20360,
+        "EndMs": 20830,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Name"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " name.",
+        "SliceSentence": "name .",
+        "WrittenText": "",
+        "StartMs": 21540,
+        "EndMs": 21940,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "My name is Kate today.",
+        "SliceSentence": "My name is Kate today .",
+        "WrittenText": "",
+        "StartMs": 24420,
+        "EndMs": 31880,
+        "SpeechSpeed": 2.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5090,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 5290,
+            "OffsetEndMs": 5640,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 5925,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5925,
+            "OffsetEndMs": 6260,
+            "Word": "Kate"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I am eight,",
+        "SliceSentence": "I am eight ,",
+        "WrittenText": "",
+        "StartMs": 32050,
+        "EndMs": 33020,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "eight"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mom bakes me a cake.",
+        "SliceSentence": "mom bakes me a cake .",
+        "WrittenText": "",
+        "StartMs": 33850,
+        "EndMs": 36020,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1295,
+            "Word": "bakes"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1565,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 36250,
+        "EndMs": 36650,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my name is on the cake.",
+        "SliceSentence": "my name is on the cake .",
+        "WrittenText": "",
+        "StartMs": 37120,
+        "EndMs": 38930,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My name is Kate today.",
+        "SliceSentence": "My name is Kate today .",
+        "WrittenText": "",
+        "StartMs": 43210,
+        "EndMs": 46220,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "Kate"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm eight,",
+        "SliceSentence": "I'm eight ,",
+        "WrittenText": "",
+        "StartMs": 46420,
+        "EndMs": 47360,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 940,
+            "Word": "eight"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mom makes me a cake.",
+        "SliceSentence": "mom makes me a cake .",
+        "WrittenText": "",
+        "StartMs": 48220,
+        "EndMs": 50330,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "makes"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1505,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1775,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 50590,
+        "EndMs": 50990,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my name is on the cake.",
+        "SliceSentence": "my name is on the cake .",
+        "WrittenText": "",
+        "StartMs": 51520,
+        "EndMs": 53300,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 590,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 890,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1205,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1475,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1780,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,994 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNDk4MzI2",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:10,360"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 10360
+      },
+      "text": " unit 2 grand father grand father grandpa grandpa grand mother",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.975469,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,930",
+            "to": "00:00:01,050"
+          },
+          "offsets": {
+            "from": 930,
+            "to": 1050
+          },
+          "id": 4326,
+          "p": 0.255497,
+          "t_dtw": -1
+        },
+        {
+          "text": " 2",
+          "timestamps": {
+            "from": "00:00:01,050",
+            "to": "00:00:01,840"
+          },
+          "offsets": {
+            "from": 1050,
+            "to": 1840
+          },
+          "id": 362,
+          "p": 0.67912,
+          "t_dtw": -1
+        },
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:01,840",
+            "to": "00:00:03,160"
+          },
+          "offsets": {
+            "from": 1840,
+            "to": 3160
+          },
+          "id": 4490,
+          "p": 0.569523,
+          "t_dtw": -1
+        },
+        {
+          "text": " father",
+          "timestamps": {
+            "from": "00:00:03,160",
+            "to": "00:00:03,940"
+          },
+          "offsets": {
+            "from": 3160,
+            "to": 3940
+          },
+          "id": 2988,
+          "p": 0.966844,
+          "t_dtw": -1
+        },
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:04,840",
+            "to": "00:00:05,490"
+          },
+          "offsets": {
+            "from": 4840,
+            "to": 5490
+          },
+          "id": 4490,
+          "p": 0.914725,
+          "t_dtw": -1
+        },
+        {
+          "text": " father",
+          "timestamps": {
+            "from": "00:00:05,490",
+            "to": "00:00:05,980"
+          },
+          "offsets": {
+            "from": 5490,
+            "to": 5980
+          },
+          "id": 2988,
+          "p": 0.995296,
+          "t_dtw": -1
+        },
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:06,540",
+            "to": "00:00:07,100"
+          },
+          "offsets": {
+            "from": 6540,
+            "to": 7100
+          },
+          "id": 4490,
+          "p": 0.992144,
+          "t_dtw": -1
+        },
+        {
+          "text": "pa",
+          "timestamps": {
+            "from": "00:00:07,100",
+            "to": "00:00:07,270"
+          },
+          "offsets": {
+            "from": 7100,
+            "to": 7270
+          },
+          "id": 8957,
+          "p": 0.991683,
+          "t_dtw": -1
+        },
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:07,650",
+            "to": "00:00:08,340"
+          },
+          "offsets": {
+            "from": 7650,
+            "to": 8340
+          },
+          "id": 4490,
+          "p": 0.965275,
+          "t_dtw": -1
+        },
+        {
+          "text": "pa",
+          "timestamps": {
+            "from": "00:00:08,340",
+            "to": "00:00:08,430"
+          },
+          "offsets": {
+            "from": 8340,
+            "to": 8430
+          },
+          "id": 8957,
+          "p": 0.999895,
+          "t_dtw": -1
+        },
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:08,890",
+            "to": "00:00:09,320"
+          },
+          "offsets": {
+            "from": 8890,
+            "to": 9320
+          },
+          "id": 4490,
+          "p": 0.703413,
+          "t_dtw": -1
+        },
+        {
+          "text": " mother",
+          "timestamps": {
+            "from": "00:00:09,340",
+            "to": "00:00:09,880"
+          },
+          "offsets": {
+            "from": 9340,
+            "to": 9880
+          },
+          "id": 2802,
+          "p": 0.990345,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,360",
+        "to": "00:00:13,200"
+      },
+      "offsets": {
+        "from": 10360,
+        "to": 13200
+      },
+      "text": " grandmother grandma",
+      "tokens": [
+        {
+          "text": " grandmother",
+          "timestamps": {
+            "from": "00:00:10,360",
+            "to": "00:00:11,240"
+          },
+          "offsets": {
+            "from": 10360,
+            "to": 11240
+          },
+          "id": 18410,
+          "p": 0.38121,
+          "t_dtw": -1
+        },
+        {
+          "text": " grandma",
+          "timestamps": {
+            "from": "00:00:12,020",
+            "to": "00:00:12,860"
+          },
+          "offsets": {
+            "from": 12020,
+            "to": 12860
+          },
+          "id": 49890,
+          "p": 0.781695,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_660]",
+          "timestamps": {
+            "from": "00:00:13,200",
+            "to": "00:00:13,200"
+          },
+          "offsets": {
+            "from": 13200,
+            "to": 13200
+          },
+          "id": 51023,
+          "p": 0.251995,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,200",
+        "to": "00:00:23,720"
+      },
+      "offsets": {
+        "from": 13200,
+        "to": 23720
+      },
+      "text": " grandma father father mother mother sister sister brother brother me me",
+      "tokens": [
+        {
+          "text": " grandma",
+          "timestamps": {
+            "from": "00:00:14,130",
+            "to": "00:00:14,340"
+          },
+          "offsets": {
+            "from": 14130,
+            "to": 14340
+          },
+          "id": 49890,
+          "p": 0.882537,
+          "t_dtw": -1
+        },
+        {
+          "text": " father",
+          "timestamps": {
+            "from": "00:00:14,340",
+            "to": "00:00:15,270"
+          },
+          "offsets": {
+            "from": 14340,
+            "to": 15270
+          },
+          "id": 2988,
+          "p": 0.999977,
+          "t_dtw": -1
+        },
+        {
+          "text": " father",
+          "timestamps": {
+            "from": "00:00:15,920",
+            "to": "00:00:16,280"
+          },
+          "offsets": {
+            "from": 15920,
+            "to": 16280
+          },
+          "id": 2988,
+          "p": 0.725319,
+          "t_dtw": -1
+        },
+        {
+          "text": " mother",
+          "timestamps": {
+            "from": "00:00:16,280",
+            "to": "00:00:17,140"
+          },
+          "offsets": {
+            "from": 16280,
+            "to": 17140
+          },
+          "id": 2802,
+          "p": 0.999985,
+          "t_dtw": -1
+        },
+        {
+          "text": " mother",
+          "timestamps": {
+            "from": "00:00:18,020",
+            "to": "00:00:18,220"
+          },
+          "offsets": {
+            "from": 18020,
+            "to": 18220
+          },
+          "id": 2802,
+          "p": 0.999985,
+          "t_dtw": -1
+        },
+        {
+          "text": " sister",
+          "timestamps": {
+            "from": "00:00:18,220",
+            "to": "00:00:19,130"
+          },
+          "offsets": {
+            "from": 18220,
+            "to": 19130
+          },
+          "id": 6621,
+          "p": 0.999411,
+          "t_dtw": -1
+        },
+        {
+          "text": " sister",
+          "timestamps": {
+            "from": "00:00:19,740",
+            "to": "00:00:20,090"
+          },
+          "offsets": {
+            "from": 19740,
+            "to": 20090
+          },
+          "id": 6621,
+          "p": 0.999878,
+          "t_dtw": -1
+        },
+        {
+          "text": " brother",
+          "timestamps": {
+            "from": "00:00:20,230",
+            "to": "00:00:21,550"
+          },
+          "offsets": {
+            "from": 20230,
+            "to": 21550
+          },
+          "id": 3956,
+          "p": 0.98864,
+          "t_dtw": -1
+        },
+        {
+          "text": " brother",
+          "timestamps": {
+            "from": "00:00:22,090",
+            "to": "00:00:22,910"
+          },
+          "offsets": {
+            "from": 22090,
+            "to": 22910
+          },
+          "id": 3956,
+          "p": 0.99951,
+          "t_dtw": -1
+        },
+        {
+          "text": " me",
+          "timestamps": {
+            "from": "00:00:22,940",
+            "to": "00:00:23,110"
+          },
+          "offsets": {
+            "from": 22940,
+            "to": 23110
+          },
+          "id": 502,
+          "p": 0.998664,
+          "t_dtw": -1
+        },
+        {
+          "text": " me",
+          "timestamps": {
+            "from": "00:00:23,580",
+            "to": "00:00:23,720"
+          },
+          "offsets": {
+            "from": 23580,
+            "to": 23720
+          },
+          "id": 502,
+          "p": 0.997655,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:23,720",
+        "to": "00:00:26,080"
+      },
+      "offsets": {
+        "from": 23720,
+        "to": 26080
+      },
+      "text": " family family",
+      "tokens": [
+        {
+          "text": " family",
+          "timestamps": {
+            "from": "00:00:23,720",
+            "to": "00:00:24,440"
+          },
+          "offsets": {
+            "from": 23720,
+            "to": 24440
+          },
+          "id": 1641,
+          "p": 0.99988,
+          "t_dtw": -1
+        },
+        {
+          "text": " family",
+          "timestamps": {
+            "from": "00:00:25,250",
+            "to": "00:00:26,050"
+          },
+          "offsets": {
+            "from": 25250,
+            "to": 26050
+          },
+          "id": 1641,
+          "p": 0.999255,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1304]",
+          "timestamps": {
+            "from": "00:00:26,080",
+            "to": "00:00:26,080"
+          },
+          "offsets": {
+            "from": 26080,
+            "to": 26080
+          },
+          "id": 51667,
+          "p": 0.57175,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:26,080",
+        "to": "00:00:44,080"
+      },
+      "offsets": {
+        "from": 26080,
+        "to": 44080
+      },
+      "text": " my my name name is is this this and and she she he he who who twin twin",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:26,080",
+            "to": "00:00:26,080"
+          },
+          "offsets": {
+            "from": 26080,
+            "to": 26080
+          },
+          "id": 50363,
+          "p": 0.99999,
+          "t_dtw": -1
+        },
+        {
+          "text": " my",
+          "timestamps": {
+            "from": "00:00:26,130",
+            "to": "00:00:26,700"
+          },
+          "offsets": {
+            "from": 26130,
+            "to": 26700
+          },
+          "id": 616,
+          "p": 0.949682,
+          "t_dtw": -1
+        },
+        {
+          "text": " my",
+          "timestamps": {
+            "from": "00:00:27,020",
+            "to": "00:00:27,320"
+          },
+          "offsets": {
+            "from": 27020,
+            "to": 27320
+          },
+          "id": 616,
+          "p": 0.681045,
+          "t_dtw": -1
+        },
+        {
+          "text": " name",
+          "timestamps": {
+            "from": "00:00:27,320",
+            "to": "00:00:28,160"
+          },
+          "offsets": {
+            "from": 27320,
+            "to": 28160
+          },
+          "id": 1438,
+          "p": 0.986457,
+          "t_dtw": -1
+        },
+        {
+          "text": " name",
+          "timestamps": {
+            "from": "00:00:28,800",
+            "to": "00:00:29,820"
+          },
+          "offsets": {
+            "from": 28800,
+            "to": 29820
+          },
+          "id": 1438,
+          "p": 0.977155,
+          "t_dtw": -1
+        },
+        {
+          "text": " is",
+          "timestamps": {
+            "from": "00:00:29,850",
+            "to": "00:00:31,920"
+          },
+          "offsets": {
+            "from": 29850,
+            "to": 31920
+          },
+          "id": 318,
+          "p": 0.854183,
+          "t_dtw": -1
+        },
+        {
+          "text": " is",
+          "timestamps": {
+            "from": "00:00:31,920",
+            "to": "00:00:33,200"
+          },
+          "offsets": {
+            "from": 31920,
+            "to": 33200
+          },
+          "id": 318,
+          "p": 0.948579,
+          "t_dtw": -1
+        },
+        {
+          "text": " this",
+          "timestamps": {
+            "from": "00:00:33,200",
+            "to": "00:00:34,040"
+          },
+          "offsets": {
+            "from": 33200,
+            "to": 34040
+          },
+          "id": 428,
+          "p": 0.979968,
+          "t_dtw": -1
+        },
+        {
+          "text": " this",
+          "timestamps": {
+            "from": "00:00:34,180",
+            "to": "00:00:35,160"
+          },
+          "offsets": {
+            "from": 34180,
+            "to": 35160
+          },
+          "id": 428,
+          "p": 0.993013,
+          "t_dtw": -1
+        },
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:35,160",
+            "to": "00:00:35,920"
+          },
+          "offsets": {
+            "from": 35160,
+            "to": 35920
+          },
+          "id": 290,
+          "p": 0.984821,
+          "t_dtw": -1
+        },
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:35,920",
+            "to": "00:00:37,200"
+          },
+          "offsets": {
+            "from": 35920,
+            "to": 37200
+          },
+          "id": 290,
+          "p": 0.983175,
+          "t_dtw": -1
+        },
+        {
+          "text": " she",
+          "timestamps": {
+            "from": "00:00:37,200",
+            "to": "00:00:37,380"
+          },
+          "offsets": {
+            "from": 37200,
+            "to": 37380
+          },
+          "id": 673,
+          "p": 0.931275,
+          "t_dtw": -1
+        },
+        {
+          "text": " she",
+          "timestamps": {
+            "from": "00:00:38,130",
+            "to": "00:00:38,930"
+          },
+          "offsets": {
+            "from": 38130,
+            "to": 38930
+          },
+          "id": 673,
+          "p": 0.937049,
+          "t_dtw": -1
+        },
+        {
+          "text": " he",
+          "timestamps": {
+            "from": "00:00:39,360",
+            "to": "00:00:39,840"
+          },
+          "offsets": {
+            "from": 39360,
+            "to": 39840
+          },
+          "id": 339,
+          "p": 0.966626,
+          "t_dtw": -1
+        },
+        {
+          "text": " he",
+          "timestamps": {
+            "from": "00:00:39,840",
+            "to": "00:00:40,820"
+          },
+          "offsets": {
+            "from": 39840,
+            "to": 40820
+          },
+          "id": 339,
+          "p": 0.981163,
+          "t_dtw": -1
+        },
+        {
+          "text": " who",
+          "timestamps": {
+            "from": "00:00:41,170",
+            "to": "00:00:41,750"
+          },
+          "offsets": {
+            "from": 41170,
+            "to": 41750
+          },
+          "id": 508,
+          "p": 0.943951,
+          "t_dtw": -1
+        },
+        {
+          "text": " who",
+          "timestamps": {
+            "from": "00:00:41,760",
+            "to": "00:00:42,700"
+          },
+          "offsets": {
+            "from": 41760,
+            "to": 42700
+          },
+          "id": 508,
+          "p": 0.975699,
+          "t_dtw": -1
+        },
+        {
+          "text": " twin",
+          "timestamps": {
+            "from": "00:00:42,890",
+            "to": "00:00:43,510"
+          },
+          "offsets": {
+            "from": 42890,
+            "to": 43510
+          },
+          "id": 15203,
+          "p": 0.948033,
+          "t_dtw": -1
+        },
+        {
+          "text": " twin",
+          "timestamps": {
+            "from": "00:00:43,950",
+            "to": "00:00:44,080"
+          },
+          "offsets": {
+            "from": 43950,
+            "to": 44080
+          },
+          "id": 15203,
+          "p": 0.9443,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:44,080",
+        "to": "00:00:47,840"
+      },
+      "offsets": {
+        "from": 44080,
+        "to": 47840
+      },
+      "text": " big big family tree",
+      "tokens": [
+        {
+          "text": " big",
+          "timestamps": {
+            "from": "00:00:44,080",
+            "to": "00:00:45,420"
+          },
+          "offsets": {
+            "from": 44080,
+            "to": 45420
+          },
+          "id": 1263,
+          "p": 0.980525,
+          "t_dtw": -1
+        },
+        {
+          "text": " big",
+          "timestamps": {
+            "from": "00:00:45,430",
+            "to": "00:00:45,760"
+          },
+          "offsets": {
+            "from": 45430,
+            "to": 45760
+          },
+          "id": 1263,
+          "p": 0.985908,
+          "t_dtw": -1
+        },
+        {
+          "text": " family",
+          "timestamps": {
+            "from": "00:00:46,380",
+            "to": "00:00:47,440"
+          },
+          "offsets": {
+            "from": 46380,
+            "to": 47440
+          },
+          "id": 1641,
+          "p": 0.820432,
+          "t_dtw": -1
+        },
+        {
+          "text": " tree",
+          "timestamps": {
+            "from": "00:00:47,440",
+            "to": "00:00:47,750"
+          },
+          "offsets": {
+            "from": 47440,
+            "to": 47750
+          },
+          "id": 5509,
+          "p": 0.802555,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1088]",
+          "timestamps": {
+            "from": "00:00:47,840",
+            "to": "00:00:47,840"
+          },
+          "offsets": {
+            "from": 47840,
+            "to": 47840
+          },
+          "id": 51451,
+          "p": 0.510718,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:48,720",
+        "to": "00:00:50,640"
+      },
+      "offsets": {
+        "from": 48720,
+        "to": 50640
+      },
+      "text": " family tree",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:48,720",
+            "to": "00:00:48,720"
+          },
+          "offsets": {
+            "from": 48720,
+            "to": 48720
+          },
+          "id": 50363,
+          "p": 0.97407,
+          "t_dtw": -1
+        },
+        {
+          "text": " family",
+          "timestamps": {
+            "from": "00:00:49,650",
+            "to": "00:00:49,870"
+          },
+          "offsets": {
+            "from": 49650,
+            "to": 49870
+          },
+          "id": 1641,
+          "p": 0.603353,
+          "t_dtw": -1
+        },
+        {
+          "text": " tree",
+          "timestamps": {
+            "from": "00:00:49,870",
+            "to": "00:00:50,640"
+          },
+          "offsets": {
+            "from": 49870,
+            "to": 50640
+          },
+          "id": 5509,
+          "p": 0.996145,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_96]",
+          "timestamps": {
+            "from": "00:00:50,640",
+            "to": "00:00:50,640"
+          },
+          "offsets": {
+            "from": 50640,
+            "to": 50640
+          },
+          "id": 50459,
+          "p": 0.092396,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:50,640",
+        "to": "00:00:51,600"
+      },
+      "offsets": {
+        "from": 50640,
+        "to": 51600
+      },
+      "text": " high",
+      "tokens": [
+        {
+          "text": " high",
+          "timestamps": {
+            "from": "00:00:51,560",
+            "to": "00:00:51,600"
+          },
+          "offsets": {
+            "from": 51560,
+            "to": 51600
+          },
+          "id": 1029,
+          "p": 0.229378,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_144]",
+          "timestamps": {
+            "from": "00:00:51,600",
+            "to": "00:00:51,600"
+          },
+          "offsets": {
+            "from": 51600,
+            "to": 51600
+          },
+          "id": 50507,
+          "p": 0.200381,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:51,600",
+        "to": "00:00:51,920"
+      },
+      "offsets": {
+        "from": 51600,
+        "to": 51920
+      },
+      "text": " high",
+      "tokens": [
+        {
+          "text": " high",
+          "timestamps": {
+            "from": "00:00:51,650",
+            "to": "00:00:51,920"
+          },
+          "offsets": {
+            "from": 51650,
+            "to": 51920
+          },
+          "id": 1029,
+          "p": 0.920606,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_160]",
+          "timestamps": {
+            "from": "00:00:51,920",
+            "to": "00:00:51,920"
+          },
+          "offsets": {
+            "from": 51920,
+            "to": 51920
+          },
+          "id": 50523,
+          "p": 0.156237,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

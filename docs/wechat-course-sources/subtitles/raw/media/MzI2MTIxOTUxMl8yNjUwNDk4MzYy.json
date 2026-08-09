@@ -1,0 +1,1372 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNDk4MzYy",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:14,720"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 14720
+      },
+      "text": " bird bird black black blue blue brother brother cat cat cold cold dad",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.74972,
+          "t_dtw": -1
+        },
+        {
+          "text": " bird",
+          "timestamps": {
+            "from": "00:00:00,350",
+            "to": "00:00:00,930"
+          },
+          "offsets": {
+            "from": 350,
+            "to": 930
+          },
+          "id": 6512,
+          "p": 0.965206,
+          "t_dtw": -1
+        },
+        {
+          "text": " bird",
+          "timestamps": {
+            "from": "00:00:01,580",
+            "to": "00:00:02,110"
+          },
+          "offsets": {
+            "from": 1580,
+            "to": 2110
+          },
+          "id": 6512,
+          "p": 0.387807,
+          "t_dtw": -1
+        },
+        {
+          "text": " black",
+          "timestamps": {
+            "from": "00:00:02,620",
+            "to": "00:00:02,860"
+          },
+          "offsets": {
+            "from": 2620,
+            "to": 2860
+          },
+          "id": 2042,
+          "p": 0.84292,
+          "t_dtw": -1
+        },
+        {
+          "text": " black",
+          "timestamps": {
+            "from": "00:00:03,080",
+            "to": "00:00:04,120"
+          },
+          "offsets": {
+            "from": 3080,
+            "to": 4120
+          },
+          "id": 2042,
+          "p": 0.981308,
+          "t_dtw": -1
+        },
+        {
+          "text": " blue",
+          "timestamps": {
+            "from": "00:00:04,520",
+            "to": "00:00:05,010"
+          },
+          "offsets": {
+            "from": 4520,
+            "to": 5010
+          },
+          "id": 4171,
+          "p": 0.825012,
+          "t_dtw": -1
+        },
+        {
+          "text": " blue",
+          "timestamps": {
+            "from": "00:00:05,560",
+            "to": "00:00:06,020"
+          },
+          "offsets": {
+            "from": 5560,
+            "to": 6020
+          },
+          "id": 4171,
+          "p": 0.987051,
+          "t_dtw": -1
+        },
+        {
+          "text": " brother",
+          "timestamps": {
+            "from": "00:00:06,320",
+            "to": "00:00:06,760"
+          },
+          "offsets": {
+            "from": 6320,
+            "to": 6760
+          },
+          "id": 3956,
+          "p": 0.958095,
+          "t_dtw": -1
+        },
+        {
+          "text": " brother",
+          "timestamps": {
+            "from": "00:00:07,580",
+            "to": "00:00:08,010"
+          },
+          "offsets": {
+            "from": 7580,
+            "to": 8010
+          },
+          "id": 3956,
+          "p": 0.847818,
+          "t_dtw": -1
+        },
+        {
+          "text": " cat",
+          "timestamps": {
+            "from": "00:00:08,480",
+            "to": "00:00:09,090"
+          },
+          "offsets": {
+            "from": 8480,
+            "to": 9090
+          },
+          "id": 3797,
+          "p": 0.939999,
+          "t_dtw": -1
+        },
+        {
+          "text": " cat",
+          "timestamps": {
+            "from": "00:00:10,170",
+            "to": "00:00:10,760"
+          },
+          "offsets": {
+            "from": 10170,
+            "to": 10760
+          },
+          "id": 3797,
+          "p": 0.903768,
+          "t_dtw": -1
+        },
+        {
+          "text": " cold",
+          "timestamps": {
+            "from": "00:00:11,470",
+            "to": "00:00:11,760"
+          },
+          "offsets": {
+            "from": 11470,
+            "to": 11760
+          },
+          "id": 4692,
+          "p": 0.953674,
+          "t_dtw": -1
+        },
+        {
+          "text": " cold",
+          "timestamps": {
+            "from": "00:00:11,760",
+            "to": "00:00:13,400"
+          },
+          "offsets": {
+            "from": 11760,
+            "to": 13400
+          },
+          "id": 4692,
+          "p": 0.941342,
+          "t_dtw": -1
+        },
+        {
+          "text": " dad",
+          "timestamps": {
+            "from": "00:00:13,400",
+            "to": "00:00:14,720"
+          },
+          "offsets": {
+            "from": 13400,
+            "to": 14720
+          },
+          "id": 9955,
+          "p": 0.752339,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,720",
+        "to": "00:00:17,080"
+      },
+      "offsets": {
+        "from": 14720,
+        "to": 17080
+      },
+      "text": " dad dance",
+      "tokens": [
+        {
+          "text": " dad",
+          "timestamps": {
+            "from": "00:00:14,720",
+            "to": "00:00:15,990"
+          },
+          "offsets": {
+            "from": 14720,
+            "to": 15990
+          },
+          "id": 9955,
+          "p": 0.879201,
+          "t_dtw": -1
+        },
+        {
+          "text": " dance",
+          "timestamps": {
+            "from": "00:00:16,050",
+            "to": "00:00:17,080"
+          },
+          "offsets": {
+            "from": 16050,
+            "to": 17080
+          },
+          "id": 9280,
+          "p": 0.745046,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_854]",
+          "timestamps": {
+            "from": "00:00:17,080",
+            "to": "00:00:17,080"
+          },
+          "offsets": {
+            "from": 17080,
+            "to": 17080
+          },
+          "id": 51217,
+          "p": 0.0439348,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:17,080",
+        "to": "00:00:33,910"
+      },
+      "offsets": {
+        "from": 17080,
+        "to": 33910
+      },
+      "text": " dog dog draw draw eraser eraser fish fish four four grandma grandma",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:17,080",
+            "to": "00:00:17,080"
+          },
+          "offsets": {
+            "from": 17080,
+            "to": 17080
+          },
+          "id": 50363,
+          "p": 0.99996,
+          "t_dtw": -1
+        },
+        {
+          "text": " dog",
+          "timestamps": {
+            "from": "00:00:17,430",
+            "to": "00:00:18,010"
+          },
+          "offsets": {
+            "from": 17430,
+            "to": 18010
+          },
+          "id": 3290,
+          "p": 0.653838,
+          "t_dtw": -1
+        },
+        {
+          "text": " dog",
+          "timestamps": {
+            "from": "00:00:18,660",
+            "to": "00:00:19,190"
+          },
+          "offsets": {
+            "from": 18660,
+            "to": 19190
+          },
+          "id": 3290,
+          "p": 0.756044,
+          "t_dtw": -1
+        },
+        {
+          "text": " draw",
+          "timestamps": {
+            "from": "00:00:19,700",
+            "to": "00:00:20,640"
+          },
+          "offsets": {
+            "from": 19700,
+            "to": 20640
+          },
+          "id": 3197,
+          "p": 0.891902,
+          "t_dtw": -1
+        },
+        {
+          "text": " draw",
+          "timestamps": {
+            "from": "00:00:20,640",
+            "to": "00:00:22,060"
+          },
+          "offsets": {
+            "from": 20640,
+            "to": 22060
+          },
+          "id": 3197,
+          "p": 0.900909,
+          "t_dtw": -1
+        },
+        {
+          "text": " er",
+          "timestamps": {
+            "from": "00:00:22,060",
+            "to": "00:00:22,770"
+          },
+          "offsets": {
+            "from": 22060,
+            "to": 22770
+          },
+          "id": 1931,
+          "p": 0.867293,
+          "t_dtw": -1
+        },
+        {
+          "text": "aser",
+          "timestamps": {
+            "from": "00:00:22,770",
+            "to": "00:00:23,810"
+          },
+          "offsets": {
+            "from": 22770,
+            "to": 23810
+          },
+          "id": 6005,
+          "p": 0.988648,
+          "t_dtw": -1
+        },
+        {
+          "text": " er",
+          "timestamps": {
+            "from": "00:00:24,660",
+            "to": "00:00:24,900"
+          },
+          "offsets": {
+            "from": 24660,
+            "to": 24900
+          },
+          "id": 1931,
+          "p": 0.981861,
+          "t_dtw": -1
+        },
+        {
+          "text": "aser",
+          "timestamps": {
+            "from": "00:00:24,900",
+            "to": "00:00:26,150"
+          },
+          "offsets": {
+            "from": 24900,
+            "to": 26150
+          },
+          "id": 6005,
+          "p": 0.996162,
+          "t_dtw": -1
+        },
+        {
+          "text": " fish",
+          "timestamps": {
+            "from": "00:00:27,250",
+            "to": "00:00:27,560"
+          },
+          "offsets": {
+            "from": 27250,
+            "to": 27560
+          },
+          "id": 5916,
+          "p": 0.992797,
+          "t_dtw": -1
+        },
+        {
+          "text": " fish",
+          "timestamps": {
+            "from": "00:00:27,770",
+            "to": "00:00:29,100"
+          },
+          "offsets": {
+            "from": 27770,
+            "to": 29100
+          },
+          "id": 5916,
+          "p": 0.994554,
+          "t_dtw": -1
+        },
+        {
+          "text": " four",
+          "timestamps": {
+            "from": "00:00:29,100",
+            "to": "00:00:29,220"
+          },
+          "offsets": {
+            "from": 29100,
+            "to": 29220
+          },
+          "id": 1440,
+          "p": 0.834261,
+          "t_dtw": -1
+        },
+        {
+          "text": " four",
+          "timestamps": {
+            "from": "00:00:30,060",
+            "to": "00:00:30,340"
+          },
+          "offsets": {
+            "from": 30060,
+            "to": 30340
+          },
+          "id": 1440,
+          "p": 0.899976,
+          "t_dtw": -1
+        },
+        {
+          "text": " grandma",
+          "timestamps": {
+            "from": "00:00:30,340",
+            "to": "00:00:31,920"
+          },
+          "offsets": {
+            "from": 30340,
+            "to": 31920
+          },
+          "id": 49890,
+          "p": 0.889406,
+          "t_dtw": -1
+        },
+        {
+          "text": " grandma",
+          "timestamps": {
+            "from": "00:00:31,920",
+            "to": "00:00:33,130"
+          },
+          "offsets": {
+            "from": 31920,
+            "to": 33130
+          },
+          "id": 49890,
+          "p": 0.876299,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:33,910",
+        "to": "00:00:38,120"
+      },
+      "offsets": {
+        "from": 33910,
+        "to": 38120
+      },
+      "text": " grandpa grandpa green",
+      "tokens": [
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:33,910",
+            "to": "00:00:34,560"
+          },
+          "offsets": {
+            "from": 33910,
+            "to": 34560
+          },
+          "id": 4490,
+          "p": 0.672405,
+          "t_dtw": -1
+        },
+        {
+          "text": "pa",
+          "timestamps": {
+            "from": "00:00:34,930",
+            "to": "00:00:35,270"
+          },
+          "offsets": {
+            "from": 34930,
+            "to": 35270
+          },
+          "id": 8957,
+          "p": 0.987352,
+          "t_dtw": -1
+        },
+        {
+          "text": " grand",
+          "timestamps": {
+            "from": "00:00:36,050",
+            "to": "00:00:36,340"
+          },
+          "offsets": {
+            "from": 36050,
+            "to": 36340
+          },
+          "id": 4490,
+          "p": 0.58233,
+          "t_dtw": -1
+        },
+        {
+          "text": "pa",
+          "timestamps": {
+            "from": "00:00:36,420",
+            "to": "00:00:36,500"
+          },
+          "offsets": {
+            "from": 36420,
+            "to": 36500
+          },
+          "id": 8957,
+          "p": 0.998371,
+          "t_dtw": -1
+        },
+        {
+          "text": " green",
+          "timestamps": {
+            "from": "00:00:37,170",
+            "to": "00:00:38,120"
+          },
+          "offsets": {
+            "from": 37170,
+            "to": 38120
+          },
+          "id": 4077,
+          "p": 0.704731,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1052]",
+          "timestamps": {
+            "from": "00:00:38,120",
+            "to": "00:00:38,120"
+          },
+          "offsets": {
+            "from": 38120,
+            "to": 38120
+          },
+          "id": 51415,
+          "p": 0.126555,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:38,120",
+        "to": "00:00:52,770"
+      },
+      "offsets": {
+        "from": 38120,
+        "to": 52770
+      },
+      "text": " green hamster hamster hot hot hungry hungry mum mum one one pencil",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:38,120",
+            "to": "00:00:38,120"
+          },
+          "offsets": {
+            "from": 38120,
+            "to": 38120
+          },
+          "id": 50363,
+          "p": 0.999962,
+          "t_dtw": -1
+        },
+        {
+          "text": " green",
+          "timestamps": {
+            "from": "00:00:38,470",
+            "to": "00:00:39,050"
+          },
+          "offsets": {
+            "from": 38470,
+            "to": 39050
+          },
+          "id": 4077,
+          "p": 0.981152,
+          "t_dtw": -1
+        },
+        {
+          "text": " ham",
+          "timestamps": {
+            "from": "00:00:39,700",
+            "to": "00:00:40,160"
+          },
+          "offsets": {
+            "from": 39700,
+            "to": 40160
+          },
+          "id": 8891,
+          "p": 0.998839,
+          "t_dtw": -1
+        },
+        {
+          "text": "ster",
+          "timestamps": {
+            "from": "00:00:40,160",
+            "to": "00:00:40,980"
+          },
+          "offsets": {
+            "from": 40160,
+            "to": 40980
+          },
+          "id": 1706,
+          "p": 0.998288,
+          "t_dtw": -1
+        },
+        {
+          "text": " ham",
+          "timestamps": {
+            "from": "00:00:41,210",
+            "to": "00:00:41,960"
+          },
+          "offsets": {
+            "from": 41210,
+            "to": 41960
+          },
+          "id": 8891,
+          "p": 0.982227,
+          "t_dtw": -1
+        },
+        {
+          "text": "ster",
+          "timestamps": {
+            "from": "00:00:42,640",
+            "to": "00:00:42,980"
+          },
+          "offsets": {
+            "from": 42640,
+            "to": 42980
+          },
+          "id": 1706,
+          "p": 0.997967,
+          "t_dtw": -1
+        },
+        {
+          "text": " hot",
+          "timestamps": {
+            "from": "00:00:42,980",
+            "to": "00:00:43,750"
+          },
+          "offsets": {
+            "from": 42980,
+            "to": 43750
+          },
+          "id": 3024,
+          "p": 0.995446,
+          "t_dtw": -1
+        },
+        {
+          "text": " hot",
+          "timestamps": {
+            "from": "00:00:43,750",
+            "to": "00:00:44,520"
+          },
+          "offsets": {
+            "from": 43750,
+            "to": 44520
+          },
+          "id": 3024,
+          "p": 0.996808,
+          "t_dtw": -1
+        },
+        {
+          "text": " hungry",
+          "timestamps": {
+            "from": "00:00:44,520",
+            "to": "00:00:46,060"
+          },
+          "offsets": {
+            "from": 44520,
+            "to": 46060
+          },
+          "id": 14720,
+          "p": 0.989963,
+          "t_dtw": -1
+        },
+        {
+          "text": " hungry",
+          "timestamps": {
+            "from": "00:00:46,060",
+            "to": "00:00:47,210"
+          },
+          "offsets": {
+            "from": 46060,
+            "to": 47210
+          },
+          "id": 14720,
+          "p": 0.998412,
+          "t_dtw": -1
+        },
+        {
+          "text": " mum",
+          "timestamps": {
+            "from": "00:00:48,290",
+            "to": "00:00:48,370"
+          },
+          "offsets": {
+            "from": 48290,
+            "to": 48370
+          },
+          "id": 25682,
+          "p": 0.8609,
+          "t_dtw": -1
+        },
+        {
+          "text": " mum",
+          "timestamps": {
+            "from": "00:00:48,370",
+            "to": "00:00:48,870"
+          },
+          "offsets": {
+            "from": 48370,
+            "to": 48870
+          },
+          "id": 25682,
+          "p": 0.946572,
+          "t_dtw": -1
+        },
+        {
+          "text": " one",
+          "timestamps": {
+            "from": "00:00:49,590",
+            "to": "00:00:50,140"
+          },
+          "offsets": {
+            "from": 49590,
+            "to": 50140
+          },
+          "id": 530,
+          "p": 0.910155,
+          "t_dtw": -1
+        },
+        {
+          "text": " one",
+          "timestamps": {
+            "from": "00:00:51,100",
+            "to": "00:00:51,240"
+          },
+          "offsets": {
+            "from": 51100,
+            "to": 51240
+          },
+          "id": 530,
+          "p": 0.960261,
+          "t_dtw": -1
+        },
+        {
+          "text": " pencil",
+          "timestamps": {
+            "from": "00:00:51,240",
+            "to": "00:00:52,770"
+          },
+          "offsets": {
+            "from": 51240,
+            "to": 52770
+          },
+          "id": 21613,
+          "p": 0.993674,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:52,770",
+        "to": "00:00:56,080"
+      },
+      "offsets": {
+        "from": 52770,
+        "to": 56080
+      },
+      "text": " pencil pencil case",
+      "tokens": [
+        {
+          "text": " pencil",
+          "timestamps": {
+            "from": "00:00:52,770",
+            "to": "00:00:54,110"
+          },
+          "offsets": {
+            "from": 52770,
+            "to": 54110
+          },
+          "id": 21613,
+          "p": 0.992952,
+          "t_dtw": -1
+        },
+        {
+          "text": " pencil",
+          "timestamps": {
+            "from": "00:00:54,950",
+            "to": "00:00:55,600"
+          },
+          "offsets": {
+            "from": 54950,
+            "to": 55600
+          },
+          "id": 21613,
+          "p": 0.933112,
+          "t_dtw": -1
+        },
+        {
+          "text": " case",
+          "timestamps": {
+            "from": "00:00:55,980",
+            "to": "00:00:56,080"
+          },
+          "offsets": {
+            "from": 55980,
+            "to": 56080
+          },
+          "id": 1339,
+          "p": 0.973495,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_898]",
+          "timestamps": {
+            "from": "00:00:56,080",
+            "to": "00:00:56,080"
+          },
+          "offsets": {
+            "from": 56080,
+            "to": 56080
+          },
+          "id": 51261,
+          "p": 0.100453,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:56,080",
+        "to": "00:01:10,500"
+      },
+      "offsets": {
+        "from": 56080,
+        "to": 70500
+      },
+      "text": " pencil case read read red red ruler ruler sing sing sister sister",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:56,080",
+            "to": "00:00:56,080"
+          },
+          "offsets": {
+            "from": 56080,
+            "to": 56080
+          },
+          "id": 50363,
+          "p": 0.999935,
+          "t_dtw": -1
+        },
+        {
+          "text": " pencil",
+          "timestamps": {
+            "from": "00:00:56,430",
+            "to": "00:00:57,010"
+          },
+          "offsets": {
+            "from": 56430,
+            "to": 57010
+          },
+          "id": 21613,
+          "p": 0.72225,
+          "t_dtw": -1
+        },
+        {
+          "text": " case",
+          "timestamps": {
+            "from": "00:00:57,660",
+            "to": "00:00:58,190"
+          },
+          "offsets": {
+            "from": 57660,
+            "to": 58190
+          },
+          "id": 1339,
+          "p": 0.998195,
+          "t_dtw": -1
+        },
+        {
+          "text": " read",
+          "timestamps": {
+            "from": "00:00:58,700",
+            "to": "00:00:59,190"
+          },
+          "offsets": {
+            "from": 58700,
+            "to": 59190
+          },
+          "id": 1100,
+          "p": 0.79586,
+          "t_dtw": -1
+        },
+        {
+          "text": " read",
+          "timestamps": {
+            "from": "00:00:59,630",
+            "to": "00:01:00,620"
+          },
+          "offsets": {
+            "from": 59630,
+            "to": 60620
+          },
+          "id": 1100,
+          "p": 0.953239,
+          "t_dtw": -1
+        },
+        {
+          "text": " red",
+          "timestamps": {
+            "from": "00:01:00,620",
+            "to": "00:01:01,090"
+          },
+          "offsets": {
+            "from": 60620,
+            "to": 61090
+          },
+          "id": 2266,
+          "p": 0.80678,
+          "t_dtw": -1
+        },
+        {
+          "text": " red",
+          "timestamps": {
+            "from": "00:01:01,640",
+            "to": "00:01:02,100"
+          },
+          "offsets": {
+            "from": 61640,
+            "to": 62100
+          },
+          "id": 2266,
+          "p": 0.877694,
+          "t_dtw": -1
+        },
+        {
+          "text": " ruler",
+          "timestamps": {
+            "from": "00:01:02,400",
+            "to": "00:01:02,870"
+          },
+          "offsets": {
+            "from": 62400,
+            "to": 62870
+          },
+          "id": 22740,
+          "p": 0.998736,
+          "t_dtw": -1
+        },
+        {
+          "text": " ruler",
+          "timestamps": {
+            "from": "00:01:03,660",
+            "to": "00:01:04,600"
+          },
+          "offsets": {
+            "from": 63660,
+            "to": 64600
+          },
+          "id": 22740,
+          "p": 0.998384,
+          "t_dtw": -1
+        },
+        {
+          "text": " sing",
+          "timestamps": {
+            "from": "00:01:04,630",
+            "to": "00:01:05,170"
+          },
+          "offsets": {
+            "from": 64630,
+            "to": 65170
+          },
+          "id": 1702,
+          "p": 0.989829,
+          "t_dtw": -1
+        },
+        {
+          "text": " sing",
+          "timestamps": {
+            "from": "00:01:06,250",
+            "to": "00:01:06,550"
+          },
+          "offsets": {
+            "from": 66250,
+            "to": 66550
+          },
+          "id": 1702,
+          "p": 0.989035,
+          "t_dtw": -1
+        },
+        {
+          "text": " sister",
+          "timestamps": {
+            "from": "00:01:06,770",
+            "to": "00:01:08,100"
+          },
+          "offsets": {
+            "from": 66770,
+            "to": 68100
+          },
+          "id": 6621,
+          "p": 0.989294,
+          "t_dtw": -1
+        },
+        {
+          "text": " sister",
+          "timestamps": {
+            "from": "00:01:09,060",
+            "to": "00:01:09,710"
+          },
+          "offsets": {
+            "from": 69060,
+            "to": 69710
+          },
+          "id": 6621,
+          "p": 0.997558,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:01:10,500",
+        "to": "00:01:14,680"
+      },
+      "offsets": {
+        "from": 70500,
+        "to": 74680
+      },
+      "text": " thirsty thirsty three three",
+      "tokens": [
+        {
+          "text": " thirsty",
+          "timestamps": {
+            "from": "00:01:10,500",
+            "to": "00:01:11,010"
+          },
+          "offsets": {
+            "from": 70500,
+            "to": 71010
+          },
+          "id": 47124,
+          "p": 0.971166,
+          "t_dtw": -1
+        },
+        {
+          "text": " thirsty",
+          "timestamps": {
+            "from": "00:01:11,720",
+            "to": "00:01:12,130"
+          },
+          "offsets": {
+            "from": 71720,
+            "to": 72130
+          },
+          "id": 47124,
+          "p": 0.994751,
+          "t_dtw": -1
+        },
+        {
+          "text": " three",
+          "timestamps": {
+            "from": "00:01:12,910",
+            "to": "00:01:13,560"
+          },
+          "offsets": {
+            "from": 72910,
+            "to": 73560
+          },
+          "id": 1115,
+          "p": 0.877037,
+          "t_dtw": -1
+        },
+        {
+          "text": " three",
+          "timestamps": {
+            "from": "00:01:13,930",
+            "to": "00:01:14,270"
+          },
+          "offsets": {
+            "from": 73930,
+            "to": 74270
+          },
+          "id": 1115,
+          "p": 0.785304,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_930]",
+          "timestamps": {
+            "from": "00:01:14,680",
+            "to": "00:01:14,680"
+          },
+          "offsets": {
+            "from": 74680,
+            "to": 74680
+          },
+          "id": 51293,
+          "p": 0.1527,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:01:14,680",
+        "to": "00:01:27,200"
+      },
+      "offsets": {
+        "from": 74680,
+        "to": 87200
+      },
+      "text": " tortoise tortoise two two white white right right yellow yellow",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:01:14,680",
+            "to": "00:01:14,680"
+          },
+          "offsets": {
+            "from": 74680,
+            "to": 74680
+          },
+          "id": 50363,
+          "p": 0.999855,
+          "t_dtw": -1
+        },
+        {
+          "text": " tort",
+          "timestamps": {
+            "from": "00:01:15,030",
+            "to": "00:01:15,600"
+          },
+          "offsets": {
+            "from": 75030,
+            "to": 75600
+          },
+          "id": 7619,
+          "p": 0.983562,
+          "t_dtw": -1
+        },
+        {
+          "text": "oise",
+          "timestamps": {
+            "from": "00:01:15,600",
+            "to": "00:01:16,520"
+          },
+          "offsets": {
+            "from": 75600,
+            "to": 76520
+          },
+          "id": 25678,
+          "p": 0.991304,
+          "t_dtw": -1
+        },
+        {
+          "text": " tort",
+          "timestamps": {
+            "from": "00:01:16,520",
+            "to": "00:01:17,440"
+          },
+          "offsets": {
+            "from": 76520,
+            "to": 77440
+          },
+          "id": 7619,
+          "p": 0.924004,
+          "t_dtw": -1
+        },
+        {
+          "text": "oise",
+          "timestamps": {
+            "from": "00:01:17,440",
+            "to": "00:01:18,360"
+          },
+          "offsets": {
+            "from": 77440,
+            "to": 78360
+          },
+          "id": 25678,
+          "p": 0.995792,
+          "t_dtw": -1
+        },
+        {
+          "text": " two",
+          "timestamps": {
+            "from": "00:01:18,360",
+            "to": "00:01:18,800"
+          },
+          "offsets": {
+            "from": 78360,
+            "to": 78800
+          },
+          "id": 734,
+          "p": 0.886722,
+          "t_dtw": -1
+        },
+        {
+          "text": " two",
+          "timestamps": {
+            "from": "00:01:19,200",
+            "to": "00:01:19,690"
+          },
+          "offsets": {
+            "from": 79200,
+            "to": 79690
+          },
+          "id": 734,
+          "p": 0.935404,
+          "t_dtw": -1
+        },
+        {
+          "text": " white",
+          "timestamps": {
+            "from": "00:01:20,240",
+            "to": "00:01:20,700"
+          },
+          "offsets": {
+            "from": 80240,
+            "to": 80700
+          },
+          "id": 2330,
+          "p": 0.99708,
+          "t_dtw": -1
+        },
+        {
+          "text": " white",
+          "timestamps": {
+            "from": "00:01:21,000",
+            "to": "00:01:21,470"
+          },
+          "offsets": {
+            "from": 81000,
+            "to": 81470
+          },
+          "id": 2330,
+          "p": 0.993752,
+          "t_dtw": -1
+        },
+        {
+          "text": " right",
+          "timestamps": {
+            "from": "00:01:22,260",
+            "to": "00:01:23,190"
+          },
+          "offsets": {
+            "from": 82260,
+            "to": 83190
+          },
+          "id": 826,
+          "p": 0.735011,
+          "t_dtw": -1
+        },
+        {
+          "text": " right",
+          "timestamps": {
+            "from": "00:01:23,190",
+            "to": "00:01:23,770"
+          },
+          "offsets": {
+            "from": 83190,
+            "to": 83770
+          },
+          "id": 826,
+          "p": 0.928022,
+          "t_dtw": -1
+        },
+        {
+          "text": " yellow",
+          "timestamps": {
+            "from": "00:01:24,850",
+            "to": "00:01:25,440"
+          },
+          "offsets": {
+            "from": 84850,
+            "to": 85440
+          },
+          "id": 7872,
+          "p": 0.99725,
+          "t_dtw": -1
+        },
+        {
+          "text": " yellow",
+          "timestamps": {
+            "from": "00:01:26,150",
+            "to": "00:01:26,700"
+          },
+          "offsets": {
+            "from": 86150,
+            "to": 86700
+          },
+          "id": 7872,
+          "p": 0.997096,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_626]",
+          "timestamps": {
+            "from": "00:01:27,200",
+            "to": "00:01:27,200"
+          },
+          "offsets": {
+            "from": 87200,
+            "to": 87200
+          },
+          "id": 50989,
+          "p": 0.0695516,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

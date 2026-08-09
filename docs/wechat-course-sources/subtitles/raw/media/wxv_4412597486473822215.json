@@ -1,0 +1,525 @@
+{
+  "RequestId": "72a6e2fb-c3e5-4baa-a067-fa144395e46c",
+  "Data": {
+    "TaskId": 16292493536,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 76.9045,
+    "Result": "T r trip travel Dr Dr dream.What do you dream about at night? I dream about a train. I travel all around the world, then I drive home again. My trip lasts for many hours. I see trees and mountains too. Then the sun rises. I wake up. I love dreaming. Do you?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "T r trip travel Dr Dr dream.",
+        "SliceSentence": "T r trip travel Dr Dr dream .",
+        "WrittenText": "",
+        "StartMs": 60,
+        "EndMs": 33620,
+        "SpeechSpeed": 0.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 5560,
+            "OffsetEndMs": 5960,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 6040,
+            "OffsetEndMs": 6440,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 7330,
+            "OffsetEndMs": 7730,
+            "Word": "trip"
+          },
+          {
+            "OffsetStartMs": 15070,
+            "OffsetEndMs": 15470,
+            "Word": "travel"
+          },
+          {
+            "OffsetStartMs": 23830,
+            "OffsetEndMs": 24230,
+            "Word": "Dr"
+          },
+          {
+            "OffsetStartMs": 25480,
+            "OffsetEndMs": 25880,
+            "Word": "Dr"
+          },
+          {
+            "OffsetStartMs": 33160,
+            "OffsetEndMs": 33560,
+            "Word": "dream"
+          },
+          {
+            "OffsetStartMs": 33160,
+            "OffsetEndMs": 33560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What do you dream about at night?",
+        "SliceSentence": "What do you dream about at night ?",
+        "WrittenText": "",
+        "StartMs": 36240,
+        "EndMs": 42470,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 2920,
+            "OffsetEndMs": 3270,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3600,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3980,
+            "Word": "dream"
+          },
+          {
+            "OffsetStartMs": 4090,
+            "OffsetEndMs": 4490,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 5290,
+            "OffsetEndMs": 5690,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 5830,
+            "OffsetEndMs": 6230,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 5830,
+            "OffsetEndMs": 6230,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I dream about a train.",
+        "SliceSentence": "I dream about a train .",
+        "WrittenText": "",
+        "StartMs": 43300,
+        "EndMs": 46010,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "dream"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "train"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I travel all around the world,",
+        "SliceSentence": "I travel all around the world ,",
+        "WrittenText": "",
+        "StartMs": 48100,
+        "EndMs": 51950,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "travel"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " then I drive home again.",
+        "SliceSentence": "then I drive home again .",
+        "WrittenText": "",
+        "StartMs": 52750,
+        "EndMs": 55580,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "drive"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My trip lasts for many hours.",
+        "SliceSentence": "My trip lasts for many hours .",
+        "WrittenText": "",
+        "StartMs": 57610,
+        "EndMs": 61550,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "trip"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2030,
+            "Word": "lasts"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2350,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see trees and mountains too.",
+        "SliceSentence": "I see trees and mountains too .",
+        "WrittenText": "",
+        "StartMs": 62440,
+        "EndMs": 66350,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "trees"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2420,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2770,
+            "Word": "mountains"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then the sun rises.",
+        "SliceSentence": "Then the sun rises .",
+        "WrittenText": "",
+        "StartMs": 67210,
+        "EndMs": 69780,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1295,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2570,
+            "Word": "rises"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wake up.",
+        "SliceSentence": "I wake up .",
+        "WrittenText": "",
+        "StartMs": 69780,
+        "EndMs": 71120,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "wake"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I love dreaming.",
+        "SliceSentence": "I love dreaming .",
+        "WrittenText": "",
+        "StartMs": 71950,
+        "EndMs": 73910,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1960,
+            "Word": "dreaming"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you?",
+        "SliceSentence": "Do you ?",
+        "WrittenText": "",
+        "StartMs": 74140,
+        "EndMs": 74810,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

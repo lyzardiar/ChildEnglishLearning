@@ -1,0 +1,868 @@
+{
+  "RequestId": "125a4008-3f82-4c6a-afb6-4e96223432b3",
+  "Data": {
+    "TaskId": 16292467796,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 89.118188,
+    "Result": "Children's day survey how how is doing a survey about children's day what do you do on children's day? I go to the science museum. It's fun Yum Yum. What do you do on children's day? My family go to the zoo I love elephants Chen chin. What about you? My family go to the cinema I like monkey king haha. After the film we go to a Pizza shop. Sometimes I eat too much.In our class, three classmates go to the zoo. On children's day, four classmates go to the cinema. Three classmates go to the museum, 10 classmates go out to eat.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Children's day survey how how is doing a survey about children's day what do you do on children's day?",
+        "SliceSentence": "Children's day survey how how is doing a survey about children's day what do you do on children's day ?",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 15030,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 20,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 1110,
+            "Word": "Children's"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1400,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "survey"
+          },
+          {
+            "OffsetStartMs": 5740,
+            "OffsetEndMs": 6105,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 6105,
+            "OffsetEndMs": 6470,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 6730,
+            "OffsetEndMs": 7125,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7125,
+            "OffsetEndMs": 7520,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 7600,
+            "OffsetEndMs": 7935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7935,
+            "OffsetEndMs": 8270,
+            "Word": "survey"
+          },
+          {
+            "OffsetStartMs": 9130,
+            "OffsetEndMs": 9530,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 9610,
+            "OffsetEndMs": 10515,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 10515,
+            "OffsetEndMs": 10820,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 12220,
+            "OffsetEndMs": 12600,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 12600,
+            "OffsetEndMs": 12900,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 12900,
+            "OffsetEndMs": 13170,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 13170,
+            "OffsetEndMs": 13520,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 13570,
+            "OffsetEndMs": 13905,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 13905,
+            "OffsetEndMs": 14655,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 14655,
+            "OffsetEndMs": 14930,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 14655,
+            "OffsetEndMs": 14930,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I go to the science museum.",
+        "SliceSentence": "I go to the science museum .",
+        "WrittenText": "",
+        "StartMs": 16280,
+        "EndMs": 19290,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1445,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1775,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2140,
+            "Word": "science"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "museum"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's fun Yum Yum.",
+        "SliceSentence": "It's fun Yum Yum .",
+        "WrittenText": "",
+        "StartMs": 20270,
+        "EndMs": 24120,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3440,
+            "Word": "Yum"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3850,
+            "Word": "Yum"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you do on children's day?",
+        "SliceSentence": "What do you do on children's day ?",
+        "WrittenText": "",
+        "StartMs": 24830,
+        "EndMs": 27690,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 965,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1760,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2570,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2860,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2860,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My family go to the zoo I love elephants Chen chin.",
+        "SliceSentence": "My family go to the zoo I love elephants Chen chin .",
+        "WrittenText": "",
+        "StartMs": 29360,
+        "EndMs": 37650,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2105,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2420,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2770,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3700,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 5110,
+            "Word": "elephants"
+          },
+          {
+            "OffsetStartMs": 7440,
+            "OffsetEndMs": 7865,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 7865,
+            "OffsetEndMs": 8290,
+            "Word": "chin"
+          },
+          {
+            "OffsetStartMs": 7865,
+            "OffsetEndMs": 8290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What about you?",
+        "SliceSentence": "What about you ?",
+        "WrittenText": "",
+        "StartMs": 38240,
+        "EndMs": 39510,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My family go to the cinema I like monkey king haha.",
+        "SliceSentence": "My family go to the cinema I like monkey king haha .",
+        "WrittenText": "",
+        "StartMs": 40970,
+        "EndMs": 49920,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2045,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2315,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2620,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4270,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4990,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 5280,
+            "OffsetEndMs": 5680,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 8280,
+            "OffsetEndMs": 8950,
+            "Word": "haha"
+          },
+          {
+            "OffsetStartMs": 8280,
+            "OffsetEndMs": 8950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " After the film we go to a Pizza shop.",
+        "SliceSentence": "After the film we go to a Pizza shop .",
+        "WrittenText": "",
+        "StartMs": 51800,
+        "EndMs": 56190,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "After"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 920,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1210,
+            "Word": "film"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2240,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2590,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3065,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3640,
+            "Word": "Pizza"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sometimes I eat too much.",
+        "SliceSentence": "Sometimes I eat too much .",
+        "WrittenText": "",
+        "StartMs": 57110,
+        "EndMs": 59820,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sometimes"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1355,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2330,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2710,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In our class,",
+        "SliceSentence": "In our class ,",
+        "WrittenText": "",
+        "StartMs": 60580,
+        "EndMs": 64680,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3255,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 3255,
+            "OffsetEndMs": 3620,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4100,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4100,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " three classmates go to the zoo.",
+        "SliceSentence": "three classmates go to the zoo .",
+        "WrittenText": "",
+        "StartMs": 65420,
+        "EndMs": 67980,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1270,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1835,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2075,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2255,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2560,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On children's day,",
+        "SliceSentence": "On children's day ,",
+        "WrittenText": "",
+        "StartMs": 68030,
+        "EndMs": 69420,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 1115,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1390,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " four classmates go to the cinema.",
+        "SliceSentence": "four classmates go to the cinema .",
+        "WrittenText": "",
+        "StartMs": 70250,
+        "EndMs": 72750,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1270,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1790,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2045,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2210,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2500,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Three classmates go to the museum,",
+        "SliceSentence": "Three classmates go to the museum ,",
+        "WrittenText": "",
+        "StartMs": 74210,
+        "EndMs": 76620,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1240,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1685,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1925,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2105,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2410,
+            "Word": "museum"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 10 classmates go out to eat.",
+        "SliceSentence": "10 classmates go out to eat .",
+        "WrittenText": "",
+        "StartMs": 78110,
+        "EndMs": 81060,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1420,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1835,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2615,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2950,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

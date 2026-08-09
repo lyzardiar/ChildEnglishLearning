@@ -1,0 +1,610 @@
+{
+  "RequestId": "f9e0a857-7a1f-4e3d-ab8d-e72710758d1e",
+  "Data": {
+    "TaskId": 16292516083,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 51.850188,
+    "Result": "Why do wild geese change homes?Wild geese have busy lives. They fly from one place to another. They change homes twice every year. In spring they fly north. In autumn they fly south. Why do wild geese move around so much in winter? They cannot find enough food in the north, so they fly south in autumn, then in spring it is warm in the north, so they fly back.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Why do wild geese change homes?",
+        "SliceSentence": "Why do wild geese change homes ?",
+        "WrittenText": "",
+        "StartMs": 1300,
+        "EndMs": 4380,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 900,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1220,
+            "Word": "wild"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 2120,
+            "Word": "geese"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "change"
+          },
+          {
+            "OffsetStartMs": 2680,
+            "OffsetEndMs": 3080,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 2680,
+            "OffsetEndMs": 3080,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wild geese have busy lives.",
+        "SliceSentence": "Wild geese have busy lives .",
+        "WrittenText": "",
+        "StartMs": 5740,
+        "EndMs": 10920,
+        "SpeechSpeed": 5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3010,
+            "OffsetEndMs": 3410,
+            "Word": "Wild"
+          },
+          {
+            "OffsetStartMs": 3430,
+            "OffsetEndMs": 4050,
+            "Word": "geese"
+          },
+          {
+            "OffsetStartMs": 4050,
+            "OffsetEndMs": 4365,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 4365,
+            "OffsetEndMs": 4760,
+            "Word": "busy"
+          },
+          {
+            "OffsetStartMs": 4780,
+            "OffsetEndMs": 5180,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 4780,
+            "OffsetEndMs": 5180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They fly from one place to another.",
+        "SliceSentence": "They fly from one place to another .",
+        "WrittenText": "",
+        "StartMs": 11990,
+        "EndMs": 14520,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1115,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1415,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1780,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2195,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2530,
+            "Word": "another"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They change homes twice every year.",
+        "SliceSentence": "They change homes twice every year .",
+        "WrittenText": "",
+        "StartMs": 15320,
+        "EndMs": 17970,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "change"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "twice"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2255,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2650,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In spring they fly north.",
+        "SliceSentence": "In spring they fly north .",
+        "WrittenText": "",
+        "StartMs": 19400,
+        "EndMs": 21660,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1535,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1880,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2260,
+            "Word": "north"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In autumn they fly south.",
+        "SliceSentence": "In autumn they fly south .",
+        "WrittenText": "",
+        "StartMs": 26450,
+        "EndMs": 28680,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 1000,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1475,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1835,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "south"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why do wild geese move around so much in winter?",
+        "SliceSentence": "Why do wild geese move around so much in winter ?",
+        "WrittenText": "",
+        "StartMs": 30020,
+        "EndMs": 35970,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 995,
+            "Word": "wild"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1520,
+            "Word": "geese"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": "move"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2285,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2630,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2980,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 5250,
+            "OffsetEndMs": 5600,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5600,
+            "OffsetEndMs": 5950,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 5600,
+            "OffsetEndMs": 5950,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They cannot find enough food in the north,",
+        "SliceSentence": "They cannot find enough food in the north ,",
+        "WrittenText": "",
+        "StartMs": 36620,
+        "EndMs": 39210,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "cannot"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1430,
+            "Word": "enough"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1750,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2165,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2330,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2590,
+            "Word": "north"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2590,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " so they fly south in autumn,",
+        "SliceSentence": "so they fly south in autumn ,",
+        "WrittenText": "",
+        "StartMs": 39800,
+        "EndMs": 42540,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1025,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1325,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1690,
+            "Word": "south"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2150,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2740,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2740,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " then in spring it is warm in the north,",
+        "SliceSentence": "then in spring it is warm in the north ,",
+        "WrittenText": "",
+        "StartMs": 43220,
+        "EndMs": 46410,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1895,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2120,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2440,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2780,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 2930,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3190,
+            "Word": "north"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3190,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " so they fly back.",
+        "SliceSentence": "so they fly back .",
+        "WrittenText": "",
+        "StartMs": 47030,
+        "EndMs": 48300,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 920,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

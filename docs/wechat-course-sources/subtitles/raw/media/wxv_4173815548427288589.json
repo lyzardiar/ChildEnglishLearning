@@ -1,0 +1,845 @@
+{
+  "RequestId": "9b453c21-048f-4a78-8b5a-3e537745348f",
+  "Data": {
+    "TaskId": 16292500202,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 72.910688,
+    "Result": "Where's your home? People live in all kinds of homes, some live in flats and some live in houses. Some homes are big and some are small. Some homes are in cities and some are in the country cities. There are a lot of people, streets and big buildings in cities. Many people live in flats. Where do you live? Ning Ning I live in Shenzhen. Shenzhen is a big city, the country in the country. There are farms. People live in houses.Where do you live Kate? I live on a farm in the country.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Where's your home?",
+        "SliceSentence": "Where's your home ?",
+        "WrittenText": "",
+        "StartMs": 360,
+        "EndMs": 2180,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 990,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1340,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People live in all kinds of homes,",
+        "SliceSentence": "People live in all kinds of homes ,",
+        "WrittenText": "",
+        "StartMs": 4120,
+        "EndMs": 7100,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1340,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "kinds"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2660,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 2980,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 2980,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " some live in flats and some live in houses.",
+        "SliceSentence": "some live in flats and some live in houses .",
+        "WrittenText": "",
+        "StartMs": 8290,
+        "EndMs": 12500,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1130,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1540,
+            "Word": "flats"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2480,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2860,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3875,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3875,
+            "OffsetEndMs": 4210,
+            "Word": "houses"
+          },
+          {
+            "OffsetStartMs": 3875,
+            "OffsetEndMs": 4210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some homes are big and some are small.",
+        "SliceSentence": "Some homes are big and some are small .",
+        "WrittenText": "",
+        "StartMs": 14110,
+        "EndMs": 18560,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1130,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1480,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 4050,
+            "OffsetEndMs": 4450,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 4050,
+            "OffsetEndMs": 4450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some homes are in cities and some are in the country cities.",
+        "SliceSentence": "Some homes are in cities and some are in the country cities .",
+        "WrittenText": "",
+        "StartMs": 19780,
+        "EndMs": 27230,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1430,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1760,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2140,
+            "Word": "cities"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3905,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3905,
+            "OffsetEndMs": 4300,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 4530,
+            "OffsetEndMs": 4865,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 4865,
+            "OffsetEndMs": 5120,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5120,
+            "OffsetEndMs": 5300,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5300,
+            "OffsetEndMs": 5560,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 7050,
+            "OffsetEndMs": 7450,
+            "Word": "cities"
+          },
+          {
+            "OffsetStartMs": 7050,
+            "OffsetEndMs": 7450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are a lot of people,",
+        "SliceSentence": "There are a lot of people ,",
+        "WrittenText": "",
+        "StartMs": 28630,
+        "EndMs": 30440,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 995,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1235,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1490,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1810,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " streets and big buildings in cities.",
+        "SliceSentence": "streets and big buildings in cities .",
+        "WrittenText": "",
+        "StartMs": 31330,
+        "EndMs": 34370,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "streets"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1960,
+            "Word": "buildings"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2690,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3040,
+            "Word": "cities"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Many people live in flats.",
+        "SliceSentence": "Many people live in flats .",
+        "WrittenText": "",
+        "StartMs": 36490,
+        "EndMs": 38810,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Many"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1895,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2320,
+            "Word": "flats"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where do you live?",
+        "SliceSentence": "Where do you live ?",
+        "WrittenText": "",
+        "StartMs": 40420,
+        "EndMs": 42140,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 875,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1240,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ning Ning I live in Shenzhen.",
+        "SliceSentence": "Ning Ning I live in Shenzhen .",
+        "WrittenText": "",
+        "StartMs": 42640,
+        "EndMs": 46280,
+        "SpeechSpeed": 8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "Ning"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 820,
+            "Word": "Ning"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2945,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3640,
+            "Word": "Shenzhen"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Shenzhen is a big city,",
+        "SliceSentence": "Shenzhen is a big city ,",
+        "WrittenText": "",
+        "StartMs": 47260,
+        "EndMs": 49550,
+        "SpeechSpeed": 10,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "Shenzhen"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1160,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1430,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the country in the country.",
+        "SliceSentence": "the country in the country .",
+        "WrittenText": "",
+        "StartMs": 51250,
+        "EndMs": 53990,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 550,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2225,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2450,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are farms.",
+        "SliceSentence": "There are farms .",
+        "WrittenText": "",
+        "StartMs": 54490,
+        "EndMs": 55910,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1420,
+            "Word": "farms"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People live in houses.",
+        "SliceSentence": "People live in houses .",
+        "WrittenText": "",
+        "StartMs": 57190,
+        "EndMs": 58790,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "houses"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Where do you live Kate?",
+        "SliceSentence": "Where do you live Kate ?",
+        "WrittenText": "",
+        "StartMs": 60840,
+        "EndMs": 63350,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1005,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1370,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 2110,
+            "OffsetEndMs": 2510,
+            "Word": "Kate"
+          },
+          {
+            "OffsetStartMs": 2110,
+            "OffsetEndMs": 2510,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I live on a farm in the country.",
+        "SliceSentence": "I live on a farm in the country .",
+        "WrittenText": "",
+        "StartMs": 64600,
+        "EndMs": 67790,
+        "SpeechSpeed": 10,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1475,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1775,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2690,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 2900,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3190,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

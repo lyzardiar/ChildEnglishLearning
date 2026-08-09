@@ -1,0 +1,840 @@
+{
+  "RequestId": "73d710df-40a3-45e7-a55d-476ad29e1528",
+  "Data": {
+    "TaskId": 16292572515,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.279,
+    "Result": "Schools of the future.Bye, Joe.In the future, schools will be different. They will be under the sea, on high mountains and even in space. Robots will help us find books in the library. They will also do other things. In schools, we will use computers in all our lessons. They will help us see dinosaurs and other interesting things. We will have lessons with students from other countries. We will do a lot of things online together. We will not carry books to school. All our books will be on a small computer.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Schools of the future.",
+        "SliceSentence": "Schools of the future .",
+        "WrittenText": "",
+        "StartMs": 780,
+        "EndMs": 2600,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Schools"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1530,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1820,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bye,",
+        "SliceSentence": "Bye ,",
+        "WrittenText": "",
+        "StartMs": 3960,
+        "EndMs": 4395,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 435,
+            "Word": "Bye"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 435,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Joe.",
+        "SliceSentence": "Joe .",
+        "WrittenText": "",
+        "StartMs": 4395,
+        "EndMs": 4790,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the future,",
+        "SliceSentence": "In the future ,",
+        "WrittenText": "",
+        "StartMs": 6180,
+        "EndMs": 9470,
+        "SpeechSpeed": 4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2790,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3290,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " schools will be different.",
+        "SliceSentence": "schools will be different .",
+        "WrittenText": "",
+        "StartMs": 10240,
+        "EndMs": 11450,
+        "SpeechSpeed": 21.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "schools"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 770,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 935,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1210,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They will be under the sea,",
+        "SliceSentence": "They will be under the sea ,",
+        "WrittenText": "",
+        "StartMs": 13390,
+        "EndMs": 14930,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 500,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 680,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 965,
+            "Word": "under"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " on high mountains and even in space.",
+        "SliceSentence": "on high mountains and even in space .",
+        "WrittenText": "",
+        "StartMs": 15370,
+        "EndMs": 18650,
+        "SpeechSpeed": 11,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": "mountains"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2015,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2380,
+            "Word": "even"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2900,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3280,
+            "Word": "space"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Robots will help us find books in the library.",
+        "SliceSentence": "Robots will help us find books in the library .",
+        "WrittenText": "",
+        "StartMs": 20500,
+        "EndMs": 23540,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "Robots"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 965,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1235,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1520,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1835,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2615,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2780,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3040,
+            "Word": "library"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They will also do other things.",
+        "SliceSentence": "They will also do other things .",
+        "WrittenText": "",
+        "StartMs": 24880,
+        "EndMs": 26880,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 455,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1265,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1625,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 2000,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 2000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In schools,",
+        "SliceSentence": "In schools ,",
+        "WrittenText": "",
+        "StartMs": 26880,
+        "EndMs": 27560,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 330,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 680,
+            "Word": "schools"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we will use computers in all our lessons.",
+        "SliceSentence": "we will use computers in all our lessons .",
+        "WrittenText": "",
+        "StartMs": 29230,
+        "EndMs": 32300,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 440,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "computers"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1880,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2260,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2690,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3070,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They will help us see dinosaurs and other interesting things.",
+        "SliceSentence": "They will help us see dinosaurs and other interesting things .",
+        "WrittenText": "",
+        "StartMs": 34030,
+        "EndMs": 38210,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 500,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 725,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 965,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1205,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1990,
+            "Word": "dinosaurs"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2615,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2950,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3700,
+            "Word": "interesting"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We will have lessons with students from other countries.",
+        "SliceSentence": "We will have lessons with students from other countries .",
+        "WrittenText": "",
+        "StartMs": 39700,
+        "EndMs": 42680,
+        "SpeechSpeed": 18.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 425,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 620,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1505,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2315,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2600,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2980,
+            "Word": "countries"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We will do a lot of things online together.",
+        "SliceSentence": "We will do a lot of things online together .",
+        "WrittenText": "",
+        "StartMs": 45430,
+        "EndMs": 48230,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 635,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 785,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 965,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1160,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1450,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "online"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We will not carry books to school.",
+        "SliceSentence": "We will not carry books to school .",
+        "WrittenText": "",
+        "StartMs": 49840,
+        "EndMs": 51860,
+        "SpeechSpeed": 16.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 410,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 635,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "carry"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1715,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2020,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " All our books will be on a small computer.",
+        "SliceSentence": "All our books will be on a small computer .",
+        "WrittenText": "",
+        "StartMs": 53170,
+        "EndMs": 56180,
+        "SpeechSpeed": 14,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1385,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1610,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1835,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2075,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2410,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "computer"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

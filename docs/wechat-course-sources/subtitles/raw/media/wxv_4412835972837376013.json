@@ -1,0 +1,829 @@
+{
+  "RequestId": "f85a1f9c-747e-4b2d-9a7c-f0b1db8493f7",
+  "Data": {
+    "TaskId": 16292525640,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 66.525188,
+    "Result": "Mum and dad, what are we going to do this summer? Let's go to sana. It's a wonderful place for a holiday. Great. How do we get there? We get there by plane. Where will we stay? We'll stay in a hotel by the sea. How long will we stay in? Sana, we'll stay there for five days. What will we do there? Sonya has beautiful beaches with clear water. We'll go swimming there. We'll also have seafood, the sea.Food there tastes great.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Mum and dad,",
+        "SliceSentence": "Mum and dad ,",
+        "WrittenText": "",
+        "StartMs": 600,
+        "EndMs": 10700,
+        "SpeechSpeed": 1.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 9040,
+            "OffsetEndMs": 9420,
+            "Word": "Mum"
+          },
+          {
+            "OffsetStartMs": 9420,
+            "OffsetEndMs": 9750,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 9750,
+            "OffsetEndMs": 10100,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 9750,
+            "OffsetEndMs": 10100,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what are we going to do this summer?",
+        "SliceSentence": "what are we going to do this summer ?",
+        "WrittenText": "",
+        "StartMs": 11200,
+        "EndMs": 13190,
+        "SpeechSpeed": 18.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 650,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1145,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1370,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1655,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1990,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1990,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's go to sana.",
+        "SliceSentence": "Let's go to sana .",
+        "WrittenText": "",
+        "StartMs": 14950,
+        "EndMs": 16460,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 665,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 890,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1510,
+            "Word": "sana"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a wonderful place for a holiday.",
+        "SliceSentence": "It's a wonderful place for a holiday .",
+        "WrittenText": "",
+        "StartMs": 16750,
+        "EndMs": 18980,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 605,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "wonderful"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1835,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 1970,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2230,
+            "Word": "holiday"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great.",
+        "SliceSentence": "Great .",
+        "WrittenText": "",
+        "StartMs": 21100,
+        "EndMs": 21500,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How do we get there?",
+        "SliceSentence": "How do we get there ?",
+        "WrittenText": "",
+        "StartMs": 22120,
+        "EndMs": 23450,
+        "SpeechSpeed": 15,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 545,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 710,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 965,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1330,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We get there by plane.",
+        "SliceSentence": "We get there by plane .",
+        "WrittenText": "",
+        "StartMs": 25210,
+        "EndMs": 26720,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 830,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1145,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "plane"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where will we stay?",
+        "SliceSentence": "Where will we stay ?",
+        "WrittenText": "",
+        "StartMs": 28240,
+        "EndMs": 29390,
+        "SpeechSpeed": 16.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 605,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 830,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1150,
+            "Word": "stay"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1150,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We'll stay in a hotel by the sea.",
+        "SliceSentence": "We'll stay in a hotel by the sea .",
+        "WrittenText": "",
+        "StartMs": 31540,
+        "EndMs": 34160,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "We'll"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 785,
+            "Word": "stay"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 965,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1240,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "hotel"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2090,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2330,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2620,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How long will we stay in?",
+        "SliceSentence": "How long will we stay in ?",
+        "WrittenText": "",
+        "StartMs": 36460,
+        "EndMs": 38370,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 710,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 980,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1265,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1610,
+            "Word": "stay"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1910,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1910,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sana,",
+        "SliceSentence": "Sana ,",
+        "WrittenText": "",
+        "StartMs": 38370,
+        "EndMs": 39050,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "Sana"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we'll stay there for five days.",
+        "SliceSentence": "we'll stay there for five days .",
+        "WrittenText": "",
+        "StartMs": 40750,
+        "EndMs": 42860,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 710,
+            "Word": "stay"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1025,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1310,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "days"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What will we do there?",
+        "SliceSentence": "What will we do there ?",
+        "WrittenText": "",
+        "StartMs": 46900,
+        "EndMs": 48230,
+        "SpeechSpeed": 16.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 740,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 980,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1330,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sonya has beautiful beaches with clear water.",
+        "SliceSentence": "Sonya has beautiful beaches with clear water .",
+        "WrittenText": "",
+        "StartMs": 50290,
+        "EndMs": 53780,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "Sonya"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2450,
+            "Word": "beaches"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2750,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3095,
+            "Word": "clear"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3490,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We'll go swimming there.",
+        "SliceSentence": "We'll go swimming there .",
+        "WrittenText": "",
+        "StartMs": 54580,
+        "EndMs": 56060,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "We'll"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 665,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We'll also have seafood,",
+        "SliceSentence": "We'll also have seafood ,",
+        "WrittenText": "",
+        "StartMs": 56650,
+        "EndMs": 58490,
+        "SpeechSpeed": 13,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "We'll"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1220,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1840,
+            "Word": "seafood"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the sea.",
+        "SliceSentence": "the sea .",
+        "WrittenText": "",
+        "StartMs": 60430,
+        "EndMs": 61040,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Food there tastes great.",
+        "SliceSentence": "Food there tastes great .",
+        "WrittenText": "",
+        "StartMs": 61080,
+        "EndMs": 62780,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 300,
+            "Word": "Food"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 570,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 920,
+            "Word": "tastes"
+          },
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 40,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

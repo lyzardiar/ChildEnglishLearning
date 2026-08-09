@@ -1,0 +1,468 @@
+{
+  "RequestId": "82159906-69ef-40fb-85d1-29b063a83578",
+  "Data": {
+    "TaskId": 16292475356,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 38.011063,
+    "Result": "On a windy day. Whoosh whoosh. The wind is strong. My kite goes up the string is long oh no oh no it's in the tree. Please Mr wind, don't take it from me whoosh. Whoosh, there it goes. My kite is free. The strong wind blows.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "On a windy day.",
+        "SliceSentence": "On a windy day .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2270,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 830,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1950,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2270,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Whoosh whoosh.",
+        "SliceSentence": "Whoosh whoosh .",
+        "WrittenText": "",
+        "StartMs": 3880,
+        "EndMs": 5420,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 460,
+            "Word": "Whoosh"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1540,
+            "Word": "whoosh"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The wind is strong.",
+        "SliceSentence": "The wind is strong .",
+        "WrittenText": "",
+        "StartMs": 6010,
+        "EndMs": 7880,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "strong"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My kite goes up the string is long oh no oh no it's in the tree.",
+        "SliceSentence": "My kite goes up the string is long oh no oh no it's in the tree .",
+        "WrittenText": "",
+        "StartMs": 9070,
+        "EndMs": 20090,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 17,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "string"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6620,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 6620,
+            "OffsetEndMs": 7000,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 7650,
+            "OffsetEndMs": 8050,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 8100,
+            "OffsetEndMs": 8500,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 9240,
+            "OffsetEndMs": 9860,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 9860,
+            "OffsetEndMs": 10180,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 10230,
+            "OffsetEndMs": 10625,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 10625,
+            "OffsetEndMs": 11020,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 10625,
+            "OffsetEndMs": 11020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Please Mr wind,",
+        "SliceSentence": "Please Mr wind ,",
+        "WrittenText": "",
+        "StartMs": 21100,
+        "EndMs": 23030,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Please"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " don't take it from me whoosh.",
+        "SliceSentence": "don't take it from me whoosh .",
+        "WrittenText": "",
+        "StartMs": 23620,
+        "EndMs": 27740,
+        "SpeechSpeed": 7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1895,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2260,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 4120,
+            "Word": "whoosh"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Whoosh,",
+        "SliceSentence": "Whoosh ,",
+        "WrittenText": "",
+        "StartMs": 28240,
+        "EndMs": 28910,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": "Whoosh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there it goes.",
+        "SliceSentence": "there it goes .",
+        "WrittenText": "",
+        "StartMs": 29350,
+        "EndMs": 30770,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My kite is free.",
+        "SliceSentence": "My kite is free .",
+        "WrittenText": "",
+        "StartMs": 31810,
+        "EndMs": 33920,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "free"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The strong wind blows.",
+        "SliceSentence": "The strong wind blows .",
+        "WrittenText": "",
+        "StartMs": 34630,
+        "EndMs": 36860,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "strong"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2230,
+            "Word": "blows"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

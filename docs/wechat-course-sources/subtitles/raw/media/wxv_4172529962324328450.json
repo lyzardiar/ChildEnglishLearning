@@ -1,0 +1,575 @@
+{
+  "RequestId": "0f863d47-deba-42ec-b47e-f4dfb35643ae",
+  "Data": {
+    "TaskId": 16292416101,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 109.319563,
+    "Result": "Grandma's magic pot.This is my magic pot cook pot. Whoa stop stop stop pot. I like noodles. Bye bye I'm hungry. Cook pot. Stop pod. Hey stop pod.Let's help stop. Oh no. Oh, help. Stop, stop, stop pot. Thank you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Grandma's magic pot.",
+        "SliceSentence": "Grandma's magic pot .",
+        "WrittenText": "",
+        "StartMs": 860,
+        "EndMs": 2800,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1020,
+            "Word": "Grandma's"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1340,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "This is my magic pot cook pot.",
+        "SliceSentence": "This is my magic pot cook pot .",
+        "WrittenText": "",
+        "StartMs": 4300,
+        "EndMs": 14700,
+        "SpeechSpeed": 2.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 4840,
+            "OffsetEndMs": 5240,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 5620,
+            "OffsetEndMs": 6020,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 6250,
+            "OffsetEndMs": 6650,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 6970,
+            "OffsetEndMs": 7370,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 7780,
+            "OffsetEndMs": 8180,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 9250,
+            "OffsetEndMs": 9650,
+            "Word": "cook"
+          },
+          {
+            "OffsetStartMs": 10000,
+            "OffsetEndMs": 10400,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 10000,
+            "OffsetEndMs": 10400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Whoa stop stop stop pot.",
+        "SliceSentence": "Whoa stop stop stop pot .",
+        "WrittenText": "",
+        "StartMs": 21290,
+        "EndMs": 27420,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Whoa"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5410,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6130,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like noodles.",
+        "SliceSentence": "I like noodles .",
+        "WrittenText": "",
+        "StartMs": 33290,
+        "EndMs": 35040,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1750,
+            "Word": "noodles"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bye bye I'm hungry.",
+        "SliceSentence": "Bye bye I'm hungry .",
+        "WrittenText": "",
+        "StartMs": 38240,
+        "EndMs": 45300,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Bye"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "bye"
+          },
+          {
+            "OffsetStartMs": 6090,
+            "OffsetEndMs": 6785,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 6785,
+            "OffsetEndMs": 7060,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 6785,
+            "OffsetEndMs": 7060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Cook pot.",
+        "SliceSentence": "Cook pot .",
+        "WrittenText": "",
+        "StartMs": 46580,
+        "EndMs": 47610,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Cook"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Stop pod.",
+        "SliceSentence": "Stop pod .",
+        "WrittenText": "",
+        "StartMs": 54710,
+        "EndMs": 55890,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Stop"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "pod"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hey stop pod.",
+        "SliceSentence": "Hey stop pod .",
+        "WrittenText": "",
+        "StartMs": 56390,
+        "EndMs": 58470,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hey"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "pod"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's help stop.",
+        "SliceSentence": "Let's help stop .",
+        "WrittenText": "",
+        "StartMs": 64780,
+        "EndMs": 71400,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 4540,
+            "OffsetEndMs": 5295,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 5295,
+            "OffsetEndMs": 5570,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 6220,
+            "OffsetEndMs": 6620,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 6220,
+            "OffsetEndMs": 6620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no.",
+        "SliceSentence": "Oh no .",
+        "WrittenText": "",
+        "StartMs": 75410,
+        "EndMs": 76320,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 81260,
+        "EndMs": 81660,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " help.",
+        "SliceSentence": "help .",
+        "WrittenText": "",
+        "StartMs": 91550,
+        "EndMs": 91950,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 9890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Stop,",
+        "SliceSentence": "Stop ,",
+        "WrittenText": "",
+        "StartMs": 95240,
+        "EndMs": 95640,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Stop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " stop,",
+        "SliceSentence": "stop ,",
+        "WrittenText": "",
+        "StartMs": 96260,
+        "EndMs": 96660,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " stop pot.",
+        "SliceSentence": "stop pot .",
+        "WrittenText": "",
+        "StartMs": 97220,
+        "EndMs": 98190,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you.",
+        "SliceSentence": "Thank you .",
+        "WrittenText": "",
+        "StartMs": 104810,
+        "EndMs": 105810,
+        "SpeechSpeed": 10,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6620,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

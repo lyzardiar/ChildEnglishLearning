@@ -1,0 +1,354 @@
+{
+  "RequestId": "dc0f8eca-cb61-4d26-80d2-be5ec84656f8",
+  "Data": {
+    "TaskId": 16292471320,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 28.42125,
+    "Result": "People look different. People look different. Some people have brown eyes, some have blue eyes. Some people have black hair. Some have brown hair. People look different. It is okay to be different.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "People look different.",
+        "SliceSentence": "People look different .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2600,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People look different.",
+        "SliceSentence": "People look different .",
+        "WrittenText": "",
+        "StartMs": 4300,
+        "EndMs": 6140,
+        "SpeechSpeed": 12,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people have brown eyes,",
+        "SliceSentence": "Some people have brown eyes ,",
+        "WrittenText": "",
+        "StartMs": 7330,
+        "EndMs": 10010,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " some have blue eyes.",
+        "SliceSentence": "some have blue eyes .",
+        "WrittenText": "",
+        "StartMs": 11200,
+        "EndMs": 13250,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people have black hair.",
+        "SliceSentence": "Some people have black hair .",
+        "WrittenText": "",
+        "StartMs": 14410,
+        "EndMs": 16940,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some have brown hair.",
+        "SliceSentence": "Some have brown hair .",
+        "WrittenText": "",
+        "StartMs": 17860,
+        "EndMs": 19940,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People look different.",
+        "SliceSentence": "People look different .",
+        "WrittenText": "",
+        "StartMs": 20830,
+        "EndMs": 22700,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is okay to be different.",
+        "SliceSentence": "It is okay to be different .",
+        "WrittenText": "",
+        "StartMs": 23860,
+        "EndMs": 26900,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2450,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2705,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 3040,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

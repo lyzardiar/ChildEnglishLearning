@@ -1,0 +1,548 @@
+{
+  "RequestId": "636d7cb8-0259-4784-b3b9-61879af8ea0c",
+  "Data": {
+    "TaskId": 16292459485,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 46.068375,
+    "Result": "My name is lua bin Wang. I'm seven this is my poem. Do you like it? Happy geese. Geese, geese, geese. Look at their long necks. They sing songs into the sky. White feathers, green water, red feet. Nice, nice, nice.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "My name is lua bin Wang.",
+        "SliceSentence": "My name is lua bin Wang .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4280,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2540,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2770,
+            "OffsetEndMs": 3450,
+            "Word": "lua"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3800,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 3850,
+            "OffsetEndMs": 4280,
+            "Word": "Wang"
+          },
+          {
+            "OffsetStartMs": 3850,
+            "OffsetEndMs": 4280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm seven this is my poem.",
+        "SliceSentence": "I'm seven this is my poem .",
+        "WrittenText": "",
+        "StartMs": 5260,
+        "EndMs": 9410,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "seven"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "poem"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like it?",
+        "SliceSentence": "Do you like it ?",
+        "WrittenText": "",
+        "StartMs": 10510,
+        "EndMs": 11870,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 965,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Happy geese.",
+        "SliceSentence": "Happy geese .",
+        "WrittenText": "",
+        "StartMs": 15070,
+        "EndMs": 16460,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Happy"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1390,
+            "Word": "geese"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Geese,",
+        "SliceSentence": "Geese ,",
+        "WrittenText": "",
+        "StartMs": 21100,
+        "EndMs": 21830,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Geese"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " geese,",
+        "SliceSentence": "geese ,",
+        "WrittenText": "",
+        "StartMs": 22240,
+        "EndMs": 23030,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "geese"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " geese.",
+        "SliceSentence": "geese .",
+        "WrittenText": "",
+        "StartMs": 23440,
+        "EndMs": 24260,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "geese"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at their long necks.",
+        "SliceSentence": "Look at their long necks .",
+        "WrittenText": "",
+        "StartMs": 25180,
+        "EndMs": 28070,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 995,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2890,
+            "Word": "necks"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They sing songs into the sky.",
+        "SliceSentence": "They sing songs into the sky .",
+        "WrittenText": "",
+        "StartMs": 29050,
+        "EndMs": 32330,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "songs"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2540,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2540,
+            "OffsetEndMs": 2885,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3280,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " White feathers,",
+        "SliceSentence": "White feathers ,",
+        "WrittenText": "",
+        "StartMs": 33730,
+        "EndMs": 35150,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "White"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1420,
+            "Word": "feathers"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1420,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " green water,",
+        "SliceSentence": "green water ,",
+        "WrittenText": "",
+        "StartMs": 35620,
+        "EndMs": 36530,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " red feet.",
+        "SliceSentence": "red feet .",
+        "WrittenText": "",
+        "StartMs": 37330,
+        "EndMs": 38360,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "feet"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Nice,",
+        "SliceSentence": "Nice ,",
+        "WrittenText": "",
+        "StartMs": 39550,
+        "EndMs": 39950,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nice,",
+        "SliceSentence": "nice ,",
+        "WrittenText": "",
+        "StartMs": 40660,
+        "EndMs": 41060,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nice.",
+        "SliceSentence": "nice .",
+        "WrittenText": "",
+        "StartMs": 41830,
+        "EndMs": 42230,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

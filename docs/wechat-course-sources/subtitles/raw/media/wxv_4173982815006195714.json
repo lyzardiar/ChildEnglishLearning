@@ -1,0 +1,419 @@
+{
+  "RequestId": "33b42b9c-6cea-4e90-bfeb-0ac14703ab29",
+  "Data": {
+    "TaskId": 16292509587,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 37.012625,
+    "Result": "Traffic signs around us traffic signs keep us safe on the road. What do these signs mean? Don't turn left. There's a school here. Slow down and be careful. Some people are working on the road. Go a different way. You can cross the road here.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Traffic signs around us traffic signs keep us safe on the road.",
+        "SliceSentence": "Traffic signs around us traffic signs keep us safe on the road .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 8180,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "Traffic"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2460,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2840,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5330,
+            "Word": "traffic"
+          },
+          {
+            "OffsetStartMs": 5410,
+            "OffsetEndMs": 5810,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6450,
+            "Word": "keep"
+          },
+          {
+            "OffsetStartMs": 6450,
+            "OffsetEndMs": 6810,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 6810,
+            "OffsetEndMs": 7190,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 7360,
+            "OffsetEndMs": 7680,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 7680,
+            "OffsetEndMs": 7890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7890,
+            "OffsetEndMs": 8180,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 7890,
+            "OffsetEndMs": 8180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do these signs mean?",
+        "SliceSentence": "What do these signs mean ?",
+        "WrittenText": "",
+        "StartMs": 9700,
+        "EndMs": 11630,
+        "SpeechSpeed": 13,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 650,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 920,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1300,
+            "Word": "signs"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "mean"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't turn left.",
+        "SliceSentence": "Don't turn left .",
+        "WrittenText": "",
+        "StartMs": 13810,
+        "EndMs": 15140,
+        "SpeechSpeed": 12,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's a school here.",
+        "SliceSentence": "There's a school here .",
+        "WrittenText": "",
+        "StartMs": 16720,
+        "EndMs": 18350,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 845,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Slow down and be careful.",
+        "SliceSentence": "Slow down and be careful .",
+        "WrittenText": "",
+        "StartMs": 19210,
+        "EndMs": 21110,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Slow"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1310,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1595,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "careful"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people are working on the road.",
+        "SliceSentence": "Some people are working on the road .",
+        "WrittenText": "",
+        "StartMs": 23500,
+        "EndMs": 26030,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1190,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "working"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2030,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2255,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2530,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Go a different way.",
+        "SliceSentence": "Go a different way .",
+        "WrittenText": "",
+        "StartMs": 26980,
+        "EndMs": 28610,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Go"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can cross the road here.",
+        "SliceSentence": "You can cross the road here .",
+        "WrittenText": "",
+        "StartMs": 30520,
+        "EndMs": 33710,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "cross"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2045,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2350,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

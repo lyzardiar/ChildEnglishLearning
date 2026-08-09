@@ -1,0 +1,403 @@
+{
+  "RequestId": "a82cc672-856e-4c39-b19e-7598070e325b",
+  "Data": {
+    "TaskId": 16292413979,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 39.868688,
+    "Result": "Zed zebras, zebras. Where are you? Little zach is in the zoo. Little zach wants to see you. Zebras, zebras. Where are you? Little zack is in the zoo. Littleack wants to see you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Zed zebras,",
+        "SliceSentence": "Zed zebras ,",
+        "WrittenText": "",
+        "StartMs": 840,
+        "EndMs": 8330,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 590,
+            "Word": "Zed"
+          },
+          {
+            "OffsetStartMs": 6760,
+            "OffsetEndMs": 7490,
+            "Word": "zebras"
+          },
+          {
+            "OffsetStartMs": 6760,
+            "OffsetEndMs": 7490,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " zebras.",
+        "SliceSentence": "zebras .",
+        "WrittenText": "",
+        "StartMs": 8800,
+        "EndMs": 9590,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "zebras"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where are you?",
+        "SliceSentence": "Where are you ?",
+        "WrittenText": "",
+        "StartMs": 10030,
+        "EndMs": 11600,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little zach is in the zoo.",
+        "SliceSentence": "Little zach is in the zoo .",
+        "WrittenText": "",
+        "StartMs": 12400,
+        "EndMs": 16310,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1570,
+            "Word": "zach"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2710,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little zach wants to see you.",
+        "SliceSentence": "Little zach wants to see you .",
+        "WrittenText": "",
+        "StartMs": 17140,
+        "EndMs": 21110,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1600,
+            "Word": "zach"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3095,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3370,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Zebras,",
+        "SliceSentence": "Zebras ,",
+        "WrittenText": "",
+        "StartMs": 24220,
+        "EndMs": 24950,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Zebras"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " zebras.",
+        "SliceSentence": "zebras .",
+        "WrittenText": "",
+        "StartMs": 25390,
+        "EndMs": 26150,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "zebras"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where are you?",
+        "SliceSentence": "Where are you ?",
+        "WrittenText": "",
+        "StartMs": 26680,
+        "EndMs": 28130,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little zack is in the zoo.",
+        "SliceSentence": "Little zack is in the zoo .",
+        "WrittenText": "",
+        "StartMs": 29050,
+        "EndMs": 32930,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1450,
+            "Word": "zack"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2465,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2800,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Littleack wants to see you.",
+        "SliceSentence": "Littleack wants to see you .",
+        "WrittenText": "",
+        "StartMs": 33790,
+        "EndMs": 37640,
+        "SpeechSpeed": 7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1570,
+            "Word": "Littleack"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3155,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3430,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -56,6 +56,20 @@
   border-radius: var(--radius-btn);
 }
 
+.child-actions {
+  display: flex;
+  align-items: center;
+  gap: 12rpx;
+}
+
+.grade-edit {
+  padding: 8rpx 18rpx;
+  border: 1rpx solid var(--color-primary);
+  border-radius: var(--radius-control);
+  color: var(--color-primary);
+  font-size: 22rpx;
+}
+
 /* 添加按钮 */
 .add-btn {
   display: flex;
@@ -95,11 +109,44 @@
 .modal-content {
   width: 80%;
   background: #FFF;
-  border-radius: var(--radius-card);
+  border-radius: 16rpx;
   padding: 48rpx 40rpx;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.form-label {
+  align-self: flex-start;
+  margin-bottom: 14rpx;
+  font-size: 23rpx;
+  color: var(--color-text-secondary);
+}
+
+.grade-picker-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10rpx;
+  margin-bottom: 28rpx;
+}
+
+.grade-picker-item {
+  height: 58rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  border: 2rpx solid var(--color-line);
+  border-radius: 10rpx;
+  color: var(--color-text-secondary);
+}
+
+.grade-picker-item.selected {
+  color: #FFFFFF;
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  font-weight: 700;
 }
 
 .modal-title {

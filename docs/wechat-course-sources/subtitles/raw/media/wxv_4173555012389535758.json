@@ -1,0 +1,453 @@
+{
+  "RequestId": "8c51a98a-6916-488f-9d0c-209513e39286",
+  "Data": {
+    "TaskId": 16292448649,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 37.802938,
+    "Result": "I.Egg.I can see a pig. The pig is very big. I can see a hole. The pig digs a big hole. I can see a pig. The pig is very big. I can see a hole. The pig digs a pig hole.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I.",
+        "SliceSentence": "I .",
+        "WrittenText": "",
+        "StartMs": 1280,
+        "EndMs": 1720,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Egg.",
+        "SliceSentence": "Egg .",
+        "WrittenText": "",
+        "StartMs": 2640,
+        "EndMs": 2960,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Egg"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I can see a pig.",
+        "SliceSentence": "I can see a pig .",
+        "WrittenText": "",
+        "StartMs": 6640,
+        "EndMs": 11730,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3900,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4185,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 4185,
+            "OffsetEndMs": 4485,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 4485,
+            "OffsetEndMs": 4770,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5090,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The pig is very big.",
+        "SliceSentence": "The pig is very big .",
+        "WrittenText": "",
+        "StartMs": 12410,
+        "EndMs": 14160,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 560,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 860,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a hole.",
+        "SliceSentence": "I can see a hole .",
+        "WrittenText": "",
+        "StartMs": 14930,
+        "EndMs": 16440,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 950,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1510,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The pig digs a big hole.",
+        "SliceSentence": "The pig digs a big hole .",
+        "WrittenText": "",
+        "StartMs": 17030,
+        "EndMs": 21210,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2230,
+            "Word": "digs"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2780,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3130,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a pig.",
+        "SliceSentence": "I can see a pig .",
+        "WrittenText": "",
+        "StartMs": 24500,
+        "EndMs": 26070,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 995,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The pig is very big.",
+        "SliceSentence": "The pig is very big .",
+        "WrittenText": "",
+        "StartMs": 26720,
+        "EndMs": 28500,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 890,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1210,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a hole.",
+        "SliceSentence": "I can see a hole .",
+        "WrittenText": "",
+        "StartMs": 29270,
+        "EndMs": 30810,
+        "SpeechSpeed": 11,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 950,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1205,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1540,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The pig digs a pig hole.",
+        "SliceSentence": "The pig digs a pig hole .",
+        "WrittenText": "",
+        "StartMs": 31400,
+        "EndMs": 35520,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 2200,
+            "Word": "digs"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2705,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 3040,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

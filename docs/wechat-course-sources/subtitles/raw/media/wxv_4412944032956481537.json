@@ -1,0 +1,714 @@
+{
+  "RequestId": "143b9d4d-89ae-43bb-afa8-894690c828dd",
+  "Data": {
+    "TaskId": 16292579182,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 61.114938,
+    "Result": "We have two PE lessons at school every week. My friends and I like PE lessons very much.We run long races and short races. The races are exciting. We all want to win. We do the long jump and the high jump. Jill is good at the high jump. Jill is good at the long jump. Sometimes we play ball games. I like playing football, volleyball and basketball.My friends and I like playing sport. We have a lot of fun together.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "We have two PE lessons at school every week.",
+        "SliceSentence": "We have two PE lessons at school every week .",
+        "WrittenText": "",
+        "StartMs": 880,
+        "EndMs": 10320,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 4900,
+            "OffsetEndMs": 5280,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 5280,
+            "OffsetEndMs": 5660,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6170,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 6220,
+            "OffsetEndMs": 6620,
+            "Word": "PE"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 7660,
+            "OffsetEndMs": 8060,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 8110,
+            "OffsetEndMs": 8510,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 8530,
+            "OffsetEndMs": 8930,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 9040,
+            "OffsetEndMs": 9440,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 9040,
+            "OffsetEndMs": 9440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My friends and I like PE lessons very much.",
+        "SliceSentence": "My friends and I like PE lessons very much .",
+        "WrittenText": "",
+        "StartMs": 11420,
+        "EndMs": 15300,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1070,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1390,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "PE"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3500,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 3500,
+            "OffsetEndMs": 3880,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 3500,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We run long races and short races.",
+        "SliceSentence": "We run long races and short races .",
+        "WrittenText": "",
+        "StartMs": 16640,
+        "EndMs": 20770,
+        "SpeechSpeed": 8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1230,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1580,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 1980,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2720,
+            "Word": "races"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3060,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3380,
+            "Word": "short"
+          },
+          {
+            "OffsetStartMs": 3400,
+            "OffsetEndMs": 4130,
+            "Word": "races"
+          },
+          {
+            "OffsetStartMs": 3400,
+            "OffsetEndMs": 4130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The races are exciting.",
+        "SliceSentence": "The races are exciting .",
+        "WrittenText": "",
+        "StartMs": 21840,
+        "EndMs": 23500,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 890,
+            "Word": "races"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1240,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "exciting"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We all want to win.",
+        "SliceSentence": "We all want to win .",
+        "WrittenText": "",
+        "StartMs": 24060,
+        "EndMs": 25420,
+        "SpeechSpeed": 14,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 470,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 800,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1070,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1360,
+            "Word": "win"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We do the long jump and the high jump.",
+        "SliceSentence": "We do the long jump and the high jump .",
+        "WrittenText": "",
+        "StartMs": 28230,
+        "EndMs": 30850,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 470,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1835,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2240,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2620,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jill is good at the high jump.",
+        "SliceSentence": "Jill is good at the high jump .",
+        "WrittenText": "",
+        "StartMs": 31710,
+        "EndMs": 33940,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Jill"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 905,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1205,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1460,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1625,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1865,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2230,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jill is good at the long jump.",
+        "SliceSentence": "Jill is good at the long jump .",
+        "WrittenText": "",
+        "StartMs": 34500,
+        "EndMs": 36850,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Jill"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1265,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1550,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1745,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 1985,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2350,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sometimes we play ball games.",
+        "SliceSentence": "Sometimes we play ball games .",
+        "WrittenText": "",
+        "StartMs": 37830,
+        "EndMs": 39880,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sometimes"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1355,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1670,
+            "Word": "ball"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2050,
+            "Word": "games"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like playing football,",
+        "SliceSentence": "I like playing football ,",
+        "WrittenText": "",
+        "StartMs": 42630,
+        "EndMs": 43960,
+        "SpeechSpeed": 18,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 935,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "football"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " volleyball and basketball.",
+        "SliceSentence": "volleyball and basketball .",
+        "WrittenText": "",
+        "StartMs": 44610,
+        "EndMs": 46120,
+        "SpeechSpeed": 17.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 800,
+            "Word": "volleyball"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1145,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "basketball"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "My friends and I like playing sport.",
+        "SliceSentence": "My friends and I like playing sport .",
+        "WrittenText": "",
+        "StartMs": 50240,
+        "EndMs": 53350,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 750,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1125,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 1425,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1425,
+            "OffsetEndMs": 1695,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1695,
+            "OffsetEndMs": 2060,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2540,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": "sport"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have a lot of fun together.",
+        "SliceSentence": "We have a lot of fun together .",
+        "WrittenText": "",
+        "StartMs": 54150,
+        "EndMs": 56230,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 950,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1220,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

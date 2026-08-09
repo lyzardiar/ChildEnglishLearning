@@ -1,0 +1,813 @@
+{
+  "RequestId": "eb93b88c-b384-4482-90e5-1434a2d2365f",
+  "Data": {
+    "TaskId": 16292571714,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 72.771375,
+    "Result": "In the future, what changes would you like to see in our school? Write your wishes down on a piece of paper. Then put your paper in this time box. Yes, Miss gore students will have a picnic every month. Peter students will grow a lot of plants in the garden. Alice students will not carry any books. All their books will be on a small computer. Joe students will study online at home kitty. I will be the head teacher, jill.In the future, you'll open the box and read your wishes. Great.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "In the future,",
+        "SliceSentence": "In the future ,",
+        "WrittenText": "",
+        "StartMs": 20,
+        "EndMs": 10150,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 9160,
+            "OffsetEndMs": 9525,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 9525,
+            "OffsetEndMs": 9810,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 9810,
+            "OffsetEndMs": 10130,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 9810,
+            "OffsetEndMs": 10130,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what changes would you like to see in our school?",
+        "SliceSentence": "what changes would you like to see in our school ?",
+        "WrittenText": "",
+        "StartMs": 10590,
+        "EndMs": 14350,
+        "SpeechSpeed": 13,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "changes"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1595,
+            "Word": "would"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1805,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2105,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2405,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2675,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 2945,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3250,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Write your wishes down on a piece of paper.",
+        "SliceSentence": "Write your wishes down on a piece of paper .",
+        "WrittenText": "",
+        "StartMs": 15270,
+        "EndMs": 18340,
+        "SpeechSpeed": 14,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Write"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 710,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1060,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2045,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2240,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2495,
+            "Word": "piece"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2765,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3070,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then put your paper in this time box.",
+        "SliceSentence": "Then put your paper in this time box .",
+        "WrittenText": "",
+        "StartMs": 19170,
+        "EndMs": 22450,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1205,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2225,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2525,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2885,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3280,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 24660,
+        "EndMs": 25060,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Miss gore students will have a picnic every month.",
+        "SliceSentence": "Miss gore students will have a picnic every month .",
+        "WrittenText": "",
+        "StartMs": 25200,
+        "EndMs": 31450,
+        "SpeechSpeed": 8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1090,
+            "Word": "gore"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4265,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 4265,
+            "OffsetEndMs": 4490,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 4490,
+            "OffsetEndMs": 4715,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4715,
+            "OffsetEndMs": 5315,
+            "Word": "picnic"
+          },
+          {
+            "OffsetStartMs": 5315,
+            "OffsetEndMs": 5680,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 5850,
+            "OffsetEndMs": 6250,
+            "Word": "month"
+          },
+          {
+            "OffsetStartMs": 5850,
+            "OffsetEndMs": 6250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Peter students will grow a lot of plants in the garden.",
+        "SliceSentence": "Peter students will grow a lot of plants in the garden .",
+        "WrittenText": "",
+        "StartMs": 32070,
+        "EndMs": 37960,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3215,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 3215,
+            "OffsetEndMs": 3545,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 3545,
+            "OffsetEndMs": 3890,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3890,
+            "OffsetEndMs": 4175,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 4175,
+            "OffsetEndMs": 4460,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 4460,
+            "OffsetEndMs": 4810,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 5130,
+            "OffsetEndMs": 5435,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5435,
+            "OffsetEndMs": 5615,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5615,
+            "OffsetEndMs": 5890,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 5615,
+            "OffsetEndMs": 5890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Alice students will not carry any books.",
+        "SliceSentence": "Alice students will not carry any books .",
+        "WrittenText": "",
+        "StartMs": 38610,
+        "EndMs": 43480,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3365,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3650,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4000,
+            "Word": "carry"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4475,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 4475,
+            "OffsetEndMs": 4870,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 4475,
+            "OffsetEndMs": 4870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " All their books will be on a small computer.",
+        "SliceSentence": "All their books will be on a small computer .",
+        "WrittenText": "",
+        "StartMs": 44340,
+        "EndMs": 47320,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1325,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1550,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1775,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2030,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2380,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "computer"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Joe students will study online at home kitty.",
+        "SliceSentence": "Joe students will study online at home kitty .",
+        "WrittenText": "",
+        "StartMs": 48120,
+        "EndMs": 54970,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3730,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "study"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "online"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5330,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 5330,
+            "OffsetEndMs": 5650,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 6150,
+            "OffsetEndMs": 6850,
+            "Word": "kitty"
+          },
+          {
+            "OffsetStartMs": 6150,
+            "OffsetEndMs": 6850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I will be the head teacher,",
+        "SliceSentence": "I will be the head teacher ,",
+        "WrittenText": "",
+        "StartMs": 57180,
+        "EndMs": 59290,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1100,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1630,
+            "Word": "head"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " jill.",
+        "SliceSentence": "jill .",
+        "WrittenText": "",
+        "StartMs": 59880,
+        "EndMs": 60310,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "jill"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the future,",
+        "SliceSentence": "In the future ,",
+        "WrittenText": "",
+        "StartMs": 60500,
+        "EndMs": 62590,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1530,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1785,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2090,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you'll open the box and read your wishes.",
+        "SliceSentence": "you'll open the box and read your wishes .",
+        "WrittenText": "",
+        "StartMs": 62970,
+        "EndMs": 66400,
+        "SpeechSpeed": 12,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "you'll"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "open"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1235,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1510,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3050,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3430,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great.",
+        "SliceSentence": "Great .",
+        "WrittenText": "",
+        "StartMs": 69090,
+        "EndMs": 69490,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

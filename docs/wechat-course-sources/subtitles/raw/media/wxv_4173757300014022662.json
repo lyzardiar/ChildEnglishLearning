@@ -1,0 +1,426 @@
+{
+  "RequestId": "ae3ee480-6630-454a-af9d-53105f04e90f",
+  "Data": {
+    "TaskId": 16292472288,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 46.556,
+    "Result": "Let's play games. We play games every day. We have a lot of fun. Jump, jump, jump, 123 let's play you and me skip skip, skip 123 let's play a game of three hole hole hole 123.Let's all play you and me.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Let's play games.",
+        "SliceSentence": "Let's play games .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1940,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 1140,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "games"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We play games every day.",
+        "SliceSentence": "We play games every day .",
+        "WrittenText": "",
+        "StartMs": 3550,
+        "EndMs": 6800,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "games"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have a lot of fun.",
+        "SliceSentence": "We have a lot of fun .",
+        "WrittenText": "",
+        "StartMs": 7720,
+        "EndMs": 10640,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1535,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1930,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jump,",
+        "SliceSentence": "Jump ,",
+        "WrittenText": "",
+        "StartMs": 12010,
+        "EndMs": 12410,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Jump"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " jump,",
+        "SliceSentence": "jump ,",
+        "WrittenText": "",
+        "StartMs": 13000,
+        "EndMs": 13400,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " jump,",
+        "SliceSentence": "jump ,",
+        "WrittenText": "",
+        "StartMs": 13990,
+        "EndMs": 14390,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 123 let's play you and me skip skip,",
+        "SliceSentence": "123 let's play you and me skip skip ,",
+        "WrittenText": "",
+        "StartMs": 15430,
+        "EndMs": 24350,
+        "SpeechSpeed": 4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1990,
+            "Word": "123"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3905,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 3905,
+            "OffsetEndMs": 4270,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5110,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 5710,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6130,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 7350,
+            "OffsetEndMs": 7780,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 8490,
+            "OffsetEndMs": 8920,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 8490,
+            "OffsetEndMs": 8920,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " skip 123 let's play a game of three hole hole hole 123.",
+        "SliceSentence": "skip 123 let's play a game of three hole hole hole 123 .",
+        "WrittenText": "",
+        "StartMs": 25090,
+        "EndMs": 39830,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 3130,
+            "Word": "123"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4925,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 4925,
+            "OffsetEndMs": 5320,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 5850,
+            "OffsetEndMs": 6230,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6230,
+            "OffsetEndMs": 6610,
+            "Word": "game"
+          },
+          {
+            "OffsetStartMs": 6720,
+            "OffsetEndMs": 7120,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 7290,
+            "OffsetEndMs": 7690,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 9150,
+            "OffsetEndMs": 9550,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 10230,
+            "OffsetEndMs": 10630,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 11370,
+            "OffsetEndMs": 11770,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 12810,
+            "OffsetEndMs": 14740,
+            "Word": "123"
+          },
+          {
+            "OffsetStartMs": 12810,
+            "OffsetEndMs": 14740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's all play you and me.",
+        "SliceSentence": "Let's all play you and me .",
+        "WrittenText": "",
+        "StartMs": 40780,
+        "EndMs": 44850,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 870,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2900,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3650,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3670,
+            "OffsetEndMs": 4070,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3670,
+            "OffsetEndMs": 4070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

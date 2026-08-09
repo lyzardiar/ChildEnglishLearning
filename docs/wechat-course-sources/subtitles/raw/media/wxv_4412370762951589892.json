@@ -1,0 +1,619 @@
+{
+  "RequestId": "4000cc3f-1368-4a88-927e-00ded2b06456",
+  "Data": {
+    "TaskId": 16292462979,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 49.226313,
+    "Result": "Special homes around the world I'm from the Arctic. My home is made of snow, but it's warm. I'm from Mongolia. We move from place to place. We like our home. I'm from the UK. My sister and I have a tree house. We have so much fun there. I'm from China. My home isn't on a street. It's by the water. It's beautiful.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Special homes around the world I'm from the Arctic.",
+        "SliceSentence": "Special homes around the world I'm from the Arctic .",
+        "WrittenText": "",
+        "StartMs": 60,
+        "EndMs": 9140,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "Special"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 2440,
+            "OffsetEndMs": 2840,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2950,
+            "OffsetEndMs": 3255,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3255,
+            "OffsetEndMs": 3560,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 6790,
+            "OffsetEndMs": 7545,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 7545,
+            "OffsetEndMs": 7905,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 7905,
+            "OffsetEndMs": 8250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8250,
+            "OffsetEndMs": 9080,
+            "Word": "Arctic"
+          },
+          {
+            "OffsetStartMs": 8250,
+            "OffsetEndMs": 9080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My home is made of snow,",
+        "SliceSentence": "My home is made of snow ,",
+        "WrittenText": "",
+        "StartMs": 9940,
+        "EndMs": 12680,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1430,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1810,
+            "Word": "made"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2360,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2740,
+            "Word": "snow"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2740,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but it's warm.",
+        "SliceSentence": "but it's warm .",
+        "WrittenText": "",
+        "StartMs": 13330,
+        "EndMs": 14660,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 995,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm from Mongolia.",
+        "SliceSentence": "I'm from Mongolia .",
+        "WrittenText": "",
+        "StartMs": 15670,
+        "EndMs": 17570,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 845,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1900,
+            "Word": "Mongolia"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We move from place to place.",
+        "SliceSentence": "We move from place to place .",
+        "WrittenText": "",
+        "StartMs": 18430,
+        "EndMs": 20540,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "move"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1085,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1475,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1790,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2110,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We like our home.",
+        "SliceSentence": "We like our home .",
+        "WrittenText": "",
+        "StartMs": 22150,
+        "EndMs": 23450,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 950,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm from the UK.",
+        "SliceSentence": "I'm from the UK .",
+        "WrittenText": "",
+        "StartMs": 25600,
+        "EndMs": 27500,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 800,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1565,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1900,
+            "Word": "UK"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My sister and I have a tree house.",
+        "SliceSentence": "My sister and I have a tree house .",
+        "WrittenText": "",
+        "StartMs": 28870,
+        "EndMs": 32960,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1595,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1990,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have so much fun there.",
+        "SliceSentence": "We have so much fun there .",
+        "WrittenText": "",
+        "StartMs": 34090,
+        "EndMs": 37070,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm from China.",
+        "SliceSentence": "I'm from China .",
+        "WrittenText": "",
+        "StartMs": 38380,
+        "EndMs": 39590,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 875,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "China"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My home isn't on a street.",
+        "SliceSentence": "My home isn't on a street .",
+        "WrittenText": "",
+        "StartMs": 40630,
+        "EndMs": 43040,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1520,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1760,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2045,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's by the water.",
+        "SliceSentence": "It's by the water .",
+        "WrittenText": "",
+        "StartMs": 43750,
+        "EndMs": 45080,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 785,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1040,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1330,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's beautiful.",
+        "SliceSentence": "It's beautiful .",
+        "WrittenText": "",
+        "StartMs": 45760,
+        "EndMs": 46670,
+        "SpeechSpeed": 16.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 910,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

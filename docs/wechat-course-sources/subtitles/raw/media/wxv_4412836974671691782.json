@@ -1,0 +1,627 @@
+{
+  "RequestId": "f0a9a7df-992b-4443-8a4d-cab01569d11d",
+  "Data": {
+    "TaskId": 16292527011,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 34.504875,
+    "Result": "Billy biggs is a boy. Roy the tortoise is a toy. Billy biggs has a loud voice. Roy makes no noise. The girls and boys play with Roy. But Roy still doesn't make any noise. Billy biggs is a boy, Roy the tortoise is a toy. Billy biggs has a loud voice. Roy makes no noise. The girls and boys play with Roy. But Roy still doesn't make any noise.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Billy biggs is a boy.",
+        "SliceSentence": "Billy biggs is a boy .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4400,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "Billy"
+          },
+          {
+            "OffsetStartMs": 2860,
+            "OffsetEndMs": 3495,
+            "Word": "biggs"
+          },
+          {
+            "OffsetStartMs": 3495,
+            "OffsetEndMs": 3780,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4065,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4065,
+            "OffsetEndMs": 4400,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 4065,
+            "OffsetEndMs": 4400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Roy the tortoise is a toy.",
+        "SliceSentence": "Roy the tortoise is a toy .",
+        "WrittenText": "",
+        "StartMs": 4630,
+        "EndMs": 6800,
+        "SpeechSpeed": 12,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1265,
+            "Word": "tortoise"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1550,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Billy biggs has a loud voice.",
+        "SliceSentence": "Billy biggs has a loud voice .",
+        "WrittenText": "",
+        "StartMs": 7000,
+        "EndMs": 9260,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Billy"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1310,
+            "Word": "biggs"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1565,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1715,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 1910,
+            "Word": "loud"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "voice"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Roy makes no noise.",
+        "SliceSentence": "Roy makes no noise .",
+        "WrittenText": "",
+        "StartMs": 9490,
+        "EndMs": 11000,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 890,
+            "Word": "makes"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1175,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "noise"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The girls and boys play with Roy.",
+        "SliceSentence": "The girls and boys play with Roy .",
+        "WrittenText": "",
+        "StartMs": 11590,
+        "EndMs": 14100,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 605,
+            "Word": "girls"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 935,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "boys"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1850,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2120,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2510,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But Roy still doesn't make any noise.",
+        "SliceSentence": "But Roy still doesn't make any noise .",
+        "WrittenText": "",
+        "StartMs": 14100,
+        "EndMs": 16400,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 180,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 180,
+            "OffsetEndMs": 555,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 765,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1365,
+            "Word": "doesn't"
+          },
+          {
+            "OffsetStartMs": 1365,
+            "OffsetEndMs": 1635,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1635,
+            "OffsetEndMs": 1935,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1935,
+            "OffsetEndMs": 2300,
+            "Word": "noise"
+          },
+          {
+            "OffsetStartMs": 1935,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Billy biggs is a boy,",
+        "SliceSentence": "Billy biggs is a boy ,",
+        "WrittenText": "",
+        "StartMs": 19000,
+        "EndMs": 21200,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Billy"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1220,
+            "Word": "biggs"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1535,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1850,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2200,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2200,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Roy the tortoise is a toy.",
+        "SliceSentence": "Roy the tortoise is a toy .",
+        "WrittenText": "",
+        "StartMs": 21400,
+        "EndMs": 23570,
+        "SpeechSpeed": 12,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 650,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1250,
+            "Word": "tortoise"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1550,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Billy biggs has a loud voice.",
+        "SliceSentence": "Billy biggs has a loud voice .",
+        "WrittenText": "",
+        "StartMs": 23770,
+        "EndMs": 25970,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Billy"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1175,
+            "Word": "biggs"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1475,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1670,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1865,
+            "Word": "loud"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2200,
+            "Word": "voice"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Roy makes no noise.",
+        "SliceSentence": "Roy makes no noise .",
+        "WrittenText": "",
+        "StartMs": 26200,
+        "EndMs": 27770,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 935,
+            "Word": "makes"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "noise"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The girls and boys play with Roy.",
+        "SliceSentence": "The girls and boys play with Roy .",
+        "WrittenText": "",
+        "StartMs": 28270,
+        "EndMs": 30825,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 635,
+            "Word": "girls"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 965,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "boys"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1880,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2150,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2555,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2555,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But Roy still doesn't make any noise.",
+        "SliceSentence": "But Roy still doesn't make any noise .",
+        "WrittenText": "",
+        "StartMs": 30825,
+        "EndMs": 33170,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 180,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 180,
+            "OffsetEndMs": 585,
+            "Word": "Roy"
+          },
+          {
+            "OffsetStartMs": 585,
+            "OffsetEndMs": 795,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1410,
+            "Word": "doesn't"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1695,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1695,
+            "OffsetEndMs": 1995,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1995,
+            "OffsetEndMs": 2345,
+            "Word": "noise"
+          },
+          {
+            "OffsetStartMs": 1995,
+            "OffsetEndMs": 2345,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

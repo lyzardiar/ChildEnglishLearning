@@ -1,0 +1,556 @@
+{
+  "RequestId": "ed991f13-5ce4-4de2-abd7-aa4232c9a3c8",
+  "Data": {
+    "TaskId": 16292432017,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 55.4725,
+    "Result": "Og.Dog.Dog.Frog.Frog.Log log.Here is a dog. There is a frog. The frog is on the log. The dog looks at the frog. Here is a dog. There is a frog. The frog is on the log. The dog looks at the frog.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Og.",
+        "SliceSentence": "Og .",
+        "WrittenText": "",
+        "StartMs": 780,
+        "EndMs": 1190,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Og"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dog.",
+        "SliceSentence": "Dog .",
+        "WrittenText": "",
+        "StartMs": 6820,
+        "EndMs": 7350,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Dog"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dog.",
+        "SliceSentence": "Dog .",
+        "WrittenText": "",
+        "StartMs": 8260,
+        "EndMs": 8610,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Dog"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Frog.",
+        "SliceSentence": "Frog .",
+        "WrittenText": "",
+        "StartMs": 11260,
+        "EndMs": 12090,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 830,
+            "Word": "Frog"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Frog.",
+        "SliceSentence": "Frog .",
+        "WrittenText": "",
+        "StartMs": 12640,
+        "EndMs": 13230,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Frog"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Log log.",
+        "SliceSentence": "Log log .",
+        "WrittenText": "",
+        "StartMs": 16720,
+        "EndMs": 18360,
+        "SpeechSpeed": 4.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Log"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "log"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Here is a dog.",
+        "SliceSentence": "Here is a dog .",
+        "WrittenText": "",
+        "StartMs": 20740,
+        "EndMs": 24570,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 2860,
+            "OffsetEndMs": 3225,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3225,
+            "OffsetEndMs": 3510,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3830,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There is a frog.",
+        "SliceSentence": "There is a frog .",
+        "WrittenText": "",
+        "StartMs": 25370,
+        "EndMs": 27300,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1930,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The frog is on the log.",
+        "SliceSentence": "The frog is on the log .",
+        "WrittenText": "",
+        "StartMs": 27830,
+        "EndMs": 31650,
+        "SpeechSpeed": 6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1900,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2420,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2770,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "log"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The dog looks at the frog.",
+        "SliceSentence": "The dog looks at the frog .",
+        "WrittenText": "",
+        "StartMs": 32600,
+        "EndMs": 36930,
+        "SpeechSpeed": 6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3335,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 3635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 4330,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 4330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here is a dog.",
+        "SliceSentence": "Here is a dog .",
+        "WrittenText": "",
+        "StartMs": 39740,
+        "EndMs": 41370,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1295,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There is a frog.",
+        "SliceSentence": "There is a frog .",
+        "WrittenText": "",
+        "StartMs": 42140,
+        "EndMs": 44100,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1960,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The frog is on the log.",
+        "SliceSentence": "The frog is on the log .",
+        "WrittenText": "",
+        "StartMs": 44540,
+        "EndMs": 48420,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1930,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2390,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2740,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "log"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The dog looks at the frog.",
+        "SliceSentence": "The dog looks at the frog .",
+        "WrittenText": "",
+        "StartMs": 49310,
+        "EndMs": 53670,
+        "SpeechSpeed": 6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3365,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 4360,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 4360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

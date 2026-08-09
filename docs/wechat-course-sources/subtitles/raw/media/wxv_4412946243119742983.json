@@ -1,0 +1,374 @@
+{
+  "RequestId": "01a93419-2d25-473f-bc47-aa2cc84c9b2a",
+  "Data": {
+    "TaskId": 16292582430,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 27.585313,
+    "Result": "If you want happiness for an hour, take a nap. If you want happiness for a day, go fishing. If you want happiness for a week, go traveling. If you want happiness for a lifetime, help somebody.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "If you want happiness for an hour,",
+        "SliceSentence": "If you want happiness for an hour ,",
+        "WrittenText": "",
+        "StartMs": 1480,
+        "EndMs": 5430,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1350,
+            "Word": "If"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1680,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2060,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 2110,
+            "OffsetEndMs": 2510,
+            "Word": "happiness"
+          },
+          {
+            "OffsetStartMs": 3100,
+            "OffsetEndMs": 3435,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3435,
+            "OffsetEndMs": 3660,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 3950,
+            "Word": "hour"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 3950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " take a nap.",
+        "SliceSentence": "take a nap .",
+        "WrittenText": "",
+        "StartMs": 6320,
+        "EndMs": 7530,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 875,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "nap"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " If you want happiness for a day,",
+        "SliceSentence": "If you want happiness for a day ,",
+        "WrittenText": "",
+        "StartMs": 8750,
+        "EndMs": 11700,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "If"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1025,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1420,
+            "Word": "happiness"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2435,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2645,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2950,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " go fishing.",
+        "SliceSentence": "go fishing .",
+        "WrittenText": "",
+        "StartMs": 12650,
+        "EndMs": 13380,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "fishing"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " If you want happiness for a week,",
+        "SliceSentence": "If you want happiness for a week ,",
+        "WrittenText": "",
+        "StartMs": 14750,
+        "EndMs": 17640,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "If"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1010,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1390,
+            "Word": "happiness"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2360,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2585,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2890,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2890,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " go traveling.",
+        "SliceSentence": "go traveling .",
+        "WrittenText": "",
+        "StartMs": 18290,
+        "EndMs": 19140,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "traveling"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " If you want happiness for a lifetime,",
+        "SliceSentence": "If you want happiness for a lifetime ,",
+        "WrittenText": "",
+        "StartMs": 20840,
+        "EndMs": 24030,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "If"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 980,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1360,
+            "Word": "happiness"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2240,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2530,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "lifetime"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " help somebody.",
+        "SliceSentence": "help somebody .",
+        "WrittenText": "",
+        "StartMs": 24890,
+        "EndMs": 25830,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "somebody"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

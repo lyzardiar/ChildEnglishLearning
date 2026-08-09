@@ -1,0 +1,479 @@
+{
+  "RequestId": "21e71c39-6d5a-48c4-a16d-8845ee9c7ea7",
+  "Data": {
+    "TaskId": 16292448021,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 39.450688,
+    "Result": "N.N.Ben, look at the hen. It writes with a pen. Look, look. The hen can write 10 Ben, look at the hen. It's white with a pen. Look, look. The hen can write 10.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "N.",
+        "SliceSentence": "N .",
+        "WrittenText": "",
+        "StartMs": 1080,
+        "EndMs": 1520,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "N.",
+        "SliceSentence": "N .",
+        "WrittenText": "",
+        "StartMs": 2480,
+        "EndMs": 2740,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ben,",
+        "SliceSentence": "Ben ,",
+        "WrittenText": "",
+        "StartMs": 6520,
+        "EndMs": 10110,
+        "SpeechSpeed": 0.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 3190,
+            "OffsetEndMs": 3590,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 3190,
+            "OffsetEndMs": 3590,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look at the hen.",
+        "SliceSentence": "look at the hen .",
+        "WrittenText": "",
+        "StartMs": 10820,
+        "EndMs": 12480,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1085,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1355,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It writes with a pen.",
+        "SliceSentence": "It writes with a pen .",
+        "WrittenText": "",
+        "StartMs": 13310,
+        "EndMs": 17130,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "writes"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 17990,
+        "EndMs": 18390,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look.",
+        "SliceSentence": "look .",
+        "WrittenText": "",
+        "StartMs": 19160,
+        "EndMs": 19560,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The hen can write 10 Ben,",
+        "SliceSentence": "The hen can write 10 Ben ,",
+        "WrittenText": "",
+        "StartMs": 20180,
+        "EndMs": 26591,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 635,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 965,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 5440,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6411,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6411,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look at the hen.",
+        "SliceSentence": "look at the hen .",
+        "WrittenText": "",
+        "StartMs": 26591,
+        "EndMs": 27990,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 229,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 429,
+            "OffsetEndMs": 809,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 809,
+            "OffsetEndMs": 1094,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1094,
+            "OffsetEndMs": 1399,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 1094,
+            "OffsetEndMs": 1399,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's white with a pen.",
+        "SliceSentence": "It's white with a pen .",
+        "WrittenText": "",
+        "StartMs": 28790,
+        "EndMs": 32670,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 33560,
+        "EndMs": 33960,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look.",
+        "SliceSentence": "look .",
+        "WrittenText": "",
+        "StartMs": 34760,
+        "EndMs": 35160,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The hen can write 10.",
+        "SliceSentence": "The hen can write 10 .",
+        "WrittenText": "",
+        "StartMs": 35750,
+        "EndMs": 37530,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 920,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

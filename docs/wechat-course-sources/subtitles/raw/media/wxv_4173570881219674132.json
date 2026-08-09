@@ -1,0 +1,382 @@
+{
+  "RequestId": "e91ca2bc-0576-4af5-a0b4-a8ecc4ee919f",
+  "Data": {
+    "TaskId": 16292450548,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 38.545125,
+    "Result": "The Mid autumn festival the Mid autumn festival is a traditional Chinese festival. We play with lanterns. Families have a big dinner together. We eat moon cakes too. They taste good at night. We look at the moon. It is big and bright.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The Mid autumn festival the Mid autumn festival is a traditional Chinese festival.",
+        "SliceSentence": "The Mid autumn festival the Mid autumn festival is a traditional Chinese festival .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 10430,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1155,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1440,
+            "Word": "Mid"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2150,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2630,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 5050,
+            "OffsetEndMs": 5370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5690,
+            "Word": "Mid"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6570,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 6570,
+            "OffsetEndMs": 6950,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 7600,
+            "OffsetEndMs": 7980,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7980,
+            "OffsetEndMs": 8360,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 8440,
+            "OffsetEndMs": 8840,
+            "Word": "traditional"
+          },
+          {
+            "OffsetStartMs": 9160,
+            "OffsetEndMs": 9560,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 10030,
+            "OffsetEndMs": 10430,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 10030,
+            "OffsetEndMs": 10430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We play with lanterns.",
+        "SliceSentence": "We play with lanterns .",
+        "WrittenText": "",
+        "StartMs": 15340,
+        "EndMs": 17870,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1505,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 2530,
+            "Word": "lanterns"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Families have a big dinner together.",
+        "SliceSentence": "Families have a big dinner together .",
+        "WrittenText": "",
+        "StartMs": 19030,
+        "EndMs": 22400,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Families"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1655,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2050,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "dinner"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We eat moon cakes too.",
+        "SliceSentence": "We eat moon cakes too .",
+        "WrittenText": "",
+        "StartMs": 24130,
+        "EndMs": 26570,
+        "SpeechSpeed": 9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "moon"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1660,
+            "Word": "cakes"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They taste good at night.",
+        "SliceSentence": "They taste good at night .",
+        "WrittenText": "",
+        "StartMs": 27250,
+        "EndMs": 31160,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "taste"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We look at the moon.",
+        "SliceSentence": "We look at the moon .",
+        "WrittenText": "",
+        "StartMs": 31630,
+        "EndMs": 33560,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1325,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1625,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1930,
+            "Word": "moon"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is big and bright.",
+        "SliceSentence": "It is big and bright .",
+        "WrittenText": "",
+        "StartMs": 34240,
+        "EndMs": 36680,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "bright"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

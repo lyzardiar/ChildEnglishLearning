@@ -1,0 +1,947 @@
+{
+  "RequestId": "bde3c729-5ef8-473a-844c-f9a4ed5cad13",
+  "Data": {
+    "TaskId": 16292399884,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 69.358,
+    "Result": "Leon in the park, it's a park. Here's Leon. I don't know grace.Hey, it's Leon. Can you ride a bike, Tim? No, I can't. But I can run. Come on. Okay?I'm tired. Me too. Look, we can rollerblade hello. Is that Leon Leon? No it isn't. This is my teddy look. Blue clue. Play football. I can play football. Me too. Go look, there's Leon. Oh.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Leon in the park,",
+        "SliceSentence": "Leon in the park ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1790,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 915,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1245,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1245,
+            "OffsetEndMs": 1500,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1790,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a park.",
+        "SliceSentence": "it's a park .",
+        "WrittenText": "",
+        "StartMs": 5200,
+        "EndMs": 5990,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 530,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 790,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here's Leon.",
+        "SliceSentence": "Here's Leon .",
+        "WrittenText": "",
+        "StartMs": 6670,
+        "EndMs": 7640,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "Here's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 970,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't know grace.",
+        "SliceSentence": "I don't know grace .",
+        "WrittenText": "",
+        "StartMs": 11050,
+        "EndMs": 12530,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1000,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "grace"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hey,",
+        "SliceSentence": "Hey ,",
+        "WrittenText": "",
+        "StartMs": 17980,
+        "EndMs": 18390,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Hey"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's Leon.",
+        "SliceSentence": "it's Leon .",
+        "WrittenText": "",
+        "StartMs": 18470,
+        "EndMs": 19440,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 970,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you ride a bike,",
+        "SliceSentence": "Can you ride a bike ,",
+        "WrittenText": "",
+        "StartMs": 20060,
+        "EndMs": 21240,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 560,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 770,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 920,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1180,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1180,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tim?",
+        "SliceSentence": "Tim ?",
+        "WrittenText": "",
+        "StartMs": 21470,
+        "EndMs": 21870,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Tim"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 22460,
+        "EndMs": 22860,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't.",
+        "SliceSentence": "I can't .",
+        "WrittenText": "",
+        "StartMs": 23090,
+        "EndMs": 24060,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 970,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But I can run.",
+        "SliceSentence": "But I can run .",
+        "WrittenText": "",
+        "StartMs": 25820,
+        "EndMs": 27030,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 560,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 860,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come on.",
+        "SliceSentence": "Come on .",
+        "WrittenText": "",
+        "StartMs": 27380,
+        "EndMs": 28020,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay?",
+        "SliceSentence": "Okay ?",
+        "WrittenText": "",
+        "StartMs": 28730,
+        "EndMs": 29130,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm tired.",
+        "SliceSentence": "I'm tired .",
+        "WrittenText": "",
+        "StartMs": 30480,
+        "EndMs": 31550,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 825,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1070,
+            "Word": "tired"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Me too.",
+        "SliceSentence": "Me too .",
+        "WrittenText": "",
+        "StartMs": 32110,
+        "EndMs": 32960,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 34960,
+        "EndMs": 35360,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can rollerblade hello.",
+        "SliceSentence": "we can rollerblade hello .",
+        "WrittenText": "",
+        "StartMs": 35890,
+        "EndMs": 40490,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 1360,
+            "Word": "rollerblade"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "hello"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is that Leon Leon?",
+        "SliceSentence": "Is that Leon Leon ?",
+        "WrittenText": "",
+        "StartMs": 41140,
+        "EndMs": 43520,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 725,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1300,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2380,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No it isn't.",
+        "SliceSentence": "No it isn't .",
+        "WrittenText": "",
+        "StartMs": 44080,
+        "EndMs": 45800,
+        "SpeechSpeed": 7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1160,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1720,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my teddy look.",
+        "SliceSentence": "This is my teddy look .",
+        "WrittenText": "",
+        "StartMs": 48220,
+        "EndMs": 51770,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 785,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "teddy"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Blue clue.",
+        "SliceSentence": "Blue clue .",
+        "WrittenText": "",
+        "StartMs": 52330,
+        "EndMs": 53300,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Blue"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 970,
+            "Word": "clue"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Play football.",
+        "SliceSentence": "Play football .",
+        "WrittenText": "",
+        "StartMs": 54460,
+        "EndMs": 55400,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Play"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "football"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can play football.",
+        "SliceSentence": "I can play football .",
+        "WrittenText": "",
+        "StartMs": 57190,
+        "EndMs": 58730,
+        "SpeechSpeed": 13,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1145,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "football"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Me too.",
+        "SliceSentence": "Me too .",
+        "WrittenText": "",
+        "StartMs": 59590,
+        "EndMs": 60320,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Go look,",
+        "SliceSentence": "Go look ,",
+        "WrittenText": "",
+        "StartMs": 62260,
+        "EndMs": 64400,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Go"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there's Leon.",
+        "SliceSentence": "there's Leon .",
+        "WrittenText": "",
+        "StartMs": 64780,
+        "EndMs": 65840,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "there's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 1060,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh.",
+        "SliceSentence": "Oh .",
+        "WrittenText": "",
+        "StartMs": 66370,
+        "EndMs": 66770,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

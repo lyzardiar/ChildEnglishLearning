@@ -1,0 +1,428 @@
+{
+  "RequestId": "d7656c5e-194b-4553-a282-e6c4ffbac113",
+  "Data": {
+    "TaskId": 16292427999,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 44.791313,
+    "Result": "Colorful chameleons.Look chameleons, the plant is yellow. The chameleon is yellow too. The ground is grey. The chameleon is grey too. The tree is red. Chameleon is red too. The branch is green. The chameleon is green too.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Colorful chameleons.",
+        "SliceSentence": "Colorful chameleons .",
+        "WrittenText": "",
+        "StartMs": 700,
+        "EndMs": 2640,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 915,
+            "Word": "Colorful"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1940,
+            "Word": "chameleons"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look chameleons,",
+        "SliceSentence": "Look chameleons ,",
+        "WrittenText": "",
+        "StartMs": 3960,
+        "EndMs": 7970,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 4010,
+            "Word": "chameleons"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 4010,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the plant is yellow.",
+        "SliceSentence": "the plant is yellow .",
+        "WrittenText": "",
+        "StartMs": 13840,
+        "EndMs": 15800,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "plant"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1565,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1960,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The chameleon is yellow too.",
+        "SliceSentence": "The chameleon is yellow too .",
+        "WrittenText": "",
+        "StartMs": 16870,
+        "EndMs": 19760,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 1300,
+            "Word": "chameleon"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1730,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2110,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The ground is grey.",
+        "SliceSentence": "The ground is grey .",
+        "WrittenText": "",
+        "StartMs": 20950,
+        "EndMs": 22910,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "ground"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "grey"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The chameleon is grey too.",
+        "SliceSentence": "The chameleon is grey too .",
+        "WrittenText": "",
+        "StartMs": 23920,
+        "EndMs": 27020,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 1450,
+            "Word": "chameleon"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "grey"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The tree is red.",
+        "SliceSentence": "The tree is red .",
+        "WrittenText": "",
+        "StartMs": 28480,
+        "EndMs": 30500,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Chameleon is red too.",
+        "SliceSentence": "Chameleon is red too .",
+        "WrittenText": "",
+        "StartMs": 31780,
+        "EndMs": 34550,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1120,
+            "Word": "Chameleon"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1655,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2050,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The branch is green.",
+        "SliceSentence": "The branch is green .",
+        "WrittenText": "",
+        "StartMs": 35770,
+        "EndMs": 38000,
+        "SpeechSpeed": 9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "branch"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The chameleon is green too.",
+        "SliceSentence": "The chameleon is green too .",
+        "WrittenText": "",
+        "StartMs": 39040,
+        "EndMs": 42230,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1390,
+            "Word": "chameleon"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

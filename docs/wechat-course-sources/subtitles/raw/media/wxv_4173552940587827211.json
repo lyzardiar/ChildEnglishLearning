@@ -1,0 +1,503 @@
+{
+  "RequestId": "12f56da5-e8ab-4ebf-ba1e-0034d165d9ee",
+  "Data": {
+    "TaskId": 16292447557,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 42.9105,
+    "Result": "My favourite shopping centre. This is happy shopping centre. There are many shops in it. I like this flower shop. The flower are beautiful. I like this restaurant. The food there is very nice. I like this toy shop too. The dolls are soft and the robots can walk. What a wonderful shopping centre.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "My favourite shopping centre.",
+        "SliceSentence": "My favourite shopping centre .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3170,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 2055,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2420,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 2770,
+            "OffsetEndMs": 3170,
+            "Word": "centre"
+          },
+          {
+            "OffsetStartMs": 2770,
+            "OffsetEndMs": 3170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is happy shopping centre.",
+        "SliceSentence": "This is happy shopping centre .",
+        "WrittenText": "",
+        "StartMs": 5710,
+        "EndMs": 9230,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "centre"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are many shops in it.",
+        "SliceSentence": "There are many shops in it .",
+        "WrittenText": "",
+        "StartMs": 10720,
+        "EndMs": 13550,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "shops"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2495,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2830,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like this flower shop.",
+        "SliceSentence": "I like this flower shop .",
+        "WrittenText": "",
+        "StartMs": 14440,
+        "EndMs": 17360,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The flower are beautiful.",
+        "SliceSentence": "The flower are beautiful .",
+        "WrittenText": "",
+        "StartMs": 18010,
+        "EndMs": 20150,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like this restaurant.",
+        "SliceSentence": "I like this restaurant .",
+        "WrittenText": "",
+        "StartMs": 21790,
+        "EndMs": 23930,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "restaurant"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The food there is very nice.",
+        "SliceSentence": "The food there is very nice .",
+        "WrittenText": "",
+        "StartMs": 25150,
+        "EndMs": 28160,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like this toy shop too.",
+        "SliceSentence": "I like this toy shop too .",
+        "WrittenText": "",
+        "StartMs": 29230,
+        "EndMs": 32570,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The dolls are soft and the robots can walk.",
+        "SliceSentence": "The dolls are soft and the robots can walk .",
+        "WrittenText": "",
+        "StartMs": 33190,
+        "EndMs": 37970,
+        "SpeechSpeed": 9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1055,
+            "Word": "dolls"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1450,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "soft"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2705,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 2960,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2960,
+            "OffsetEndMs": 3580,
+            "Word": "robots"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4330,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4780,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What a wonderful shopping centre.",
+        "SliceSentence": "What a wonderful shopping centre .",
+        "WrittenText": "",
+        "StartMs": 38620,
+        "EndMs": 41450,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "wonderful"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "centre"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

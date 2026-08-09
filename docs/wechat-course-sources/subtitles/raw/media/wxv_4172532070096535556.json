@@ -1,0 +1,560 @@
+{
+  "RequestId": "07850522-9914-4005-876a-794951a742f9",
+  "Data": {
+    "TaskId": 16292417315,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 59.814625,
+    "Result": "A.A.A a.Toe.And?And?The.B.B.B b.Toe.There.Bear.A for ant, b for bear ant ant ant bear bear bear a for ant, b for bear ant ant ant bear bear bear.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A.",
+        "SliceSentence": "A .",
+        "WrittenText": "",
+        "StartMs": 1820,
+        "EndMs": 2230,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A.",
+        "SliceSentence": "A .",
+        "WrittenText": "",
+        "StartMs": 3040,
+        "EndMs": 3450,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A a.",
+        "SliceSentence": "A a .",
+        "WrittenText": "",
+        "StartMs": 5000,
+        "EndMs": 6580,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7580,
+        "EndMs": 7990,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "And?",
+        "SliceSentence": "And ?",
+        "WrittenText": "",
+        "StartMs": 11080,
+        "EndMs": 11520,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "And?",
+        "SliceSentence": "And ?",
+        "WrittenText": "",
+        "StartMs": 12600,
+        "EndMs": 13040,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 15880,
+        "EndMs": 16080,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "B.",
+        "SliceSentence": "B .",
+        "WrittenText": "",
+        "StartMs": 16980,
+        "EndMs": 17360,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "B.",
+        "SliceSentence": "B .",
+        "WrittenText": "",
+        "StartMs": 18260,
+        "EndMs": 18610,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "B b.",
+        "SliceSentence": "B b .",
+        "WrittenText": "",
+        "StartMs": 19920,
+        "EndMs": 21500,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 22520,
+        "EndMs": 22900,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "There.",
+        "SliceSentence": "There .",
+        "WrittenText": "",
+        "StartMs": 25700,
+        "EndMs": 26140,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bear.",
+        "SliceSentence": "Bear .",
+        "WrittenText": "",
+        "StartMs": 27300,
+        "EndMs": 27830,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Bear"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A for ant,",
+        "SliceSentence": "A for ant ,",
+        "WrittenText": "",
+        "StartMs": 30400,
+        "EndMs": 36390,
+        "SpeechSpeed": 1.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 4480,
+            "OffsetEndMs": 4880,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 5050,
+            "OffsetEndMs": 5450,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " b for bear ant ant ant bear bear bear a for ant,",
+        "SliceSentence": "b for bear ant ant ant bear bear bear a for ant ,",
+        "WrittenText": "",
+        "StartMs": 37220,
+        "EndMs": 49560,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5170,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5770,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 5970,
+            "OffsetEndMs": 6370,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 10800,
+            "OffsetEndMs": 11200,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 11400,
+            "OffsetEndMs": 11800,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 11940,
+            "OffsetEndMs": 12340,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 11940,
+            "OffsetEndMs": 12340,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " b for bear ant ant ant bear bear bear.",
+        "SliceSentence": "b for bear ant ant ant bear bear bear .",
+        "WrittenText": "",
+        "StartMs": 50420,
+        "EndMs": 56730,
+        "SpeechSpeed": 6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5110,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 5340,
+            "OffsetEndMs": 5740,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 5910,
+            "OffsetEndMs": 6310,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 5910,
+            "OffsetEndMs": 6310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

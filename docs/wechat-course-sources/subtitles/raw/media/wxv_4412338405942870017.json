@@ -1,0 +1,622 @@
+{
+  "RequestId": "39b271b5-22ac-4ea2-b9a1-1dd9fbcb13b9",
+  "Data": {
+    "TaskId": 16292453279,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 92.903063,
+    "Result": "At the beach hi there my name is Dan Dan your sand castle is great thank you I'm Lan Lan that's my brother jun junun do you like playing in the sand? Yes I do great you can join me hey there I'm Kai Kai I'm Dan Dan's brother come here Kai Kai meet my new friend Lan Lan and her brother juninin hello Kai Kai do you like playing beach volleyball?Yes I do. Let's play together. Lan Lan and jun junun have new friends. I'm so happy. Me too.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "At the beach hi there my name is Dan Dan your sand castle is great thank you I'm Lan Lan that's my brother jun junun do you like playing in the sand?",
+        "SliceSentence": "At the beach hi there my name is Dan Dan your sand castle is great thank you I'm Lan Lan that's my brother jun junun do you like playing in the sand ?",
+        "WrittenText": "",
+        "StartMs": 140,
+        "EndMs": 26440,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 33,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1125,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 1430,
+            "Word": "beach"
+          },
+          {
+            "OffsetStartMs": 6520,
+            "OffsetEndMs": 6920,
+            "Word": "hi"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 8050,
+            "OffsetEndMs": 8415,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 8415,
+            "OffsetEndMs": 8780,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 9010,
+            "OffsetEndMs": 9410,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 9580,
+            "OffsetEndMs": 9945,
+            "Word": "Dan"
+          },
+          {
+            "OffsetStartMs": 9945,
+            "OffsetEndMs": 10310,
+            "Word": "Dan"
+          },
+          {
+            "OffsetStartMs": 11140,
+            "OffsetEndMs": 11540,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 11650,
+            "OffsetEndMs": 12050,
+            "Word": "sand"
+          },
+          {
+            "OffsetStartMs": 12250,
+            "OffsetEndMs": 12650,
+            "Word": "castle"
+          },
+          {
+            "OffsetStartMs": 13150,
+            "OffsetEndMs": 13550,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 13780,
+            "OffsetEndMs": 14180,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 15550,
+            "OffsetEndMs": 15950,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 16060,
+            "OffsetEndMs": 16460,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 17050,
+            "OffsetEndMs": 17595,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 17595,
+            "OffsetEndMs": 17850,
+            "Word": "Lan"
+          },
+          {
+            "OffsetStartMs": 17850,
+            "OffsetEndMs": 18230,
+            "Word": "Lan"
+          },
+          {
+            "OffsetStartMs": 19390,
+            "OffsetEndMs": 19965,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 19965,
+            "OffsetEndMs": 20205,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 20205,
+            "OffsetEndMs": 20540,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 20890,
+            "OffsetEndMs": 21255,
+            "Word": "jun"
+          },
+          {
+            "OffsetStartMs": 21255,
+            "OffsetEndMs": 21650,
+            "Word": "junun"
+          },
+          {
+            "OffsetStartMs": 24100,
+            "OffsetEndMs": 24405,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 24405,
+            "OffsetEndMs": 24645,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 24645,
+            "OffsetEndMs": 24980,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 25060,
+            "OffsetEndMs": 25460,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 25480,
+            "OffsetEndMs": 25800,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 25800,
+            "OffsetEndMs": 26010,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 26010,
+            "OffsetEndMs": 26300,
+            "Word": "sand"
+          },
+          {
+            "OffsetStartMs": 26010,
+            "OffsetEndMs": 26300,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes I do great you can join me hey there I'm Kai Kai I'm Dan Dan's brother come here Kai Kai meet my new friend Lan Lan and her brother juninin hello Kai Kai do you like playing beach volleyball?",
+        "SliceSentence": "Yes I do great you can join me hey there I'm Kai Kai I'm Dan Dan's brother come here Kai Kai meet my new friend Lan Lan and her brother juninin hello Kai Kai do you like playing beach volleyball ?",
+        "WrittenText": "",
+        "StartMs": 27690,
+        "EndMs": 59290,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 41,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1190,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1570,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4370,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 4370,
+            "OffsetEndMs": 4685,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 4685,
+            "OffsetEndMs": 5050,
+            "Word": "join"
+          },
+          {
+            "OffsetStartMs": 5100,
+            "OffsetEndMs": 5500,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 8250,
+            "OffsetEndMs": 8650,
+            "Word": "hey"
+          },
+          {
+            "OffsetStartMs": 8670,
+            "OffsetEndMs": 9070,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 9660,
+            "OffsetEndMs": 10355,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 10355,
+            "OffsetEndMs": 10720,
+            "Word": "Kai"
+          },
+          {
+            "OffsetStartMs": 10770,
+            "OffsetEndMs": 11200,
+            "Word": "Kai"
+          },
+          {
+            "OffsetStartMs": 11970,
+            "OffsetEndMs": 12590,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 12590,
+            "OffsetEndMs": 12905,
+            "Word": "Dan"
+          },
+          {
+            "OffsetStartMs": 12905,
+            "OffsetEndMs": 13565,
+            "Word": "Dan's"
+          },
+          {
+            "OffsetStartMs": 13565,
+            "OffsetEndMs": 13900,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 15330,
+            "OffsetEndMs": 15730,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 15840,
+            "OffsetEndMs": 16240,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 16470,
+            "OffsetEndMs": 16850,
+            "Word": "Kai"
+          },
+          {
+            "OffsetStartMs": 16850,
+            "OffsetEndMs": 17230,
+            "Word": "Kai"
+          },
+          {
+            "OffsetStartMs": 18030,
+            "OffsetEndMs": 18430,
+            "Word": "meet"
+          },
+          {
+            "OffsetStartMs": 18630,
+            "OffsetEndMs": 19030,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 19050,
+            "OffsetEndMs": 19450,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 19530,
+            "OffsetEndMs": 19930,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 20250,
+            "OffsetEndMs": 20645,
+            "Word": "Lan"
+          },
+          {
+            "OffsetStartMs": 20645,
+            "OffsetEndMs": 21040,
+            "Word": "Lan"
+          },
+          {
+            "OffsetStartMs": 21420,
+            "OffsetEndMs": 21770,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 21770,
+            "OffsetEndMs": 22085,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 22085,
+            "OffsetEndMs": 22450,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 22740,
+            "OffsetEndMs": 23440,
+            "Word": "juninin"
+          },
+          {
+            "OffsetStartMs": 24540,
+            "OffsetEndMs": 24940,
+            "Word": "hello"
+          },
+          {
+            "OffsetStartMs": 25350,
+            "OffsetEndMs": 25760,
+            "Word": "Kai"
+          },
+          {
+            "OffsetStartMs": 25760,
+            "OffsetEndMs": 26170,
+            "Word": "Kai"
+          },
+          {
+            "OffsetStartMs": 28170,
+            "OffsetEndMs": 28505,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 28505,
+            "OffsetEndMs": 28820,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 28820,
+            "OffsetEndMs": 29200,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 29400,
+            "OffsetEndMs": 29800,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 30060,
+            "OffsetEndMs": 30460,
+            "Word": "beach"
+          },
+          {
+            "OffsetStartMs": 30660,
+            "OffsetEndMs": 31600,
+            "Word": "volleyball"
+          },
+          {
+            "OffsetStartMs": 30660,
+            "OffsetEndMs": 31600,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yes I do.",
+        "SliceSentence": "Yes I do .",
+        "WrittenText": "",
+        "StartMs": 60020,
+        "EndMs": 61960,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 830,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's play together.",
+        "SliceSentence": "Let's play together .",
+        "WrittenText": "",
+        "StartMs": 63300,
+        "EndMs": 65380,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Lan Lan and jun junun have new friends.",
+        "SliceSentence": "Lan Lan and jun junun have new friends .",
+        "WrittenText": "",
+        "StartMs": 75990,
+        "EndMs": 79600,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "Lan"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 850,
+            "Word": "Lan"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1805,
+            "Word": "jun"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2230,
+            "Word": "junun"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3230,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 3230,
+            "OffsetEndMs": 3610,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 3230,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm so happy.",
+        "SliceSentence": "I'm so happy .",
+        "WrittenText": "",
+        "StartMs": 80310,
+        "EndMs": 81790,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Me too.",
+        "SliceSentence": "Me too .",
+        "WrittenText": "",
+        "StartMs": 83550,
+        "EndMs": 84520,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "RequestId": "41a53a87-60e0-477d-9923-b1d3b2daf61b",
+  "Data": {
+    "TaskId": 16292499244,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 58.862938,
+    "Result": "May I come in? Bears share their toys. Do you want some Pizza? I have some to share. Would you like to sit with me? You can use this chair. Do you like this movie? I want to see it too. Shall we go play ping pong? It's much more fun with two.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "May I come in?",
+        "SliceSentence": "May I come in ?",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 7250,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 5620,
+            "OffsetEndMs": 6020,
+            "Word": "May"
+          },
+          {
+            "OffsetStartMs": 6040,
+            "OffsetEndMs": 6420,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 6420,
+            "OffsetEndMs": 6765,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 6765,
+            "OffsetEndMs": 7130,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 6765,
+            "OffsetEndMs": 7130,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bears share their toys.",
+        "SliceSentence": "Bears share their toys .",
+        "WrittenText": "",
+        "StartMs": 8440,
+        "EndMs": 10670,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "Bears"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1880,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "toys"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you want some Pizza?",
+        "SliceSentence": "Do you want some Pizza ?",
+        "WrittenText": "",
+        "StartMs": 19000,
+        "EndMs": 21680,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "Pizza"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have some to share.",
+        "SliceSentence": "I have some to share .",
+        "WrittenText": "",
+        "StartMs": 23770,
+        "EndMs": 26390,
+        "SpeechSpeed": 8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Would you like to sit with me?",
+        "SliceSentence": "Would you like to sit with me ?",
+        "WrittenText": "",
+        "StartMs": 28570,
+        "EndMs": 32330,
+        "SpeechSpeed": 8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Would"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "sit"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can use this chair.",
+        "SliceSentence": "You can use this chair .",
+        "WrittenText": "",
+        "StartMs": 33370,
+        "EndMs": 35990,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "chair"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like this movie?",
+        "SliceSentence": "Do you like this movie ?",
+        "WrittenText": "",
+        "StartMs": 38110,
+        "EndMs": 40790,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "movie"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to see it too.",
+        "SliceSentence": "I want to see it too .",
+        "WrittenText": "",
+        "StartMs": 42850,
+        "EndMs": 45620,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1520,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Shall we go play ping pong?",
+        "SliceSentence": "Shall we go play ping pong ?",
+        "WrittenText": "",
+        "StartMs": 47560,
+        "EndMs": 50870,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Shall"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2830,
+            "Word": "ping"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3310,
+            "Word": "pong"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3310,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's much more fun with two.",
+        "SliceSentence": "It's much more fun with two .",
+        "WrittenText": "",
+        "StartMs": 52090,
+        "EndMs": 55070,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

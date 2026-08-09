@@ -1,0 +1,536 @@
+{
+  "RequestId": "94326b05-43f4-4c8b-806b-8e8ddd3a0c53",
+  "Data": {
+    "TaskId": 16292438457,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 56.98175,
+    "Result": "E e.B b.CC.See?CC.T t.We are by the sea. Mom drinks tea. What do you see? I see a big bee. We are by the sea. Mom drinks tea. What do you see? I see a big bee.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "E e.",
+        "SliceSentence": "E e .",
+        "WrittenText": "",
+        "StartMs": 680,
+        "EndMs": 2260,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "e"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "B b.",
+        "SliceSentence": "B b .",
+        "WrittenText": "",
+        "StartMs": 6400,
+        "EndMs": 7950,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "CC.",
+        "SliceSentence": "CC .",
+        "WrittenText": "",
+        "StartMs": 12180,
+        "EndMs": 13710,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1530,
+            "Word": "CC"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "See?",
+        "SliceSentence": "See ?",
+        "WrittenText": "",
+        "StartMs": 13760,
+        "EndMs": 14020,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "See"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "CC.",
+        "SliceSentence": "CC .",
+        "WrittenText": "",
+        "StartMs": 17580,
+        "EndMs": 19220,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "CC"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "T t.",
+        "SliceSentence": "T t .",
+        "WrittenText": "",
+        "StartMs": 24200,
+        "EndMs": 25720,
+        "SpeechSpeed": 2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We are by the sea.",
+        "SliceSentence": "We are by the sea .",
+        "WrittenText": "",
+        "StartMs": 28360,
+        "EndMs": 35790,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 5950,
+            "OffsetEndMs": 6270,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 6270,
+            "OffsetEndMs": 6540,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 6540,
+            "OffsetEndMs": 6840,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7110,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7430,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mom drinks tea.",
+        "SliceSentence": "Mom drinks tea .",
+        "WrittenText": "",
+        "StartMs": 36620,
+        "EndMs": 38190,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mom"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "drinks"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you see?",
+        "SliceSentence": "What do you see ?",
+        "WrittenText": "",
+        "StartMs": 38990,
+        "EndMs": 40560,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1235,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a big bee.",
+        "SliceSentence": "I see a big bee .",
+        "WrittenText": "",
+        "StartMs": 41090,
+        "EndMs": 43320,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 965,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2230,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We are by the sea.",
+        "SliceSentence": "We are by the sea .",
+        "WrittenText": "",
+        "StartMs": 46220,
+        "EndMs": 47730,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 590,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 890,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1175,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mom drinks tea.",
+        "SliceSentence": "Mom drinks tea .",
+        "WrittenText": "",
+        "StartMs": 48500,
+        "EndMs": 50130,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mom"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "drinks"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you see?",
+        "SliceSentence": "What do you see ?",
+        "WrittenText": "",
+        "StartMs": 50960,
+        "EndMs": 52500,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 905,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1190,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a big bee.",
+        "SliceSentence": "I see a big bee .",
+        "WrittenText": "",
+        "StartMs": 53060,
+        "EndMs": 55230,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 950,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2170,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

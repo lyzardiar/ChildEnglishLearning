@@ -1,0 +1,896 @@
+{
+  "RequestId": "9f1bdb37-276e-4ca7-8088-b5de40a65028",
+  "Data": {
+    "TaskId": 16292581890,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 81.780688,
+    "Result": "The bee and the ant.Many people liked the bee, they all praised her for her hard work. The ant was not happy about this. She thought the bee works hard. She goes out early in the morning and comes home late in the evening. I also work hard all day but people never Praise me. Why one day the ant met the bee hello Miss b can I ask you a question? Of course Miss ant please go ahead. You and I both work very hard, people like you but they don't like me. Why is that?Out you work for yourself and your queen only, but my work also helps flowers and people.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The bee and the ant.",
+        "SliceSentence": "The bee and the ant .",
+        "WrittenText": "",
+        "StartMs": 1340,
+        "EndMs": 3070,
+        "SpeechSpeed": 11,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 945,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1245,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1245,
+            "OffsetEndMs": 1455,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1730,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Many people liked the bee,",
+        "SliceSentence": "Many people liked the bee ,",
+        "WrittenText": "",
+        "StartMs": 5400,
+        "EndMs": 8870,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "Many"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 2110,
+            "OffsetEndMs": 2510,
+            "Word": "liked"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 2895,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3470,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they all praised her for her hard work.",
+        "SliceSentence": "they all praised her for her hard work .",
+        "WrittenText": "",
+        "StartMs": 9460,
+        "EndMs": 11930,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 530,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 1055,
+            "Word": "praised"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1330,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1640,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1805,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2075,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2470,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The ant was not happy about this.",
+        "SliceSentence": "The ant was not happy about this .",
+        "WrittenText": "",
+        "StartMs": 14440,
+        "EndMs": 16970,
+        "SpeechSpeed": 13,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1085,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1370,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1720,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2195,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2530,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She thought the bee works hard.",
+        "SliceSentence": "She thought the bee works hard .",
+        "WrittenText": "",
+        "StartMs": 19210,
+        "EndMs": 22880,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "thought"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2105,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2795,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3100,
+            "Word": "works"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She goes out early in the morning and comes home late in the evening.",
+        "SliceSentence": "She goes out early in the morning and comes home late in the evening .",
+        "WrittenText": "",
+        "StartMs": 23680,
+        "EndMs": 28700,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1055,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1450,
+            "Word": "early"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1895,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2075,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2350,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3215,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3215,
+            "OffsetEndMs": 3550,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3950,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3950,
+            "OffsetEndMs": 4295,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 4295,
+            "OffsetEndMs": 4550,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4550,
+            "OffsetEndMs": 4730,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4730,
+            "OffsetEndMs": 5020,
+            "Word": "evening"
+          },
+          {
+            "OffsetStartMs": 4730,
+            "OffsetEndMs": 5020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I also work hard all day but people never Praise me.",
+        "SliceSentence": "I also work hard all day but people never Praise me .",
+        "WrittenText": "",
+        "StartMs": 29890,
+        "EndMs": 35600,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2435,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2800,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3650,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4000,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "never"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5375,
+            "Word": "Praise"
+          },
+          {
+            "OffsetStartMs": 5375,
+            "OffsetEndMs": 5710,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 5375,
+            "OffsetEndMs": 5710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why one day the ant met the bee hello Miss b can I ask you a question?",
+        "SliceSentence": "Why one day the ant met the bee hello Miss b can I ask you a question ?",
+        "WrittenText": "",
+        "StartMs": 36460,
+        "EndMs": 48410,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3245,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3610,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4445,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4445,
+            "OffsetEndMs": 4750,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5390,
+            "Word": "met"
+          },
+          {
+            "OffsetStartMs": 5390,
+            "OffsetEndMs": 5615,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5615,
+            "OffsetEndMs": 6190,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 7980,
+            "OffsetEndMs": 8380,
+            "Word": "hello"
+          },
+          {
+            "OffsetStartMs": 8610,
+            "OffsetEndMs": 9005,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 9005,
+            "OffsetEndMs": 9400,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 9930,
+            "OffsetEndMs": 10330,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 10350,
+            "OffsetEndMs": 10715,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 10715,
+            "OffsetEndMs": 11080,
+            "Word": "ask"
+          },
+          {
+            "OffsetStartMs": 11160,
+            "OffsetEndMs": 11450,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 11450,
+            "OffsetEndMs": 11645,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 11645,
+            "OffsetEndMs": 11950,
+            "Word": "question"
+          },
+          {
+            "OffsetStartMs": 11645,
+            "OffsetEndMs": 11950,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Of course Miss ant please go ahead.",
+        "SliceSentence": "Of course Miss ant please go ahead .",
+        "WrittenText": "",
+        "StartMs": 51310,
+        "EndMs": 54830,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Of"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "course"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1340,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1720,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "ahead"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You and I both work very hard,",
+        "SliceSentence": "You and I both work very hard ,",
+        "WrittenText": "",
+        "StartMs": 56200,
+        "EndMs": 59480,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "both"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " people like you but they don't like me.",
+        "SliceSentence": "people like you but they don't like me .",
+        "WrittenText": "",
+        "StartMs": 60490,
+        "EndMs": 64160,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2330,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2525,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2930,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3220,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why is that?",
+        "SliceSentence": "Why is that ?",
+        "WrittenText": "",
+        "StartMs": 64840,
+        "EndMs": 65850,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1010,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1010,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Out you work for yourself and your queen only,",
+        "SliceSentence": "Out you work for yourself and your queen only ,",
+        "WrittenText": "",
+        "StartMs": 65880,
+        "EndMs": 70670,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Out"
+          },
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2150,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": "yourself"
+          },
+          {
+            "OffsetStartMs": 3280,
+            "OffsetEndMs": 3615,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3615,
+            "OffsetEndMs": 3945,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 3945,
+            "OffsetEndMs": 4340,
+            "Word": "queen"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": "only"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 30,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but my work also helps flowers and people.",
+        "SliceSentence": "but my work also helps flowers and people .",
+        "WrittenText": "",
+        "StartMs": 71500,
+        "EndMs": 75410,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "helps"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3575,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3575,
+            "OffsetEndMs": 3910,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 3575,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

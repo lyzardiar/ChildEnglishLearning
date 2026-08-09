@@ -1,0 +1,855 @@
+{
+  "RequestId": "78c86106-23ab-49f9-96bb-f5f1a6101d48",
+  "Data": {
+    "TaskId": 16292494025,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 72.074938,
+    "Result": "Keeping up with time can you tell the time without a clock? In the past we used different things to tell the time. This is a sundial. The sun makes a shadow on the sundial and the shadow tells the time, but it cannot help us on a cloudy day. This is an hourglass. The sand in it falls down. It can count down the time later. People used clocks and watches to tell the time. We still use them today. Look why is.The birds singing, what's it doing? It's telling. The time. It sings every hour.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Keeping up with time can you tell the time without a clock?",
+        "SliceSentence": "Keeping up with time can you tell the time without a clock ?",
+        "WrittenText": "",
+        "StartMs": 600,
+        "EndMs": 7340,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Keeping"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1725,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1725,
+            "OffsetEndMs": 2090,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 3430,
+            "OffsetEndMs": 3810,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4190,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 4210,
+            "OffsetEndMs": 4610,
+            "Word": "tell"
+          },
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 4965,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4965,
+            "OffsetEndMs": 5240,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 5620,
+            "OffsetEndMs": 6020,
+            "Word": "without"
+          },
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6405,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6405,
+            "OffsetEndMs": 6740,
+            "Word": "clock"
+          },
+          {
+            "OffsetStartMs": 6405,
+            "OffsetEndMs": 6740,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the past we used different things to tell the time.",
+        "SliceSentence": "In the past we used different things to tell the time .",
+        "WrittenText": "",
+        "StartMs": 8560,
+        "EndMs": 13490,
+        "SpeechSpeed": 11,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1820,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2140,
+            "Word": "used"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4130,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 4130,
+            "OffsetEndMs": 4400,
+            "Word": "tell"
+          },
+          {
+            "OffsetStartMs": 4400,
+            "OffsetEndMs": 4655,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4655,
+            "OffsetEndMs": 4930,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 4655,
+            "OffsetEndMs": 4930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a sundial.",
+        "SliceSentence": "This is a sundial .",
+        "WrittenText": "",
+        "StartMs": 15400,
+        "EndMs": 17480,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 2080,
+            "Word": "sundial"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sun makes a shadow on the sundial and the shadow tells the time,",
+        "SliceSentence": "The sun makes a shadow on the sundial and the shadow tells the time ,",
+        "WrittenText": "",
+        "StartMs": 18760,
+        "EndMs": 25490,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "makes"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1805,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2110,
+            "Word": "shadow"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2840,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 3080,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3760,
+            "Word": "sundial"
+          },
+          {
+            "OffsetStartMs": 4470,
+            "OffsetEndMs": 4805,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4805,
+            "OffsetEndMs": 5015,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5015,
+            "OffsetEndMs": 5290,
+            "Word": "shadow"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 6010,
+            "Word": "tells"
+          },
+          {
+            "OffsetStartMs": 6150,
+            "OffsetEndMs": 6440,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6440,
+            "OffsetEndMs": 6730,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 6440,
+            "OffsetEndMs": 6730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but it cannot help us on a cloudy day.",
+        "SliceSentence": "but it cannot help us on a cloudy day .",
+        "WrittenText": "",
+        "StartMs": 26530,
+        "EndMs": 30350,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "cannot"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1670,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2050,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2510,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2795,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3500,
+            "Word": "cloudy"
+          },
+          {
+            "OffsetStartMs": 3500,
+            "OffsetEndMs": 3820,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 3500,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is an hourglass.",
+        "SliceSentence": "This is an hourglass .",
+        "WrittenText": "",
+        "StartMs": 32620,
+        "EndMs": 35120,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1445,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 2500,
+            "Word": "hourglass"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sand in it falls down.",
+        "SliceSentence": "The sand in it falls down .",
+        "WrittenText": "",
+        "StartMs": 36070,
+        "EndMs": 38690,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "sand"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1265,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1570,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can count down the time later.",
+        "SliceSentence": "It can count down the time later .",
+        "WrittenText": "",
+        "StartMs": 39610,
+        "EndMs": 44930,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1240,
+            "Word": "count"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2360,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2650,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 4920,
+            "OffsetEndMs": 5320,
+            "Word": "later"
+          },
+          {
+            "OffsetStartMs": 4920,
+            "OffsetEndMs": 5320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People used clocks and watches to tell the time.",
+        "SliceSentence": "People used clocks and watches to tell the time .",
+        "WrittenText": "",
+        "StartMs": 45730,
+        "EndMs": 50390,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "used"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 2135,
+            "Word": "clocks"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2480,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 3250,
+            "Word": "watches"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3830,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3830,
+            "OffsetEndMs": 4115,
+            "Word": "tell"
+          },
+          {
+            "OffsetStartMs": 4115,
+            "OffsetEndMs": 4385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4385,
+            "OffsetEndMs": 4660,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 4385,
+            "OffsetEndMs": 4660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We still use them today.",
+        "SliceSentence": "We still use them today .",
+        "WrittenText": "",
+        "StartMs": 51430,
+        "EndMs": 53570,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1265,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1660,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look why is.",
+        "SliceSentence": "Look why is .",
+        "WrittenText": "",
+        "StartMs": 58660,
+        "EndMs": 61040,
+        "SpeechSpeed": 5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1985,
+            "Word": "why"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2380,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The birds singing,",
+        "SliceSentence": "The birds singing ,",
+        "WrittenText": "",
+        "StartMs": 61080,
+        "EndMs": 62090,
+        "SpeechSpeed": 16.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 165,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 165,
+            "OffsetEndMs": 440,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "singing"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 40,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's it doing?",
+        "SliceSentence": "what's it doing ?",
+        "WrittenText": "",
+        "StartMs": 63160,
+        "EndMs": 64640,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's telling.",
+        "SliceSentence": "It's telling .",
+        "WrittenText": "",
+        "StartMs": 65230,
+        "EndMs": 66050,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "telling"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The time.",
+        "SliceSentence": "The time .",
+        "WrittenText": "",
+        "StartMs": 66190,
+        "EndMs": 66860,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It sings every hour.",
+        "SliceSentence": "It sings every hour .",
+        "WrittenText": "",
+        "StartMs": 67360,
+        "EndMs": 69110,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 730,
+            "Word": "sings"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "hour"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

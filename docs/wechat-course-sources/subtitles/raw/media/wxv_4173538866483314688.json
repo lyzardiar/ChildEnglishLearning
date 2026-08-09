@@ -1,0 +1,275 @@
+{
+  "RequestId": "20e7e9e0-96eb-4737-8a66-426e3b147abb",
+  "Data": {
+    "TaskId": 16292444350,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 32.995563,
+    "Result": "M m.Sam likes jam, Sam likes ham. Sam eats bread with jam and ham likes jam. Sam likes ham. Eat bread with jam and ham.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "M m.",
+        "SliceSentence": "M m .",
+        "WrittenText": "",
+        "StartMs": 920,
+        "EndMs": 2470,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "M"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "m"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sam likes jam,",
+        "SliceSentence": "Sam likes jam ,",
+        "WrittenText": "",
+        "StartMs": 6240,
+        "EndMs": 11090,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 3940,
+            "OffsetEndMs": 4340,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 4450,
+            "OffsetEndMs": 4850,
+            "Word": "jam"
+          },
+          {
+            "OffsetStartMs": 4450,
+            "OffsetEndMs": 4850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sam likes ham.",
+        "SliceSentence": "Sam likes ham .",
+        "WrittenText": "",
+        "StartMs": 11800,
+        "EndMs": 13430,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "ham"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sam eats bread with jam and ham likes jam.",
+        "SliceSentence": "Sam eats bread with jam and ham likes jam .",
+        "WrittenText": "",
+        "StartMs": 14200,
+        "EndMs": 23570,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1325,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1690,
+            "Word": "bread"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "jam"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "ham"
+          },
+          {
+            "OffsetStartMs": 8490,
+            "OffsetEndMs": 8890,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 8970,
+            "OffsetEndMs": 9370,
+            "Word": "jam"
+          },
+          {
+            "OffsetStartMs": 8970,
+            "OffsetEndMs": 9370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sam likes ham.",
+        "SliceSentence": "Sam likes ham .",
+        "WrittenText": "",
+        "StartMs": 24340,
+        "EndMs": 25880,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "ham"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Eat bread with jam and ham.",
+        "SliceSentence": "Eat bread with jam and ham .",
+        "WrittenText": "",
+        "StartMs": 27340,
+        "EndMs": 30650,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Eat"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "bread"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "jam"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "ham"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

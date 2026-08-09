@@ -1,0 +1,767 @@
+{
+  "RequestId": "5cd70f9c-ad6e-4527-9b5c-d29353f50685",
+  "Data": {
+    "TaskId": 16292501264,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 65.944688,
+    "Result": "Animals, homes eagles live in big nests. Where are their nests? They are in the trees. Some eagles are white and brown. They eat rabbits, frogs and birds. Where do owls live? They live in tree holes. They are safe there. Owls come out at night. They eat mice and snakes. Honeybees live in a hive there. They make honey. They have food in winter, honey bees have five eyes. They can't see the colour red.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Animals,",
+        "SliceSentence": "Animals ,",
+        "WrittenText": "",
+        "StartMs": 240,
+        "EndMs": 1040,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 800,
+            "Word": "Animals"
+          },
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 800,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " homes eagles live in big nests.",
+        "SliceSentence": "homes eagles live in big nests .",
+        "WrittenText": "",
+        "StartMs": 1630,
+        "EndMs": 6680,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3340,
+            "Word": "eagles"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4210,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4625,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 4625,
+            "OffsetEndMs": 5050,
+            "Word": "nests"
+          },
+          {
+            "OffsetStartMs": 4625,
+            "OffsetEndMs": 5050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where are their nests?",
+        "SliceSentence": "Where are their nests ?",
+        "WrittenText": "",
+        "StartMs": 8470,
+        "EndMs": 9890,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1055,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "nests"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are in the trees.",
+        "SliceSentence": "They are in the trees .",
+        "WrittenText": "",
+        "StartMs": 11920,
+        "EndMs": 13610,
+        "SpeechSpeed": 13,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1025,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "trees"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some eagles are white and brown.",
+        "SliceSentence": "Some eagles are white and brown .",
+        "WrittenText": "",
+        "StartMs": 15640,
+        "EndMs": 18530,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1180,
+            "Word": "eagles"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1640,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 2020,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They eat rabbits,",
+        "SliceSentence": "They eat rabbits ,",
+        "WrittenText": "",
+        "StartMs": 20140,
+        "EndMs": 21530,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1390,
+            "Word": "rabbits"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " frogs and birds.",
+        "SliceSentence": "frogs and birds .",
+        "WrittenText": "",
+        "StartMs": 22270,
+        "EndMs": 24170,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "frogs"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1550,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1900,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where do owls live?",
+        "SliceSentence": "Where do owls live ?",
+        "WrittenText": "",
+        "StartMs": 26140,
+        "EndMs": 27830,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1340,
+            "Word": "owls"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They live in tree holes.",
+        "SliceSentence": "They live in tree holes .",
+        "WrittenText": "",
+        "StartMs": 29140,
+        "EndMs": 31070,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1550,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1930,
+            "Word": "holes"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are safe there.",
+        "SliceSentence": "They are safe there .",
+        "WrittenText": "",
+        "StartMs": 32290,
+        "EndMs": 33830,
+        "SpeechSpeed": 13,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Owls come out at night.",
+        "SliceSentence": "Owls come out at night .",
+        "WrittenText": "",
+        "StartMs": 35020,
+        "EndMs": 37520,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "Owls"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They eat mice and snakes.",
+        "SliceSentence": "They eat mice and snakes .",
+        "WrittenText": "",
+        "StartMs": 38890,
+        "EndMs": 41150,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1400,
+            "Word": "mice"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1750,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2260,
+            "Word": "snakes"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Honeybees live in a hive there.",
+        "SliceSentence": "Honeybees live in a hive there .",
+        "WrittenText": "",
+        "StartMs": 42880,
+        "EndMs": 47150,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1130,
+            "Word": "Honeybees"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1480,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2090,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2830,
+            "Word": "hive"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4270,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They make honey.",
+        "SliceSentence": "They make honey .",
+        "WrittenText": "",
+        "StartMs": 47440,
+        "EndMs": 48500,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "honey"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They have food in winter,",
+        "SliceSentence": "They have food in winter ,",
+        "WrittenText": "",
+        "StartMs": 49810,
+        "EndMs": 51620,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1490,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1810,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " honey bees have five eyes.",
+        "SliceSentence": "honey bees have five eyes .",
+        "WrittenText": "",
+        "StartMs": 53260,
+        "EndMs": 56000,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "honey"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 1250,
+            "Word": "bees"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1630,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They can't see the colour red.",
+        "SliceSentence": "They can't see the colour red .",
+        "WrittenText": "",
+        "StartMs": 57640,
+        "EndMs": 59990,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 905,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1205,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1780,
+            "Word": "colour"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "RequestId": "257f089e-f1ec-4492-9a70-1078b3e23370",
+  "Data": {
+    "TaskId": 16292523689,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 46.695313,
+    "Result": "Joe is eating toast in the boat. We can see his dirty toes. Flo is playing with a goat in the boat we can see her purple coatat flo and Joe in the boat say to the goat. Hello, let's go. Joe is eating toast in the boat we can see his dirty toes. Flo is playing with a boat in the boat we can see her purple coat flo Joe in the boat say to the goat. Hello, let's go.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Joe is eating toast in the boat.",
+        "SliceSentence": "Joe is eating toast in the boat .",
+        "WrittenText": "",
+        "StartMs": 180,
+        "EndMs": 6440,
+        "SpeechSpeed": 5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2760,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3060,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3380,
+            "Word": "eating"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 4310,
+            "Word": "toast"
+          },
+          {
+            "OffsetStartMs": 4750,
+            "OffsetEndMs": 5150,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5320,
+            "OffsetEndMs": 5720,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5860,
+            "OffsetEndMs": 6260,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 5860,
+            "OffsetEndMs": 6260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can see his dirty toes.",
+        "SliceSentence": "We can see his dirty toes .",
+        "WrittenText": "",
+        "StartMs": 7330,
+        "EndMs": 9750,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1190,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "dirty"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2420,
+            "Word": "toes"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Flo is playing with a goat in the boat we can see her purple coatat flo and Joe in the boat say to the goat.",
+        "SliceSentence": "Flo is playing with a goat in the boat we can see her purple coatat flo and Joe in the boat say to the goat .",
+        "WrittenText": "",
+        "StartMs": 9750,
+        "EndMs": 20340,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 26,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 285,
+            "Word": "Flo"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 600,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1485,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1755,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2295,
+            "Word": "goat"
+          },
+          {
+            "OffsetStartMs": 2295,
+            "OffsetEndMs": 2690,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2920,
+            "OffsetEndMs": 3320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3520,
+            "OffsetEndMs": 3920,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 4750,
+            "OffsetEndMs": 5085,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 5085,
+            "OffsetEndMs": 5370,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5655,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 5655,
+            "OffsetEndMs": 5940,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6290,
+            "Word": "purple"
+          },
+          {
+            "OffsetStartMs": 6460,
+            "OffsetEndMs": 7140,
+            "Word": "coatat"
+          },
+          {
+            "OffsetStartMs": 7140,
+            "OffsetEndMs": 7470,
+            "Word": "flo"
+          },
+          {
+            "OffsetStartMs": 7470,
+            "OffsetEndMs": 7770,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 7770,
+            "OffsetEndMs": 8120,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 8320,
+            "OffsetEndMs": 8670,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 8670,
+            "OffsetEndMs": 8955,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8955,
+            "OffsetEndMs": 9290,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 9520,
+            "OffsetEndMs": 9870,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 9870,
+            "OffsetEndMs": 10080,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 10080,
+            "OffsetEndMs": 10215,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 10215,
+            "OffsetEndMs": 10590,
+            "Word": "goat"
+          },
+          {
+            "OffsetStartMs": 10215,
+            "OffsetEndMs": 10590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 20340,
+        "EndMs": 20600,
+        "SpeechSpeed": 23.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's go.",
+        "SliceSentence": "let's go .",
+        "WrittenText": "",
+        "StartMs": 21040,
+        "EndMs": 21980,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Joe is eating toast in the boat we can see his dirty toes.",
+        "SliceSentence": "Joe is eating toast in the boat we can see his dirty toes .",
+        "WrittenText": "",
+        "StartMs": 25270,
+        "EndMs": 32505,
+        "SpeechSpeed": 8,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "eating"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1960,
+            "Word": "toast"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5135,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 5135,
+            "OffsetEndMs": 5435,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 5435,
+            "OffsetEndMs": 5705,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 5705,
+            "OffsetEndMs": 6005,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 6005,
+            "OffsetEndMs": 6370,
+            "Word": "dirty"
+          },
+          {
+            "OffsetStartMs": 6570,
+            "OffsetEndMs": 7235,
+            "Word": "toes"
+          },
+          {
+            "OffsetStartMs": 6570,
+            "OffsetEndMs": 7235,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Flo is playing with a boat in the boat we can see her purple coat flo Joe in the boat say to the goat.",
+        "SliceSentence": "Flo is playing with a boat in the boat we can see her purple coat flo Joe in the boat say to the goat .",
+        "WrittenText": "",
+        "StartMs": 32505,
+        "EndMs": 43050,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 25,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 330,
+            "Word": "Flo"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 630,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 965,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1165,
+            "OffsetEndMs": 1515,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1785,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2105,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 2365,
+            "OffsetEndMs": 2765,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2905,
+            "OffsetEndMs": 3305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3475,
+            "OffsetEndMs": 3875,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 4705,
+            "OffsetEndMs": 5070,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 5070,
+            "OffsetEndMs": 5370,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5640,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 5925,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 5925,
+            "OffsetEndMs": 6275,
+            "Word": "purple"
+          },
+          {
+            "OffsetStartMs": 6475,
+            "OffsetEndMs": 6875,
+            "Word": "coat"
+          },
+          {
+            "OffsetStartMs": 7105,
+            "OffsetEndMs": 7505,
+            "Word": "flo"
+          },
+          {
+            "OffsetStartMs": 7705,
+            "OffsetEndMs": 8105,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 8305,
+            "OffsetEndMs": 8670,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 8670,
+            "OffsetEndMs": 8940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8940,
+            "OffsetEndMs": 9245,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 9445,
+            "OffsetEndMs": 9840,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 9840,
+            "OffsetEndMs": 10095,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 10095,
+            "OffsetEndMs": 10230,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 10230,
+            "OffsetEndMs": 10545,
+            "Word": "goat"
+          },
+          {
+            "OffsetStartMs": 10230,
+            "OffsetEndMs": 10545,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 43050,
+        "EndMs": 43310,
+        "SpeechSpeed": 23.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's go.",
+        "SliceSentence": "let's go .",
+        "WrittenText": "",
+        "StartMs": 43810,
+        "EndMs": 44720,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

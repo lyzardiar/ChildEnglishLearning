@@ -1,0 +1,419 @@
+{
+  "RequestId": "54af77c9-c9c2-47a0-838e-3a759ea33e52",
+  "Data": {
+    "TaskId": 16292505665,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 52.9415,
+    "Result": "O o, no.There is no food at my home, so we must go to the shop. We make a list and off we go. The fruit section is our first stop. I put some mangoes in the basket, then I add some apples on top.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "O o,",
+        "SliceSentence": "O o ,",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 7670,
+        "SpeechSpeed": 0.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 6040,
+            "OffsetEndMs": 6440,
+            "Word": "O"
+          },
+          {
+            "OffsetStartMs": 7150,
+            "OffsetEndMs": 7550,
+            "Word": "o"
+          },
+          {
+            "OffsetStartMs": 7150,
+            "OffsetEndMs": 7550,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " no.",
+        "SliceSentence": "no .",
+        "WrittenText": "",
+        "StartMs": 15040,
+        "EndMs": 15440,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "There is no food at my home,",
+        "SliceSentence": "There is no food at my home ,",
+        "WrittenText": "",
+        "StartMs": 19640,
+        "EndMs": 25840,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2685,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 2685,
+            "OffsetEndMs": 3020,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3190,
+            "OffsetEndMs": 3590,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 3730,
+            "OffsetEndMs": 4130,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5090,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 5320,
+            "OffsetEndMs": 5720,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " so we must go to the shop.",
+        "SliceSentence": "so we must go to the shop .",
+        "WrittenText": "",
+        "StartMs": 26640,
+        "EndMs": 30640,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "must"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3440,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3695,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 4000,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 4000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We make a list and off we go.",
+        "SliceSentence": "We make a list and off we go .",
+        "WrittenText": "",
+        "StartMs": 31290,
+        "EndMs": 35470,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "list"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The fruit section is our first stop.",
+        "SliceSentence": "The fruit section is our first stop .",
+        "WrittenText": "",
+        "StartMs": 36000,
+        "EndMs": 40240,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "fruit"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "section"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "first"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I put some mangoes in the basket,",
+        "SliceSentence": "I put some mangoes in the basket ,",
+        "WrittenText": "",
+        "StartMs": 40740,
+        "EndMs": 44350,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 2560,
+            "Word": "mangoes"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3065,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3305,
+            "OffsetEndMs": 3610,
+            "Word": "basket"
+          },
+          {
+            "OffsetStartMs": 3305,
+            "OffsetEndMs": 3610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " then I add some apples on top.",
+        "SliceSentence": "then I add some apples on top .",
+        "WrittenText": "",
+        "StartMs": 45960,
+        "EndMs": 49900,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "add"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "top"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

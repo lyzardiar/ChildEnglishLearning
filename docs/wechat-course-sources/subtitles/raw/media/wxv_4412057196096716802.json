@@ -1,0 +1,893 @@
+{
+  "RequestId": "2caa9717-5810-4ac9-9fc0-a95cc63f8eb5",
+  "Data": {
+    "TaskId": 16292397680,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 85.077938,
+    "Result": "Leon in the classroom? Where's Leon ted?Let's find him. Emily, close the door please look at this school bag. Is Leon in it? No, put the school in the desk. Okay, hey ted, it's Leon yes but it's a picture clean the blackboard please okay oh no it's my picture oh sorry but don't draw on the black hole. Look blue clue. Find a tree a tree here look a tree. I have an idea.Give me an eraser, please. Here you are. Thanks. It's Leon. Oh.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Leon in the classroom?",
+        "SliceSentence": "Leon in the classroom ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2420,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1455,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1800,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2085,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2420,
+            "Word": "classroom"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where's Leon ted?",
+        "SliceSentence": "Where's Leon ted ?",
+        "WrittenText": "",
+        "StartMs": 6640,
+        "EndMs": 8480,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1180,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "ted"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's find him.",
+        "SliceSentence": "Let's find him .",
+        "WrittenText": "",
+        "StartMs": 9460,
+        "EndMs": 12330,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2175,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 2175,
+            "OffsetEndMs": 2450,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2870,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Emily,",
+        "SliceSentence": "Emily ,",
+        "WrittenText": "",
+        "StartMs": 12530,
+        "EndMs": 13230,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "Emily"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " close the door please look at this school bag.",
+        "SliceSentence": "close the door please look at this school bag .",
+        "WrittenText": "",
+        "StartMs": 13610,
+        "EndMs": 22440,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "close"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 710,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1000,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 6960,
+            "OffsetEndMs": 7325,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 7325,
+            "OffsetEndMs": 7655,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 7655,
+            "OffsetEndMs": 8000,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 8000,
+            "OffsetEndMs": 8380,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 8430,
+            "OffsetEndMs": 8830,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 8430,
+            "OffsetEndMs": 8830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is Leon in it?",
+        "SliceSentence": "Is Leon in it ?",
+        "WrittenText": "",
+        "StartMs": 23990,
+        "EndMs": 25590,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 1010,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1295,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 27050,
+        "EndMs": 27450,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " put the school in the desk.",
+        "SliceSentence": "put the school in the desk .",
+        "WrittenText": "",
+        "StartMs": 28070,
+        "EndMs": 30270,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1715,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 1925,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2200,
+            "Word": "desk"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 31190,
+        "EndMs": 31590,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hey ted,",
+        "SliceSentence": "hey ted ,",
+        "WrittenText": "",
+        "StartMs": 33290,
+        "EndMs": 34140,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hey"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "ted"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's Leon yes but it's a picture clean the blackboard please okay oh no it's my picture oh sorry but don't draw on the black hole.",
+        "SliceSentence": "it's Leon yes but it's a picture clean the blackboard please okay oh no it's my picture oh sorry but don't draw on the black hole .",
+        "WrittenText": "",
+        "StartMs": 34640,
+        "EndMs": 52260,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 27,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 1030,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "yes"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3050,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3425,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3575,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3575,
+            "OffsetEndMs": 3850,
+            "Word": "picture"
+          },
+          {
+            "OffsetStartMs": 4980,
+            "OffsetEndMs": 5330,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 5330,
+            "OffsetEndMs": 5570,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5570,
+            "OffsetEndMs": 6160,
+            "Word": "blackboard"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6640,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 7440,
+            "OffsetEndMs": 7840,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 9960,
+            "OffsetEndMs": 10360,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 10470,
+            "OffsetEndMs": 10870,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 11400,
+            "OffsetEndMs": 11810,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 11810,
+            "OffsetEndMs": 12050,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 12050,
+            "OffsetEndMs": 12430,
+            "Word": "picture"
+          },
+          {
+            "OffsetStartMs": 13800,
+            "OffsetEndMs": 14195,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 14195,
+            "OffsetEndMs": 14590,
+            "Word": "sorry"
+          },
+          {
+            "OffsetStartMs": 15090,
+            "OffsetEndMs": 15425,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 15425,
+            "OffsetEndMs": 15860,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 15860,
+            "OffsetEndMs": 16150,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 16170,
+            "OffsetEndMs": 16520,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 16520,
+            "OffsetEndMs": 16820,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 16820,
+            "OffsetEndMs": 17170,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 17220,
+            "OffsetEndMs": 17620,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 17220,
+            "OffsetEndMs": 17620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look blue clue.",
+        "SliceSentence": "Look blue clue .",
+        "WrittenText": "",
+        "StartMs": 55940,
+        "EndMs": 57810,
+        "SpeechSpeed": 8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1870,
+            "Word": "clue"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Find a tree a tree here look a tree.",
+        "SliceSentence": "Find a tree a tree here look a tree .",
+        "WrittenText": "",
+        "StartMs": 59090,
+        "EndMs": 67320,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Find"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3575,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3575,
+            "OffsetEndMs": 3910,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 6660,
+            "OffsetEndMs": 7060,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 7560,
+            "OffsetEndMs": 7895,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7895,
+            "OffsetEndMs": 8230,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 7895,
+            "OffsetEndMs": 8230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have an idea.",
+        "SliceSentence": "I have an idea .",
+        "WrittenText": "",
+        "StartMs": 67910,
+        "EndMs": 68910,
+        "SpeechSpeed": 15,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 725,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1000,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Give me an eraser,",
+        "SliceSentence": "Give me an eraser ,",
+        "WrittenText": "",
+        "StartMs": 69900,
+        "EndMs": 72915,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1710,
+            "Word": "Give"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 1995,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1995,
+            "OffsetEndMs": 2205,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 3015,
+            "Word": "eraser"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 3015,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " please.",
+        "SliceSentence": "please .",
+        "WrittenText": "",
+        "StartMs": 72915,
+        "EndMs": 73250,
+        "SpeechSpeed": 20.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here you are.",
+        "SliceSentence": "Here you are .",
+        "WrittenText": "",
+        "StartMs": 74290,
+        "EndMs": 75380,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 800,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1090,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thanks.",
+        "SliceSentence": "Thanks .",
+        "WrittenText": "",
+        "StartMs": 75940,
+        "EndMs": 76340,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thanks"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's Leon.",
+        "SliceSentence": "It's Leon .",
+        "WrittenText": "",
+        "StartMs": 81040,
+        "EndMs": 82070,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 1030,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh.",
+        "SliceSentence": "Oh .",
+        "WrittenText": "",
+        "StartMs": 82810,
+        "EndMs": 83210,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

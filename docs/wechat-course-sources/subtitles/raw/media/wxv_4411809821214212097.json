@@ -1,0 +1,354 @@
+{
+  "RequestId": "39c49c2b-9ead-4e4d-a8df-a15d70d14dc8",
+  "Data": {
+    "TaskId": 16292405210,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 35.340813,
+    "Result": "Strawberries, apples and bananas. Strawberries grow on low plants. They grow in warm weather. Apples grow on trees. People pick apples in autumn. Bananas grow on tall plants. They grow in hot places.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Strawberries,",
+        "SliceSentence": "Strawberries ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1640,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1640,
+            "Word": "Strawberries"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1640,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " apples and bananas.",
+        "SliceSentence": "apples and bananas .",
+        "WrittenText": "",
+        "StartMs": 2020,
+        "EndMs": 4820,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2800,
+            "Word": "bananas"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Strawberries grow on low plants.",
+        "SliceSentence": "Strawberries grow on low plants .",
+        "WrittenText": "",
+        "StartMs": 6790,
+        "EndMs": 10100,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 970,
+            "Word": "Strawberries"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "low"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They grow in warm weather.",
+        "SliceSentence": "They grow in warm weather .",
+        "WrittenText": "",
+        "StartMs": 11470,
+        "EndMs": 14270,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "weather"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Apples grow on trees.",
+        "SliceSentence": "Apples grow on trees .",
+        "WrittenText": "",
+        "StartMs": 15670,
+        "EndMs": 18410,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Apples"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "trees"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People pick apples in autumn.",
+        "SliceSentence": "People pick apples in autumn .",
+        "WrittenText": "",
+        "StartMs": 19570,
+        "EndMs": 23390,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "pick"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3820,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bananas grow on tall plants.",
+        "SliceSentence": "Bananas grow on tall plants .",
+        "WrittenText": "",
+        "StartMs": 25030,
+        "EndMs": 28880,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1060,
+            "Word": "Bananas"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They grow in hot places.",
+        "SliceSentence": "They grow in hot places .",
+        "WrittenText": "",
+        "StartMs": 30250,
+        "EndMs": 33200,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "places"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

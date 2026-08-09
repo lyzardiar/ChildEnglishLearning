@@ -1,0 +1,1226 @@
+{
+  "RequestId": "0cb7c4eb-b385-465e-b834-09387ae1852b",
+  "Data": {
+    "TaskId": 16291888692,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 125.852188,
+    "Result": "Leon in the garden. Look at the garden. Laura, it's lovely. But where's Leon? I don't know. Look, it's blue clue. Leon is hungry. What food does Leon like? I don't know, but I have an idea. Tomatoes? Do you like tomatoes Andy? Yes, I do.Do you like tomatoes? Leon apples? Do you like apples Laura? Yes, I do. Do you like apples? Leon carrots. Do you like carrots Andy? No, I don't, but do you like carrots Leon? Look bugs. Ew, let's go bugs. Yum. Here's Leon. Leah likes bugs.Oh.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Leon in the garden.",
+        "SliceSentence": "Leon in the garden .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2090,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 1160,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1605,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1605,
+            "OffsetEndMs": 1815,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2090,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the garden.",
+        "SliceSentence": "Look at the garden .",
+        "WrittenText": "",
+        "StartMs": 8770,
+        "EndMs": 10130,
+        "SpeechSpeed": 14,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1070,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1360,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Laura,",
+        "SliceSentence": "Laura ,",
+        "WrittenText": "",
+        "StartMs": 10780,
+        "EndMs": 11630,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "Laura"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's lovely.",
+        "SliceSentence": "it's lovely .",
+        "WrittenText": "",
+        "StartMs": 14800,
+        "EndMs": 15560,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "lovely"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But where's Leon?",
+        "SliceSentence": "But where's Leon ?",
+        "WrittenText": "",
+        "StartMs": 16150,
+        "EndMs": 17600,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 890,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1450,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't know.",
+        "SliceSentence": "I don't know .",
+        "WrittenText": "",
+        "StartMs": 18040,
+        "EndMs": 19310,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 980,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1270,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 24250,
+        "EndMs": 24650,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's blue clue.",
+        "SliceSentence": "it's blue clue .",
+        "WrittenText": "",
+        "StartMs": 25180,
+        "EndMs": 26330,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 740,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1150,
+            "Word": "clue"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leon is hungry.",
+        "SliceSentence": "Leon is hungry .",
+        "WrittenText": "",
+        "StartMs": 28600,
+        "EndMs": 30170,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What food does Leon like?",
+        "SliceSentence": "What food does Leon like ?",
+        "WrittenText": "",
+        "StartMs": 38590,
+        "EndMs": 40970,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1415,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 2000,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2380,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't know,",
+        "SliceSentence": "I don't know ,",
+        "WrittenText": "",
+        "StartMs": 41800,
+        "EndMs": 42800,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 725,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1000,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1000,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but I have an idea.",
+        "SliceSentence": "but I have an idea .",
+        "WrittenText": "",
+        "StartMs": 43900,
+        "EndMs": 45470,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 995,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1280,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tomatoes?",
+        "SliceSentence": "Tomatoes ?",
+        "WrittenText": "",
+        "StartMs": 50830,
+        "EndMs": 51380,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 550,
+            "Word": "Tomatoes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 550,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like tomatoes Andy?",
+        "SliceSentence": "Do you like tomatoes Andy ?",
+        "WrittenText": "",
+        "StartMs": 52330,
+        "EndMs": 54230,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 770,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1210,
+            "Word": "tomatoes"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "Andy"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 55240,
+        "EndMs": 55640,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I do.",
+        "SliceSentence": "I do .",
+        "WrittenText": "",
+        "StartMs": 55930,
+        "EndMs": 56720,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Do you like tomatoes?",
+        "SliceSentence": "Do you like tomatoes ?",
+        "WrittenText": "",
+        "StartMs": 60380,
+        "EndMs": 62650,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1230,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1425,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1425,
+            "OffsetEndMs": 1710,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2270,
+            "Word": "tomatoes"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leon apples?",
+        "SliceSentence": "Leon apples ?",
+        "WrittenText": "",
+        "StartMs": 63120,
+        "EndMs": 67030,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 610,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like apples Laura?",
+        "SliceSentence": "Do you like apples Laura ?",
+        "WrittenText": "",
+        "StartMs": 67890,
+        "EndMs": 70570,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 755,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2680,
+            "Word": "Laura"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2680,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 71640,
+        "EndMs": 71990,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I do.",
+        "SliceSentence": "I do .",
+        "WrittenText": "",
+        "StartMs": 71990,
+        "EndMs": 72580,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 590,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like apples?",
+        "SliceSentence": "Do you like apples ?",
+        "WrittenText": "",
+        "StartMs": 73650,
+        "EndMs": 74980,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 980,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1330,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leon carrots.",
+        "SliceSentence": "Leon carrots .",
+        "WrittenText": "",
+        "StartMs": 75480,
+        "EndMs": 80440,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 670,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4960,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like carrots Andy?",
+        "SliceSentence": "Do you like carrots Andy ?",
+        "WrittenText": "",
+        "StartMs": 81360,
+        "EndMs": 83530,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 875,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1660,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "Andy"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 84900,
+        "EndMs": 85300,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't,",
+        "SliceSentence": "I don't ,",
+        "WrittenText": "",
+        "StartMs": 85830,
+        "EndMs": 87250,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1420,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1420,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but do you like carrots Leon?",
+        "SliceSentence": "but do you like carrots Leon ?",
+        "WrittenText": "",
+        "StartMs": 88200,
+        "EndMs": 91240,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 890,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1240,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 2170,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 3040,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 3040,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look bugs.",
+        "SliceSentence": "Look bugs .",
+        "WrittenText": "",
+        "StartMs": 93780,
+        "EndMs": 95590,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1810,
+            "Word": "bugs"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ew,",
+        "SliceSentence": "Ew ,",
+        "WrittenText": "",
+        "StartMs": 100590,
+        "EndMs": 101500,
+        "SpeechSpeed": 3.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "Ew"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's go bugs.",
+        "SliceSentence": "let's go bugs .",
+        "WrittenText": "",
+        "StartMs": 101760,
+        "EndMs": 107860,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 820,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 6100,
+            "Word": "bugs"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 6100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yum.",
+        "SliceSentence": "Yum .",
+        "WrittenText": "",
+        "StartMs": 108570,
+        "EndMs": 109000,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Yum"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here's Leon.",
+        "SliceSentence": "Here's Leon .",
+        "WrittenText": "",
+        "StartMs": 113970,
+        "EndMs": 115330,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "Here's"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1360,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leah likes bugs.",
+        "SliceSentence": "Leah likes bugs .",
+        "WrittenText": "",
+        "StartMs": 116970,
+        "EndMs": 119290,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "Leah"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2320,
+            "Word": "bugs"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Oh.",
+        "SliceSentence": "Oh .",
+        "WrittenText": "",
+        "StartMs": 120420,
+        "EndMs": 120650,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 230,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

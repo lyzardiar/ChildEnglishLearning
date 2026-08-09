@@ -1,0 +1,201 @@
+{
+  "RequestId": "6c844d8c-3081-4921-9f17-1f3c9386b434",
+  "Data": {
+    "TaskId": 16292406470,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.302063,
+    "Result": "R r rain, rain go away. Little rabbit wants to play they they go away. Little rabbit wants to play.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "R r rain,",
+        "SliceSentence": "R r rain ,",
+        "WrittenText": "",
+        "StartMs": 840,
+        "EndMs": 7670,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "R"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 6430,
+            "OffsetEndMs": 6830,
+            "Word": "rain"
+          },
+          {
+            "OffsetStartMs": 6430,
+            "OffsetEndMs": 6830,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " rain go away.",
+        "SliceSentence": "rain go away .",
+        "WrittenText": "",
+        "StartMs": 8470,
+        "EndMs": 11180,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "rain"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "away"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little rabbit wants to play they they go away.",
+        "SliceSentence": "Little rabbit wants to play they they go away .",
+        "WrittenText": "",
+        "StartMs": 12010,
+        "EndMs": 23150,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 7140,
+            "OffsetEndMs": 7540,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 8370,
+            "OffsetEndMs": 8770,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 9570,
+            "OffsetEndMs": 9970,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 10740,
+            "OffsetEndMs": 11140,
+            "Word": "away"
+          },
+          {
+            "OffsetStartMs": 10740,
+            "OffsetEndMs": 11140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little rabbit wants to play.",
+        "SliceSentence": "Little rabbit wants to play .",
+        "WrittenText": "",
+        "StartMs": 23980,
+        "EndMs": 27950,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

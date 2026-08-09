@@ -1,0 +1,600 @@
+{
+  "RequestId": "1017f59d-7192-4d7f-9152-21b84d6530a2",
+  "Data": {
+    "TaskId": 16292516385,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 35.410438,
+    "Result": "Laura wants to buy a new skirt. The old one is too small but she cannot find her purse. It is not on the door. It's over there, says her mum just on the floor. Laura wants to buy a new skirt. The old one is too small but she cannot find her. Percy is not on the door. It's over there, says her mum, just on the floor.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Laura wants to buy a new skirt.",
+        "SliceSentence": "Laura wants to buy a new skirt .",
+        "WrittenText": "",
+        "StartMs": 140,
+        "EndMs": 4715,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2440,
+            "OffsetEndMs": 3090,
+            "Word": "Laura"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3375,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 3375,
+            "OffsetEndMs": 3660,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 3900,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4080,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4260,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4575,
+            "Word": "skirt"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4575,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The old one is too small but she cannot find her purse.",
+        "SliceSentence": "The old one is too small but she cannot find her purse .",
+        "WrittenText": "",
+        "StartMs": 4715,
+        "EndMs": 9605,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 545,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 565,
+            "OffsetEndMs": 900,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1185,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1500,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1865,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2605,
+            "OffsetEndMs": 2955,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2955,
+            "OffsetEndMs": 3240,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3575,
+            "Word": "cannot"
+          },
+          {
+            "OffsetStartMs": 3775,
+            "OffsetEndMs": 4155,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 4155,
+            "OffsetEndMs": 4455,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 4455,
+            "OffsetEndMs": 4890,
+            "Word": "purse"
+          },
+          {
+            "OffsetStartMs": 4455,
+            "OffsetEndMs": 4890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is not on the door.",
+        "SliceSentence": "It is not on the door .",
+        "WrittenText": "",
+        "StartMs": 9605,
+        "EndMs": 11290,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 165,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 165,
+            "OffsetEndMs": 450,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 765,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1065,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1350,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1685,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1685,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's over there,",
+        "SliceSentence": "It's over there ,",
+        "WrittenText": "",
+        "StartMs": 11850,
+        "EndMs": 13120,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 670,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says her mum just on the floor.",
+        "SliceSentence": "says her mum just on the floor .",
+        "WrittenText": "",
+        "StartMs": 13290,
+        "EndMs": 16060,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "just"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2150,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2435,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2770,
+            "Word": "floor"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Laura wants to buy a new skirt.",
+        "SliceSentence": "Laura wants to buy a new skirt .",
+        "WrittenText": "",
+        "StartMs": 19200,
+        "EndMs": 21485,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "Laura"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1055,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1355,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1595,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1775,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 1970,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2285,
+            "Word": "skirt"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2285,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The old one is too small but she cannot find her.",
+        "SliceSentence": "The old one is too small but she cannot find her .",
+        "WrittenText": "",
+        "StartMs": 21485,
+        "EndMs": 25925,
+        "SpeechSpeed": 11,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 545,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 565,
+            "OffsetEndMs": 885,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1155,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1470,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1835,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2485,
+            "OffsetEndMs": 2850,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3165,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 3165,
+            "OffsetEndMs": 3515,
+            "Word": "cannot"
+          },
+          {
+            "OffsetStartMs": 3745,
+            "OffsetEndMs": 4125,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 4125,
+            "OffsetEndMs": 4440,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 4125,
+            "OffsetEndMs": 4440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Percy is not on the door.",
+        "SliceSentence": "Percy is not on the door .",
+        "WrittenText": "",
+        "StartMs": 25925,
+        "EndMs": 28000,
+        "SpeechSpeed": 12,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 600,
+            "Word": "Percy"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 900,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1200,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1485,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1755,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2075,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2075,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's over there,",
+        "SliceSentence": "It's over there ,",
+        "WrittenText": "",
+        "StartMs": 28410,
+        "EndMs": 29770,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says her mum,",
+        "SliceSentence": "says her mum ,",
+        "WrittenText": "",
+        "StartMs": 30000,
+        "EndMs": 31030,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 695,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " just on the floor.",
+        "SliceSentence": "just on the floor .",
+        "WrittenText": "",
+        "StartMs": 31200,
+        "EndMs": 32800,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "just"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "floor"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

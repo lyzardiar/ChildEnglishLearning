@@ -1,0 +1,1609 @@
+{
+  "RequestId": "80257f5b-9ff7-4944-9b34-dbb69fee933a",
+  "Data": {
+    "TaskId": 16292543115,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 116.192688,
+    "Result": "The giant's garden, a giant lives in a big house with a beautiful garden. Children like to play in the garden. They have a lot of fun there. The giant finds the children in his garden. He is very angry. Get out, get out. The giant builds a tall wall around his garden. No entry now. The children cannot play in his garden soon Miss spring comes. She brings beautiful flowers and birds, but she does not bring any to the giant's garden. It's cold here. Where's Miss spring? The giant looks at his garden and feels sad Miss spring, Miss summer.And Miss autumn, do not visit the giant. It is always winter in the giant's garden. I don't like the giant, he's not kind to children. One morning the giant hears some lovely sounds. He sees some beautiful flowers too. The giant is very happy hooray Miss spring is here. The giant finds some children in his garden. They are coming through a hole they bring Miss spring to his garden the giant knocks down the wall around his garden children. You can play in my garden anytime Miss spring never comes late again.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The giant's garden,",
+        "SliceSentence": "The giant's garden ,",
+        "WrittenText": "",
+        "StartMs": 680,
+        "EndMs": 2050,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 435,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 1110,
+            "Word": "giant's"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1370,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1370,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a giant lives in a big house with a beautiful garden.",
+        "SliceSentence": "a giant lives in a big house with a beautiful garden .",
+        "WrittenText": "",
+        "StartMs": 4740,
+        "EndMs": 8860,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1640,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2090,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2440,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3080,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3275,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3275,
+            "OffsetEndMs": 3580,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Children like to play in the garden.",
+        "SliceSentence": "Children like to play in the garden .",
+        "WrittenText": "",
+        "StartMs": 10350,
+        "EndMs": 12520,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Children"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 995,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1295,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1565,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1775,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 1910,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2170,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They have a lot of fun there.",
+        "SliceSentence": "They have a lot of fun there .",
+        "WrittenText": "",
+        "StartMs": 13590,
+        "EndMs": 15370,
+        "SpeechSpeed": 16.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 485,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 905,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1115,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1400,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1780,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The giant finds the children in his garden.",
+        "SliceSentence": "The giant finds the children in his garden .",
+        "WrittenText": "",
+        "StartMs": 16140,
+        "EndMs": 19300,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "finds"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1655,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1930,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2600,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2840,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 3160,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 3160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He is very angry.",
+        "SliceSentence": "He is very angry .",
+        "WrittenText": "",
+        "StartMs": 20670,
+        "EndMs": 22210,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 970,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "angry"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Get out,",
+        "SliceSentence": "Get out ,",
+        "WrittenText": "",
+        "StartMs": 23280,
+        "EndMs": 23980,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " get out.",
+        "SliceSentence": "get out .",
+        "WrittenText": "",
+        "StartMs": 24420,
+        "EndMs": 25150,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The giant builds a tall wall around his garden.",
+        "SliceSentence": "The giant builds a tall wall around his garden .",
+        "WrittenText": "",
+        "StartMs": 26310,
+        "EndMs": 29920,
+        "SpeechSpeed": 13,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1340,
+            "Word": "builds"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "wall"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2930,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3260,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3610,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No entry now.",
+        "SliceSentence": "No entry now .",
+        "WrittenText": "",
+        "StartMs": 31380,
+        "EndMs": 34340,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "entry"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2960,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The children cannot play in his garden soon Miss spring comes.",
+        "SliceSentence": "The children cannot play in his garden soon Miss spring comes .",
+        "WrittenText": "",
+        "StartMs": 34340,
+        "EndMs": 40360,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 530,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "cannot"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1575,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1845,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2085,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2390,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 3940,
+            "OffsetEndMs": 4340,
+            "Word": "soon"
+          },
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5120,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 5260,
+            "OffsetEndMs": 5640,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 6020,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 6020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She brings beautiful flowers and birds,",
+        "SliceSentence": "She brings beautiful flowers and birds ,",
+        "WrittenText": "",
+        "StartMs": 42000,
+        "EndMs": 44260,
+        "SpeechSpeed": 17.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "brings"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1955,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2260,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2260,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but she does not bring any to the giant's garden.",
+        "SliceSentence": "but she does not bring any to the giant's garden .",
+        "WrittenText": "",
+        "StartMs": 45000,
+        "EndMs": 47620,
+        "SpeechSpeed": 18.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 665,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 920,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1190,
+            "Word": "bring"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1505,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1760,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 1895,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2360,
+            "Word": "giant's"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2620,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cold here.",
+        "SliceSentence": "It's cold here .",
+        "WrittenText": "",
+        "StartMs": 49290,
+        "EndMs": 50560,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where's Miss spring?",
+        "SliceSentence": "Where's Miss spring ?",
+        "WrittenText": "",
+        "StartMs": 51210,
+        "EndMs": 52600,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 880,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The giant looks at his garden and feels sad Miss spring,",
+        "SliceSentence": "The giant looks at his garden and feels sad Miss spring ,",
+        "WrittenText": "",
+        "StartMs": 53940,
+        "EndMs": 59920,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1160,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1430,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1625,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1930,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2675,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3040,
+            "Word": "feels"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "sad"
+          },
+          {
+            "OffsetStartMs": 5130,
+            "OffsetEndMs": 5530,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 5980,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 5980,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Miss summer.",
+        "SliceSentence": "Miss summer .",
+        "WrittenText": "",
+        "StartMs": 60270,
+        "EndMs": 61030,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "And Miss autumn,",
+        "SliceSentence": "And Miss autumn ,",
+        "WrittenText": "",
+        "StartMs": 61160,
+        "EndMs": 62770,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 585,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 585,
+            "OffsetEndMs": 930,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1610,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " do not visit the giant.",
+        "SliceSentence": "do not visit the giant .",
+        "WrittenText": "",
+        "StartMs": 62820,
+        "EndMs": 64480,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1130,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1660,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is always winter in the giant's garden.",
+        "SliceSentence": "It is always winter in the giant's garden .",
+        "WrittenText": "",
+        "StartMs": 65310,
+        "EndMs": 68290,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1100,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1940,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2120,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2720,
+            "Word": "giant's"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 2980,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't like the giant,",
+        "SliceSentence": "I don't like the giant ,",
+        "WrittenText": "",
+        "StartMs": 70740,
+        "EndMs": 72670,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1010,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1640,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1930,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1930,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he's not kind to children.",
+        "SliceSentence": "he's not kind to children .",
+        "WrittenText": "",
+        "StartMs": 73170,
+        "EndMs": 75070,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "he's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 710,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "kind"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1595,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One morning the giant hears some lovely sounds.",
+        "SliceSentence": "One morning the giant hears some lovely sounds .",
+        "WrittenText": "",
+        "StartMs": 76410,
+        "EndMs": 79990,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1780,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2435,
+            "Word": "hears"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2750,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3130,
+            "Word": "lovely"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He sees some beautiful flowers too.",
+        "SliceSentence": "He sees some beautiful flowers too .",
+        "WrittenText": "",
+        "StartMs": 81210,
+        "EndMs": 83740,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 950,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1330,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The giant is very happy hooray Miss spring is here.",
+        "SliceSentence": "The giant is very happy hooray Miss spring is here .",
+        "WrittenText": "",
+        "StartMs": 84870,
+        "EndMs": 90730,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1190,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3760,
+            "Word": "hooray"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4720,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 4950,
+            "OffsetEndMs": 5300,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 5300,
+            "OffsetEndMs": 5555,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5555,
+            "OffsetEndMs": 5860,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 5555,
+            "OffsetEndMs": 5860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The giant finds some children in his garden.",
+        "SliceSentence": "The giant finds some children in his garden .",
+        "WrittenText": "",
+        "StartMs": 92010,
+        "EndMs": 94750,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "finds"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2240,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2435,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2740,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are coming through a hole they bring Miss spring to his garden the giant knocks down the wall around his garden children.",
+        "SliceSentence": "They are coming through a hole they bring Miss spring to his garden the giant knocks down the wall around his garden children .",
+        "WrittenText": "",
+        "StartMs": 95430,
+        "EndMs": 106540,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 24,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 410,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 700,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1115,
+            "Word": "through"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1310,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1600,
+            "Word": "hole"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2885,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3170,
+            "Word": "bring"
+          },
+          {
+            "OffsetStartMs": 3170,
+            "OffsetEndMs": 3520,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4430,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 4430,
+            "OffsetEndMs": 4670,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 4670,
+            "OffsetEndMs": 4990,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 6180,
+            "OffsetEndMs": 6485,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6485,
+            "OffsetEndMs": 6790,
+            "Word": "giant"
+          },
+          {
+            "OffsetStartMs": 6960,
+            "OffsetEndMs": 7460,
+            "Word": "knocks"
+          },
+          {
+            "OffsetStartMs": 7460,
+            "OffsetEndMs": 7715,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 7715,
+            "OffsetEndMs": 7940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7940,
+            "OffsetEndMs": 8200,
+            "Word": "wall"
+          },
+          {
+            "OffsetStartMs": 8640,
+            "OffsetEndMs": 9005,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 9005,
+            "OffsetEndMs": 9290,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 9290,
+            "OffsetEndMs": 9610,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 10710,
+            "OffsetEndMs": 11110,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 10710,
+            "OffsetEndMs": 11110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can play in my garden anytime Miss spring never comes late again.",
+        "SliceSentence": "You can play in my garden anytime Miss spring never comes late again .",
+        "WrittenText": "",
+        "StartMs": 107310,
+        "EndMs": 114220,
+        "SpeechSpeed": 10,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 980,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1220,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1460,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1810,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 3010,
+            "Word": "anytime"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4360,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 4810,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5590,
+            "Word": "never"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 6035,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 6035,
+            "OffsetEndMs": 6430,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 6510,
+            "OffsetEndMs": 6910,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 6510,
+            "OffsetEndMs": 6910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

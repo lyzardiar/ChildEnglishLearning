@@ -1,0 +1,546 @@
+{
+  "RequestId": "126b6686-ecd4-4554-9d7b-3954a2ca2296",
+  "Data": {
+    "TaskId": 16292440035,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 53.196938,
+    "Result": "Oh, oh.Bone, bone.Home home.Phone.Phone.Rose is at home. She talks on the phone. Where is her dog? Hope he plays with a bone Rose's at home. She talks on the phone. Where is her dog home? He plays with a ball.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 1000,
+        "EndMs": 1410,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " oh.",
+        "SliceSentence": "oh .",
+        "WrittenText": "",
+        "StartMs": 2120,
+        "EndMs": 2520,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bone,",
+        "SliceSentence": "Bone ,",
+        "WrittenText": "",
+        "StartMs": 8420,
+        "EndMs": 8920,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Bone"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " bone.",
+        "SliceSentence": "bone .",
+        "WrittenText": "",
+        "StartMs": 9660,
+        "EndMs": 10060,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "bone"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Home home.",
+        "SliceSentence": "Home home .",
+        "WrittenText": "",
+        "StartMs": 14840,
+        "EndMs": 16480,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Home"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Phone.",
+        "SliceSentence": "Phone .",
+        "WrittenText": "",
+        "StartMs": 20440,
+        "EndMs": 20820,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Phone"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Phone.",
+        "SliceSentence": "Phone .",
+        "WrittenText": "",
+        "StartMs": 21900,
+        "EndMs": 22190,
+        "SpeechSpeed": 17.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Phone"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Rose is at home.",
+        "SliceSentence": "Rose is at home .",
+        "WrittenText": "",
+        "StartMs": 25460,
+        "EndMs": 32560,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 5680,
+            "OffsetEndMs": 6045,
+            "Word": "Rose"
+          },
+          {
+            "OffsetStartMs": 6045,
+            "OffsetEndMs": 6315,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 6315,
+            "OffsetEndMs": 6620,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She talks on the phone.",
+        "SliceSentence": "She talks on the phone .",
+        "WrittenText": "",
+        "StartMs": 33210,
+        "EndMs": 35020,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "talks"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1265,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "phone"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is her dog?",
+        "SliceSentence": "Where is her dog ?",
+        "WrittenText": "",
+        "StartMs": 35970,
+        "EndMs": 37190,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 920,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hope he plays with a bone Rose's at home.",
+        "SliceSentence": "Hope he plays with a bone Rose's at home .",
+        "WrittenText": "",
+        "StartMs": 37190,
+        "EndMs": 44530,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Hope"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1110,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1460,
+            "Word": "plays"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2040,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2295,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2295,
+            "OffsetEndMs": 2600,
+            "Word": "bone"
+          },
+          {
+            "OffsetStartMs": 5830,
+            "OffsetEndMs": 6585,
+            "Word": "Rose's"
+          },
+          {
+            "OffsetStartMs": 6585,
+            "OffsetEndMs": 6830,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She talks on the phone.",
+        "SliceSentence": "She talks on the phone .",
+        "WrittenText": "",
+        "StartMs": 45120,
+        "EndMs": 46990,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "talks"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1265,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1550,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1870,
+            "Word": "phone"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is her dog home?",
+        "SliceSentence": "Where is her dog home ?",
+        "WrittenText": "",
+        "StartMs": 47880,
+        "EndMs": 49420,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1190,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He plays with a ball.",
+        "SliceSentence": "He plays with a ball .",
+        "WrittenText": "",
+        "StartMs": 49920,
+        "EndMs": 51760,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "plays"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "ball"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

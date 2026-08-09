@@ -1,0 +1,745 @@
+{
+  "RequestId": "9e81c77e-6c60-4b2b-ac5c-e0a181fe1be1",
+  "Data": {
+    "TaskId": 16292420782,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.813063,
+    "Result": "Mary's pencil case.Good morning, everyone. Let's draw. Where's my pencil case? Is that my pencil case? No, how many pencil four? Oh, I have three pencils. Is that my pencil? No, it's my pencil. Sorry, who's at the door? It's Mary's dad. Sorry, Miss Jones. Mary, this is your pencil case. Sorry everybody.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Mary's pencil case.",
+        "SliceSentence": "Mary's pencil case .",
+        "WrittenText": "",
+        "StartMs": 260,
+        "EndMs": 2230,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 1050,
+            "Word": "Mary's"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1400,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1570,
+            "OffsetEndMs": 1970,
+            "Word": "case"
+          },
+          {
+            "OffsetStartMs": 1570,
+            "OffsetEndMs": 1970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Good morning,",
+        "SliceSentence": "Good morning ,",
+        "WrittenText": "",
+        "StartMs": 3760,
+        "EndMs": 4680,
+        "SpeechSpeed": 13,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " everyone.",
+        "SliceSentence": "everyone .",
+        "WrittenText": "",
+        "StartMs": 5570,
+        "EndMs": 5970,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "everyone"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's draw.",
+        "SliceSentence": "Let's draw .",
+        "WrittenText": "",
+        "StartMs": 6590,
+        "EndMs": 7710,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where's my pencil case?",
+        "SliceSentence": "Where's my pencil case ?",
+        "WrittenText": "",
+        "StartMs": 13790,
+        "EndMs": 15480,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 785,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1090,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "case"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is that my pencil case?",
+        "SliceSentence": "Is that my pencil case ?",
+        "WrittenText": "",
+        "StartMs": 16790,
+        "EndMs": 18960,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1115,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "case"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 19670,
+        "EndMs": 20070,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " how many pencil four?",
+        "SliceSentence": "how many pencil four ?",
+        "WrittenText": "",
+        "StartMs": 20780,
+        "EndMs": 23280,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 24500,
+        "EndMs": 24900,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have three pencils.",
+        "SliceSentence": "I have three pencils .",
+        "WrittenText": "",
+        "StartMs": 25400,
+        "EndMs": 27360,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1145,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1960,
+            "Word": "pencils"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is that my pencil?",
+        "SliceSentence": "Is that my pencil ?",
+        "WrittenText": "",
+        "StartMs": 29420,
+        "EndMs": 30750,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 740,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1010,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 31640,
+        "EndMs": 32040,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's my pencil.",
+        "SliceSentence": "it's my pencil .",
+        "WrittenText": "",
+        "StartMs": 32480,
+        "EndMs": 33570,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 710,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sorry,",
+        "SliceSentence": "Sorry ,",
+        "WrittenText": "",
+        "StartMs": 34430,
+        "EndMs": 34830,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sorry"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " who's at the door?",
+        "SliceSentence": "who's at the door ?",
+        "WrittenText": "",
+        "StartMs": 39770,
+        "EndMs": 41940,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 875,
+            "Word": "who's"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1850,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2170,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's Mary's dad.",
+        "SliceSentence": "It's Mary's dad .",
+        "WrittenText": "",
+        "StartMs": 44660,
+        "EndMs": 46800,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1790,
+            "Word": "Mary's"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2140,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sorry,",
+        "SliceSentence": "Sorry ,",
+        "WrittenText": "",
+        "StartMs": 47990,
+        "EndMs": 48390,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sorry"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Miss Jones.",
+        "SliceSentence": "Miss Jones .",
+        "WrittenText": "",
+        "StartMs": 48800,
+        "EndMs": 49470,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "Jones"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mary,",
+        "SliceSentence": "Mary ,",
+        "WrittenText": "",
+        "StartMs": 50870,
+        "EndMs": 51270,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mary"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " this is your pencil case.",
+        "SliceSentence": "this is your pencil case .",
+        "WrittenText": "",
+        "StartMs": 52040,
+        "EndMs": 53820,
+        "SpeechSpeed": 14,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 950,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "case"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sorry everybody.",
+        "SliceSentence": "Sorry everybody .",
+        "WrittenText": "",
+        "StartMs": 55730,
+        "EndMs": 57420,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sorry"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "everybody"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

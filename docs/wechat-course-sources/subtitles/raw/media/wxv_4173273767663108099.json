@@ -1,0 +1,734 @@
+{
+  "RequestId": "863cdc31-d650-4769-a6a8-25fb630baf0c",
+  "Data": {
+    "TaskId": 16292419578,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 62.0205,
+    "Result": "The.E.E.E.E.Toe.Elephant.Elephant.F.F.F.F.Toe.The.Eight.Frog.Frog.E for elephant, f for frog, a big elephant and a small frog, e for elephant, f for frog, a big elephant and a small frog.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 380,
+        "EndMs": 820,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E.",
+        "SliceSentence": "E .",
+        "WrittenText": "",
+        "StartMs": 1960,
+        "EndMs": 2400,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E.",
+        "SliceSentence": "E .",
+        "WrittenText": "",
+        "StartMs": 3240,
+        "EndMs": 3680,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E.",
+        "SliceSentence": "E .",
+        "WrittenText": "",
+        "StartMs": 4900,
+        "EndMs": 5310,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E.",
+        "SliceSentence": "E .",
+        "WrittenText": "",
+        "StartMs": 6260,
+        "EndMs": 6520,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7640,
+        "EndMs": 8050,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Elephant.",
+        "SliceSentence": "Elephant .",
+        "WrittenText": "",
+        "StartMs": 13800,
+        "EndMs": 14090,
+        "SpeechSpeed": 27.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Elephant"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Elephant.",
+        "SliceSentence": "Elephant .",
+        "WrittenText": "",
+        "StartMs": 15140,
+        "EndMs": 15580,
+        "SpeechSpeed": 18.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Elephant"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "F.",
+        "SliceSentence": "F .",
+        "WrittenText": "",
+        "StartMs": 20180,
+        "EndMs": 20590,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "F.",
+        "SliceSentence": "F .",
+        "WrittenText": "",
+        "StartMs": 21560,
+        "EndMs": 21910,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "F.",
+        "SliceSentence": "F .",
+        "WrittenText": "",
+        "StartMs": 23100,
+        "EndMs": 23540,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "F.",
+        "SliceSentence": "F .",
+        "WrittenText": "",
+        "StartMs": 24460,
+        "EndMs": 24750,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 25780,
+        "EndMs": 26190,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 27420,
+        "EndMs": 27620,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Eight.",
+        "SliceSentence": "Eight .",
+        "WrittenText": "",
+        "StartMs": 28840,
+        "EndMs": 29280,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Eight"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Frog.",
+        "SliceSentence": "Frog .",
+        "WrittenText": "",
+        "StartMs": 30180,
+        "EndMs": 31070,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 890,
+            "Word": "Frog"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Frog.",
+        "SliceSentence": "Frog .",
+        "WrittenText": "",
+        "StartMs": 31640,
+        "EndMs": 32620,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 980,
+            "Word": "Frog"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E for elephant,",
+        "SliceSentence": "E for elephant ,",
+        "WrittenText": "",
+        "StartMs": 34860,
+        "EndMs": 38420,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2480,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " f for frog,",
+        "SliceSentence": "f for frog ,",
+        "WrittenText": "",
+        "StartMs": 39280,
+        "EndMs": 41300,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "f"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 2020,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 2020,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a big elephant and a small frog,",
+        "SliceSentence": "a big elephant and a small frog ,",
+        "WrittenText": "",
+        "StartMs": 41380,
+        "EndMs": 46040,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2390,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2705,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 3040,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4660,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " e for elephant,",
+        "SliceSentence": "e for elephant ,",
+        "WrittenText": "",
+        "StartMs": 49990,
+        "EndMs": 51500,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "e"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " f for frog,",
+        "SliceSentence": "f for frog ,",
+        "WrittenText": "",
+        "StartMs": 52270,
+        "EndMs": 54320,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "f"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2050,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a big elephant and a small frog.",
+        "SliceSentence": "a big elephant and a small frog .",
+        "WrittenText": "",
+        "StartMs": 54460,
+        "EndMs": 59060,
+        "SpeechSpeed": 7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "elephant"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2360,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2720,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3100,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4600,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

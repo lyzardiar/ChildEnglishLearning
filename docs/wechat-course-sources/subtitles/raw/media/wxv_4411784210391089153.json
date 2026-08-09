@@ -1,0 +1,299 @@
+{
+  "RequestId": "28eab841-d503-439c-969e-e8a23a84e153",
+  "Data": {
+    "TaskId": 16292398485,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 22.198313,
+    "Result": "E.A look than a red hen. Look Ben, a white egg. Look Ben, a red egg. Look Ben, a white egg.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "E.",
+        "SliceSentence": "E .",
+        "WrittenText": "",
+        "StartMs": 900,
+        "EndMs": 1310,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A look than a red hen.",
+        "SliceSentence": "A look than a red hen .",
+        "WrittenText": "",
+        "StartMs": 2320,
+        "EndMs": 9930,
+        "SpeechSpeed": 2.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 5560,
+            "OffsetEndMs": 5960,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 6100,
+            "OffsetEndMs": 6480,
+            "Word": "than"
+          },
+          {
+            "OffsetStartMs": 6480,
+            "OffsetEndMs": 6780,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6780,
+            "OffsetEndMs": 7100,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 7210,
+            "OffsetEndMs": 7610,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 7210,
+            "OffsetEndMs": 7610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look Ben,",
+        "SliceSentence": "Look Ben ,",
+        "WrittenText": "",
+        "StartMs": 10220,
+        "EndMs": 11155,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white egg.",
+        "SliceSentence": "a white egg .",
+        "WrittenText": "",
+        "StartMs": 11155,
+        "EndMs": 12300,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 315,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 315,
+            "OffsetEndMs": 635,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 745,
+            "OffsetEndMs": 1145,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 745,
+            "OffsetEndMs": 1145,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look Ben,",
+        "SliceSentence": "Look Ben ,",
+        "WrittenText": "",
+        "StartMs": 14960,
+        "EndMs": 15930,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a red egg.",
+        "SliceSentence": "a red egg .",
+        "WrittenText": "",
+        "StartMs": 15980,
+        "EndMs": 17040,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look Ben,",
+        "SliceSentence": "Look Ben ,",
+        "WrittenText": "",
+        "StartMs": 17390,
+        "EndMs": 18360,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white egg.",
+        "SliceSentence": "a white egg .",
+        "WrittenText": "",
+        "StartMs": 18380,
+        "EndMs": 19470,
+        "SpeechSpeed": 11,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 20,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

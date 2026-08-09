@@ -1,0 +1,509 @@
+{
+  "RequestId": "741e8581-6093-4a2a-9e0d-6d2062a05914",
+  "Data": {
+    "TaskId": 16292513915,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 37.66275,
+    "Result": "Mark has a little car. The car is yellow and blue. He often drives it in the park on sunday afternoons, but he never drives his car when he goes to school, Mark has a little car. The car is yellow and blue. He often drives it in the park on sunny afternoons, but he never drives his car when he goes to school.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Mark has a little car.",
+        "SliceSentence": "Mark has a little car .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6260,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5070,
+            "Word": "Mark"
+          },
+          {
+            "OffsetStartMs": 5070,
+            "OffsetEndMs": 5325,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 5325,
+            "OffsetEndMs": 5490,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5750,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 5860,
+            "OffsetEndMs": 6260,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 5860,
+            "OffsetEndMs": 6260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The car is yellow and blue.",
+        "SliceSentence": "The car is yellow and blue .",
+        "WrittenText": "",
+        "StartMs": 6820,
+        "EndMs": 8750,
+        "SpeechSpeed": 14,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1565,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He often drives it in the park on sunday afternoons,",
+        "SliceSentence": "He often drives it in the park on sunday afternoons ,",
+        "WrittenText": "",
+        "StartMs": 9250,
+        "EndMs": 13460,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "drives"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1505,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1775,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2045,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2345,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2675,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3010,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 4210,
+            "Word": "afternoons"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 4210,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but he never drives his car when he goes to school,",
+        "SliceSentence": "but he never drives his car when he goes to school ,",
+        "WrittenText": "",
+        "StartMs": 14200,
+        "EndMs": 18230,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "never"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1625,
+            "Word": "drives"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1895,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2200,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2780,
+            "Word": "when"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3050,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3350,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3680,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3680,
+            "OffsetEndMs": 4030,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3680,
+            "OffsetEndMs": 4030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mark has a little car.",
+        "SliceSentence": "Mark has a little car .",
+        "WrittenText": "",
+        "StartMs": 21370,
+        "EndMs": 22970,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Mark"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 680,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 830,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1090,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The car is yellow and blue.",
+        "SliceSentence": "The car is yellow and blue .",
+        "WrittenText": "",
+        "StartMs": 23560,
+        "EndMs": 25490,
+        "SpeechSpeed": 14,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 605,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 950,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1250,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1565,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He often drives it in the park on sunny afternoons,",
+        "SliceSentence": "He often drives it in the park on sunny afternoons ,",
+        "WrittenText": "",
+        "StartMs": 25930,
+        "EndMs": 30200,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1295,
+            "Word": "drives"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1565,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1820,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2090,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2405,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2720,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3040,
+            "Word": "sunny"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 4270,
+            "Word": "afternoons"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 4270,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but he never drives his car when he goes to school.",
+        "SliceSentence": "but he never drives his car when he goes to school .",
+        "WrittenText": "",
+        "StartMs": 30940,
+        "EndMs": 34970,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "never"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1625,
+            "Word": "drives"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1895,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2200,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2810,
+            "Word": "when"
+          },
+          {
+            "OffsetStartMs": 2810,
+            "OffsetEndMs": 3080,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3395,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3695,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 4030,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

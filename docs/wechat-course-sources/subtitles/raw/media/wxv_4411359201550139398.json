@@ -1,0 +1,399 @@
+{
+  "RequestId": "1735f594-c448-4d7a-aa8c-b02c378bee4f",
+  "Data": {
+    "TaskId": 16292479596,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 59.280563,
+    "Result": "Pl pl clay, b l bl blue.It's time to get dressed and go to school. My shoes are black, my shirt is blue. At school, I learn and have plenty of fun. Then I play with my friends in the sun.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Pl pl clay,",
+        "SliceSentence": "Pl pl clay ,",
+        "WrittenText": "",
+        "StartMs": 80,
+        "EndMs": 15370,
+        "SpeechSpeed": 0.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 5680,
+            "OffsetEndMs": 6080,
+            "Word": "Pl"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "pl"
+          },
+          {
+            "OffsetStartMs": 14890,
+            "OffsetEndMs": 15290,
+            "Word": "clay"
+          },
+          {
+            "OffsetStartMs": 14890,
+            "OffsetEndMs": 15290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " b l bl blue.",
+        "SliceSentence": "b l bl blue .",
+        "WrittenText": "",
+        "StartMs": 24180,
+        "EndMs": 33580,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "l"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "bl"
+          },
+          {
+            "OffsetStartMs": 9000,
+            "OffsetEndMs": 9400,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 9000,
+            "OffsetEndMs": 9400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It's time to get dressed and go to school.",
+        "SliceSentence": "It's time to get dressed and go to school .",
+        "WrittenText": "",
+        "StartMs": 36500,
+        "EndMs": 42490,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2265,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 2265,
+            "OffsetEndMs": 2520,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2805,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2805,
+            "OffsetEndMs": 3110,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3620,
+            "Word": "dressed"
+          },
+          {
+            "OffsetStartMs": 3850,
+            "OffsetEndMs": 4250,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 4960,
+            "OffsetEndMs": 5360,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My shoes are black,",
+        "SliceSentence": "My shoes are black ,",
+        "WrittenText": "",
+        "StartMs": 43110,
+        "EndMs": 44890,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "shoes"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my shirt is blue.",
+        "SliceSentence": "my shirt is blue .",
+        "WrittenText": "",
+        "StartMs": 45450,
+        "EndMs": 47290,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At school,",
+        "SliceSentence": "At school ,",
+        "WrittenText": "",
+        "StartMs": 47820,
+        "EndMs": 48580,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I learn and have plenty of fun.",
+        "SliceSentence": "I learn and have plenty of fun .",
+        "WrittenText": "",
+        "StartMs": 48690,
+        "EndMs": 52060,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "learn"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1865,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2260,
+            "Word": "plenty"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then I play with my friends in the sun.",
+        "SliceSentence": "Then I play with my friends in the sun .",
+        "WrittenText": "",
+        "StartMs": 52890,
+        "EndMs": 56830,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2105,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2420,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2800,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3350,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3940,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

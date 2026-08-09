@@ -1,0 +1,916 @@
+{
+  "RequestId": "e9493052-640c-489a-bb9f-130e7235087e",
+  "Data": {
+    "TaskId": 16292429499,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 74.907563,
+    "Result": "The.X.X.X X.Toe.Fox.Fox.The.Why? Why?Why? Why?Toe.Yak.Yak.The.Zed, zed.Zed, zed.Toe.Zebra.Zebra.I see a Fox, I see a yak. I see a zebra in zoo, I see a Fox. I see a yak. I see a zebra in the zoo.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 660,
+        "EndMs": 1100,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "X.",
+        "SliceSentence": "X .",
+        "WrittenText": "",
+        "StartMs": 2220,
+        "EndMs": 2660,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "X"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "X.",
+        "SliceSentence": "X .",
+        "WrittenText": "",
+        "StartMs": 3600,
+        "EndMs": 3860,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "X"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "X X.",
+        "SliceSentence": "X X .",
+        "WrittenText": "",
+        "StartMs": 5200,
+        "EndMs": 6720,
+        "SpeechSpeed": 2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "X"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "X"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7860,
+        "EndMs": 8270,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Fox.",
+        "SliceSentence": "Fox .",
+        "WrittenText": "",
+        "StartMs": 11500,
+        "EndMs": 11940,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Fox.",
+        "SliceSentence": "Fox .",
+        "WrittenText": "",
+        "StartMs": 13020,
+        "EndMs": 13520,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 17220,
+        "EndMs": 17420,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Why?",
+        "SliceSentence": "Why ?",
+        "WrittenText": "",
+        "StartMs": 18540,
+        "EndMs": 19100,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why?",
+        "SliceSentence": "Why ?",
+        "WrittenText": "",
+        "StartMs": 19840,
+        "EndMs": 20240,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Why?",
+        "SliceSentence": "Why ?",
+        "WrittenText": "",
+        "StartMs": 21500,
+        "EndMs": 22060,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why?",
+        "SliceSentence": "Why ?",
+        "WrittenText": "",
+        "StartMs": 22620,
+        "EndMs": 23020,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 24180,
+        "EndMs": 24560,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yak.",
+        "SliceSentence": "Yak .",
+        "WrittenText": "",
+        "StartMs": 28260,
+        "EndMs": 28760,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 500,
+            "Word": "Yak"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yak.",
+        "SliceSentence": "Yak .",
+        "WrittenText": "",
+        "StartMs": 29620,
+        "EndMs": 30240,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 620,
+            "Word": "Yak"
+          },
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 33200,
+        "EndMs": 33400,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Zed,",
+        "SliceSentence": "Zed ,",
+        "WrittenText": "",
+        "StartMs": 34620,
+        "EndMs": 35180,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 560,
+            "Word": "Zed"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " zed.",
+        "SliceSentence": "zed .",
+        "WrittenText": "",
+        "StartMs": 35860,
+        "EndMs": 36290,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "zed"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Zed,",
+        "SliceSentence": "Zed ,",
+        "WrittenText": "",
+        "StartMs": 37500,
+        "EndMs": 38090,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 590,
+            "Word": "Zed"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 590,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " zed.",
+        "SliceSentence": "zed .",
+        "WrittenText": "",
+        "StartMs": 38650,
+        "EndMs": 39080,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "zed"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 39960,
+        "EndMs": 40220,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Zebra.",
+        "SliceSentence": "Zebra .",
+        "WrittenText": "",
+        "StartMs": 43840,
+        "EndMs": 44700,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 860,
+            "Word": "Zebra"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Zebra.",
+        "SliceSentence": "Zebra .",
+        "WrittenText": "",
+        "StartMs": 45480,
+        "EndMs": 46370,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 890,
+            "Word": "Zebra"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I see a Fox,",
+        "SliceSentence": "I see a Fox ,",
+        "WrittenText": "",
+        "StartMs": 48760,
+        "EndMs": 52350,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2590,
+            "OffsetEndMs": 2940,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3240,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3590,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3590,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a yak.",
+        "SliceSentence": "I see a yak .",
+        "WrittenText": "",
+        "StartMs": 53210,
+        "EndMs": 54780,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1190,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1570,
+            "Word": "yak"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a zebra in zoo,",
+        "SliceSentence": "I see a zebra in zoo ,",
+        "WrittenText": "",
+        "StartMs": 55580,
+        "EndMs": 59490,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1205,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1930,
+            "Word": "zebra"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a Fox.",
+        "SliceSentence": "I see a Fox .",
+        "WrittenText": "",
+        "StartMs": 62630,
+        "EndMs": 64170,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 875,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1190,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a yak.",
+        "SliceSentence": "I see a yak .",
+        "WrittenText": "",
+        "StartMs": 65000,
+        "EndMs": 66600,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 905,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "yak"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a zebra in the zoo.",
+        "SliceSentence": "I see a zebra in the zoo .",
+        "WrittenText": "",
+        "StartMs": 67340,
+        "EndMs": 71340,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 2020,
+            "Word": "zebra"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

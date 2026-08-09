@@ -1,0 +1,360 @@
+{
+  "RequestId": "1a355dcb-4206-4329-8cd5-f6a52d500f18",
+  "Data": {
+    "TaskId": 16292588305,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 23.754,
+    "Result": "Save some paper cups and find a little piece of string. Use them to make toy phones and you can talk and sing. When you find wastepaper, don't throw it away. Use it to make paper planes. Then take them outside to play.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Save some paper cups and find a little piece of string.",
+        "SliceSentence": "Save some paper cups and find a little piece of string .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6980,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2745,
+            "Word": "Save"
+          },
+          {
+            "OffsetStartMs": 2745,
+            "OffsetEndMs": 3060,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3380,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 4310,
+            "Word": "cups"
+          },
+          {
+            "OffsetStartMs": 4450,
+            "OffsetEndMs": 4800,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4800,
+            "OffsetEndMs": 5145,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 5145,
+            "OffsetEndMs": 5460,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5460,
+            "OffsetEndMs": 5780,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 5950,
+            "OffsetEndMs": 6315,
+            "Word": "piece"
+          },
+          {
+            "OffsetStartMs": 6315,
+            "OffsetEndMs": 6630,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 6630,
+            "OffsetEndMs": 6980,
+            "Word": "string"
+          },
+          {
+            "OffsetStartMs": 6630,
+            "OffsetEndMs": 6980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Use them to make toy phones and you can talk and sing.",
+        "SliceSentence": "Use them to make toy phones and you can talk and sing .",
+        "WrittenText": "",
+        "StartMs": 7150,
+        "EndMs": 11120,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Use"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1220,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1505,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1820,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2165,
+            "Word": "phones"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2480,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2750,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3050,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3350,
+            "Word": "talk"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3635,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 3970,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " When you find wastepaper,",
+        "SliceSentence": "When you find wastepaper ,",
+        "WrittenText": "",
+        "StartMs": 11920,
+        "EndMs": 13520,
+        "SpeechSpeed": 15.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "When"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 935,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1600,
+            "Word": "wastepaper"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " don't throw it away.",
+        "SliceSentence": "don't throw it away .",
+        "WrittenText": "",
+        "StartMs": 14320,
+        "EndMs": 15920,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 845,
+            "Word": "throw"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1150,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "away"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Use it to make paper planes.",
+        "SliceSentence": "Use it to make paper planes .",
+        "WrittenText": "",
+        "StartMs": 16720,
+        "EndMs": 18870,
+        "SpeechSpeed": 13,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Use"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1190,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2150,
+            "Word": "planes"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then take them outside to play.",
+        "SliceSentence": "Then take them outside to play .",
+        "WrittenText": "",
+        "StartMs": 18870,
+        "EndMs": 20690,
+        "SpeechSpeed": 17,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 495,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 795,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1155,
+            "Word": "outside"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1470,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

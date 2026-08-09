@@ -1,0 +1,288 @@
+{
+  "RequestId": "abb8fca0-1085-4d10-9845-d19fdbdce41f",
+  "Data": {
+    "TaskId": 16292508085,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 59.14125,
+    "Result": "A a can e eh yellow?And planted a seed in the black soil in her favourite flower bed. Can you see the beautiful flower? The stem is green, the petals are yellow.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A a can e eh yellow?",
+        "SliceSentence": "A a can e eh yellow ?",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 33500,
+        "SpeechSpeed": 0.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 6040,
+            "OffsetEndMs": 6440,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 7240,
+            "OffsetEndMs": 7640,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 14830,
+            "OffsetEndMs": 15230,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 23950,
+            "OffsetEndMs": 24350,
+            "Word": "e"
+          },
+          {
+            "OffsetStartMs": 25060,
+            "OffsetEndMs": 25460,
+            "Word": "eh"
+          },
+          {
+            "OffsetStartMs": 32980,
+            "OffsetEndMs": 33380,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 32980,
+            "OffsetEndMs": 33380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "And planted a seed in the black soil in her favourite flower bed.",
+        "SliceSentence": "And planted a seed in the black soil in her favourite flower bed .",
+        "WrittenText": "",
+        "StartMs": 36540,
+        "EndMs": 45920,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 3230,
+            "Word": "planted"
+          },
+          {
+            "OffsetStartMs": 3310,
+            "OffsetEndMs": 3630,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3950,
+            "Word": "seed"
+          },
+          {
+            "OffsetStartMs": 4180,
+            "OffsetEndMs": 4545,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4545,
+            "OffsetEndMs": 4845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4845,
+            "OffsetEndMs": 5180,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": "soil"
+          },
+          {
+            "OffsetStartMs": 6580,
+            "OffsetEndMs": 6915,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 6915,
+            "OffsetEndMs": 7200,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 7200,
+            "OffsetEndMs": 8060,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 8260,
+            "OffsetEndMs": 8660,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 8980,
+            "OffsetEndMs": 9380,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 8980,
+            "OffsetEndMs": 9380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see the beautiful flower?",
+        "SliceSentence": "Can you see the beautiful flower ?",
+        "WrittenText": "",
+        "StartMs": 47170,
+        "EndMs": 51140,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2570,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2920,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The stem is green,",
+        "SliceSentence": "The stem is green ,",
+        "WrittenText": "",
+        "StartMs": 51700,
+        "EndMs": 53630,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "stem"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the petals are yellow.",
+        "SliceSentence": "the petals are yellow .",
+        "WrittenText": "",
+        "StartMs": 54190,
+        "EndMs": 56060,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1030,
+            "Word": "petals"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1505,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

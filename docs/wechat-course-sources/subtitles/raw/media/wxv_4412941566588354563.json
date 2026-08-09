@@ -1,0 +1,790 @@
+{
+  "RequestId": "77312397-8f74-4b38-a92e-9b0c2913f3ea",
+  "Data": {
+    "TaskId": 16292574167,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 56.703125,
+    "Result": "The students are going to an art museum tomorrow. Miss Wang is telling them about some paintings. Look at the two pictures on the blackboard. Which one do you like? I like the one on the left. I like the colours. The night sky is beautiful. This is an oil painting. It's colorful. I like the one on the right. I like horses.This horse looks powerful. This is a Chinese ink painting. It's usually in black and white. I like Chinese ink paintings, too.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The students are going to an art museum tomorrow.",
+        "SliceSentence": "The students are going to an art museum tomorrow .",
+        "WrittenText": "",
+        "StartMs": 80,
+        "EndMs": 8740,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5040,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5390,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6075,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 6075,
+            "OffsetEndMs": 6380,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 6430,
+            "OffsetEndMs": 6735,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 6735,
+            "OffsetEndMs": 6960,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 6960,
+            "OffsetEndMs": 7280,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 7420,
+            "OffsetEndMs": 7820,
+            "Word": "museum"
+          },
+          {
+            "OffsetStartMs": 8260,
+            "OffsetEndMs": 8660,
+            "Word": "tomorrow"
+          },
+          {
+            "OffsetStartMs": 8260,
+            "OffsetEndMs": 8660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Miss Wang is telling them about some paintings.",
+        "SliceSentence": "Miss Wang is telling them about some paintings .",
+        "WrittenText": "",
+        "StartMs": 9690,
+        "EndMs": 12940,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 785,
+            "Word": "Wang"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1145,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "telling"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1925,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2285,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2570,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 3250,
+            "Word": "paintings"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the two pictures on the blackboard.",
+        "SliceSentence": "Look at the two pictures on the blackboard .",
+        "WrittenText": "",
+        "StartMs": 15180,
+        "EndMs": 17980,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 590,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 770,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1025,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2015,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2225,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2800,
+            "Word": "blackboard"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Which one do you like?",
+        "SliceSentence": "Which one do you like ?",
+        "WrittenText": "",
+        "StartMs": 18750,
+        "EndMs": 20170,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Which"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 935,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1115,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1420,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the one on the left.",
+        "SliceSentence": "I like the one on the left .",
+        "WrittenText": "",
+        "StartMs": 21120,
+        "EndMs": 23170,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1145,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1355,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1580,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1775,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the colours.",
+        "SliceSentence": "I like the colours .",
+        "WrittenText": "",
+        "StartMs": 23850,
+        "EndMs": 25240,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 530,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 800,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1390,
+            "Word": "colours"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The night sky is beautiful.",
+        "SliceSentence": "The night sky is beautiful .",
+        "WrittenText": "",
+        "StartMs": 25800,
+        "EndMs": 27580,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1070,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1415,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1780,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is an oil painting.",
+        "SliceSentence": "This is an oil painting .",
+        "WrittenText": "",
+        "StartMs": 28890,
+        "EndMs": 30490,
+        "SpeechSpeed": 15,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 665,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 875,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1180,
+            "Word": "oil"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "painting"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's colorful.",
+        "SliceSentence": "It's colorful .",
+        "WrittenText": "",
+        "StartMs": 31110,
+        "EndMs": 32260,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 1150,
+            "Word": "colorful"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like the one on the right.",
+        "SliceSentence": "I like the one on the right .",
+        "WrittenText": "",
+        "StartMs": 35250,
+        "EndMs": 37060,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1100,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1355,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1535,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1810,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like horses.",
+        "SliceSentence": "I like horses .",
+        "WrittenText": "",
+        "StartMs": 38070,
+        "EndMs": 38980,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "horses"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "This horse looks powerful.",
+        "SliceSentence": "This horse looks powerful .",
+        "WrittenText": "",
+        "StartMs": 40000,
+        "EndMs": 41580,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 405,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 740,
+            "Word": "horse"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1215,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1580,
+            "Word": "powerful"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a Chinese ink painting.",
+        "SliceSentence": "This is a Chinese ink painting .",
+        "WrittenText": "",
+        "StartMs": 43670,
+        "EndMs": 46140,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 770,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 965,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1270,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2195,
+            "Word": "ink"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2470,
+            "Word": "painting"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's usually in black and white.",
+        "SliceSentence": "It's usually in black and white .",
+        "WrittenText": "",
+        "StartMs": 46970,
+        "EndMs": 49050,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1265,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1520,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1760,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like Chinese ink paintings,",
+        "SliceSentence": "I like Chinese ink paintings ,",
+        "WrittenText": "",
+        "StartMs": 50360,
+        "EndMs": 52600,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1715,
+            "Word": "ink"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2240,
+            "Word": "paintings"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 52600,
+        "EndMs": 52980,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

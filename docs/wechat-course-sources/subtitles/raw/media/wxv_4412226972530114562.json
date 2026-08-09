@@ -1,0 +1,605 @@
+{
+  "RequestId": "2b1d028e-30c9-4fc5-b16e-899ccae63163",
+  "Data": {
+    "TaskId": 16292434131,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 57.098938,
+    "Result": "UN.N.Bun.Bun.Run.Run.Son.So Sam eats a bun. He goes for a run. He says hello to the sun. Running is so much fun. Sam, it's a bun. He goes for a run. He says hello to the sun. Running is so much fun.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "UN.",
+        "SliceSentence": "UN .",
+        "WrittenText": "",
+        "StartMs": 500,
+        "EndMs": 940,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "UN"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "N.",
+        "SliceSentence": "N .",
+        "WrittenText": "",
+        "StartMs": 1920,
+        "EndMs": 2210,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bun.",
+        "SliceSentence": "Bun .",
+        "WrittenText": "",
+        "StartMs": 6640,
+        "EndMs": 7140,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Bun"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bun.",
+        "SliceSentence": "Bun .",
+        "WrittenText": "",
+        "StartMs": 8180,
+        "EndMs": 8530,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Bun"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Run.",
+        "SliceSentence": "Run .",
+        "WrittenText": "",
+        "StartMs": 14260,
+        "EndMs": 14820,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Run"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Run.",
+        "SliceSentence": "Run .",
+        "WrittenText": "",
+        "StartMs": 15800,
+        "EndMs": 16150,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Run"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Son.",
+        "SliceSentence": "Son .",
+        "WrittenText": "",
+        "StartMs": 20440,
+        "EndMs": 20970,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Son"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "So Sam eats a bun.",
+        "SliceSentence": "So Sam eats a bun .",
+        "WrittenText": "",
+        "StartMs": 21920,
+        "EndMs": 29560,
+        "SpeechSpeed": 2.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "So"
+          },
+          {
+            "OffsetStartMs": 5980,
+            "OffsetEndMs": 6380,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 6670,
+            "OffsetEndMs": 7140,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 7140,
+            "OffsetEndMs": 7320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7320,
+            "OffsetEndMs": 7640,
+            "Word": "bun"
+          },
+          {
+            "OffsetStartMs": 7320,
+            "OffsetEndMs": 7640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He goes for a run.",
+        "SliceSentence": "He goes for a run .",
+        "WrittenText": "",
+        "StartMs": 30030,
+        "EndMs": 31900,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1205,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1505,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He says hello to the sun.",
+        "SliceSentence": "He says hello to the sun .",
+        "WrittenText": "",
+        "StartMs": 32700,
+        "EndMs": 36550,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "hello"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Running is so much fun.",
+        "SliceSentence": "Running is so much fun .",
+        "WrittenText": "",
+        "StartMs": 37470,
+        "EndMs": 40240,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Running"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1295,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sam,",
+        "SliceSentence": "Sam ,",
+        "WrittenText": "",
+        "StartMs": 43440,
+        "EndMs": 43840,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a bun.",
+        "SliceSentence": "it's a bun .",
+        "WrittenText": "",
+        "StartMs": 44070,
+        "EndMs": 45100,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "bun"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He goes for a run.",
+        "SliceSentence": "He goes for a run .",
+        "WrittenText": "",
+        "StartMs": 45660,
+        "EndMs": 47440,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1145,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1445,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1780,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He says hello to the sun.",
+        "SliceSentence": "He says hello to the sun .",
+        "WrittenText": "",
+        "StartMs": 48180,
+        "EndMs": 52180,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "hello"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Running is so much fun.",
+        "SliceSentence": "Running is so much fun .",
+        "WrittenText": "",
+        "StartMs": 52980,
+        "EndMs": 55750,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Running"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1310,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1660,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

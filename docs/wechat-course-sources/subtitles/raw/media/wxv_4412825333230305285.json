@@ -1,0 +1,835 @@
+{
+  "RequestId": "2fa9def8-8968-470e-a933-54508bef2a1c",
+  "Data": {
+    "TaskId": 16292517478,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 69.96175,
+    "Result": "I'll be a teacher.I won't wear glasses. Kitty wants to know about her future. She stands in front of a magic machine and takes a photo. Kitty looks at her photo. There are some words on the back in 15 years. You will not wear glasses. You will have big and beautiful eyes. You will live in Beijing. You will be a teacher. You will love your job. This is me in the future. I won't wear glasses. I'll have big and beautiful eyes. I'll live.In Beijing and I'll be a teacher.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I'll be a teacher.",
+        "SliceSentence": "I'll be a teacher .",
+        "WrittenText": "",
+        "StartMs": 1700,
+        "EndMs": 4030,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1545,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 1545,
+            "OffsetEndMs": 1755,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2010,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2330,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I won't wear glasses.",
+        "SliceSentence": "I won't wear glasses .",
+        "WrittenText": "",
+        "StartMs": 5160,
+        "EndMs": 6530,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 195,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 195,
+            "OffsetEndMs": 660,
+            "Word": "won't"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 975,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1370,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Kitty wants to know about her future.",
+        "SliceSentence": "Kitty wants to know about her future .",
+        "WrittenText": "",
+        "StartMs": 8830,
+        "EndMs": 11090,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "Kitty"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 800,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1055,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1330,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1685,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1940,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She stands in front of a magic machine and takes a photo.",
+        "SliceSentence": "She stands in front of a magic machine and takes a photo .",
+        "WrittenText": "",
+        "StartMs": 14680,
+        "EndMs": 18890,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "stands"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1115,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1415,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1670,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1850,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2140,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3470,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3470,
+            "OffsetEndMs": 3725,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 3935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4210,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Kitty looks at her photo.",
+        "SliceSentence": "Kitty looks at her photo .",
+        "WrittenText": "",
+        "StartMs": 29320,
+        "EndMs": 30860,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "Kitty"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 815,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1070,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1250,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are some words on the back in 15 years.",
+        "SliceSentence": "There are some words on the back in 15 years .",
+        "WrittenText": "",
+        "StartMs": 31810,
+        "EndMs": 37760,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 695,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "words"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1430,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1580,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1840,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 4500,
+            "OffsetEndMs": 4880,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4880,
+            "OffsetEndMs": 5260,
+            "Word": "15"
+          },
+          {
+            "OffsetStartMs": 5550,
+            "OffsetEndMs": 5950,
+            "Word": "years"
+          },
+          {
+            "OffsetStartMs": 5550,
+            "OffsetEndMs": 5950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will not wear glasses.",
+        "SliceSentence": "You will not wear glasses .",
+        "WrittenText": "",
+        "StartMs": 38650,
+        "EndMs": 40130,
+        "SpeechSpeed": 17.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 620,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 830,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1115,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will have big and beautiful eyes.",
+        "SliceSentence": "You will have big and beautiful eyes .",
+        "WrittenText": "",
+        "StartMs": 41320,
+        "EndMs": 43820,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 800,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1150,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1550,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1930,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will live in Beijing.",
+        "SliceSentence": "You will live in Beijing .",
+        "WrittenText": "",
+        "StartMs": 45190,
+        "EndMs": 46700,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 845,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1175,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "Beijing"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will be a teacher.",
+        "SliceSentence": "You will be a teacher .",
+        "WrittenText": "",
+        "StartMs": 48070,
+        "EndMs": 49580,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 665,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1205,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1510,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You will love your job.",
+        "SliceSentence": "You will love your job .",
+        "WrittenText": "",
+        "StartMs": 50830,
+        "EndMs": 52430,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1250,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is me in the future.",
+        "SliceSentence": "This is me in the future .",
+        "WrittenText": "",
+        "StartMs": 54370,
+        "EndMs": 56690,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1730,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 1985,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2320,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I won't wear glasses.",
+        "SliceSentence": "I won't wear glasses .",
+        "WrittenText": "",
+        "StartMs": 57850,
+        "EndMs": 59600,
+        "SpeechSpeed": 12,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 965,
+            "Word": "won't"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1270,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll have big and beautiful eyes.",
+        "SliceSentence": "I'll have big and beautiful eyes .",
+        "WrittenText": "",
+        "StartMs": 60760,
+        "EndMs": 63560,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 760,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1175,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1570,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll live.",
+        "SliceSentence": "I'll live .",
+        "WrittenText": "",
+        "StartMs": 64540,
+        "EndMs": 65330,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In Beijing and I'll be a teacher.",
+        "SliceSentence": "In Beijing and I'll be a teacher .",
+        "WrittenText": "",
+        "StartMs": 65420,
+        "EndMs": 68170,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 150,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 150,
+            "OffsetEndMs": 440,
+            "Word": "Beijing"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1575,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1965,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 1965,
+            "OffsetEndMs": 2145,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 2145,
+            "OffsetEndMs": 2400,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2750,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 90,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

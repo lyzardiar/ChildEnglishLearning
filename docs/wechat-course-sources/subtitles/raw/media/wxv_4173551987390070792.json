@@ -1,0 +1,438 @@
+{
+  "RequestId": "4bbda27c-2e5a-448c-8d9c-59f5977aec33",
+  "Data": {
+    "TaskId": 16292447103,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 61.765063,
+    "Result": "Nana's story around my new home. We're near our new home mom. Listen, look. A zoo that's a fruit shop.Let's buy some apples. That's a cinema. That's a big shopping center.Here's a toy shop. I want a new doll.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Nana's story around my new home.",
+        "SliceSentence": "Nana's story around my new home .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4280,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1640,
+            "Word": "Nana's"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2060,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2800,
+            "OffsetEndMs": 3200,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3615,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3615,
+            "OffsetEndMs": 3930,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4280,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We're near our new home mom.",
+        "SliceSentence": "We're near our new home mom .",
+        "WrittenText": "",
+        "StartMs": 8140,
+        "EndMs": 17600,
+        "SpeechSpeed": 3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "We're"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1955,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2290,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 9060,
+            "OffsetEndMs": 9460,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 9060,
+            "OffsetEndMs": 9460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Listen,",
+        "SliceSentence": "Listen ,",
+        "WrittenText": "",
+        "StartMs": 17890,
+        "EndMs": 18290,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look.",
+        "SliceSentence": "look .",
+        "WrittenText": "",
+        "StartMs": 24310,
+        "EndMs": 24710,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A zoo that's a fruit shop.",
+        "SliceSentence": "A zoo that's a fruit shop .",
+        "WrittenText": "",
+        "StartMs": 25120,
+        "EndMs": 31130,
+        "SpeechSpeed": 4.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 4500,
+            "OffsetEndMs": 5165,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 5165,
+            "OffsetEndMs": 5405,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5405,
+            "OffsetEndMs": 5660,
+            "Word": "fruit"
+          },
+          {
+            "OffsetStartMs": 5660,
+            "OffsetEndMs": 6010,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 5660,
+            "OffsetEndMs": 6010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's buy some apples.",
+        "SliceSentence": "Let's buy some apples .",
+        "WrittenText": "",
+        "StartMs": 31880,
+        "EndMs": 33880,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 735,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1070,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1620,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2000,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's a cinema.",
+        "SliceSentence": "That's a cinema .",
+        "WrittenText": "",
+        "StartMs": 39150,
+        "EndMs": 40330,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 860,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1180,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's a big shopping center.",
+        "SliceSentence": "That's a big shopping center .",
+        "WrittenText": "",
+        "StartMs": 49260,
+        "EndMs": 51490,
+        "SpeechSpeed": 13,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 635,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "center"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Here's a toy shop.",
+        "SliceSentence": "Here's a toy shop .",
+        "WrittenText": "",
+        "StartMs": 52980,
+        "EndMs": 57500,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2920,
+            "OffsetEndMs": 3630,
+            "Word": "Here's"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3885,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3885,
+            "OffsetEndMs": 4155,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 4155,
+            "OffsetEndMs": 4520,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 4155,
+            "OffsetEndMs": 4520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want a new doll.",
+        "SliceSentence": "I want a new doll .",
+        "WrittenText": "",
+        "StartMs": 58060,
+        "EndMs": 59600,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1190,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "doll"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

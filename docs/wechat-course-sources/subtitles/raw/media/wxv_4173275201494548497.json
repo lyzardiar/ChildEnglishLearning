@@ -1,0 +1,695 @@
+{
+  "RequestId": "df13f649-6928-4efa-9038-d02fd290ef78",
+  "Data": {
+    "TaskId": 16292420139,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 58.305313,
+    "Result": "The.G.G.G g.Toe.Giraffe.Giraffe.Two.H.H.H h.Toe.Hen.Hen.G for giraffe, h for hen the giraffe is tall, the hen is short, g for giraffe, h for hen. The giraffe is tall, the hen is short.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 560,
+        "EndMs": 760,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "G.",
+        "SliceSentence": "G .",
+        "WrittenText": "",
+        "StartMs": 1700,
+        "EndMs": 2260,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "G"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "G.",
+        "SliceSentence": "G .",
+        "WrittenText": "",
+        "StartMs": 3080,
+        "EndMs": 3430,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "G"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "G g.",
+        "SliceSentence": "G g .",
+        "WrittenText": "",
+        "StartMs": 4760,
+        "EndMs": 6400,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "G"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "g"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7540,
+        "EndMs": 7920,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Giraffe.",
+        "SliceSentence": "Giraffe .",
+        "WrittenText": "",
+        "StartMs": 11280,
+        "EndMs": 12230,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 950,
+            "Word": "Giraffe"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Giraffe.",
+        "SliceSentence": "Giraffe .",
+        "WrittenText": "",
+        "StartMs": 12820,
+        "EndMs": 13830,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 1010,
+            "Word": "Giraffe"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 1010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two.",
+        "SliceSentence": "Two .",
+        "WrittenText": "",
+        "StartMs": 16540,
+        "EndMs": 17010,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "H.",
+        "SliceSentence": "H .",
+        "WrittenText": "",
+        "StartMs": 17680,
+        "EndMs": 18120,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "H"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "H.",
+        "SliceSentence": "H .",
+        "WrittenText": "",
+        "StartMs": 19080,
+        "EndMs": 19370,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "H"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "H h.",
+        "SliceSentence": "H h .",
+        "WrittenText": "",
+        "StartMs": 20760,
+        "EndMs": 22430,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "H"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "h"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 23720,
+        "EndMs": 24130,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hen.",
+        "SliceSentence": "Hen .",
+        "WrittenText": "",
+        "StartMs": 27300,
+        "EndMs": 27770,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Hen"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hen.",
+        "SliceSentence": "Hen .",
+        "WrittenText": "",
+        "StartMs": 28720,
+        "EndMs": 29040,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Hen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "G for giraffe,",
+        "SliceSentence": "G for giraffe ,",
+        "WrittenText": "",
+        "StartMs": 31900,
+        "EndMs": 35970,
+        "SpeechSpeed": 3.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2480,
+            "Word": "G"
+          },
+          {
+            "OffsetStartMs": 2650,
+            "OffsetEndMs": 3050,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 4070,
+            "Word": "giraffe"
+          },
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 4070,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " h for hen the giraffe is tall,",
+        "SliceSentence": "h for hen the giraffe is tall ,",
+        "WrittenText": "",
+        "StartMs": 36320,
+        "EndMs": 40290,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "h"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2450,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 3290,
+            "Word": "giraffe"
+          },
+          {
+            "OffsetStartMs": 3290,
+            "OffsetEndMs": 3620,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3970,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the hen is short,",
+        "SliceSentence": "the hen is short ,",
+        "WrittenText": "",
+        "StartMs": 40880,
+        "EndMs": 42600,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "short"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " g for giraffe,",
+        "SliceSentence": "g for giraffe ,",
+        "WrittenText": "",
+        "StartMs": 45950,
+        "EndMs": 47910,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "g"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 965,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1960,
+            "Word": "giraffe"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1960,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " h for hen.",
+        "SliceSentence": "h for hen .",
+        "WrittenText": "",
+        "StartMs": 48350,
+        "EndMs": 49860,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "h"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The giraffe is tall,",
+        "SliceSentence": "The giraffe is tall ,",
+        "WrittenText": "",
+        "StartMs": 50570,
+        "EndMs": 52290,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 935,
+            "Word": "giraffe"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the hen is short.",
+        "SliceSentence": "the hen is short .",
+        "WrittenText": "",
+        "StartMs": 52850,
+        "EndMs": 54600,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "short"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

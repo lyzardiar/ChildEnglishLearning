@@ -1,0 +1,465 @@
+{
+  "RequestId": "b75d8d46-20eb-44a2-b00a-b89ba84a06ec",
+  "Data": {
+    "TaskId": 16292450174,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 41.912,
+    "Result": "I P I P.We are on a ship, a big, big ship. We eat fish and chips. We have a good trip. We are on a ship, a big, big chips. We eat fish and chips. We have a good trip.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I P I P.",
+        "SliceSentence": "I P I P .",
+        "WrittenText": "",
+        "StartMs": 1360,
+        "EndMs": 3150,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 345,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 710,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1410,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1790,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We are on a ship,",
+        "SliceSentence": "We are on a ship ,",
+        "WrittenText": "",
+        "StartMs": 6260,
+        "EndMs": 11320,
+        "SpeechSpeed": 3.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 3930,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4215,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 4215,
+            "OffsetEndMs": 4515,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 4515,
+            "OffsetEndMs": 4770,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5060,
+            "Word": "ship"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5060,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a big,",
+        "SliceSentence": "a big ,",
+        "WrittenText": "",
+        "StartMs": 11910,
+        "EndMs": 12580,
+        "SpeechSpeed": 9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " big ship.",
+        "SliceSentence": "big ship .",
+        "WrittenText": "",
+        "StartMs": 12780,
+        "EndMs": 13660,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "ship"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We eat fish and chips.",
+        "SliceSentence": "We eat fish and chips .",
+        "WrittenText": "",
+        "StartMs": 14610,
+        "EndMs": 18490,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3880,
+            "Word": "chips"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have a good trip.",
+        "SliceSentence": "We have a good trip .",
+        "WrittenText": "",
+        "StartMs": 19380,
+        "EndMs": 23230,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2450,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2800,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "trip"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We are on a ship,",
+        "SliceSentence": "We are on a ship ,",
+        "WrittenText": "",
+        "StartMs": 26550,
+        "EndMs": 28090,
+        "SpeechSpeed": 11,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 965,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1235,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1540,
+            "Word": "ship"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1540,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a big,",
+        "SliceSentence": "a big ,",
+        "WrittenText": "",
+        "StartMs": 28650,
+        "EndMs": 29320,
+        "SpeechSpeed": 9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " big chips.",
+        "SliceSentence": "big chips .",
+        "WrittenText": "",
+        "StartMs": 29520,
+        "EndMs": 30460,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 940,
+            "Word": "chips"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We eat fish and chips.",
+        "SliceSentence": "We eat fish and chips .",
+        "WrittenText": "",
+        "StartMs": 31260,
+        "EndMs": 35290,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4030,
+            "Word": "chips"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have a good trip.",
+        "SliceSentence": "We have a good trip .",
+        "WrittenText": "",
+        "StartMs": 36120,
+        "EndMs": 40000,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2375,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2740,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "trip"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

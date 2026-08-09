@@ -1,0 +1,1503 @@
+{
+  "RequestId": "6efe4e7c-3a9d-4459-ae1b-dbb25b2f70c7",
+  "Data": {
+    "TaskId": 16292496016,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 125.411,
+    "Result": "Let's make Ice cream.Today is our school party. Let's get the Ice cream. It's in the freezer. Oh no, the freezer door is open. Look at the Ice cream. Now there's no Ice cream for the party. Shall we make some more? Sure, but how? Don't worry, I can teach you great. Okay, kids, get some big and small plastic bags then come to the classroom. I have Ice. I have cream, sugar and salt. What shall we do?Mix the sugar and cream, then put the mixture in a small bag. Let's add some chocolate. Good idea. Look, I'm putting salt and Ice in the big bag. I'm putting the small bag in it too. Now shake, shake, shake the Ice is freezing the mixture. Look, we have Ice cream. How's the Ice cream kids? It's great. Can we have some more?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Let's make Ice cream.",
+        "SliceSentence": "Let's make Ice cream .",
+        "WrittenText": "",
+        "StartMs": 680,
+        "EndMs": 2770,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 720,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1040,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Today is our school party.",
+        "SliceSentence": "Today is our school party .",
+        "WrittenText": "",
+        "StartMs": 5040,
+        "EndMs": 8810,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "Today"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2625,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2625,
+            "OffsetEndMs": 2960,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 3010,
+            "OffsetEndMs": 3390,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3770,
+            "Word": "party"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's get the Ice cream.",
+        "SliceSentence": "Let's get the Ice cream .",
+        "WrittenText": "",
+        "StartMs": 10420,
+        "EndMs": 12410,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1205,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1510,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's in the freezer.",
+        "SliceSentence": "It's in the freezer .",
+        "WrittenText": "",
+        "StartMs": 13420,
+        "EndMs": 15140,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 830,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1070,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1720,
+            "Word": "freezer"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 18700,
+        "EndMs": 19550,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the freezer door is open.",
+        "SliceSentence": "the freezer door is open .",
+        "WrittenText": "",
+        "StartMs": 20680,
+        "EndMs": 22100,
+        "SpeechSpeed": 17.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 725,
+            "Word": "freezer"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 920,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1130,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1420,
+            "Word": "open"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the Ice cream.",
+        "SliceSentence": "Look at the Ice cream .",
+        "WrittenText": "",
+        "StartMs": 24130,
+        "EndMs": 26210,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1100,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1450,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now there's no Ice cream for the party.",
+        "SliceSentence": "Now there's no Ice cream for the party .",
+        "WrittenText": "",
+        "StartMs": 27910,
+        "EndMs": 30890,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 920,
+            "Word": "there's"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1205,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1600,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2510,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2705,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 2980,
+            "Word": "party"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Shall we make some more?",
+        "SliceSentence": "Shall we make some more ?",
+        "WrittenText": "",
+        "StartMs": 32860,
+        "EndMs": 34250,
+        "SpeechSpeed": 17.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Shall"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 605,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 815,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1070,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1390,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sure,",
+        "SliceSentence": "Sure ,",
+        "WrittenText": "",
+        "StartMs": 35740,
+        "EndMs": 36140,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sure"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but how?",
+        "SliceSentence": "but how ?",
+        "WrittenText": "",
+        "StartMs": 37060,
+        "EndMs": 37850,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 39670,
+        "EndMs": 40400,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can teach you great.",
+        "SliceSentence": "I can teach you great .",
+        "WrittenText": "",
+        "StartMs": 41500,
+        "EndMs": 44690,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 605,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 860,
+            "Word": "teach"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 46270,
+        "EndMs": 46605,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " kids,",
+        "SliceSentence": "kids ,",
+        "WrittenText": "",
+        "StartMs": 46605,
+        "EndMs": 46940,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "kids"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " get some big and small plastic bags then come to the classroom.",
+        "SliceSentence": "get some big and small plastic bags then come to the classroom .",
+        "WrittenText": "",
+        "StartMs": 48370,
+        "EndMs": 54350,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1505,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1900,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "plastic"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "bags"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4760,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 4760,
+            "OffsetEndMs": 5140,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5480,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5480,
+            "OffsetEndMs": 5675,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5675,
+            "OffsetEndMs": 5980,
+            "Word": "classroom"
+          },
+          {
+            "OffsetStartMs": 5675,
+            "OffsetEndMs": 5980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have Ice.",
+        "SliceSentence": "I have Ice .",
+        "WrittenText": "",
+        "StartMs": 56410,
+        "EndMs": 57620,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have cream,",
+        "SliceSentence": "I have cream ,",
+        "WrittenText": "",
+        "StartMs": 58510,
+        "EndMs": 59690,
+        "SpeechSpeed": 11,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sugar and salt.",
+        "SliceSentence": "sugar and salt .",
+        "WrittenText": "",
+        "StartMs": 60340,
+        "EndMs": 61820,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "sugar"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1100,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "salt"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What shall we do?",
+        "SliceSentence": "What shall we do ?",
+        "WrittenText": "",
+        "StartMs": 63190,
+        "EndMs": 64310,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "shall"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 815,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1120,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1120,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mix the sugar and cream,",
+        "SliceSentence": "Mix the sugar and cream ,",
+        "WrittenText": "",
+        "StartMs": 65520,
+        "EndMs": 67880,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Mix"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 945,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1250,
+            "Word": "sugar"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2360,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2360,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " then put the mixture in a small bag.",
+        "SliceSentence": "then put the mixture in a small bag .",
+        "WrittenText": "",
+        "StartMs": 69010,
+        "EndMs": 71840,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 725,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 920,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1550,
+            "Word": "mixture"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1835,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2090,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2435,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2830,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's add some chocolate.",
+        "SliceSentence": "Let's add some chocolate .",
+        "WrittenText": "",
+        "StartMs": 77050,
+        "EndMs": 79010,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1030,
+            "Word": "add"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "chocolate"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good idea.",
+        "SliceSentence": "Good idea .",
+        "WrittenText": "",
+        "StartMs": 80380,
+        "EndMs": 81230,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 84250,
+        "EndMs": 84650,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm putting salt and Ice in the big bag.",
+        "SliceSentence": "I'm putting salt and Ice in the big bag .",
+        "WrittenText": "",
+        "StartMs": 85300,
+        "EndMs": 89060,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 760,
+            "Word": "putting"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "salt"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1925,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2320,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2885,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3110,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3380,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 3380,
+            "OffsetEndMs": 3760,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 3380,
+            "OffsetEndMs": 3760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm putting the small bag in it too.",
+        "SliceSentence": "I'm putting the small bag in it too .",
+        "WrittenText": "",
+        "StartMs": 90670,
+        "EndMs": 93740,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "putting"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1205,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1520,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2300,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2620,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now shake,",
+        "SliceSentence": "Now shake ,",
+        "WrittenText": "",
+        "StartMs": 94990,
+        "EndMs": 95870,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "shake"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " shake,",
+        "SliceSentence": "shake ,",
+        "WrittenText": "",
+        "StartMs": 96250,
+        "EndMs": 96650,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "shake"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " shake the Ice is freezing the mixture.",
+        "SliceSentence": "shake the Ice is freezing the mixture .",
+        "WrittenText": "",
+        "StartMs": 97060,
+        "EndMs": 102170,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "shake"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2810,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2810,
+            "OffsetEndMs": 3080,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3460,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 4190,
+            "Word": "freezing"
+          },
+          {
+            "OffsetStartMs": 4190,
+            "OffsetEndMs": 4400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4400,
+            "OffsetEndMs": 5110,
+            "Word": "mixture"
+          },
+          {
+            "OffsetStartMs": 4400,
+            "OffsetEndMs": 5110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 104380,
+        "EndMs": 104780,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we have Ice cream.",
+        "SliceSentence": "we have Ice cream .",
+        "WrittenText": "",
+        "StartMs": 105340,
+        "EndMs": 107090,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How's the Ice cream kids?",
+        "SliceSentence": "How's the Ice cream kids ?",
+        "WrittenText": "",
+        "StartMs": 112960,
+        "EndMs": 114710,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "How's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 680,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 940,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1370,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1750,
+            "Word": "kids"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1750,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's great.",
+        "SliceSentence": "It's great .",
+        "WrittenText": "",
+        "StartMs": 116890,
+        "EndMs": 117950,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1060,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can we have some more?",
+        "SliceSentence": "Can we have some more ?",
+        "WrittenText": "",
+        "StartMs": 118780,
+        "EndMs": 120500,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 725,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1055,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1385,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1720,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1720,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

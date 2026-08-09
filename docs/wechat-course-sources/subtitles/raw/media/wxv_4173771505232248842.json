@@ -1,0 +1,493 @@
+{
+  "RequestId": "a38ce716-3e48-47f5-a6ef-cd34792857ed",
+  "Data": {
+    "TaskId": 16292476314,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 46.811438,
+    "Result": "A special birthday today is a special day at our school. We are 10 years old this year. Our parents write us letters. We read the letters, we put on a show. We sing and dance. We have a big cake. We light the candles, we make wishes. What a special birthday.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A special birthday today is a special day at our school.",
+        "SliceSentence": "A special birthday today is a special day at our school .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 9200,
+        "SpeechSpeed": 6,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2360,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 4630,
+            "OffsetEndMs": 5030,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 5500,
+            "OffsetEndMs": 5895,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5895,
+            "OffsetEndMs": 6290,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6430,
+            "OffsetEndMs": 6830,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 7150,
+            "OffsetEndMs": 7550,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 7720,
+            "OffsetEndMs": 8120,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 8140,
+            "OffsetEndMs": 8540,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 8800,
+            "OffsetEndMs": 9200,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 8800,
+            "OffsetEndMs": 9200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We are 10 years old this year.",
+        "SliceSentence": "We are 10 years old this year .",
+        "WrittenText": "",
+        "StartMs": 10240,
+        "EndMs": 14480,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "years"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Our parents write us letters.",
+        "SliceSentence": "Our parents write us letters .",
+        "WrittenText": "",
+        "StartMs": 15880,
+        "EndMs": 19040,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "parents"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "letters"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We read the letters,",
+        "SliceSentence": "We read the letters ,",
+        "WrittenText": "",
+        "StartMs": 20380,
+        "EndMs": 22310,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1610,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1930,
+            "Word": "letters"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1930,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we put on a show.",
+        "SliceSentence": "we put on a show .",
+        "WrittenText": "",
+        "StartMs": 23890,
+        "EndMs": 26030,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2140,
+            "Word": "show"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We sing and dance.",
+        "SliceSentence": "We sing and dance .",
+        "WrittenText": "",
+        "StartMs": 27340,
+        "EndMs": 29330,
+        "SpeechSpeed": 9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have a big cake.",
+        "SliceSentence": "We have a big cake .",
+        "WrittenText": "",
+        "StartMs": 30730,
+        "EndMs": 33290,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We light the candles,",
+        "SliceSentence": "We light the candles ,",
+        "WrittenText": "",
+        "StartMs": 34810,
+        "EndMs": 37220,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "light"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1565,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 2410,
+            "Word": "candles"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 2410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we make wishes.",
+        "SliceSentence": "we make wishes .",
+        "WrittenText": "",
+        "StartMs": 38200,
+        "EndMs": 39650,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What a special birthday.",
+        "SliceSentence": "What a special birthday .",
+        "WrittenText": "",
+        "StartMs": 40990,
+        "EndMs": 43040,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

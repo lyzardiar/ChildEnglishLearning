@@ -33,16 +33,18 @@ async function validateChild(openid, childId) {
 
 // 保存学习进度
 async function saveProgress(childId, event) {
-  const { semester, unitIndex, type, wordIndex, score } = event
+  const { grade, semester, unitIndex, type, wordIndex, score, mediaId } = event
 
   await db.collection('learning_records').add({
     data: {
       childId,
+      grade: Number(grade) || 1,
       semester,
       unitIndex,
       type,        // 'word' | 'listen' | 'game'
       wordIndex: wordIndex || 0,
       score: score || 0,
+      mediaId: mediaId || '',
       createdAt: db.serverDate()
     }
   })
@@ -50,6 +52,7 @@ async function saveProgress(childId, event) {
   // 更新孩子的当前进度
   await db.collection('children').doc(childId).update({
     data: {
+      grade: Number(grade) || 1,
       semester,
       currentUnit: unitIndex,
       updatedAt: db.serverDate()

@@ -1,0 +1,731 @@
+{
+  "RequestId": "bb0d9850-9b36-443e-b675-d9fc9a05870a",
+  "Data": {
+    "TaskId": 16292538321,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 61.184563,
+    "Result": "Do you know any great inventions in the world? I think paper is a great invention. People can write on it.I think the watch is a great invention. People can tell the time anywhere. I think the car is a great invention. People can travel from one place to another very fast. I think, well, I'm going to invent something myself. Great, what are you going to invent? I'm going to invent a flying bike. People can go anywhere with it.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Do you know any great inventions in the world?",
+        "SliceSentence": "Do you know any great inventions in the world ?",
+        "WrittenText": "",
+        "StartMs": 980,
+        "EndMs": 7360,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 2950,
+            "OffsetEndMs": 3270,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3540,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3870,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4250,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 4960,
+            "OffsetEndMs": 5700,
+            "Word": "inventions"
+          },
+          {
+            "OffsetStartMs": 5700,
+            "OffsetEndMs": 5955,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5955,
+            "OffsetEndMs": 6120,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6380,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I think paper is a great invention.",
+        "SliceSentence": "I think paper is a great invention .",
+        "WrittenText": "",
+        "StartMs": 8970,
+        "EndMs": 11770,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1730,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 1925,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2195,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2800,
+            "Word": "invention"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People can write on it.",
+        "SliceSentence": "People can write on it .",
+        "WrittenText": "",
+        "StartMs": 12540,
+        "EndMs": 14260,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1130,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1415,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1720,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I think the watch is a great invention.",
+        "SliceSentence": "I think the watch is a great invention .",
+        "WrittenText": "",
+        "StartMs": 16660,
+        "EndMs": 23460,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 3850,
+            "OffsetEndMs": 4245,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4245,
+            "OffsetEndMs": 4620,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 4935,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4935,
+            "OffsetEndMs": 5270,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 5440,
+            "OffsetEndMs": 5745,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5745,
+            "OffsetEndMs": 5970,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5970,
+            "OffsetEndMs": 6225,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 6225,
+            "OffsetEndMs": 6800,
+            "Word": "invention"
+          },
+          {
+            "OffsetStartMs": 6225,
+            "OffsetEndMs": 6800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People can tell the time anywhere.",
+        "SliceSentence": "People can tell the time anywhere .",
+        "WrittenText": "",
+        "StartMs": 24320,
+        "EndMs": 26790,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 815,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1055,
+            "Word": "tell"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "anywhere"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I think the car is a great invention.",
+        "SliceSentence": "I think the car is a great invention .",
+        "WrittenText": "",
+        "StartMs": 28790,
+        "EndMs": 31770,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1085,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1390,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1910,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2135,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2390,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2980,
+            "Word": "invention"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People can travel from one place to another very fast.",
+        "SliceSentence": "People can travel from one place to another very fast .",
+        "WrittenText": "",
+        "StartMs": 32450,
+        "EndMs": 36870,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 890,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1270,
+            "Word": "travel"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1775,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "place"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2945,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3280,
+            "Word": "another"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4420,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I think,",
+        "SliceSentence": "I think ,",
+        "WrittenText": "",
+        "StartMs": 39350,
+        "EndMs": 40380,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " well,",
+        "SliceSentence": "well ,",
+        "WrittenText": "",
+        "StartMs": 41300,
+        "EndMs": 41700,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to invent something myself.",
+        "SliceSentence": "I'm going to invent something myself .",
+        "WrittenText": "",
+        "StartMs": 42140,
+        "EndMs": 44640,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 725,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1085,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1430,
+            "Word": "invent"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1810,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "myself"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great,",
+        "SliceSentence": "Great ,",
+        "WrittenText": "",
+        "StartMs": 45560,
+        "EndMs": 45960,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what are you going to invent?",
+        "SliceSentence": "what are you going to invent ?",
+        "WrittenText": "",
+        "StartMs": 46670,
+        "EndMs": 48330,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 665,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1280,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "invent"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to invent a flying bike.",
+        "SliceSentence": "I'm going to invent a flying bike .",
+        "WrittenText": "",
+        "StartMs": 49280,
+        "EndMs": 52020,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 695,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1040,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1355,
+            "Word": "invent"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1715,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2110,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People can go anywhere with it.",
+        "SliceSentence": "People can go anywhere with it .",
+        "WrittenText": "",
+        "StartMs": 52760,
+        "EndMs": 54900,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 755,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1060,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1670,
+            "Word": "anywhere"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1865,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2140,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

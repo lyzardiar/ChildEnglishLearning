@@ -5,6 +5,7 @@
  */
 
 // 全局音频实例
+const audioSession = require('./audio')
 let audioContext = null
 
 /**
@@ -14,7 +15,8 @@ let audioContext = null
  * @param {string} audioUrl - 可选，云存储音频地址
  * @returns {Promise}
  */
-function speak(text, audioUrl) {
+async function speak(text, audioUrl) {
+  await audioSession.configure()
   return new Promise((resolve, reject) => {
     // 销毁上一个音频实例
     if (audioContext) {
@@ -24,7 +26,7 @@ function speak(text, audioUrl) {
 
     if (audioUrl) {
       // 有预录音频，直接播放
-      audioContext = wx.createInnerAudioContext()
+      audioContext = audioSession.createContext()
       audioContext.src = audioUrl
       audioContext.onEnded(() => resolve())
       audioContext.onError((err) => {
@@ -44,7 +46,8 @@ function speak(text, audioUrl) {
  * 调用 tts 云函数获取语音 URL 并播放
  * 云函数内部有缓存机制，相同文本不会重复调用 API
  */
-function playViaTTS(text) {
+async function playViaTTS(text) {
+  await audioSession.configure()
   return new Promise((resolve) => {
     wx.cloud.callFunction({
       name: 'tts',
@@ -56,7 +59,7 @@ function playViaTTS(text) {
           audioContext.destroy()
           audioContext = null
         }
-        audioContext = wx.createInnerAudioContext()
+        audioContext = audioSession.createContext()
         audioContext.src = result.url
         audioContext.onEnded(() => resolve())
         audioContext.onError((err) => {

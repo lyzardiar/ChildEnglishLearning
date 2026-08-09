@@ -1,0 +1,678 @@
+{
+  "RequestId": "81aef128-1fcf-4db7-b128-46b9754ac237",
+  "Data": {
+    "TaskId": 16292461994,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 56.354813,
+    "Result": "Our homes dear lottie, I can't wait to show you my new home. There's a kitchen, a dining room, a living room, a bathroom, three bedrooms and a garden. My bedroom is nice. I like reading and writing in it. There's a garden in front of my bedroom. I like looking out of the window. How about your home? What's in your bedroom? Best wishes, pan pan.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Our homes dear lottie,",
+        "SliceSentence": "Our homes dear lottie ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6410,
+        "SpeechSpeed": 3.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 4870,
+            "OffsetEndMs": 5270,
+            "Word": "dear"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 6410,
+            "Word": "lottie"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 6410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't wait to show you my new home.",
+        "SliceSentence": "I can't wait to show you my new home .",
+        "WrittenText": "",
+        "StartMs": 7450,
+        "EndMs": 11540,
+        "SpeechSpeed": 9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1160,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1540,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2135,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2470,
+            "Word": "show"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2870,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2870,
+            "OffsetEndMs": 3190,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's a kitchen,",
+        "SliceSentence": "There's a kitchen ,",
+        "WrittenText": "",
+        "StartMs": 12880,
+        "EndMs": 14180,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 995,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1300,
+            "Word": "kitchen"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a dining room,",
+        "SliceSentence": "a dining room ,",
+        "WrittenText": "",
+        "StartMs": 15010,
+        "EndMs": 16340,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1010,
+            "Word": "dining"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a living room,",
+        "SliceSentence": "a living room ,",
+        "WrittenText": "",
+        "StartMs": 17320,
+        "EndMs": 18560,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "living"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a bathroom,",
+        "SliceSentence": "a bathroom ,",
+        "WrittenText": "",
+        "StartMs": 19120,
+        "EndMs": 19820,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "bathroom"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " three bedrooms and a garden.",
+        "SliceSentence": "three bedrooms and a garden .",
+        "WrittenText": "",
+        "StartMs": 21700,
+        "EndMs": 24800,
+        "SpeechSpeed": 9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1600,
+            "Word": "bedrooms"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2720,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3100,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My bedroom is nice.",
+        "SliceSentence": "My bedroom is nice .",
+        "WrittenText": "",
+        "StartMs": 26650,
+        "EndMs": 28970,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "bedroom"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like reading and writing in it.",
+        "SliceSentence": "I like reading and writing in it .",
+        "WrittenText": "",
+        "StartMs": 30580,
+        "EndMs": 34400,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "reading"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2405,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2800,
+            "Word": "writing"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3515,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3515,
+            "OffsetEndMs": 3820,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3515,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's a garden in front of my bedroom.",
+        "SliceSentence": "There's a garden in front of my bedroom .",
+        "WrittenText": "",
+        "StartMs": 35710,
+        "EndMs": 39830,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 965,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3380,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 3380,
+            "OffsetEndMs": 3740,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 4120,
+            "Word": "bedroom"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like looking out of the window.",
+        "SliceSentence": "I like looking out of the window .",
+        "WrittenText": "",
+        "StartMs": 41560,
+        "EndMs": 44900,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "looking"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2810,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2810,
+            "OffsetEndMs": 3050,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3340,
+            "Word": "window"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How about your home?",
+        "SliceSentence": "How about your home ?",
+        "WrittenText": "",
+        "StartMs": 46570,
+        "EndMs": 48470,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's in your bedroom?",
+        "SliceSentence": "What's in your bedroom ?",
+        "WrittenText": "",
+        "StartMs": 49870,
+        "EndMs": 51710,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "bedroom"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Best wishes,",
+        "SliceSentence": "Best wishes ,",
+        "WrittenText": "",
+        "StartMs": 52900,
+        "EndMs": 53780,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Best"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " pan pan.",
+        "SliceSentence": "pan pan .",
+        "WrittenText": "",
+        "StartMs": 54340,
+        "EndMs": 55040,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "pan"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "pan"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

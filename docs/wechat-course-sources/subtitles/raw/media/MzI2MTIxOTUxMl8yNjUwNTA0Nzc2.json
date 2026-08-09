@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0Nzc2",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:14,640"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 14640
+      },
+      "text": " unit 7 liquid liquid solid solid gas gas sugar sugar salt salt cream",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.796428,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,650",
+            "to": "00:00:01,040"
+          },
+          "offsets": {
+            "from": 650,
+            "to": 1040
+          },
+          "id": 4326,
+          "p": 0.267883,
+          "t_dtw": -1
+        },
+        {
+          "text": " 7",
+          "timestamps": {
+            "from": "00:00:01,160",
+            "to": "00:00:01,640"
+          },
+          "offsets": {
+            "from": 1160,
+            "to": 1640
+          },
+          "id": 767,
+          "p": 0.546471,
+          "t_dtw": -1
+        },
+        {
+          "text": " liquid",
+          "timestamps": {
+            "from": "00:00:03,040",
+            "to": "00:00:03,670"
+          },
+          "offsets": {
+            "from": 3040,
+            "to": 3670
+          },
+          "id": 8122,
+          "p": 0.599164,
+          "t_dtw": -1
+        },
+        {
+          "text": " liquid",
+          "timestamps": {
+            "from": "00:00:04,360",
+            "to": "00:00:05,000"
+          },
+          "offsets": {
+            "from": 4360,
+            "to": 5000
+          },
+          "id": 8122,
+          "p": 0.956378,
+          "t_dtw": -1
+        },
+        {
+          "text": " solid",
+          "timestamps": {
+            "from": "00:00:05,670",
+            "to": "00:00:06,160"
+          },
+          "offsets": {
+            "from": 5670,
+            "to": 6160
+          },
+          "id": 4735,
+          "p": 0.717575,
+          "t_dtw": -1
+        },
+        {
+          "text": " solid",
+          "timestamps": {
+            "from": "00:00:06,720",
+            "to": "00:00:07,160"
+          },
+          "offsets": {
+            "from": 6720,
+            "to": 7160
+          },
+          "id": 4735,
+          "p": 0.977666,
+          "t_dtw": -1
+        },
+        {
+          "text": " gas",
+          "timestamps": {
+            "from": "00:00:07,890",
+            "to": "00:00:08,480"
+          },
+          "offsets": {
+            "from": 7890,
+            "to": 8480
+          },
+          "id": 3623,
+          "p": 0.773961,
+          "t_dtw": -1
+        },
+        {
+          "text": " gas",
+          "timestamps": {
+            "from": "00:00:08,840",
+            "to": "00:00:09,160"
+          },
+          "offsets": {
+            "from": 8840,
+            "to": 9160
+          },
+          "id": 3623,
+          "p": 0.983551,
+          "t_dtw": -1
+        },
+        {
+          "text": " sugar",
+          "timestamps": {
+            "from": "00:00:09,940",
+            "to": "00:00:10,460"
+          },
+          "offsets": {
+            "from": 9940,
+            "to": 10460
+          },
+          "id": 7543,
+          "p": 0.885453,
+          "t_dtw": -1
+        },
+        {
+          "text": " sugar",
+          "timestamps": {
+            "from": "00:00:10,920",
+            "to": "00:00:11,420"
+          },
+          "offsets": {
+            "from": 10920,
+            "to": 11420
+          },
+          "id": 7543,
+          "p": 0.956732,
+          "t_dtw": -1
+        },
+        {
+          "text": " salt",
+          "timestamps": {
+            "from": "00:00:11,980",
+            "to": "00:00:12,580"
+          },
+          "offsets": {
+            "from": 11980,
+            "to": 12580
+          },
+          "id": 8268,
+          "p": 0.918165,
+          "t_dtw": -1
+        },
+        {
+          "text": " salt",
+          "timestamps": {
+            "from": "00:00:13,140",
+            "to": "00:00:13,480"
+          },
+          "offsets": {
+            "from": 13140,
+            "to": 13480
+          },
+          "id": 8268,
+          "p": 0.918433,
+          "t_dtw": -1
+        },
+        {
+          "text": " cream",
+          "timestamps": {
+            "from": "00:00:13,480",
+            "to": "00:00:14,640"
+          },
+          "offsets": {
+            "from": 13480,
+            "to": 14640
+          },
+          "id": 8566,
+          "p": 0.940048,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,640",
+        "to": "00:00:15,600"
+      },
+      "offsets": {
+        "from": 14640,
+        "to": 15600
+      },
+      "text": " cream",
+      "tokens": [
+        {
+          "text": " cream",
+          "timestamps": {
+            "from": "00:00:14,640",
+            "to": "00:00:15,600"
+          },
+          "offsets": {
+            "from": 14640,
+            "to": 15600
+          },
+          "id": 8566,
+          "p": 0.963643,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_780]",
+          "timestamps": {
+            "from": "00:00:15,600",
+            "to": "00:00:15,600"
+          },
+          "offsets": {
+            "from": 15600,
+            "to": 15600
+          },
+          "id": 51143,
+          "p": 0.150218,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,600",
+        "to": "00:00:30,000"
+      },
+      "offsets": {
+        "from": 15600,
+        "to": 30000
+      },
+      "text": " melt melt steam steam heat heat hungry hungry party party ice cream ice",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:15,600",
+            "to": "00:00:15,600"
+          },
+          "offsets": {
+            "from": 15600,
+            "to": 15600
+          },
+          "id": 50363,
+          "p": 0.999969,
+          "t_dtw": -1
+        },
+        {
+          "text": " melt",
+          "timestamps": {
+            "from": "00:00:16,250",
+            "to": "00:00:16,590"
+          },
+          "offsets": {
+            "from": 16250,
+            "to": 16590
+          },
+          "id": 16867,
+          "p": 0.992653,
+          "t_dtw": -1
+        },
+        {
+          "text": " melt",
+          "timestamps": {
+            "from": "00:00:16,590",
+            "to": "00:00:17,220"
+          },
+          "offsets": {
+            "from": 16590,
+            "to": 17220
+          },
+          "id": 16867,
+          "p": 0.964934,
+          "t_dtw": -1
+        },
+        {
+          "text": " steam",
+          "timestamps": {
+            "from": "00:00:18,640",
+            "to": "00:00:18,810"
+          },
+          "offsets": {
+            "from": 18640,
+            "to": 18810
+          },
+          "id": 13324,
+          "p": 0.987651,
+          "t_dtw": -1
+        },
+        {
+          "text": " steam",
+          "timestamps": {
+            "from": "00:00:18,810",
+            "to": "00:00:20,040"
+          },
+          "offsets": {
+            "from": 18810,
+            "to": 20040
+          },
+          "id": 13324,
+          "p": 0.998066,
+          "t_dtw": -1
+        },
+        {
+          "text": " heat",
+          "timestamps": {
+            "from": "00:00:20,040",
+            "to": "00:00:20,550"
+          },
+          "offsets": {
+            "from": 20040,
+            "to": 20550
+          },
+          "id": 4894,
+          "p": 0.983579,
+          "t_dtw": -1
+        },
+        {
+          "text": " heat",
+          "timestamps": {
+            "from": "00:00:21,270",
+            "to": "00:00:21,760"
+          },
+          "offsets": {
+            "from": 21270,
+            "to": 21760
+          },
+          "id": 4894,
+          "p": 0.997786,
+          "t_dtw": -1
+        },
+        {
+          "text": " hungry",
+          "timestamps": {
+            "from": "00:00:22,320",
+            "to": "00:00:23,500"
+          },
+          "offsets": {
+            "from": 22320,
+            "to": 23500
+          },
+          "id": 14720,
+          "p": 0.956344,
+          "t_dtw": -1
+        },
+        {
+          "text": " hungry",
+          "timestamps": {
+            "from": "00:00:23,500",
+            "to": "00:00:24,740"
+          },
+          "offsets": {
+            "from": 23500,
+            "to": 24740
+          },
+          "id": 14720,
+          "p": 0.9884,
+          "t_dtw": -1
+        },
+        {
+          "text": " party",
+          "timestamps": {
+            "from": "00:00:25,540",
+            "to": "00:00:26,070"
+          },
+          "offsets": {
+            "from": 25540,
+            "to": 26070
+          },
+          "id": 2151,
+          "p": 0.985402,
+          "t_dtw": -1
+        },
+        {
+          "text": " party",
+          "timestamps": {
+            "from": "00:00:26,520",
+            "to": "00:00:27,030"
+          },
+          "offsets": {
+            "from": 26520,
+            "to": 27030
+          },
+          "id": 2151,
+          "p": 0.995201,
+          "t_dtw": -1
+        },
+        {
+          "text": " ice",
+          "timestamps": {
+            "from": "00:00:27,590",
+            "to": "00:00:27,940"
+          },
+          "offsets": {
+            "from": 27590,
+            "to": 27940
+          },
+          "id": 4771,
+          "p": 0.981938,
+          "t_dtw": -1
+        },
+        {
+          "text": " cream",
+          "timestamps": {
+            "from": "00:00:28,090",
+            "to": "00:00:28,960"
+          },
+          "offsets": {
+            "from": 28090,
+            "to": 28960
+          },
+          "id": 8566,
+          "p": 0.995559,
+          "t_dtw": -1
+        },
+        {
+          "text": " ice",
+          "timestamps": {
+            "from": "00:00:28,960",
+            "to": "00:00:29,990"
+          },
+          "offsets": {
+            "from": 28960,
+            "to": 29990
+          },
+          "id": 4771,
+          "p": 0.97886,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:30,000",
+        "to": "00:00:30,800"
+      },
+      "offsets": {
+        "from": 30000,
+        "to": 30800
+      },
+      "text": " cream",
+      "tokens": [
+        {
+          "text": " cream",
+          "timestamps": {
+            "from": "00:00:30,000",
+            "to": "00:00:30,350"
+          },
+          "offsets": {
+            "from": 30000,
+            "to": 30350
+          },
+          "id": 8566,
+          "p": 0.978111,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_760]",
+          "timestamps": {
+            "from": "00:00:30,800",
+            "to": "00:00:30,800"
+          },
+          "offsets": {
+            "from": 30800,
+            "to": 30800
+          },
+          "id": 51123,
+          "p": 0.0503196,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:30,800",
+        "to": "00:00:45,110"
+      },
+      "offsets": {
+        "from": 30800,
+        "to": 45110
+      },
+      "text": " freezer freezer door door open open plastic plastic mix mix put put",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:30,800",
+            "to": "00:00:30,800"
+          },
+          "offsets": {
+            "from": 30800,
+            "to": 30800
+          },
+          "id": 50363,
+          "p": 0.999909,
+          "t_dtw": -1
+        },
+        {
+          "text": " freezer",
+          "timestamps": {
+            "from": "00:00:31,450",
+            "to": "00:00:32,440"
+          },
+          "offsets": {
+            "from": 31450,
+            "to": 32440
+          },
+          "id": 30967,
+          "p": 0.98386,
+          "t_dtw": -1
+        },
+        {
+          "text": " freezer",
+          "timestamps": {
+            "from": "00:00:33,840",
+            "to": "00:00:34,340"
+          },
+          "offsets": {
+            "from": 33840,
+            "to": 34340
+          },
+          "id": 30967,
+          "p": 0.86249,
+          "t_dtw": -1
+        },
+        {
+          "text": " door",
+          "timestamps": {
+            "from": "00:00:34,340",
+            "to": "00:00:35,350"
+          },
+          "offsets": {
+            "from": 34340,
+            "to": 35350
+          },
+          "id": 3420,
+          "p": 0.995868,
+          "t_dtw": -1
+        },
+        {
+          "text": " door",
+          "timestamps": {
+            "from": "00:00:35,350",
+            "to": "00:00:35,750"
+          },
+          "offsets": {
+            "from": 35350,
+            "to": 35750
+          },
+          "id": 3420,
+          "p": 0.996466,
+          "t_dtw": -1
+        },
+        {
+          "text": " open",
+          "timestamps": {
+            "from": "00:00:36,470",
+            "to": "00:00:36,960"
+          },
+          "offsets": {
+            "from": 36470,
+            "to": 36960
+          },
+          "id": 1280,
+          "p": 0.994478,
+          "t_dtw": -1
+        },
+        {
+          "text": " open",
+          "timestamps": {
+            "from": "00:00:37,520",
+            "to": "00:00:37,960"
+          },
+          "offsets": {
+            "from": 37520,
+            "to": 37960
+          },
+          "id": 1280,
+          "p": 0.998104,
+          "t_dtw": -1
+        },
+        {
+          "text": " plastic",
+          "timestamps": {
+            "from": "00:00:38,690",
+            "to": "00:00:39,950"
+          },
+          "offsets": {
+            "from": 38690,
+            "to": 39950
+          },
+          "id": 7309,
+          "p": 0.977172,
+          "t_dtw": -1
+        },
+        {
+          "text": " plastic",
+          "timestamps": {
+            "from": "00:00:40,740",
+            "to": "00:00:41,920"
+          },
+          "offsets": {
+            "from": 40740,
+            "to": 41920
+          },
+          "id": 7309,
+          "p": 0.992384,
+          "t_dtw": -1
+        },
+        {
+          "text": " mix",
+          "timestamps": {
+            "from": "00:00:41,920",
+            "to": "00:00:42,220"
+          },
+          "offsets": {
+            "from": 41920,
+            "to": 42220
+          },
+          "id": 5022,
+          "p": 0.967352,
+          "t_dtw": -1
+        },
+        {
+          "text": " mix",
+          "timestamps": {
+            "from": "00:00:42,780",
+            "to": "00:00:43,380"
+          },
+          "offsets": {
+            "from": 42780,
+            "to": 43380
+          },
+          "id": 5022,
+          "p": 0.9933,
+          "t_dtw": -1
+        },
+        {
+          "text": " put",
+          "timestamps": {
+            "from": "00:00:43,940",
+            "to": "00:00:44,200"
+          },
+          "offsets": {
+            "from": 43940,
+            "to": 44200
+          },
+          "id": 1234,
+          "p": 0.980108,
+          "t_dtw": -1
+        },
+        {
+          "text": " put",
+          "timestamps": {
+            "from": "00:00:44,200",
+            "to": "00:00:44,510"
+          },
+          "offsets": {
+            "from": 44200,
+            "to": 44510
+          },
+          "id": 1234,
+          "p": 0.99361,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:45,110",
+        "to": "00:00:46,480"
+      },
+      "offsets": {
+        "from": 45110,
+        "to": 46480
+      },
+      "text": " mixture",
+      "tokens": [
+        {
+          "text": " mixture",
+          "timestamps": {
+            "from": "00:00:45,110",
+            "to": "00:00:46,480"
+          },
+          "offsets": {
+            "from": 45110,
+            "to": 46480
+          },
+          "id": 11710,
+          "p": 0.951853,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_784]",
+          "timestamps": {
+            "from": "00:00:46,480",
+            "to": "00:00:46,480"
+          },
+          "offsets": {
+            "from": 46480,
+            "to": 46480
+          },
+          "id": 51147,
+          "p": 0.0949039,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:46,480",
+        "to": "00:00:58,450"
+      },
+      "offsets": {
+        "from": 46480,
+        "to": 58450
+      },
+      "text": " mixture chocolate chocolate shake shake freeze freeze sure sure don't",
+      "tokens": [
+        {
+          "text": " mixture",
+          "timestamps": {
+            "from": "00:00:47,130",
+            "to": "00:00:47,710"
+          },
+          "offsets": {
+            "from": 47130,
+            "to": 47710
+          },
+          "id": 11710,
+          "p": 0.872552,
+          "t_dtw": -1
+        },
+        {
+          "text": " chocolate",
+          "timestamps": {
+            "from": "00:00:47,710",
+            "to": "00:00:48,140"
+          },
+          "offsets": {
+            "from": 47710,
+            "to": 48140
+          },
+          "id": 11311,
+          "p": 0.992816,
+          "t_dtw": -1
+        },
+        {
+          "text": " chocolate",
+          "timestamps": {
+            "from": "00:00:49,520",
+            "to": "00:00:50,890"
+          },
+          "offsets": {
+            "from": 49520,
+            "to": 50890
+          },
+          "id": 11311,
+          "p": 0.993365,
+          "t_dtw": -1
+        },
+        {
+          "text": " shake",
+          "timestamps": {
+            "from": "00:00:50,890",
+            "to": "00:00:51,420"
+          },
+          "offsets": {
+            "from": 50890,
+            "to": 51420
+          },
+          "id": 13279,
+          "p": 0.991686,
+          "t_dtw": -1
+        },
+        {
+          "text": " shake",
+          "timestamps": {
+            "from": "00:00:52,150",
+            "to": "00:00:52,640"
+          },
+          "offsets": {
+            "from": 52150,
+            "to": 52640
+          },
+          "id": 13279,
+          "p": 0.995372,
+          "t_dtw": -1
+        },
+        {
+          "text": " freeze",
+          "timestamps": {
+            "from": "00:00:53,200",
+            "to": "00:00:53,640"
+          },
+          "offsets": {
+            "from": 53200,
+            "to": 53640
+          },
+          "id": 16611,
+          "p": 0.992719,
+          "t_dtw": -1
+        },
+        {
+          "text": " freeze",
+          "timestamps": {
+            "from": "00:00:54,370",
+            "to": "00:00:54,800"
+          },
+          "offsets": {
+            "from": 54370,
+            "to": 54800
+          },
+          "id": 16611,
+          "p": 0.986482,
+          "t_dtw": -1
+        },
+        {
+          "text": " sure",
+          "timestamps": {
+            "from": "00:00:54,800",
+            "to": "00:00:55,630"
+          },
+          "offsets": {
+            "from": 54800,
+            "to": 55630
+          },
+          "id": 1654,
+          "p": 0.864216,
+          "t_dtw": -1
+        },
+        {
+          "text": " sure",
+          "timestamps": {
+            "from": "00:00:56,420",
+            "to": "00:00:56,950"
+          },
+          "offsets": {
+            "from": 56420,
+            "to": 56950
+          },
+          "id": 1654,
+          "p": 0.940729,
+          "t_dtw": -1
+        },
+        {
+          "text": " don",
+          "timestamps": {
+            "from": "00:00:57,400",
+            "to": "00:00:57,720"
+          },
+          "offsets": {
+            "from": 57400,
+            "to": 57720
+          },
+          "id": 836,
+          "p": 0.732193,
+          "t_dtw": -1
+        },
+        {
+          "text": "'t",
+          "timestamps": {
+            "from": "00:00:57,720",
+            "to": "00:00:57,900"
+          },
+          "offsets": {
+            "from": 57720,
+            "to": 57900
+          },
+          "id": 470,
+          "p": 0.999725,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:58,450",
+        "to": "00:00:58,480"
+      },
+      "offsets": {
+        "from": 58450,
+        "to": 58480
+      },
+      "text": " worry",
+      "tokens": [
+        {
+          "text": " worry",
+          "timestamps": {
+            "from": "00:00:58,450",
+            "to": "00:00:58,480"
+          },
+          "offsets": {
+            "from": 58450,
+            "to": 58480
+          },
+          "id": 5490,
+          "p": 0.947458,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1384]",
+          "timestamps": {
+            "from": "00:00:58,480",
+            "to": "00:00:58,480"
+          },
+          "offsets": {
+            "from": 58480,
+            "to": 58480
+          },
+          "id": 51747,
+          "p": 0.260196,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:58,480",
+        "to": "00:01:04,560"
+      },
+      "offsets": {
+        "from": 58480,
+        "to": 64560
+      },
+      "text": " don't worry done done",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:58,480",
+            "to": "00:00:58,480"
+          },
+          "offsets": {
+            "from": 58480,
+            "to": 58480
+          },
+          "id": 50363,
+          "p": 0.999991,
+          "t_dtw": -1
+        },
+        {
+          "text": " don",
+          "timestamps": {
+            "from": "00:00:59,130",
+            "to": "00:00:59,350"
+          },
+          "offsets": {
+            "from": 59130,
+            "to": 59350
+          },
+          "id": 836,
+          "p": 0.979385,
+          "t_dtw": -1
+        },
+        {
+          "text": "'t",
+          "timestamps": {
+            "from": "00:00:59,350",
+            "to": "00:00:59,930"
+          },
+          "offsets": {
+            "from": 59350,
+            "to": 59930
+          },
+          "id": 470,
+          "p": 0.999718,
+          "t_dtw": -1
+        },
+        {
+          "text": " worry",
+          "timestamps": {
+            "from": "00:00:59,930",
+            "to": "00:01:00,140"
+          },
+          "offsets": {
+            "from": 59930,
+            "to": 60140
+          },
+          "id": 5490,
+          "p": 0.998961,
+          "t_dtw": -1
+        },
+        {
+          "text": " done",
+          "timestamps": {
+            "from": "00:01:01,520",
+            "to": "00:01:02,050"
+          },
+          "offsets": {
+            "from": 61520,
+            "to": 62050
+          },
+          "id": 1760,
+          "p": 0.643781,
+          "t_dtw": -1
+        },
+        {
+          "text": " done",
+          "timestamps": {
+            "from": "00:01:02,850",
+            "to": "00:01:04,560"
+          },
+          "offsets": {
+            "from": 62850,
+            "to": 64560
+          },
+          "id": 1760,
+          "p": 0.827866,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_304]",
+          "timestamps": {
+            "from": "00:01:04,560",
+            "to": "00:01:04,560"
+          },
+          "offsets": {
+            "from": 64560,
+            "to": 64560
+          },
+          "id": 50667,
+          "p": 0.109021,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

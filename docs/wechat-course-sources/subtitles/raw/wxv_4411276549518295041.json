@@ -1,0 +1,374 @@
+{
+  "RequestId": "eeb66e63-4f41-4475-8813-6b1235e61c96",
+  "Data": {
+    "TaskId": 16291890771,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 31.161188,
+    "Result": "D D I have a doll. I have a toy dog. Look at my doll. Look at my toy dog. I have a doll. I have a toy dog. Look my dog. Look at my toy dog.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "D D I have a doll.",
+        "SliceSentence": "D D I have a doll .",
+        "WrittenText": "",
+        "StartMs": 900,
+        "EndMs": 9140,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "D"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "D"
+          },
+          {
+            "OffsetStartMs": 6730,
+            "OffsetEndMs": 7130,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 7270,
+            "OffsetEndMs": 7635,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 7635,
+            "OffsetEndMs": 7920,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7920,
+            "OffsetEndMs": 8240,
+            "Word": "doll"
+          },
+          {
+            "OffsetStartMs": 7920,
+            "OffsetEndMs": 8240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a toy dog.",
+        "SliceSentence": "I have a toy dog .",
+        "WrittenText": "",
+        "StartMs": 10030,
+        "EndMs": 12140,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 890,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1190,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at my doll.",
+        "SliceSentence": "Look at my doll .",
+        "WrittenText": "",
+        "StartMs": 12400,
+        "EndMs": 13940,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 890,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1205,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1540,
+            "Word": "doll"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at my toy dog.",
+        "SliceSentence": "Look at my toy dog .",
+        "WrittenText": "",
+        "StartMs": 14830,
+        "EndMs": 16880,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 875,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1190,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a doll.",
+        "SliceSentence": "I have a doll .",
+        "WrittenText": "",
+        "StartMs": 19510,
+        "EndMs": 21050,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 905,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "doll"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a toy dog.",
+        "SliceSentence": "I have a toy dog .",
+        "WrittenText": "",
+        "StartMs": 21880,
+        "EndMs": 24050,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 905,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look my dog.",
+        "SliceSentence": "Look my dog .",
+        "WrittenText": "",
+        "StartMs": 24250,
+        "EndMs": 25850,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at my toy dog.",
+        "SliceSentence": "Look at my toy dog .",
+        "WrittenText": "",
+        "StartMs": 26650,
+        "EndMs": 28820,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1295,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

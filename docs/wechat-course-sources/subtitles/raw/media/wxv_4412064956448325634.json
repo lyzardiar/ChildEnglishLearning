@@ -1,0 +1,966 @@
+{
+  "RequestId": "0fcd5d26-6f4d-4b50-93f5-7602ae8956a9",
+  "Data": {
+    "TaskId": 16292402451,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 85.310125,
+    "Result": "Leon in the game sophie let's try this okay. But where's Leon Oliver? What season is it? It's spring. It's warm. I like spring look beautiful flowers but where's Leon? Look, it's a butterfly and hey, this is my nose. Look blue clue winter. What season is it now? It's summer. It's hot. It's autumn. It's cool.It's winter. It's cold. I don't like winter. I like winter. It's fun. Look a snowman at Leon, he looks so cold. Oh, that's fun one more time.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Leon in the game sophie let's try this okay.",
+        "SliceSentence": "Leon in the game sophie let's try this okay .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 8750,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 1160,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1575,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1815,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2090,
+            "Word": "game"
+          },
+          {
+            "OffsetStartMs": 5170,
+            "OffsetEndMs": 5930,
+            "Word": "sophie"
+          },
+          {
+            "OffsetStartMs": 6220,
+            "OffsetEndMs": 6750,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 6750,
+            "OffsetEndMs": 7035,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 7035,
+            "OffsetEndMs": 7400,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 8350,
+            "OffsetEndMs": 8750,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 8350,
+            "OffsetEndMs": 8750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But where's Leon Oliver?",
+        "SliceSentence": "But where's Leon Oliver ?",
+        "WrittenText": "",
+        "StartMs": 9250,
+        "EndMs": 11510,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 860,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1420,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 2260,
+            "Word": "Oliver"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 2260,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What season is it?",
+        "SliceSentence": "What season is it ?",
+        "WrittenText": "",
+        "StartMs": 14800,
+        "EndMs": 16370,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "season"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1250,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's spring.",
+        "SliceSentence": "It's spring .",
+        "WrittenText": "",
+        "StartMs": 17050,
+        "EndMs": 18020,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 970,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's warm.",
+        "SliceSentence": "It's warm .",
+        "WrittenText": "",
+        "StartMs": 18610,
+        "EndMs": 19430,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like spring look beautiful flowers but where's Leon?",
+        "SliceSentence": "I like spring look beautiful flowers but where's Leon ?",
+        "WrittenText": "",
+        "StartMs": 20290,
+        "EndMs": 28790,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 6480,
+            "OffsetEndMs": 6880,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 7320,
+            "OffsetEndMs": 7970,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 7970,
+            "OffsetEndMs": 8500,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 7970,
+            "OffsetEndMs": 8500,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 31270,
+        "EndMs": 31670,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a butterfly and hey,",
+        "SliceSentence": "it's a butterfly and hey ,",
+        "WrittenText": "",
+        "StartMs": 32350,
+        "EndMs": 36260,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1420,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "hey"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " this is my nose.",
+        "SliceSentence": "this is my nose .",
+        "WrittenText": "",
+        "StartMs": 36880,
+        "EndMs": 38060,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 800,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look blue clue winter.",
+        "SliceSentence": "Look blue clue winter .",
+        "WrittenText": "",
+        "StartMs": 39970,
+        "EndMs": 43580,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1565,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1960,
+            "Word": "clue"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What season is it now?",
+        "SliceSentence": "What season is it now ?",
+        "WrittenText": "",
+        "StartMs": 46240,
+        "EndMs": 47960,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "season"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1205,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1415,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1720,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1720,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's summer.",
+        "SliceSentence": "It's summer .",
+        "WrittenText": "",
+        "StartMs": 48850,
+        "EndMs": 49700,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's hot.",
+        "SliceSentence": "It's hot .",
+        "WrittenText": "",
+        "StartMs": 50710,
+        "EndMs": 51500,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's autumn.",
+        "SliceSentence": "It's autumn .",
+        "WrittenText": "",
+        "StartMs": 54370,
+        "EndMs": 55670,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1300,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cool.",
+        "SliceSentence": "It's cool .",
+        "WrittenText": "",
+        "StartMs": 56290,
+        "EndMs": 57170,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 880,
+            "Word": "cool"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It's winter.",
+        "SliceSentence": "It's winter .",
+        "WrittenText": "",
+        "StartMs": 60020,
+        "EndMs": 60910,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 570,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 890,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cold.",
+        "SliceSentence": "It's cold .",
+        "WrittenText": "",
+        "StartMs": 61650,
+        "EndMs": 62320,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 670,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't like winter.",
+        "SliceSentence": "I don't like winter .",
+        "WrittenText": "",
+        "StartMs": 63000,
+        "EndMs": 64300,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 650,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1300,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like winter.",
+        "SliceSentence": "I like winter .",
+        "WrittenText": "",
+        "StartMs": 64770,
+        "EndMs": 65920,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's fun.",
+        "SliceSentence": "It's fun .",
+        "WrittenText": "",
+        "StartMs": 66510,
+        "EndMs": 67210,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 700,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look a snowman at Leon,",
+        "SliceSentence": "Look a snowman at Leon ,",
+        "WrittenText": "",
+        "StartMs": 69690,
+        "EndMs": 73630,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1325,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1990,
+            "Word": "snowman"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3380,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3380,
+            "OffsetEndMs": 3940,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 3380,
+            "OffsetEndMs": 3940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he looks so cold.",
+        "SliceSentence": "he looks so cold .",
+        "WrittenText": "",
+        "StartMs": 74160,
+        "EndMs": 75670,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1145,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 76500,
+        "EndMs": 76900,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that's fun one more time.",
+        "SliceSentence": "that's fun one more time .",
+        "WrittenText": "",
+        "StartMs": 80640,
+        "EndMs": 83530,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 880,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2510,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2890,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

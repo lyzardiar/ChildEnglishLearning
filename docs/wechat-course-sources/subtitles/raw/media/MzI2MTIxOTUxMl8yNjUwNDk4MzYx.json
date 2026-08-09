@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNDk4MzYx",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:18,880"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 18880
+      },
+      "text": " unit five dog dog cat cat fish fish bird bird hamster hamster tortoise",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.890986,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,590",
+            "to": "00:00:00,950"
+          },
+          "offsets": {
+            "from": 590,
+            "to": 950
+          },
+          "id": 4326,
+          "p": 0.561802,
+          "t_dtw": -1
+        },
+        {
+          "text": " five",
+          "timestamps": {
+            "from": "00:00:01,020",
+            "to": "00:00:01,640"
+          },
+          "offsets": {
+            "from": 1020,
+            "to": 1640
+          },
+          "id": 1936,
+          "p": 0.510652,
+          "t_dtw": -1
+        },
+        {
+          "text": " dog",
+          "timestamps": {
+            "from": "00:00:03,070",
+            "to": "00:00:03,450"
+          },
+          "offsets": {
+            "from": 3070,
+            "to": 3450
+          },
+          "id": 3290,
+          "p": 0.84728,
+          "t_dtw": -1
+        },
+        {
+          "text": " dog",
+          "timestamps": {
+            "from": "00:00:04,230",
+            "to": "00:00:04,690"
+          },
+          "offsets": {
+            "from": 4230,
+            "to": 4690
+          },
+          "id": 3290,
+          "p": 0.951236,
+          "t_dtw": -1
+        },
+        {
+          "text": " cat",
+          "timestamps": {
+            "from": "00:00:05,940",
+            "to": "00:00:06,520"
+          },
+          "offsets": {
+            "from": 5940,
+            "to": 6520
+          },
+          "id": 3797,
+          "p": 0.953718,
+          "t_dtw": -1
+        },
+        {
+          "text": " cat",
+          "timestamps": {
+            "from": "00:00:07,000",
+            "to": "00:00:07,580"
+          },
+          "offsets": {
+            "from": 7000,
+            "to": 7580
+          },
+          "id": 3797,
+          "p": 0.997101,
+          "t_dtw": -1
+        },
+        {
+          "text": " fish",
+          "timestamps": {
+            "from": "00:00:09,080",
+            "to": "00:00:09,570"
+          },
+          "offsets": {
+            "from": 9080,
+            "to": 9570
+          },
+          "id": 5916,
+          "p": 0.919554,
+          "t_dtw": -1
+        },
+        {
+          "text": " fish",
+          "timestamps": {
+            "from": "00:00:09,900",
+            "to": "00:00:10,590"
+          },
+          "offsets": {
+            "from": 9900,
+            "to": 10590
+          },
+          "id": 5916,
+          "p": 0.99103,
+          "t_dtw": -1
+        },
+        {
+          "text": " bird",
+          "timestamps": {
+            "from": "00:00:11,950",
+            "to": "00:00:12,220"
+          },
+          "offsets": {
+            "from": 11950,
+            "to": 12220
+          },
+          "id": 6512,
+          "p": 0.893489,
+          "t_dtw": -1
+        },
+        {
+          "text": " bird",
+          "timestamps": {
+            "from": "00:00:12,220",
+            "to": "00:00:13,480"
+          },
+          "offsets": {
+            "from": 12220,
+            "to": 13480
+          },
+          "id": 6512,
+          "p": 0.938826,
+          "t_dtw": -1
+        },
+        {
+          "text": " ham",
+          "timestamps": {
+            "from": "00:00:14,950",
+            "to": "00:00:15,050"
+          },
+          "offsets": {
+            "from": 14950,
+            "to": 15050
+          },
+          "id": 8891,
+          "p": 0.719062,
+          "t_dtw": -1
+        },
+        {
+          "text": "ster",
+          "timestamps": {
+            "from": "00:00:15,050",
+            "to": "00:00:15,540"
+          },
+          "offsets": {
+            "from": 15050,
+            "to": 15540
+          },
+          "id": 1706,
+          "p": 0.997128,
+          "t_dtw": -1
+        },
+        {
+          "text": " ham",
+          "timestamps": {
+            "from": "00:00:16,040",
+            "to": "00:00:16,610"
+          },
+          "offsets": {
+            "from": 16040,
+            "to": 16610
+          },
+          "id": 8891,
+          "p": 0.938773,
+          "t_dtw": -1
+        },
+        {
+          "text": "ster",
+          "timestamps": {
+            "from": "00:00:16,610",
+            "to": "00:00:16,820"
+          },
+          "offsets": {
+            "from": 16610,
+            "to": 16820
+          },
+          "id": 1706,
+          "p": 0.995515,
+          "t_dtw": -1
+        },
+        {
+          "text": " tort",
+          "timestamps": {
+            "from": "00:00:18,310",
+            "to": "00:00:18,330"
+          },
+          "offsets": {
+            "from": 18310,
+            "to": 18330
+          },
+          "id": 7619,
+          "p": 0.403557,
+          "t_dtw": -1
+        },
+        {
+          "text": "oise",
+          "timestamps": {
+            "from": "00:00:18,330",
+            "to": "00:00:18,840"
+          },
+          "offsets": {
+            "from": 18330,
+            "to": 18840
+          },
+          "id": 25678,
+          "p": 0.991681,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_944]",
+          "timestamps": {
+            "from": "00:00:18,880",
+            "to": "00:00:18,880"
+          },
+          "offsets": {
+            "from": 18880,
+            "to": 18880
+          },
+          "id": 51307,
+          "p": 0.157384,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:18,880",
+        "to": "00:00:21,940"
+      },
+      "offsets": {
+        "from": 18880,
+        "to": 21940
+      },
+      "text": " tortoise",
+      "tokens": [
+        {
+          "text": " tort",
+          "timestamps": {
+            "from": "00:00:19,470",
+            "to": "00:00:20,370"
+          },
+          "offsets": {
+            "from": 19470,
+            "to": 20370
+          },
+          "id": 7619,
+          "p": 0.92984,
+          "t_dtw": -1
+        },
+        {
+          "text": "oise",
+          "timestamps": {
+            "from": "00:00:20,370",
+            "to": "00:00:20,530"
+          },
+          "offsets": {
+            "from": 20370,
+            "to": 20530
+          },
+          "id": 25678,
+          "p": 0.996985,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1097]",
+          "timestamps": {
+            "from": "00:00:21,940",
+            "to": "00:00:21,940"
+          },
+          "offsets": {
+            "from": 21940,
+            "to": 21940
+          },
+          "id": 51460,
+          "p": 0.246571,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

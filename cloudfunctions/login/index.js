@@ -14,6 +14,8 @@ exports.main = async (event, context) => {
       return addChild(OPENID, event)
     case 'deleteChild':
       return deleteChild(OPENID, event)
+    case 'updateChildPreferences':
+      return updateChildPreferences(OPENID, event)
     default:
       // 默认：确保家长记录存在，返回 openid
       await ensureParent(OPENID)
@@ -47,7 +49,7 @@ async function getChildren(openid) {
 
 // 添加孩子
 async function addChild(openid, event) {
-  const { name, avatar } = event
+  const { name, avatar, grade } = event
 
   if (!name || !name.trim()) {
     return { code: -1, message: '名字不能为空' }
@@ -58,6 +60,7 @@ async function addChild(openid, event) {
       parentOpenid: openid,
       name: name.trim(),
       avatar: avatar || '',
+      grade: Number(grade) || 1,
       semester: 'upper',
       currentUnit: 0,
       createdAt: db.serverDate()
@@ -65,6 +68,22 @@ async function addChild(openid, event) {
   })
 
   return { code: 0, childId: result._id }
+}
+
+async function updateChildPreferences(openid, event) {
+  const { childId, grade, semester } = event
+  const { data } = await db.collection('children')
+    .where({ _id: childId, parentOpenid: openid })
+    .get()
+
+  if (data.length === 0) return { code: -1, message: '无权操作' }
+
+  const safeGrade = Math.min(6, Math.max(1, Number(grade) || 1))
+  const safeSemester = semester === 'lower' ? 'lower' : 'upper'
+  await db.collection('children').doc(childId).update({
+    data: { grade: safeGrade, semester: safeSemester, updatedAt: db.serverDate() }
+  })
+  return { code: 0 }
 }
 
 // 删除孩子

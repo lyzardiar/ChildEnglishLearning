@@ -1,0 +1,703 @@
+{
+  "RequestId": "bb68631c-225b-49fa-85c7-23d142b2f8f3",
+  "Data": {
+    "TaskId": 16292433267,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 48.645813,
+    "Result": "Wash your hands. Wash, wash. Wash your hands after you play. Wash your hands before meals. Wash your hands. Rub, rub. Rub your hands. Are they soapy? Rub. Rub, rub your hands. Are they clean? Dry, dry? Dry your hands? Are they dry yet? Now you're done. Let's have fun.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Wash your hands.",
+        "SliceSentence": "Wash your hands .",
+        "WrittenText": "",
+        "StartMs": 20,
+        "EndMs": 3640,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2865,
+            "Word": "Wash"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3240,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3620,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wash,",
+        "SliceSentence": "Wash ,",
+        "WrittenText": "",
+        "StartMs": 5130,
+        "EndMs": 5530,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wash"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " wash.",
+        "SliceSentence": "wash .",
+        "WrittenText": "",
+        "StartMs": 6120,
+        "EndMs": 6520,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wash your hands after you play.",
+        "SliceSentence": "Wash your hands after you play .",
+        "WrittenText": "",
+        "StartMs": 7140,
+        "EndMs": 11290,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wash"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1100,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3730,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wash your hands before meals.",
+        "SliceSentence": "Wash your hands before meals .",
+        "WrittenText": "",
+        "StartMs": 11850,
+        "EndMs": 16420,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wash"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1025,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3755,
+            "Word": "before"
+          },
+          {
+            "OffsetStartMs": 3755,
+            "OffsetEndMs": 4570,
+            "Word": "meals"
+          },
+          {
+            "OffsetStartMs": 3755,
+            "OffsetEndMs": 4570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wash your hands.",
+        "SliceSentence": "Wash your hands .",
+        "WrittenText": "",
+        "StartMs": 16740,
+        "EndMs": 18100,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wash"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 995,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Rub,",
+        "SliceSentence": "Rub ,",
+        "WrittenText": "",
+        "StartMs": 19530,
+        "EndMs": 19930,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Rub"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " rub.",
+        "SliceSentence": "rub .",
+        "WrittenText": "",
+        "StartMs": 20460,
+        "EndMs": 20860,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "rub"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Rub your hands.",
+        "SliceSentence": "Rub your hands .",
+        "WrittenText": "",
+        "StartMs": 21450,
+        "EndMs": 22750,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Rub"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Are they soapy?",
+        "SliceSentence": "Are they soapy ?",
+        "WrittenText": "",
+        "StartMs": 23760,
+        "EndMs": 25330,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1570,
+            "Word": "soapy"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Rub.",
+        "SliceSentence": "Rub .",
+        "WrittenText": "",
+        "StartMs": 26220,
+        "EndMs": 26620,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Rub"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Rub,",
+        "SliceSentence": "Rub ,",
+        "WrittenText": "",
+        "StartMs": 27210,
+        "EndMs": 27610,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Rub"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " rub your hands.",
+        "SliceSentence": "rub your hands .",
+        "WrittenText": "",
+        "StartMs": 28170,
+        "EndMs": 29500,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "rub"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1330,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Are they clean?",
+        "SliceSentence": "Are they clean ?",
+        "WrittenText": "",
+        "StartMs": 30840,
+        "EndMs": 31960,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Dry,",
+        "SliceSentence": "Dry ,",
+        "WrittenText": "",
+        "StartMs": 34110,
+        "EndMs": 34510,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Dry"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " dry?",
+        "SliceSentence": "dry ?",
+        "WrittenText": "",
+        "StartMs": 35100,
+        "EndMs": 35500,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "dry"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Dry your hands?",
+        "SliceSentence": "Dry your hands ?",
+        "WrittenText": "",
+        "StartMs": 36180,
+        "EndMs": 37630,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Dry"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1070,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1450,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Are they dry yet?",
+        "SliceSentence": "Are they dry yet ?",
+        "WrittenText": "",
+        "StartMs": 39090,
+        "EndMs": 40870,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "dry"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "yet"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now you're done.",
+        "SliceSentence": "Now you're done .",
+        "WrittenText": "",
+        "StartMs": 42480,
+        "EndMs": 43840,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1085,
+            "Word": "you're"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "done"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's have fun.",
+        "SliceSentence": "Let's have fun .",
+        "WrittenText": "",
+        "StartMs": 44430,
+        "EndMs": 45640,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 815,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

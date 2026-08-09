@@ -1,0 +1,4614 @@
+{
+  "RequestId": "3184818a-121f-4328-a2a5-316197e924aa",
+  "Data": {
+    "TaskId": 16292562480,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 630.979063,
+    "Result": "Unit 11 water, clothes, farmer up, shine over tree ground, grow crops.Put out fires. We use water to wash our hands. New words.Tap.Tap.Use.Use.Vegetable.Vegetable.Clothes.Clothes.Farmer.Farmer.Useful.Useful.Drop.Drop.Up.Up.Shine.Shine.Over.Over.Mountain.Mountain.Tree.Tree.Ground.Ground.Inside.Inside.Grow crops.Grow crops.Put out fires.Put out fires.Listen and say.We use water to wash our hands.Where does water come from? It comes from the sea. It comes from the rain. It comes from the tap, too. All of you are right. How do we use water? We use water to wash our hands. We use water to wash vegetables and clothes, too. Farmers use water to grow crops. Firemen use water to put out fires. Very good water is very useful.Read a story.The journey of little water drop.Little water drop lives in the sea. It is raining. I want to be up in the sky says little water drop. The sun shines and little water drop gets hot. He goes up to the sky. It is cool there. Now he is in a cloud. Hooray, I'm up in the sky, he says happily.Little water drop flies over rivers and mountains. One day he sees some trees. We are thirsty. We need water, say the trees. Little water drop falls down to the ground. A tree drinks him. Now little water drop is inside the tree.Sentence patterns.How do we use water?We use water to wash our hands.How do we use water? Woman? We use water, too. We use water to wash our hands.Farmers use water to grow crops.Firemen use water to put out fires.Use water to grow crops. No farmersmen use water to put out fires.Use something to do something that.We use wood to make desks and chairs.She uses paper to make a windmill.How do we use water?We use water to wash our hands.Farmers use water to grow crops.Firemen use water to put out fires.We use wood to make desks and chairs.She uses paper to make a windmill.Learn the sounds.The, the, this, this, that, that, the children are playing in the park. They like this swing. They like that slide. They can swing very high. They can slide very fast. The children are playing in the park. They like this swing. They like that slide. They can swing very high. They can slide very fast.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit 11 water,",
+        "SliceSentence": "Unit 11 water ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2570,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "11"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " clothes,",
+        "SliceSentence": "clothes ,",
+        "WrittenText": "",
+        "StartMs": 45550,
+        "EndMs": 45950,
+        "SpeechSpeed": 20,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 42980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " farmer up,",
+        "SliceSentence": "farmer up ,",
+        "WrittenText": "",
+        "StartMs": 47290,
+        "EndMs": 51140,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "farmer"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " shine over tree ground,",
+        "SliceSentence": "shine over tree ground ,",
+        "WrittenText": "",
+        "StartMs": 52120,
+        "EndMs": 57350,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "shine"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "ground"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grow crops.",
+        "SliceSentence": "grow crops .",
+        "WrittenText": "",
+        "StartMs": 58480,
+        "EndMs": 59720,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1240,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Put out fires.",
+        "SliceSentence": "Put out fires .",
+        "WrittenText": "",
+        "StartMs": 60220,
+        "EndMs": 61620,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 720,
+            "Word": "Put"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1020,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use water to wash our hands.",
+        "SliceSentence": "We use water to wash our hands .",
+        "WrittenText": "",
+        "StartMs": 66410,
+        "EndMs": 69210,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1865,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2135,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2450,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2800,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " New words.",
+        "SliceSentence": "New words .",
+        "WrittenText": "",
+        "StartMs": 76310,
+        "EndMs": 77070,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "New"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "words"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tap.",
+        "SliceSentence": "Tap .",
+        "WrittenText": "",
+        "StartMs": 79380,
+        "EndMs": 79790,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Tap"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tap.",
+        "SliceSentence": "Tap .",
+        "WrittenText": "",
+        "StartMs": 82840,
+        "EndMs": 83280,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Tap"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Use.",
+        "SliceSentence": "Use .",
+        "WrittenText": "",
+        "StartMs": 90140,
+        "EndMs": 90670,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Use"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Use.",
+        "SliceSentence": "Use .",
+        "WrittenText": "",
+        "StartMs": 93540,
+        "EndMs": 94070,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Use"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Vegetable.",
+        "SliceSentence": "Vegetable .",
+        "WrittenText": "",
+        "StartMs": 100640,
+        "EndMs": 101680,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1040,
+            "Word": "Vegetable"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Vegetable.",
+        "SliceSentence": "Vegetable .",
+        "WrittenText": "",
+        "StartMs": 104080,
+        "EndMs": 105120,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1040,
+            "Word": "Vegetable"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Clothes.",
+        "SliceSentence": "Clothes .",
+        "WrittenText": "",
+        "StartMs": 111060,
+        "EndMs": 111590,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Clothes"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Clothes.",
+        "SliceSentence": "Clothes .",
+        "WrittenText": "",
+        "StartMs": 114100,
+        "EndMs": 114600,
+        "SpeechSpeed": 14,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Clothes"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Farmer.",
+        "SliceSentence": "Farmer .",
+        "WrittenText": "",
+        "StartMs": 121900,
+        "EndMs": 122280,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Farmer"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Farmer.",
+        "SliceSentence": "Farmer .",
+        "WrittenText": "",
+        "StartMs": 125180,
+        "EndMs": 125560,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Farmer"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Useful.",
+        "SliceSentence": "Useful .",
+        "WrittenText": "",
+        "StartMs": 132520,
+        "EndMs": 133020,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Useful"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Useful.",
+        "SliceSentence": "Useful .",
+        "WrittenText": "",
+        "StartMs": 135640,
+        "EndMs": 136140,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Useful"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Drop.",
+        "SliceSentence": "Drop .",
+        "WrittenText": "",
+        "StartMs": 142940,
+        "EndMs": 143440,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Drop"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Drop.",
+        "SliceSentence": "Drop .",
+        "WrittenText": "",
+        "StartMs": 146260,
+        "EndMs": 146790,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Drop"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Up.",
+        "SliceSentence": "Up .",
+        "WrittenText": "",
+        "StartMs": 153620,
+        "EndMs": 154000,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Up.",
+        "SliceSentence": "Up .",
+        "WrittenText": "",
+        "StartMs": 156920,
+        "EndMs": 157330,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Shine.",
+        "SliceSentence": "Shine .",
+        "WrittenText": "",
+        "StartMs": 164180,
+        "EndMs": 164680,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 500,
+            "Word": "Shine"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Shine.",
+        "SliceSentence": "Shine .",
+        "WrittenText": "",
+        "StartMs": 167400,
+        "EndMs": 167930,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 530,
+            "Word": "Shine"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Over.",
+        "SliceSentence": "Over .",
+        "WrittenText": "",
+        "StartMs": 174640,
+        "EndMs": 175050,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Over"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Over.",
+        "SliceSentence": "Over .",
+        "WrittenText": "",
+        "StartMs": 177840,
+        "EndMs": 178250,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Over"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mountain.",
+        "SliceSentence": "Mountain .",
+        "WrittenText": "",
+        "StartMs": 185220,
+        "EndMs": 185720,
+        "SpeechSpeed": 16,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Mountain"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mountain.",
+        "SliceSentence": "Mountain .",
+        "WrittenText": "",
+        "StartMs": 188500,
+        "EndMs": 189000,
+        "SpeechSpeed": 16,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Mountain"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tree.",
+        "SliceSentence": "Tree .",
+        "WrittenText": "",
+        "StartMs": 195720,
+        "EndMs": 196280,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Tree"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tree.",
+        "SliceSentence": "Tree .",
+        "WrittenText": "",
+        "StartMs": 198920,
+        "EndMs": 199480,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Tree"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ground.",
+        "SliceSentence": "Ground .",
+        "WrittenText": "",
+        "StartMs": 206420,
+        "EndMs": 206950,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Ground"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ground.",
+        "SliceSentence": "Ground .",
+        "WrittenText": "",
+        "StartMs": 209660,
+        "EndMs": 210190,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Ground"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Inside.",
+        "SliceSentence": "Inside .",
+        "WrittenText": "",
+        "StartMs": 216760,
+        "EndMs": 217620,
+        "SpeechSpeed": 7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "Inside"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Inside.",
+        "SliceSentence": "Inside .",
+        "WrittenText": "",
+        "StartMs": 220000,
+        "EndMs": 220860,
+        "SpeechSpeed": 7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "Inside"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Grow crops.",
+        "SliceSentence": "Grow crops .",
+        "WrittenText": "",
+        "StartMs": 227580,
+        "EndMs": 228920,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Grow"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 1340,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 1340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Grow crops.",
+        "SliceSentence": "Grow crops .",
+        "WrittenText": "",
+        "StartMs": 230540,
+        "EndMs": 231880,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Grow"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 1340,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 1340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Put out fires.",
+        "SliceSentence": "Put out fires .",
+        "WrittenText": "",
+        "StartMs": 237780,
+        "EndMs": 238850,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "Put"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 690,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1070,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Put out fires.",
+        "SliceSentence": "Put out fires .",
+        "WrittenText": "",
+        "StartMs": 241100,
+        "EndMs": 242170,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "Put"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 690,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1070,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 252980,
+        "EndMs": 254410,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1050,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1430,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We use water to wash our hands.",
+        "SliceSentence": "We use water to wash our hands .",
+        "WrittenText": "",
+        "StartMs": 258640,
+        "EndMs": 262710,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1665,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 1665,
+            "OffsetEndMs": 2030,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2540,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3135,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3135,
+            "OffsetEndMs": 3405,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 3405,
+            "OffsetEndMs": 3720,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4070,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Where does water come from?",
+        "SliceSentence": "Where does water come from ?",
+        "WrittenText": "",
+        "StartMs": 264580,
+        "EndMs": 269640,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3230,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3650,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 3670,
+            "OffsetEndMs": 4070,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 4300,
+            "OffsetEndMs": 4680,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5060,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5060,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It comes from the sea.",
+        "SliceSentence": "It comes from the sea .",
+        "WrittenText": "",
+        "StartMs": 274250,
+        "EndMs": 275850,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1310,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1600,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It comes from the rain.",
+        "SliceSentence": "It comes from the rain .",
+        "WrittenText": "",
+        "StartMs": 279380,
+        "EndMs": 280980,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1115,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1310,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1600,
+            "Word": "rain"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It comes from the tap,",
+        "SliceSentence": "It comes from the tap ,",
+        "WrittenText": "",
+        "StartMs": 284270,
+        "EndMs": 285990,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1220,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1720,
+            "Word": "tap"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1720,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 286130,
+        "EndMs": 286530,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " All of you are right.",
+        "SliceSentence": "All of you are right .",
+        "WrittenText": "",
+        "StartMs": 289880,
+        "EndMs": 291600,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 710,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 995,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1325,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1720,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How do we use water?",
+        "SliceSentence": "How do we use water ?",
+        "WrittenText": "",
+        "StartMs": 292400,
+        "EndMs": 293970,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 620,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 830,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1150,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use water to wash our hands.",
+        "SliceSentence": "We use water to wash our hands .",
+        "WrittenText": "",
+        "StartMs": 296660,
+        "EndMs": 299100,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1610,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1835,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2105,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2440,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use water to wash vegetables and clothes,",
+        "SliceSentence": "We use water to wash vegetables and clothes ,",
+        "WrittenText": "",
+        "StartMs": 299960,
+        "EndMs": 303300,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 605,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1000,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1355,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1595,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1960,
+            "Word": "vegetables"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 2990,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3340,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3340,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 303560,
+        "EndMs": 303960,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Farmers use water to grow crops.",
+        "SliceSentence": "Farmers use water to grow crops .",
+        "WrittenText": "",
+        "StartMs": 305840,
+        "EndMs": 308490,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Farmers"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1360,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1700,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 1955,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2650,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Firemen use water to put out fires.",
+        "SliceSentence": "Firemen use water to put out fires .",
+        "WrittenText": "",
+        "StartMs": 308990,
+        "EndMs": 311610,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 785,
+            "Word": "Firemen"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1070,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1450,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1835,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2015,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2270,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2620,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Very good water is very useful.",
+        "SliceSentence": "Very good water is very useful .",
+        "WrittenText": "",
+        "StartMs": 315080,
+        "EndMs": 318660,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Very"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "useful"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Read a story.",
+        "SliceSentence": "Read a story .",
+        "WrittenText": "",
+        "StartMs": 325060,
+        "EndMs": 329220,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3540,
+            "Word": "Read"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3840,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4160,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The journey of little water drop.",
+        "SliceSentence": "The journey of little water drop .",
+        "WrittenText": "",
+        "StartMs": 331980,
+        "EndMs": 335930,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1680,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2000,
+            "Word": "journey"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2550,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2900,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 3010,
+            "OffsetEndMs": 3410,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Little water drop lives in the sea.",
+        "SliceSentence": "Little water drop lives in the sea .",
+        "WrittenText": "",
+        "StartMs": 336860,
+        "EndMs": 340030,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2685,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2685,
+            "OffsetEndMs": 2880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3170,
+            "Word": "sea"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is raining.",
+        "SliceSentence": "It is raining .",
+        "WrittenText": "",
+        "StartMs": 343050,
+        "EndMs": 343900,
+        "SpeechSpeed": 16.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 515,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 850,
+            "Word": "raining"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to be up in the sky says little water drop.",
+        "SliceSentence": "I want to be up in the sky says little water drop .",
+        "WrittenText": "",
+        "StartMs": 344760,
+        "EndMs": 349120,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 875,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1055,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1340,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1640,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2200,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3560,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3940,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4360,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sun shines and little water drop gets hot.",
+        "SliceSentence": "The sun shines and little water drop gets hot .",
+        "WrittenText": "",
+        "StartMs": 351900,
+        "EndMs": 355300,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 560,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 970,
+            "Word": "shines"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1700,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2015,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2405,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2735,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 3035,
+            "Word": "gets"
+          },
+          {
+            "OffsetStartMs": 3035,
+            "OffsetEndMs": 3400,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 3035,
+            "OffsetEndMs": 3400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He goes up to the sky.",
+        "SliceSentence": "He goes up to the sky .",
+        "WrittenText": "",
+        "StartMs": 361380,
+        "EndMs": 363040,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 920,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1175,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1355,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is cool there.",
+        "SliceSentence": "It is cool there .",
+        "WrittenText": "",
+        "StartMs": 363930,
+        "EndMs": 365080,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 755,
+            "Word": "cool"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now he is in a cloud.",
+        "SliceSentence": "Now he is in a cloud .",
+        "WrittenText": "",
+        "StartMs": 367890,
+        "EndMs": 369430,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 770,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 950,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1115,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1540,
+            "Word": "cloud"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hooray,",
+        "SliceSentence": "Hooray ,",
+        "WrittenText": "",
+        "StartMs": 370170,
+        "EndMs": 370780,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 610,
+            "Word": "Hooray"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm up in the sky,",
+        "SliceSentence": "I'm up in the sky ,",
+        "WrittenText": "",
+        "StartMs": 371100,
+        "EndMs": 372400,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 575,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 770,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 980,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1300,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he says happily.",
+        "SliceSentence": "he says happily .",
+        "WrittenText": "",
+        "StartMs": 373080,
+        "EndMs": 374410,
+        "SpeechSpeed": 12,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1330,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Little water drop flies over rivers and mountains.",
+        "SliceSentence": "Little water drop flies over rivers and mountains .",
+        "WrittenText": "",
+        "StartMs": 375240,
+        "EndMs": 380240,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1860,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2240,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 2800,
+            "OffsetEndMs": 3230,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 3340,
+            "OffsetEndMs": 3740,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 3760,
+            "OffsetEndMs": 4160,
+            "Word": "rivers"
+          },
+          {
+            "OffsetStartMs": 4240,
+            "OffsetEndMs": 4620,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 5000,
+            "Word": "mountains"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 5000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day he sees some trees.",
+        "SliceSentence": "One day he sees some trees .",
+        "WrittenText": "",
+        "StartMs": 382780,
+        "EndMs": 385190,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1235,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2045,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "trees"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We are thirsty.",
+        "SliceSentence": "We are thirsty .",
+        "WrittenText": "",
+        "StartMs": 388030,
+        "EndMs": 389480,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1450,
+            "Word": "thirsty"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We need water,",
+        "SliceSentence": "We need water ,",
+        "WrittenText": "",
+        "StartMs": 389710,
+        "EndMs": 390770,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " say the trees.",
+        "SliceSentence": "say the trees .",
+        "WrittenText": "",
+        "StartMs": 391840,
+        "EndMs": 392780,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 650,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 940,
+            "Word": "trees"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little water drop falls down to the ground.",
+        "SliceSentence": "Little water drop falls down to the ground .",
+        "WrittenText": "",
+        "StartMs": 395080,
+        "EndMs": 397880,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2135,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2390,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2525,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2800,
+            "Word": "ground"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A tree drinks him.",
+        "SliceSentence": "A tree drinks him .",
+        "WrittenText": "",
+        "StartMs": 402610,
+        "EndMs": 404150,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1160,
+            "Word": "drinks"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1540,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now little water drop is inside the tree.",
+        "SliceSentence": "Now little water drop is inside the tree .",
+        "WrittenText": "",
+        "StartMs": 404830,
+        "EndMs": 408080,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "drop"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "inside"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2930,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3250,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sentence patterns.",
+        "SliceSentence": "Sentence patterns .",
+        "WrittenText": "",
+        "StartMs": 412800,
+        "EndMs": 426800,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 12850,
+            "OffsetEndMs": 13250,
+            "Word": "Sentence"
+          },
+          {
+            "OffsetStartMs": 13600,
+            "OffsetEndMs": 14000,
+            "Word": "patterns"
+          },
+          {
+            "OffsetStartMs": 13600,
+            "OffsetEndMs": 14000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do we use water?",
+        "SliceSentence": "How do we use water ?",
+        "WrittenText": "",
+        "StartMs": 430060,
+        "EndMs": 431670,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 435,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 690,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 885,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1190,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We use water to wash our hands.",
+        "SliceSentence": "We use water to wash our hands .",
+        "WrittenText": "",
+        "StartMs": 433020,
+        "EndMs": 435560,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 710,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 790,
+            "OffsetEndMs": 1190,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1680,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 1920,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2205,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2540,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do we use water?",
+        "SliceSentence": "How do we use water ?",
+        "WrittenText": "",
+        "StartMs": 437100,
+        "EndMs": 438740,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 435,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 690,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 885,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1190,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Woman?",
+        "SliceSentence": "Woman ?",
+        "WrittenText": "",
+        "StartMs": 441430,
+        "EndMs": 441830,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Woman"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use water,",
+        "SliceSentence": "We use water ,",
+        "WrittenText": "",
+        "StartMs": 443200,
+        "EndMs": 444200,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 444250,
+        "EndMs": 444650,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use water to wash our hands.",
+        "SliceSentence": "We use water to wash our hands .",
+        "WrittenText": "",
+        "StartMs": 447100,
+        "EndMs": 449540,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1595,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1835,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2105,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2440,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Farmers use water to grow crops.",
+        "SliceSentence": "Farmers use water to grow crops .",
+        "WrittenText": "",
+        "StartMs": 456720,
+        "EndMs": 459470,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Farmers"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1110,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1490,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1815,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2085,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2750,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Firemen use water to put out fires.",
+        "SliceSentence": "Firemen use water to put out fires .",
+        "WrittenText": "",
+        "StartMs": 461180,
+        "EndMs": 463900,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 870,
+            "Word": "Firemen"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1170,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1550,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 1935,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1935,
+            "OffsetEndMs": 2115,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 2115,
+            "OffsetEndMs": 2370,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2720,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Use water to grow crops.",
+        "SliceSentence": "Use water to grow crops .",
+        "WrittenText": "",
+        "StartMs": 465280,
+        "EndMs": 471240,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3940,
+            "OffsetEndMs": 4320,
+            "Word": "Use"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4700,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 4750,
+            "OffsetEndMs": 5040,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5295,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 5295,
+            "OffsetEndMs": 5960,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 5295,
+            "OffsetEndMs": 5960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No farmersmen use water to put out fires.",
+        "SliceSentence": "No farmersmen use water to put out fires .",
+        "WrittenText": "",
+        "StartMs": 471620,
+        "EndMs": 476700,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 3230,
+            "Word": "farmersmen"
+          },
+          {
+            "OffsetStartMs": 3230,
+            "OffsetEndMs": 3530,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 3530,
+            "OffsetEndMs": 3910,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4295,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 4295,
+            "OffsetEndMs": 4475,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 4475,
+            "OffsetEndMs": 4730,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 4730,
+            "OffsetEndMs": 5080,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 4730,
+            "OffsetEndMs": 5080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Use something to do something that.",
+        "SliceSentence": "Use something to do something that .",
+        "WrittenText": "",
+        "StartMs": 485520,
+        "EndMs": 492980,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 4900,
+            "OffsetEndMs": 5300,
+            "Word": "Use"
+          },
+          {
+            "OffsetStartMs": 5440,
+            "OffsetEndMs": 5840,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6375,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 6375,
+            "OffsetEndMs": 6630,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 6630,
+            "OffsetEndMs": 6980,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We use wood to make desks and chairs.",
+        "SliceSentence": "We use wood to make desks and chairs .",
+        "WrittenText": "",
+        "StartMs": 498300,
+        "EndMs": 501530,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 435,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 740,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1160,
+            "Word": "wood"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1635,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1635,
+            "OffsetEndMs": 1890,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2595,
+            "Word": "desks"
+          },
+          {
+            "OffsetStartMs": 2595,
+            "OffsetEndMs": 2880,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3230,
+            "Word": "chairs"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "She uses paper to make a windmill.",
+        "SliceSentence": "She uses paper to make a windmill .",
+        "WrittenText": "",
+        "StartMs": 504120,
+        "EndMs": 506840,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 450,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1785,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 1965,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1965,
+            "OffsetEndMs": 2160,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2720,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do we use water?",
+        "SliceSentence": "How do we use water ?",
+        "WrittenText": "",
+        "StartMs": 517520,
+        "EndMs": 519160,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 450,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 690,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 885,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1190,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We use water to wash our hands.",
+        "SliceSentence": "We use water to wash our hands .",
+        "WrittenText": "",
+        "StartMs": 525600,
+        "EndMs": 528140,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 420,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 740,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1695,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1695,
+            "OffsetEndMs": 1935,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 1935,
+            "OffsetEndMs": 2205,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2540,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Farmers use water to grow crops.",
+        "SliceSentence": "Farmers use water to grow crops .",
+        "WrittenText": "",
+        "StartMs": 535620,
+        "EndMs": 538370,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Farmers"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1110,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1490,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1815,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2085,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2750,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Firemen use water to put out fires.",
+        "SliceSentence": "Firemen use water to put out fires .",
+        "WrittenText": "",
+        "StartMs": 544740,
+        "EndMs": 547460,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 900,
+            "Word": "Firemen"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1200,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 1965,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1965,
+            "OffsetEndMs": 2145,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 2145,
+            "OffsetEndMs": 2385,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2385,
+            "OffsetEndMs": 2720,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 2385,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We use wood to make desks and chairs.",
+        "SliceSentence": "We use wood to make desks and chairs .",
+        "WrittenText": "",
+        "StartMs": 556060,
+        "EndMs": 559320,
+        "SpeechSpeed": 11,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 465,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 765,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1160,
+            "Word": "wood"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1650,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1920,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2625,
+            "Word": "desks"
+          },
+          {
+            "OffsetStartMs": 2625,
+            "OffsetEndMs": 2910,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3260,
+            "Word": "chairs"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "She uses paper to make a windmill.",
+        "SliceSentence": "She uses paper to make a windmill .",
+        "WrittenText": "",
+        "StartMs": 566220,
+        "EndMs": 568940,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 450,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1785,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 1965,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1965,
+            "OffsetEndMs": 2145,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2145,
+            "OffsetEndMs": 2720,
+            "Word": "windmill"
+          },
+          {
+            "OffsetStartMs": 2145,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Learn the sounds.",
+        "SliceSentence": "Learn the sounds .",
+        "WrittenText": "",
+        "StartMs": 582820,
+        "EndMs": 583860,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Learn"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 750,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1040,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 13880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The,",
+        "SliceSentence": "The ,",
+        "WrittenText": "",
+        "StartMs": 585400,
+        "EndMs": 587610,
+        "SpeechSpeed": 1.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the,",
+        "SliceSentence": "the ,",
+        "WrittenText": "",
+        "StartMs": 588800,
+        "EndMs": 589200,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " this,",
+        "SliceSentence": "this ,",
+        "WrittenText": "",
+        "StartMs": 593570,
+        "EndMs": 593970,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " this,",
+        "SliceSentence": "this ,",
+        "WrittenText": "",
+        "StartMs": 595190,
+        "EndMs": 595590,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that,",
+        "SliceSentence": "that ,",
+        "WrittenText": "",
+        "StartMs": 600140,
+        "EndMs": 600540,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that,",
+        "SliceSentence": "that ,",
+        "WrittenText": "",
+        "StartMs": 601940,
+        "EndMs": 602340,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the children are playing in the park.",
+        "SliceSentence": "the children are playing in the park .",
+        "WrittenText": "",
+        "StartMs": 607250,
+        "EndMs": 609510,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 520,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 875,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1150,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1655,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They like this swing.",
+        "SliceSentence": "They like this swing .",
+        "WrittenText": "",
+        "StartMs": 609650,
+        "EndMs": 610800,
+        "SpeechSpeed": 18.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 785,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "swing"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They like that slide.",
+        "SliceSentence": "They like that slide .",
+        "WrittenText": "",
+        "StartMs": 610850,
+        "EndMs": 611970,
+        "SpeechSpeed": 18.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 485,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 770,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1120,
+            "Word": "slide"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They can swing very high.",
+        "SliceSentence": "They can swing very high .",
+        "WrittenText": "",
+        "StartMs": 612140,
+        "EndMs": 614280,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "swing"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They can slide very fast.",
+        "SliceSentence": "They can slide very fast .",
+        "WrittenText": "",
+        "StartMs": 614510,
+        "EndMs": 616710,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "slide"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The children are playing in the park.",
+        "SliceSentence": "The children are playing in the park .",
+        "WrittenText": "",
+        "StartMs": 619160,
+        "EndMs": 621420,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 520,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 905,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1210,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1655,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They like this swing.",
+        "SliceSentence": "They like this swing .",
+        "WrittenText": "",
+        "StartMs": 621530,
+        "EndMs": 622680,
+        "SpeechSpeed": 18.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 515,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 800,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1150,
+            "Word": "swing"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They like that slide.",
+        "SliceSentence": "They like that slide .",
+        "WrittenText": "",
+        "StartMs": 622730,
+        "EndMs": 623880,
+        "SpeechSpeed": 18.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 500,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 800,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1150,
+            "Word": "slide"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They can swing very high.",
+        "SliceSentence": "They can swing very high .",
+        "WrittenText": "",
+        "StartMs": 624050,
+        "EndMs": 626190,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "swing"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They can slide very fast.",
+        "SliceSentence": "They can slide very fast .",
+        "WrittenText": "",
+        "StartMs": 626480,
+        "EndMs": 628620,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "slide"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "RequestId": "68aa4d16-43d8-4486-9c5e-3055db351d69",
+  "Data": {
+    "TaskId": 16292487392,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 67.570063,
+    "Result": "C r Craig g r gr great.Music is great. Do you agree? You can join a group with me? My friend Craig knows what to do. He crashes drums and cymbals, too. One day we'll play for a crowd. My grandparents will be so proud.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "C r Craig g r gr great.",
+        "SliceSentence": "C r Craig g r gr great .",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 33620,
+        "SpeechSpeed": 0.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 5650,
+            "OffsetEndMs": 6050,
+            "Word": "C"
+          },
+          {
+            "OffsetStartMs": 6100,
+            "OffsetEndMs": 6500,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 7090,
+            "OffsetEndMs": 15620,
+            "Word": "Craig"
+          },
+          {
+            "OffsetStartMs": 23980,
+            "OffsetEndMs": 24380,
+            "Word": "g"
+          },
+          {
+            "OffsetStartMs": 24490,
+            "OffsetEndMs": 24890,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 25600,
+            "OffsetEndMs": 26000,
+            "Word": "gr"
+          },
+          {
+            "OffsetStartMs": 33100,
+            "OffsetEndMs": 33500,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 33100,
+            "OffsetEndMs": 33500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Music is great.",
+        "SliceSentence": "Music is great .",
+        "WrittenText": "",
+        "StartMs": 36680,
+        "EndMs": 40450,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "Music"
+          },
+          {
+            "OffsetStartMs": 2920,
+            "OffsetEndMs": 3320,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3370,
+            "OffsetEndMs": 3770,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 3370,
+            "OffsetEndMs": 3770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you agree?",
+        "SliceSentence": "Do you agree ?",
+        "WrittenText": "",
+        "StartMs": 41100,
+        "EndMs": 42730,
+        "SpeechSpeed": 8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "agree"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can join a group with me?",
+        "SliceSentence": "You can join a group with me ?",
+        "WrittenText": "",
+        "StartMs": 43470,
+        "EndMs": 47410,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "join"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "group"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My friend Craig knows what to do.",
+        "SliceSentence": "My friend Craig knows what to do .",
+        "WrittenText": "",
+        "StartMs": 48360,
+        "EndMs": 52270,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1850,
+            "Word": "Craig"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2170,
+            "Word": "knows"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He crashes drums and cymbals,",
+        "SliceSentence": "He crashes drums and cymbals ,",
+        "WrittenText": "",
+        "StartMs": 53070,
+        "EndMs": 56320,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1295,
+            "Word": "crashes"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1895,
+            "Word": "drums"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2230,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 3250,
+            "Word": "cymbals"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 3250,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 56610,
+        "EndMs": 57010,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day we'll play for a crowd.",
+        "SliceSentence": "One day we'll play for a crowd .",
+        "WrittenText": "",
+        "StartMs": 57930,
+        "EndMs": 61210,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1775,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2645,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2945,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3280,
+            "Word": "crowd"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My grandparents will be so proud.",
+        "SliceSentence": "My grandparents will be so proud .",
+        "WrittenText": "",
+        "StartMs": 61740,
+        "EndMs": 64720,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 1340,
+            "Word": "grandparents"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1610,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1960,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "proud"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

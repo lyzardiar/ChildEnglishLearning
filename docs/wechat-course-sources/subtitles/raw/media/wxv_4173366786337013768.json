@@ -1,0 +1,761 @@
+{
+  "RequestId": "f15424f3-20fb-494f-b75a-c4952f1d8c7c",
+  "Data": {
+    "TaskId": 16292428885,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 71.447813,
+    "Result": "P.You.You.You. You.Toe.Duck.Duck.P.V v.V v.Toe.Dove.Dove.P.W w.W w.Toe.Swan swan.A white dove, a white dove, and a white swan, a white duck, a white duck and a white swan.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 420,
+        "EndMs": 890,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You.",
+        "SliceSentence": "You .",
+        "WrittenText": "",
+        "StartMs": 1700,
+        "EndMs": 2230,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You.",
+        "SliceSentence": "You .",
+        "WrittenText": "",
+        "StartMs": 3060,
+        "EndMs": 3560,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You.",
+        "SliceSentence": "You .",
+        "WrittenText": "",
+        "StartMs": 4840,
+        "EndMs": 5370,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You.",
+        "SliceSentence": "You .",
+        "WrittenText": "",
+        "StartMs": 6020,
+        "EndMs": 6420,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7640,
+        "EndMs": 8050,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Duck.",
+        "SliceSentence": "Duck .",
+        "WrittenText": "",
+        "StartMs": 11600,
+        "EndMs": 12040,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Duck"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Duck.",
+        "SliceSentence": "Duck .",
+        "WrittenText": "",
+        "StartMs": 13080,
+        "EndMs": 13670,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Duck"
+          },
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 17040,
+        "EndMs": 17480,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "V v.",
+        "SliceSentence": "V v .",
+        "WrittenText": "",
+        "StartMs": 18380,
+        "EndMs": 19990,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "V"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "v"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "V v.",
+        "SliceSentence": "V v .",
+        "WrittenText": "",
+        "StartMs": 21500,
+        "EndMs": 22960,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "V"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "v"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 24240,
+        "EndMs": 24650,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dove.",
+        "SliceSentence": "Dove .",
+        "WrittenText": "",
+        "StartMs": 28240,
+        "EndMs": 29100,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 860,
+            "Word": "Dove"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dove.",
+        "SliceSentence": "Dove .",
+        "WrittenText": "",
+        "StartMs": 29800,
+        "EndMs": 30780,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 980,
+            "Word": "Dove"
+          },
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 33560,
+        "EndMs": 34000,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "W w.",
+        "SliceSentence": "W w .",
+        "WrittenText": "",
+        "StartMs": 35260,
+        "EndMs": 36870,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "W"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "w"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "W w.",
+        "SliceSentence": "W w .",
+        "WrittenText": "",
+        "StartMs": 38220,
+        "EndMs": 39650,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "W"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "w"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 40840,
+        "EndMs": 41250,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Swan swan.",
+        "SliceSentence": "Swan swan .",
+        "WrittenText": "",
+        "StartMs": 44580,
+        "EndMs": 46550,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 710,
+            "Word": "Swan"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1970,
+            "Word": "swan"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A white dove,",
+        "SliceSentence": "A white dove ,",
+        "WrittenText": "",
+        "StartMs": 49420,
+        "EndMs": 53460,
+        "SpeechSpeed": 3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2130,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2480,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 4040,
+            "Word": "dove"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 4040,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white dove,",
+        "SliceSentence": "a white dove ,",
+        "WrittenText": "",
+        "StartMs": 53570,
+        "EndMs": 55890,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2320,
+            "Word": "dove"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2320,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " and a white swan,",
+        "SliceSentence": "and a white swan ,",
+        "WrittenText": "",
+        "StartMs": 56240,
+        "EndMs": 57900,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 710,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1660,
+            "Word": "swan"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white duck,",
+        "SliceSentence": "a white duck ,",
+        "WrittenText": "",
+        "StartMs": 61940,
+        "EndMs": 63810,
+        "SpeechSpeed": 7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white duck and a white swan.",
+        "SliceSentence": "a white duck and a white swan .",
+        "WrittenText": "",
+        "StartMs": 64400,
+        "EndMs": 68670,
+        "SpeechSpeed": 7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2825,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3005,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3005,
+            "OffsetEndMs": 3320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3670,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4270,
+            "Word": "swan"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

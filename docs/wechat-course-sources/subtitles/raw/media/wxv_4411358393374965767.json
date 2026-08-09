@@ -1,0 +1,902 @@
+{
+  "RequestId": "d2126c9f-fec6-4853-a9ac-a314dce77549",
+  "Data": {
+    "TaskId": 16292479046,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 100.26375,
+    "Result": "Ja ja needs a schedule at home.Dada, it's nine PM. Go to bed now. Alright, mom, get up dadada. Five more minutes. Please hurry up. There's no time for breakfast. Mum, I'm sleepy at the bus stop.Hurry up, ja, the school bus is coming okay?Oh no ja, you missed the school bus in the classroom. Good morning Mr Yen. Sorry I'm late the next day. Oh you're on time today. Good, I don't want to be late again.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Ja ja needs a schedule at home.",
+        "SliceSentence": "Ja ja needs a schedule at home .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6290,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1260,
+            "Word": "Ja"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1670,
+            "Word": "ja"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "needs"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2640,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 2930,
+            "Word": "schedule"
+          },
+          {
+            "OffsetStartMs": 5560,
+            "OffsetEndMs": 5925,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 5925,
+            "OffsetEndMs": 6290,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 5925,
+            "OffsetEndMs": 6290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dada,",
+        "SliceSentence": "Dada ,",
+        "WrittenText": "",
+        "StartMs": 11380,
+        "EndMs": 13410,
+        "SpeechSpeed": 2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 2030,
+            "Word": "Dada"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 2030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's nine PM.",
+        "SliceSentence": "it's nine PM .",
+        "WrittenText": "",
+        "StartMs": 13730,
+        "EndMs": 15390,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 850,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1660,
+            "Word": "PM"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Go to bed now.",
+        "SliceSentence": "Go to bed now .",
+        "WrittenText": "",
+        "StartMs": 16970,
+        "EndMs": 18180,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Go"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 605,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 845,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Alright,",
+        "SliceSentence": "Alright ,",
+        "WrittenText": "",
+        "StartMs": 19940,
+        "EndMs": 20320,
+        "SpeechSpeed": 21.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Alright"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mom,",
+        "SliceSentence": "mom ,",
+        "WrittenText": "",
+        "StartMs": 20320,
+        "EndMs": 20700,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " get up dadada.",
+        "SliceSentence": "get up dadada .",
+        "WrittenText": "",
+        "StartMs": 31790,
+        "EndMs": 33570,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1780,
+            "Word": "dadada"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Five more minutes.",
+        "SliceSentence": "Five more minutes .",
+        "WrittenText": "",
+        "StartMs": 34640,
+        "EndMs": 35790,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "minutes"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Please hurry up.",
+        "SliceSentence": "Please hurry up .",
+        "WrittenText": "",
+        "StartMs": 36140,
+        "EndMs": 39510,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Please"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "hurry"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's no time for breakfast.",
+        "SliceSentence": "There's no time for breakfast .",
+        "WrittenText": "",
+        "StartMs": 40010,
+        "EndMs": 42000,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 755,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1640,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1990,
+            "Word": "breakfast"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mum,",
+        "SliceSentence": "Mum ,",
+        "WrittenText": "",
+        "StartMs": 44480,
+        "EndMs": 44880,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mum"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm sleepy at the bus stop.",
+        "SliceSentence": "I'm sleepy at the bus stop .",
+        "WrittenText": "",
+        "StartMs": 45320,
+        "EndMs": 49950,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1300,
+            "Word": "sleepy"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3920,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3920,
+            "OffsetEndMs": 4210,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4630,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hurry up,",
+        "SliceSentence": "Hurry up ,",
+        "WrittenText": "",
+        "StartMs": 50880,
+        "EndMs": 52610,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1280,
+            "Word": "Hurry"
+          },
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1730,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ja,",
+        "SliceSentence": "ja ,",
+        "WrittenText": "",
+        "StartMs": 52660,
+        "EndMs": 53390,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "ja"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the school bus is coming okay?",
+        "SliceSentence": "the school bus is coming okay ?",
+        "WrittenText": "",
+        "StartMs": 54790,
+        "EndMs": 58580,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1460,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1780,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Oh no ja,",
+        "SliceSentence": "Oh no ja ,",
+        "WrittenText": "",
+        "StartMs": 62420,
+        "EndMs": 66070,
+        "SpeechSpeed": 2.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2540,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3650,
+            "Word": "ja"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3650,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you missed the school bus in the classroom.",
+        "SliceSentence": "you missed the school bus in the classroom .",
+        "WrittenText": "",
+        "StartMs": 66750,
+        "EndMs": 71440,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "missed"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1565,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4130,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4130,
+            "OffsetEndMs": 4385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4385,
+            "OffsetEndMs": 4690,
+            "Word": "classroom"
+          },
+          {
+            "OffsetStartMs": 4385,
+            "OffsetEndMs": 4690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good morning Mr Yen.",
+        "SliceSentence": "Good morning Mr Yen .",
+        "WrittenText": "",
+        "StartMs": 76380,
+        "EndMs": 78400,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 2020,
+            "Word": "Yen"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sorry I'm late the next day.",
+        "SliceSentence": "Sorry I'm late the next day .",
+        "WrittenText": "",
+        "StartMs": 79200,
+        "EndMs": 84460,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sorry"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1625,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1900,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 4350,
+            "OffsetEndMs": 4610,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4610,
+            "OffsetEndMs": 4865,
+            "Word": "next"
+          },
+          {
+            "OffsetStartMs": 4865,
+            "OffsetEndMs": 5260,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 4865,
+            "OffsetEndMs": 5260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh you're on time today.",
+        "SliceSentence": "Oh you're on time today .",
+        "WrittenText": "",
+        "StartMs": 89220,
+        "EndMs": 92020,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1415,
+            "Word": "you're"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1655,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2050,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good,",
+        "SliceSentence": "Good ,",
+        "WrittenText": "",
+        "StartMs": 92430,
+        "EndMs": 92830,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't want to be late again.",
+        "SliceSentence": "I don't want to be late again .",
+        "WrittenText": "",
+        "StartMs": 94890,
+        "EndMs": 97240,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 920,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1130,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1355,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1535,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1840,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "RequestId": "ce91686c-05ab-4d51-828c-2b0224ebe2b0",
+  "Data": {
+    "TaskId": 16292519970,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 49.597813,
+    "Result": "Book week.Book week is coming. The students in class five a are going to make posters about the best stories for children. They are going to write about the writers and the stories. They are going to take some photos of the books too. The boys are going to do a survey about children's favourite books. The girls are going to read a play and then act it out.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Book week.",
+        "SliceSentence": "Book week .",
+        "WrittenText": "",
+        "StartMs": 1740,
+        "EndMs": 2600,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Book"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Book week is coming.",
+        "SliceSentence": "Book week is coming .",
+        "WrittenText": "",
+        "StartMs": 4220,
+        "EndMs": 11890,
+        "SpeechSpeed": 2.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 5950,
+            "OffsetEndMs": 6350,
+            "Word": "Book"
+          },
+          {
+            "OffsetStartMs": 6400,
+            "OffsetEndMs": 6800,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7290,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7290,
+            "OffsetEndMs": 7670,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 7290,
+            "OffsetEndMs": 7670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The students in class five a are going to make posters about the best stories for children.",
+        "SliceSentence": "The students in class five a are going to make posters about the best stories for children .",
+        "WrittenText": "",
+        "StartMs": 14580,
+        "EndMs": 22030,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1400,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1750,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2225,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2620,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3440,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3730,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4010,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 4010,
+            "OffsetEndMs": 4220,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 5020,
+            "Word": "posters"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5525,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 5525,
+            "OffsetEndMs": 5735,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5735,
+            "OffsetEndMs": 6010,
+            "Word": "best"
+          },
+          {
+            "OffsetStartMs": 6180,
+            "OffsetEndMs": 6580,
+            "Word": "stories"
+          },
+          {
+            "OffsetStartMs": 6870,
+            "OffsetEndMs": 7160,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 7160,
+            "OffsetEndMs": 7450,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 7160,
+            "OffsetEndMs": 7450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are going to write about the writers and the stories.",
+        "SliceSentence": "They are going to write about the writers and the stories .",
+        "WrittenText": "",
+        "StartMs": 24150,
+        "EndMs": 27820,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 470,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 755,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1040,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1330,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1760,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2290,
+            "Word": "writers"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3110,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3350,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3670,
+            "Word": "stories"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are going to take some photos of the books too.",
+        "SliceSentence": "They are going to take some photos of the books too .",
+        "WrittenText": "",
+        "StartMs": 31140,
+        "EndMs": 34630,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 470,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 725,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 965,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1220,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1535,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1870,
+            "Word": "photos"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2510,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2675,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 2950,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The boys are going to do a survey about children's favourite books.",
+        "SliceSentence": "The boys are going to do a survey about children's favourite books .",
+        "WrittenText": "",
+        "StartMs": 36750,
+        "EndMs": 41860,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "boys"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1145,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1430,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1685,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1895,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2135,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2440,
+            "Word": "survey"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3335,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 4160,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 4160,
+            "OffsetEndMs": 4790,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 4790,
+            "OffsetEndMs": 5110,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 4790,
+            "OffsetEndMs": 5110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The girls are going to read a play and then act it out.",
+        "SliceSentence": "The girls are going to read a play and then act it out .",
+        "WrittenText": "",
+        "StartMs": 43110,
+        "EndMs": 47710,
+        "SpeechSpeed": 12,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 550,
+            "Word": "girls"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1130,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1400,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1670,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1955,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2285,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2620,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3320,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3620,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3970,
+            "Word": "act"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4295,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 4295,
+            "OffsetEndMs": 4600,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 4295,
+            "OffsetEndMs": 4600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

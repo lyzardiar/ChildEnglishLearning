@@ -1,0 +1,566 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwMzgxNDg4",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:19,870"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 19870
+      },
+      "text": " words and expressions; famous; famous; during; during; spend; spend;",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.852551,
+          "t_dtw": -1
+        },
+        {
+          "text": " words",
+          "timestamps": {
+            "from": "00:00:00,340",
+            "to": "00:00:00,660"
+          },
+          "offsets": {
+            "from": 340,
+            "to": 660
+          },
+          "id": 2456,
+          "p": 0.81234,
+          "t_dtw": -1
+        },
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:00,660",
+            "to": "00:00:01,050"
+          },
+          "offsets": {
+            "from": 660,
+            "to": 1050
+          },
+          "id": 290,
+          "p": 0.983826,
+          "t_dtw": -1
+        },
+        {
+          "text": " expressions",
+          "timestamps": {
+            "from": "00:00:01,050",
+            "to": "00:00:01,970"
+          },
+          "offsets": {
+            "from": 1050,
+            "to": 1970
+          },
+          "id": 14700,
+          "p": 0.99803,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:03,030",
+            "to": "00:00:03,150"
+          },
+          "offsets": {
+            "from": 3030,
+            "to": 3150
+          },
+          "id": 26,
+          "p": 0.123414,
+          "t_dtw": -1
+        },
+        {
+          "text": " famous",
+          "timestamps": {
+            "from": "00:00:03,150",
+            "to": "00:00:06,650"
+          },
+          "offsets": {
+            "from": 3150,
+            "to": 6650
+          },
+          "id": 5863,
+          "p": 0.920506,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:06,990",
+            "to": "00:00:07,060"
+          },
+          "offsets": {
+            "from": 6990,
+            "to": 7060
+          },
+          "id": 26,
+          "p": 0.598694,
+          "t_dtw": -1
+        },
+        {
+          "text": " famous",
+          "timestamps": {
+            "from": "00:00:08,060",
+            "to": "00:00:08,060"
+          },
+          "offsets": {
+            "from": 8060,
+            "to": 8060
+          },
+          "id": 5863,
+          "p": 0.869973,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:08,060",
+            "to": "00:00:08,420"
+          },
+          "offsets": {
+            "from": 8060,
+            "to": 8420
+          },
+          "id": 26,
+          "p": 0.68837,
+          "t_dtw": -1
+        },
+        {
+          "text": " during",
+          "timestamps": {
+            "from": "00:00:08,860",
+            "to": "00:00:09,410"
+          },
+          "offsets": {
+            "from": 8860,
+            "to": 9410
+          },
+          "id": 1141,
+          "p": 0.802816,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:10,620",
+            "to": "00:00:11,000"
+          },
+          "offsets": {
+            "from": 10620,
+            "to": 11000
+          },
+          "id": 26,
+          "p": 0.946711,
+          "t_dtw": -1
+        },
+        {
+          "text": " during",
+          "timestamps": {
+            "from": "00:00:11,470",
+            "to": "00:00:12,020"
+          },
+          "offsets": {
+            "from": 11470,
+            "to": 12020
+          },
+          "id": 1141,
+          "p": 0.928445,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:12,620",
+            "to": "00:00:13,080"
+          },
+          "offsets": {
+            "from": 12620,
+            "to": 13080
+          },
+          "id": 26,
+          "p": 0.921429,
+          "t_dtw": -1
+        },
+        {
+          "text": " spend",
+          "timestamps": {
+            "from": "00:00:13,970",
+            "to": "00:00:14,680"
+          },
+          "offsets": {
+            "from": 13970,
+            "to": 14680
+          },
+          "id": 4341,
+          "p": 0.955365,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:15,370",
+            "to": "00:00:15,820"
+          },
+          "offsets": {
+            "from": 15370,
+            "to": 15820
+          },
+          "id": 26,
+          "p": 0.968064,
+          "t_dtw": -1
+        },
+        {
+          "text": " spend",
+          "timestamps": {
+            "from": "00:00:16,780",
+            "to": "00:00:17,480"
+          },
+          "offsets": {
+            "from": 16780,
+            "to": 17480
+          },
+          "id": 4341,
+          "p": 0.967331,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:18,120",
+            "to": "00:00:18,880"
+          },
+          "offsets": {
+            "from": 18120,
+            "to": 18880
+          },
+          "id": 26,
+          "p": 0.674615,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,870",
+        "to": "00:00:25,820"
+      },
+      "offsets": {
+        "from": 19870,
+        "to": 25820
+      },
+      "text": " everyone; everyone;",
+      "tokens": [
+        {
+          "text": " everyone",
+          "timestamps": {
+            "from": "00:00:19,870",
+            "to": "00:00:20,640"
+          },
+          "offsets": {
+            "from": 19870,
+            "to": 20640
+          },
+          "id": 2506,
+          "p": 0.831703,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:21,900",
+            "to": "00:00:22,280"
+          },
+          "offsets": {
+            "from": 21900,
+            "to": 22280
+          },
+          "id": 26,
+          "p": 0.933618,
+          "t_dtw": -1
+        },
+        {
+          "text": " everyone",
+          "timestamps": {
+            "from": "00:00:22,930",
+            "to": "00:00:23,700"
+          },
+          "offsets": {
+            "from": 22930,
+            "to": 23700
+          },
+          "id": 2506,
+          "p": 0.799723,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:25,810",
+            "to": "00:00:25,820"
+          },
+          "offsets": {
+            "from": 25810,
+            "to": 25820
+          },
+          "id": 26,
+          "p": 0.600472,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1291]",
+          "timestamps": {
+            "from": "00:00:25,820",
+            "to": "00:00:25,820"
+          },
+          "offsets": {
+            "from": 25820,
+            "to": 25820
+          },
+          "id": 51654,
+          "p": 0.00873397,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,820",
+        "to": "00:00:43,220"
+      },
+      "offsets": {
+        "from": 25820,
+        "to": 43220
+      },
+      "text": " countryside; countryside; pick; pick; summer holiday; summer holiday",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:25,820",
+            "to": "00:00:25,820"
+          },
+          "offsets": {
+            "from": 25820,
+            "to": 25820
+          },
+          "id": 50363,
+          "p": 0.999995,
+          "t_dtw": -1
+        },
+        {
+          "text": " countryside",
+          "timestamps": {
+            "from": "00:00:26,160",
+            "to": "00:00:31,840"
+          },
+          "offsets": {
+            "from": 26160,
+            "to": 31840
+          },
+          "id": 25708,
+          "p": 0.948871,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:31,840",
+            "to": "00:00:32,060"
+          },
+          "offsets": {
+            "from": 31840,
+            "to": 32060
+          },
+          "id": 26,
+          "p": 0.820308,
+          "t_dtw": -1
+        },
+        {
+          "text": " countryside",
+          "timestamps": {
+            "from": "00:00:32,060",
+            "to": "00:00:32,490"
+          },
+          "offsets": {
+            "from": 32060,
+            "to": 32490
+          },
+          "id": 25708,
+          "p": 0.939323,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:34,680",
+            "to": "00:00:34,710"
+          },
+          "offsets": {
+            "from": 34680,
+            "to": 34710
+          },
+          "id": 26,
+          "p": 0.904628,
+          "t_dtw": -1
+        },
+        {
+          "text": " pick",
+          "timestamps": {
+            "from": "00:00:34,710",
+            "to": "00:00:35,220"
+          },
+          "offsets": {
+            "from": 34710,
+            "to": 35220
+          },
+          "id": 2298,
+          "p": 0.947339,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:35,810",
+            "to": "00:00:35,810"
+          },
+          "offsets": {
+            "from": 35810,
+            "to": 35810
+          },
+          "id": 26,
+          "p": 0.980886,
+          "t_dtw": -1
+        },
+        {
+          "text": " pick",
+          "timestamps": {
+            "from": "00:00:35,810",
+            "to": "00:00:36,720"
+          },
+          "offsets": {
+            "from": 35810,
+            "to": 36720
+          },
+          "id": 2298,
+          "p": 0.980563,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:37,180",
+            "to": "00:00:37,180"
+          },
+          "offsets": {
+            "from": 37180,
+            "to": 37180
+          },
+          "id": 26,
+          "p": 0.711636,
+          "t_dtw": -1
+        },
+        {
+          "text": " summer",
+          "timestamps": {
+            "from": "00:00:37,290",
+            "to": "00:00:39,930"
+          },
+          "offsets": {
+            "from": 37290,
+            "to": 39930
+          },
+          "id": 3931,
+          "p": 0.974561,
+          "t_dtw": -1
+        },
+        {
+          "text": " holiday",
+          "timestamps": {
+            "from": "00:00:40,020",
+            "to": "00:00:43,220"
+          },
+          "offsets": {
+            "from": 40020,
+            "to": 43220
+          },
+          "id": 9912,
+          "p": 0.997874,
+          "t_dtw": -1
+        },
+        {
+          "text": ";",
+          "timestamps": {
+            "from": "00:00:43,220",
+            "to": "00:00:43,220"
+          },
+          "offsets": {
+            "from": 43220,
+            "to": 43220
+          },
+          "id": 26,
+          "p": 0.952648,
+          "t_dtw": -1
+        },
+        {
+          "text": " summer",
+          "timestamps": {
+            "from": "00:00:43,220",
+            "to": "00:00:43,220"
+          },
+          "offsets": {
+            "from": 43220,
+            "to": 43220
+          },
+          "id": 3931,
+          "p": 0.996788,
+          "t_dtw": -1
+        },
+        {
+          "text": " holiday",
+          "timestamps": {
+            "from": "00:00:43,220",
+            "to": "00:00:43,220"
+          },
+          "offsets": {
+            "from": 43220,
+            "to": 43220
+          },
+          "id": 9912,
+          "p": 0.998742,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_870]",
+          "timestamps": {
+            "from": "00:00:43,220",
+            "to": "00:00:43,220"
+          },
+          "offsets": {
+            "from": 43220,
+            "to": 43220
+          },
+          "id": 51233,
+          "p": 0.0262106,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

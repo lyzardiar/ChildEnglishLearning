@@ -1,5 +1,4 @@
 const app = getApp()
-const imageStyle = require('../../utils/imageStyle')
 
 Page({
   data: {
@@ -8,9 +7,15 @@ Page({
     newChildName: '',
     avatarOptions: ['👦', '👧', '🧒', '👶'],
     selectedAvatar: 0,
-    // 图片风格
-    styleList: imageStyle.STYLES,
-    currentStyle: imageStyle.getCurrentStyle()
+    gradeOptions: [
+      { value: 1, name: '一年级' },
+      { value: 2, name: '二年级' },
+      { value: 3, name: '三年级' },
+      { value: 4, name: '四年级' },
+      { value: 5, name: '五年级' },
+      { value: 6, name: '六年级' }
+    ],
+    selectedGrade: 1
   },
 
   async onShow() {
@@ -43,7 +48,7 @@ Page({
 
   // 显示添加孩子弹窗
   onShowAddModal() {
-    this.setData({ showAddModal: true, newChildName: '', selectedAvatar: 0 })
+    this.setData({ showAddModal: true, newChildName: '', selectedAvatar: 0, selectedGrade: 1 })
   },
 
   // 隐藏弹窗
@@ -61,9 +66,13 @@ Page({
     this.setData({ selectedAvatar: e.currentTarget.dataset.index })
   },
 
+  onSelectGrade(e) {
+    this.setData({ selectedGrade: Number(e.currentTarget.dataset.grade) })
+  },
+
   // 确认添加孩子
   async onConfirmAdd() {
-    const { newChildName, selectedAvatar, avatarOptions } = this.data
+    const { newChildName, selectedAvatar, avatarOptions, selectedGrade } = this.data
     if (!newChildName.trim()) {
       wx.showToast({ title: '请输入名字', icon: 'none' })
       return
@@ -75,7 +84,8 @@ Page({
         data: {
           action: 'addChild',
           name: newChildName.trim(),
-          avatar: avatarOptions[selectedAvatar]
+          avatar: avatarOptions[selectedAvatar],
+          grade: selectedGrade
         }
       })
 
@@ -129,11 +139,24 @@ Page({
     this.setData({ children: app.globalData.children })
   },
 
-  // 切换图片风格
-  onSwitchStyle(e) {
-    const styleKey = e.currentTarget.dataset.key
-    imageStyle.setStyle(styleKey)
-    this.setData({ currentStyle: styleKey })
-    wx.showToast({ title: '已切换风格', icon: 'success' })
+  async onChildGradeChange(e) {
+    const childId = e.currentTarget.dataset.id
+    const grade = Number(e.detail.value) + 1
+    const child = this.data.children.find(item => item._id === childId)
+    if (!child) return
+    try {
+      await wx.cloud.callFunction({
+        name: 'login',
+        data: { action: 'updateChildPreferences', childId, grade, semester: child.semester || 'upper' }
+      })
+      if (app.globalData.currentChild && app.globalData.currentChild._id === childId) {
+        app.globalData.currentChild.grade = grade
+      }
+      await this.loadChildren()
+      wx.showToast({ title: '年级已更新', icon: 'success' })
+    } catch (err) {
+      console.error('更新年级失败:', err)
+      wx.showToast({ title: '更新失败', icon: 'none' })
+    }
   }
 })

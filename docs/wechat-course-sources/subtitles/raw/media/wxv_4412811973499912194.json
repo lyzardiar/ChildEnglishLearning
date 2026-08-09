@@ -1,0 +1,903 @@
+{
+  "RequestId": "11ebfbfa-3cce-4120-a989-6afbeb0d262f",
+  "Data": {
+    "TaskId": 16292513486,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 67.523625,
+    "Result": "A magic stone.Jimmy sees a small box on the table. It is full of nails. Is it yours? Dad asks Jimmy. Yes, it's mine. Says his father Jimmy drops the box. All the nails fall on the floor. What a mess. Jimmy's father gives him a black stone. This stone can help you Jimmy. Try it, he says. Jimmy puts the stone near the nails. The nails all stick to it in a few seconds the floor is clean again. Wow, it's a magic stone, dad.Says Jimmy happily.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A magic stone.",
+        "SliceSentence": "A magic stone .",
+        "WrittenText": "",
+        "StartMs": 1380,
+        "EndMs": 2990,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 405,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 740,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "stone"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Jimmy sees a small box on the table.",
+        "SliceSentence": "Jimmy sees a small box on the table .",
+        "WrittenText": "",
+        "StartMs": 4220,
+        "EndMs": 12880,
+        "SpeechSpeed": 4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 6160,
+            "OffsetEndMs": 6690,
+            "Word": "Jimmy"
+          },
+          {
+            "OffsetStartMs": 6690,
+            "OffsetEndMs": 7010,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7395,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7395,
+            "OffsetEndMs": 7695,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 7695,
+            "OffsetEndMs": 8010,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 8010,
+            "OffsetEndMs": 8250,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 8250,
+            "OffsetEndMs": 8400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8400,
+            "OffsetEndMs": 8660,
+            "Word": "table"
+          },
+          {
+            "OffsetStartMs": 8400,
+            "OffsetEndMs": 8660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is full of nails.",
+        "SliceSentence": "It is full of nails .",
+        "WrittenText": "",
+        "StartMs": 14280,
+        "EndMs": 16030,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 500,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 815,
+            "Word": "full"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1100,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1750,
+            "Word": "nails"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is it yours?",
+        "SliceSentence": "Is it yours ?",
+        "WrittenText": "",
+        "StartMs": 17910,
+        "EndMs": 18700,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 485,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 790,
+            "Word": "yours"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 790,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Dad asks Jimmy.",
+        "SliceSentence": "Dad asks Jimmy .",
+        "WrittenText": "",
+        "StartMs": 18780,
+        "EndMs": 20680,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Dad"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "asks"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1900,
+            "Word": "Jimmy"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 21840,
+        "EndMs": 22205,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's mine.",
+        "SliceSentence": "it's mine .",
+        "WrittenText": "",
+        "StartMs": 22205,
+        "EndMs": 22840,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 375,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 635,
+            "Word": "mine"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 635,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Says his father Jimmy drops the box.",
+        "SliceSentence": "Says his father Jimmy drops the box .",
+        "WrittenText": "",
+        "StartMs": 23220,
+        "EndMs": 28390,
+        "SpeechSpeed": 7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Says"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 755,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1060,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4325,
+            "Word": "Jimmy"
+          },
+          {
+            "OffsetStartMs": 4325,
+            "OffsetEndMs": 4730,
+            "Word": "drops"
+          },
+          {
+            "OffsetStartMs": 4730,
+            "OffsetEndMs": 4895,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4895,
+            "OffsetEndMs": 5170,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 4895,
+            "OffsetEndMs": 5170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " All the nails fall on the floor.",
+        "SliceSentence": "All the nails fall on the floor .",
+        "WrittenText": "",
+        "StartMs": 29550,
+        "EndMs": 31720,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 1100,
+            "Word": "nails"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1445,
+            "Word": "fall"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1715,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 1880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2170,
+            "Word": "floor"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What a mess.",
+        "SliceSentence": "What a mess .",
+        "WrittenText": "",
+        "StartMs": 32580,
+        "EndMs": 33790,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "mess"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jimmy's father gives him a black stone.",
+        "SliceSentence": "Jimmy's father gives him a black stone .",
+        "WrittenText": "",
+        "StartMs": 36690,
+        "EndMs": 39670,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Jimmy's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 880,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1715,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 1955,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2165,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2500,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "stone"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This stone can help you Jimmy.",
+        "SliceSentence": "This stone can help you Jimmy .",
+        "WrittenText": "",
+        "StartMs": 40920,
+        "EndMs": 43030,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "stone"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1070,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1355,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1610,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 2110,
+            "Word": "Jimmy"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Try it,",
+        "SliceSentence": "Try it ,",
+        "WrittenText": "",
+        "StartMs": 43440,
+        "EndMs": 44110,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Try"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he says.",
+        "SliceSentence": "he says .",
+        "WrittenText": "",
+        "StartMs": 44160,
+        "EndMs": 44830,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jimmy puts the stone near the nails.",
+        "SliceSentence": "Jimmy puts the stone near the nails .",
+        "WrittenText": "",
+        "StartMs": 46740,
+        "EndMs": 49270,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "Jimmy"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 770,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1040,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1360,
+            "Word": "stone"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1760,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 1970,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2530,
+            "Word": "nails"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The nails all stick to it in a few seconds the floor is clean again.",
+        "SliceSentence": "The nails all stick to it in a few seconds the floor is clean again .",
+        "WrittenText": "",
+        "StartMs": 50370,
+        "EndMs": 60550,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 940,
+            "Word": "nails"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1895,
+            "Word": "stick"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2135,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2410,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 6900,
+            "OffsetEndMs": 7190,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7190,
+            "OffsetEndMs": 7355,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7355,
+            "OffsetEndMs": 7565,
+            "Word": "few"
+          },
+          {
+            "OffsetStartMs": 7565,
+            "OffsetEndMs": 7900,
+            "Word": "seconds"
+          },
+          {
+            "OffsetStartMs": 8370,
+            "OffsetEndMs": 8690,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8690,
+            "OffsetEndMs": 9005,
+            "Word": "floor"
+          },
+          {
+            "OffsetStartMs": 9005,
+            "OffsetEndMs": 9395,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 9395,
+            "OffsetEndMs": 9785,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 9785,
+            "OffsetEndMs": 10180,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 9785,
+            "OffsetEndMs": 10180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wow,",
+        "SliceSentence": "Wow ,",
+        "WrittenText": "",
+        "StartMs": 61440,
+        "EndMs": 61840,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wow"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a magic stone,",
+        "SliceSentence": "it's a magic stone ,",
+        "WrittenText": "",
+        "StartMs": 62280,
+        "EndMs": 63845,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 605,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1565,
+            "Word": "stone"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1565,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " dad.",
+        "SliceSentence": "dad .",
+        "WrittenText": "",
+        "StartMs": 63845,
+        "EndMs": 64240,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Says Jimmy happily.",
+        "SliceSentence": "Says Jimmy happily .",
+        "WrittenText": "",
+        "StartMs": 64700,
+        "EndMs": 66430,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 585,
+            "Word": "Says"
+          },
+          {
+            "OffsetStartMs": 585,
+            "OffsetEndMs": 1050,
+            "Word": "Jimmy"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1730,
+            "Word": "happily"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 460,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

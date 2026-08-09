@@ -1,0 +1,563 @@
+{
+  "RequestId": "401c4eaa-3517-4554-87f9-04f5a18b71b0",
+  "Data": {
+    "TaskId": 16292470408,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 49.899688,
+    "Result": "At the Mid autumn festival, it is the Mid autumn festival.Look my man, wow, who is he? He's our grandpa. Who is she? Shes our grandpa, grandpa.Is this my dad? Yes, that's your father. Hey, let's take a photo together. Good idea.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "At the Mid autumn festival,",
+        "SliceSentence": "At the Mid autumn festival ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2780,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1395,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1395,
+            "OffsetEndMs": 1730,
+            "Word": "Mid"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2445,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 2445,
+            "OffsetEndMs": 2780,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 2445,
+            "OffsetEndMs": 2780,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is the Mid autumn festival.",
+        "SliceSentence": "it is the Mid autumn festival .",
+        "WrittenText": "",
+        "StartMs": 5170,
+        "EndMs": 7880,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1205,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1510,
+            "Word": "Mid"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2345,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2710,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look my man,",
+        "SliceSentence": "Look my man ,",
+        "WrittenText": "",
+        "StartMs": 11080,
+        "EndMs": 15720,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4320,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4640,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4640,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " wow,",
+        "SliceSentence": "wow ,",
+        "WrittenText": "",
+        "StartMs": 16790,
+        "EndMs": 17190,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "wow"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " who is he?",
+        "SliceSentence": "who is he ?",
+        "WrittenText": "",
+        "StartMs": 18320,
+        "EndMs": 19470,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "who"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He's our grandpa.",
+        "SliceSentence": "He's our grandpa .",
+        "WrittenText": "",
+        "StartMs": 20780,
+        "EndMs": 22710,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "He's"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1060,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1930,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Who is she?",
+        "SliceSentence": "Who is she ?",
+        "WrittenText": "",
+        "StartMs": 23750,
+        "EndMs": 24780,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Who"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Shes our grandpa,",
+        "SliceSentence": "Shes our grandpa ,",
+        "WrittenText": "",
+        "StartMs": 26480,
+        "EndMs": 28440,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 815,
+            "Word": "Shes"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1120,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1960,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1960,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grandpa.",
+        "SliceSentence": "grandpa .",
+        "WrittenText": "",
+        "StartMs": 30560,
+        "EndMs": 31290,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is this my dad?",
+        "SliceSentence": "Is this my dad ?",
+        "WrittenText": "",
+        "StartMs": 32140,
+        "EndMs": 33600,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 620,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1065,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1460,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1460,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 34670,
+        "EndMs": 35070,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that's your father.",
+        "SliceSentence": "that's your father .",
+        "WrittenText": "",
+        "StartMs": 35720,
+        "EndMs": 36900,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 800,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hey,",
+        "SliceSentence": "Hey ,",
+        "WrittenText": "",
+        "StartMs": 38780,
+        "EndMs": 39180,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hey"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's take a photo together.",
+        "SliceSentence": "let's take a photo together .",
+        "WrittenText": "",
+        "StartMs": 39770,
+        "EndMs": 42240,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 860,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good idea.",
+        "SliceSentence": "Good idea .",
+        "WrittenText": "",
+        "StartMs": 43340,
+        "EndMs": 44070,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

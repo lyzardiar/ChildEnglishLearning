@@ -1,0 +1,995 @@
+{
+  "RequestId": "48b2df2f-b865-4702-978a-74ed0867fc13",
+  "Data": {
+    "TaskId": 16292481064,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 89.07175,
+    "Result": "We all like our school painting. I like monday morning. Every monday we raise the national flag ciaong. I like different school subjects. I work out problems in maths. I like drawing pictures in art class, Xiao Yu in we go to different clubs after school. I'm in the English club. Sometimes we put on an English play. My best friend yee makes model planes in the science club. We have a lot of fun comments. Is there an English?Play this week? Yes. Three little pigs. Does your teacher act in the play? Yes, she does. She's mother pig. Great. I can't wait.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "We all like our school painting.",
+        "SliceSentence": "We all like our school painting .",
+        "WrittenText": "",
+        "StartMs": 180,
+        "EndMs": 6230,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 780,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1160,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1815,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2210,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 5650,
+            "OffsetEndMs": 6050,
+            "Word": "painting"
+          },
+          {
+            "OffsetStartMs": 5650,
+            "OffsetEndMs": 6050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like monday morning.",
+        "SliceSentence": "I like monday morning .",
+        "WrittenText": "",
+        "StartMs": 7450,
+        "EndMs": 9710,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "monday"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Every monday we raise the national flag ciaong.",
+        "SliceSentence": "Every monday we raise the national flag ciaong .",
+        "WrittenText": "",
+        "StartMs": 10660,
+        "EndMs": 17450,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Every"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "monday"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1955,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2260,
+            "Word": "raise"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2645,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2950,
+            "Word": "national"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3730,
+            "Word": "flag"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6790,
+            "Word": "ciaong"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like different school subjects.",
+        "SliceSentence": "I like different school subjects .",
+        "WrittenText": "",
+        "StartMs": 18910,
+        "EndMs": 21170,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1895,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2260,
+            "Word": "subjects"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I work out problems in maths.",
+        "SliceSentence": "I work out problems in maths .",
+        "WrittenText": "",
+        "StartMs": 22300,
+        "EndMs": 25280,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "problems"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2285,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2980,
+            "Word": "maths"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like drawing pictures in art class,",
+        "SliceSentence": "I like drawing pictures in art class ,",
+        "WrittenText": "",
+        "StartMs": 26440,
+        "EndMs": 29990,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "drawing"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2630,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2980,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Xiao Yu in we go to different clubs after school.",
+        "SliceSentence": "Xiao Yu in we go to different clubs after school .",
+        "WrittenText": "",
+        "StartMs": 32170,
+        "EndMs": 36650,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Xiao"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 755,
+            "Word": "Yu"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1030,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2120,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2390,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2645,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2950,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "clubs"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4480,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm in the English club.",
+        "SliceSentence": "I'm in the English club .",
+        "WrittenText": "",
+        "StartMs": 37060,
+        "EndMs": 38960,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 710,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1550,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1900,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sometimes we put on an English play.",
+        "SliceSentence": "Sometimes we put on an English play .",
+        "WrittenText": "",
+        "StartMs": 40030,
+        "EndMs": 43400,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sometimes"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1430,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1655,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1940,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2320,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2990,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3370,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My best friend yee makes model planes in the science club.",
+        "SliceSentence": "My best friend yee makes model planes in the science club .",
+        "WrittenText": "",
+        "StartMs": 44440,
+        "EndMs": 49850,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "best"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2200,
+            "Word": "yee"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "makes"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "model"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3970,
+            "Word": "planes"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4385,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4385,
+            "OffsetEndMs": 4565,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4565,
+            "OffsetEndMs": 4840,
+            "Word": "science"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5410,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have a lot of fun comments.",
+        "SliceSentence": "We have a lot of fun comments .",
+        "WrittenText": "",
+        "StartMs": 51070,
+        "EndMs": 56960,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 725,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 980,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1250,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5890,
+            "Word": "comments"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is there an English?",
+        "SliceSentence": "Is there an English ?",
+        "WrittenText": "",
+        "StartMs": 58930,
+        "EndMs": 60630,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1700,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1700,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Play this week?",
+        "SliceSentence": "Play this week ?",
+        "WrittenText": "",
+        "StartMs": 60660,
+        "EndMs": 61760,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 435,
+            "Word": "Play"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 750,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 30,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes.",
+        "SliceSentence": "Yes .",
+        "WrittenText": "",
+        "StartMs": 64540,
+        "EndMs": 64940,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Three little pigs.",
+        "SliceSentence": "Three little pigs .",
+        "WrittenText": "",
+        "StartMs": 65620,
+        "EndMs": 67370,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1750,
+            "Word": "pigs"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Does your teacher act in the play?",
+        "SliceSentence": "Does your teacher act in the play ?",
+        "WrittenText": "",
+        "StartMs": 69940,
+        "EndMs": 72350,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Does"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "act"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1925,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2120,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2410,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2410,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 74410,
+        "EndMs": 74810,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she does.",
+        "SliceSentence": "she does .",
+        "WrittenText": "",
+        "StartMs": 75160,
+        "EndMs": 75890,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She's mother pig.",
+        "SliceSentence": "She's mother pig .",
+        "WrittenText": "",
+        "StartMs": 76450,
+        "EndMs": 78020,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "She's"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1060,
+            "Word": "mother"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "pig"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great.",
+        "SliceSentence": "Great .",
+        "WrittenText": "",
+        "StartMs": 80920,
+        "EndMs": 81320,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't wait.",
+        "SliceSentence": "I can't wait .",
+        "WrittenText": "",
+        "StartMs": 81790,
+        "EndMs": 83000,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 920,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1210,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

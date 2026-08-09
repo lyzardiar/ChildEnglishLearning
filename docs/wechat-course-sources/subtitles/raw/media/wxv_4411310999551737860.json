@@ -1,0 +1,327 @@
+{
+  "RequestId": "cc0852eb-8f26-4f3e-94ce-8f1d1b3f9629",
+  "Data": {
+    "TaskId": 16292431242,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 23.5915,
+    "Result": "Food at different festivals. At the dragon boat festival, we eat Tong. At the Mid autumn festival, we eat moon cakes. At Thanksgiving we eat pumpkin pies, at Christmas we eat gingerbread.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Food at different festivals.",
+        "SliceSentence": "Food at different festivals .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2900,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "Food"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1570,
+            "OffsetEndMs": 1970,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2900,
+            "Word": "festivals"
+          },
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At the dragon boat festival,",
+        "SliceSentence": "At the dragon boat festival ,",
+        "WrittenText": "",
+        "StartMs": 4240,
+        "EndMs": 5900,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 605,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": "dragon"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1310,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1660,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we eat Tong.",
+        "SliceSentence": "we eat Tong .",
+        "WrittenText": "",
+        "StartMs": 6430,
+        "EndMs": 7460,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "Tong"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At the Mid autumn festival,",
+        "SliceSentence": "At the Mid autumn festival ,",
+        "WrittenText": "",
+        "StartMs": 8290,
+        "EndMs": 9920,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 815,
+            "Word": "Mid"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1325,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1630,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we eat moon cakes.",
+        "SliceSentence": "we eat moon cakes .",
+        "WrittenText": "",
+        "StartMs": 10540,
+        "EndMs": 11900,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 965,
+            "Word": "moon"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "cakes"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At Thanksgiving we eat pumpkin pies,",
+        "SliceSentence": "At Thanksgiving we eat pumpkin pies ,",
+        "WrittenText": "",
+        "StartMs": 13870,
+        "EndMs": 17150,
+        "SpeechSpeed": 11,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "Thanksgiving"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2105,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2405,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2960,
+            "Word": "pumpkin"
+          },
+          {
+            "OffsetStartMs": 2960,
+            "OffsetEndMs": 3280,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 2960,
+            "OffsetEndMs": 3280,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " at Christmas we eat gingerbread.",
+        "SliceSentence": "at Christmas we eat gingerbread .",
+        "WrittenText": "",
+        "StartMs": 18640,
+        "EndMs": 21920,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1940,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 3280,
+            "Word": "gingerbread"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

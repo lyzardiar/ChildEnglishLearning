@@ -1,0 +1,4397 @@
+{
+  "RequestId": "68de05e0-fa8a-4bac-b089-5756df7e5152",
+  "Data": {
+    "TaskId": 16292516842,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 415.104,
+    "Result": "Unit three in the future.Students book page 88.Words and expressions.Future future.Stand.Stand.Machine.Machine.Will.Will.Exercise.Exercise.Early.Early.Easily.Easily.Hard.Hard.More.More.In the future.In the future.In front of.In front of.Take a photo.Take a photo.Wear glasses.Wear glasses.Do exercise.Do exercise.Be weak in.Be weak in.Not anymore.Not anymore.Students book page 14.I'll be a teacher.I won't wear glasses.Listen and say.One.Kitty wants to know about her future.She stands in front of a magic machine and takes a photo.Two.Kitty looks at her photo. There are some words on the back.In 15 years.You will not wear glasses.You will have big and beautiful eyes.You will live in Beijing.You will be a teacher.You will love your job.Three.This is me in the future.I won't wear glasses.I'll have big and beautiful eyes. I'll live in Beijing and I'll be a teacher.Students book page 15.D yeah.Look and learn.Do exercise.Do exercise.Take a photo.Take a photo.Wear glasses.Wear glasses.Students book page 16.Look and read.Now and future.One.My name is bobbie. I am good at maths.But I am weak in English.I do not like to get up early so I have no time for breakfast.I am often late for school.I do not like sport and I get tired easily.I like watching TV.Two, in the future I will study hard and I will read more English books.I will try to get up early and have breakfast.I will not be late for school anymore.I will do exercise every day.I will not watch too much TV.Students book page 19.Learn the sounds.E e.E.B.E E E.B.E A E T.E A E.T.E E R ear.Dear.E E R.Ear.Dear.E A R E.Tear.E-a-r ear.Tear.Mr b is having tea with his friend Miss deer. Suddenly he falls into the tea and Miss deer is in tears. Don't worry, says Mr b I can swim in Mr b is having tea with his friend Miss deer. Suddenly he falls into the tea and Miss deer is in tears. Don't worry, says Mr b I can swim in tea.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit three in the future.",
+        "SliceSentence": "Unit three in the future .",
+        "WrittenText": "",
+        "StartMs": 1660,
+        "EndMs": 4020,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1845,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2070,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2360,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 88.",
+        "SliceSentence": "Students book page 88 .",
+        "WrittenText": "",
+        "StartMs": 5920,
+        "EndMs": 8340,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 620,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2420,
+            "Word": "88"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Words and expressions.",
+        "SliceSentence": "Words and expressions .",
+        "WrittenText": "",
+        "StartMs": 13460,
+        "EndMs": 15190,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Words"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1730,
+            "Word": "expressions"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Future future.",
+        "SliceSentence": "Future future .",
+        "WrittenText": "",
+        "StartMs": 16540,
+        "EndMs": 18360,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Future"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Stand.",
+        "SliceSentence": "Stand .",
+        "WrittenText": "",
+        "StartMs": 19680,
+        "EndMs": 20330,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Stand"
+          },
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Stand.",
+        "SliceSentence": "Stand .",
+        "WrittenText": "",
+        "StartMs": 21340,
+        "EndMs": 21930,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Stand"
+          },
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Machine.",
+        "SliceSentence": "Machine .",
+        "WrittenText": "",
+        "StartMs": 23220,
+        "EndMs": 23750,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Machine"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Machine.",
+        "SliceSentence": "Machine .",
+        "WrittenText": "",
+        "StartMs": 25000,
+        "EndMs": 25500,
+        "SpeechSpeed": 14,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Machine"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Will.",
+        "SliceSentence": "Will .",
+        "WrittenText": "",
+        "StartMs": 27000,
+        "EndMs": 27560,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Will"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Will.",
+        "SliceSentence": "Will .",
+        "WrittenText": "",
+        "StartMs": 28580,
+        "EndMs": 29080,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Will"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Exercise.",
+        "SliceSentence": "Exercise .",
+        "WrittenText": "",
+        "StartMs": 30420,
+        "EndMs": 31340,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "Exercise"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Exercise.",
+        "SliceSentence": "Exercise .",
+        "WrittenText": "",
+        "StartMs": 32360,
+        "EndMs": 33340,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "Exercise"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Early.",
+        "SliceSentence": "Early .",
+        "WrittenText": "",
+        "StartMs": 34500,
+        "EndMs": 34910,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Early"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Early.",
+        "SliceSentence": "Early .",
+        "WrittenText": "",
+        "StartMs": 36160,
+        "EndMs": 36570,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Early"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Easily.",
+        "SliceSentence": "Easily .",
+        "WrittenText": "",
+        "StartMs": 37960,
+        "EndMs": 38400,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Easily"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Easily.",
+        "SliceSentence": "Easily .",
+        "WrittenText": "",
+        "StartMs": 39660,
+        "EndMs": 40070,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Easily"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hard.",
+        "SliceSentence": "Hard .",
+        "WrittenText": "",
+        "StartMs": 41740,
+        "EndMs": 42180,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Hard"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hard.",
+        "SliceSentence": "Hard .",
+        "WrittenText": "",
+        "StartMs": 43440,
+        "EndMs": 43910,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Hard"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "More.",
+        "SliceSentence": "More .",
+        "WrittenText": "",
+        "StartMs": 45180,
+        "EndMs": 45710,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "More"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "More.",
+        "SliceSentence": "More .",
+        "WrittenText": "",
+        "StartMs": 46760,
+        "EndMs": 47260,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "More"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the future.",
+        "SliceSentence": "In the future .",
+        "WrittenText": "",
+        "StartMs": 48620,
+        "EndMs": 49510,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 600,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 890,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the future.",
+        "SliceSentence": "In the future .",
+        "WrittenText": "",
+        "StartMs": 50620,
+        "EndMs": 51510,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 375,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 600,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 890,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In front of.",
+        "SliceSentence": "In front of .",
+        "WrittenText": "",
+        "StartMs": 52920,
+        "EndMs": 53990,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 405,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 720,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1070,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In front of.",
+        "SliceSentence": "In front of .",
+        "WrittenText": "",
+        "StartMs": 54920,
+        "EndMs": 56140,
+        "SpeechSpeed": 9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Take a photo.",
+        "SliceSentence": "Take a photo .",
+        "WrittenText": "",
+        "StartMs": 57380,
+        "EndMs": 58390,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 450,
+            "Word": "Take"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 720,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1010,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Take a photo.",
+        "SliceSentence": "Take a photo .",
+        "WrittenText": "",
+        "StartMs": 59520,
+        "EndMs": 60680,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Take"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 870,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1160,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wear glasses.",
+        "SliceSentence": "Wear glasses .",
+        "WrittenText": "",
+        "StartMs": 62100,
+        "EndMs": 63050,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 555,
+            "Word": "Wear"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 950,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wear glasses.",
+        "SliceSentence": "Wear glasses .",
+        "WrittenText": "",
+        "StartMs": 64400,
+        "EndMs": 65350,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Wear"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Do exercise.",
+        "SliceSentence": "Do exercise .",
+        "WrittenText": "",
+        "StartMs": 66920,
+        "EndMs": 68290,
+        "SpeechSpeed": 8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Do exercise.",
+        "SliceSentence": "Do exercise .",
+        "WrittenText": "",
+        "StartMs": 69300,
+        "EndMs": 70700,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Be weak in.",
+        "SliceSentence": "Be weak in .",
+        "WrittenText": "",
+        "StartMs": 72120,
+        "EndMs": 73460,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Be"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 975,
+            "Word": "weak"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1340,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Be weak in.",
+        "SliceSentence": "Be weak in .",
+        "WrittenText": "",
+        "StartMs": 74480,
+        "EndMs": 76000,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Be"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "weak"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Not anymore.",
+        "SliceSentence": "Not anymore .",
+        "WrittenText": "",
+        "StartMs": 77220,
+        "EndMs": 79010,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Not"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "anymore"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Not anymore.",
+        "SliceSentence": "Not anymore .",
+        "WrittenText": "",
+        "StartMs": 79980,
+        "EndMs": 81680,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Not"
+          },
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "anymore"
+          },
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 14.",
+        "SliceSentence": "Students book page 14 .",
+        "WrittenText": "",
+        "StartMs": 87440,
+        "EndMs": 89680,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "14"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'll be a teacher.",
+        "SliceSentence": "I'll be a teacher .",
+        "WrittenText": "",
+        "StartMs": 96560,
+        "EndMs": 98020,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 690,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 915,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1155,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1460,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I won't wear glasses.",
+        "SliceSentence": "I won't wear glasses .",
+        "WrittenText": "",
+        "StartMs": 99160,
+        "EndMs": 100530,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 195,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 195,
+            "OffsetEndMs": 660,
+            "Word": "won't"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 975,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1370,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 104040,
+        "EndMs": 105500,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1080,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1460,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One.",
+        "SliceSentence": "One .",
+        "WrittenText": "",
+        "StartMs": 107540,
+        "EndMs": 108070,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Kitty wants to know about her future.",
+        "SliceSentence": "Kitty wants to know about her future .",
+        "WrittenText": "",
+        "StartMs": 109480,
+        "EndMs": 111840,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 630,
+            "Word": "Kitty"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 885,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1125,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 1400,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1770,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2040,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2360,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "She stands in front of a magic machine and takes a photo.",
+        "SliceSentence": "She stands in front of a magic machine and takes a photo .",
+        "WrittenText": "",
+        "StartMs": 112880,
+        "EndMs": 117010,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 345,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 705,
+            "Word": "stands"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1035,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1035,
+            "OffsetEndMs": 1335,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1590,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1770,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2060,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2540,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 3390,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3660,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 3870,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4130,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two.",
+        "SliceSentence": "Two .",
+        "WrittenText": "",
+        "StartMs": 126220,
+        "EndMs": 126690,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 9210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Kitty looks at her photo.",
+        "SliceSentence": "Kitty looks at her photo .",
+        "WrittenText": "",
+        "StartMs": 127960,
+        "EndMs": 129540,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 615,
+            "Word": "Kitty"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 870,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1110,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1290,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1580,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are some words on the back.",
+        "SliceSentence": "There are some words on the back .",
+        "WrittenText": "",
+        "StartMs": 130370,
+        "EndMs": 132210,
+        "SpeechSpeed": 17.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 485,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 710,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "words"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1445,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1595,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1840,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In 15 years.",
+        "SliceSentence": "In 15 years .",
+        "WrittenText": "",
+        "StartMs": 133920,
+        "EndMs": 135410,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 450,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "15"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "years"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You will not wear glasses.",
+        "SliceSentence": "You will not wear glasses .",
+        "WrittenText": "",
+        "StartMs": 136320,
+        "EndMs": 137630,
+        "SpeechSpeed": 19.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 225,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 450,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 660,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 945,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1310,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You will have big and beautiful eyes.",
+        "SliceSentence": "You will have big and beautiful eyes .",
+        "WrittenText": "",
+        "StartMs": 138820,
+        "EndMs": 141210,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 450,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 690,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1040,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1440,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1820,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1990,
+            "OffsetEndMs": 2390,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 1990,
+            "OffsetEndMs": 2390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You will live in Beijing.",
+        "SliceSentence": "You will live in Beijing .",
+        "WrittenText": "",
+        "StartMs": 142360,
+        "EndMs": 143970,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 450,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 660,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 945,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1275,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1610,
+            "Word": "Beijing"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You will be a teacher.",
+        "SliceSentence": "You will be a teacher .",
+        "WrittenText": "",
+        "StartMs": 145140,
+        "EndMs": 146720,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 465,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 735,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1005,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1275,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1580,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You will love your job.",
+        "SliceSentence": "You will love your job .",
+        "WrittenText": "",
+        "StartMs": 147800,
+        "EndMs": 149440,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 390,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 660,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 960,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1290,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1640,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Three.",
+        "SliceSentence": "Three .",
+        "WrittenText": "",
+        "StartMs": 152160,
+        "EndMs": 152690,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "This is me in the future.",
+        "SliceSentence": "This is me in the future .",
+        "WrittenText": "",
+        "StartMs": 154100,
+        "EndMs": 156460,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 450,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1280,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1785,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2040,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2360,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I won't wear glasses.",
+        "SliceSentence": "I won't wear glasses .",
+        "WrittenText": "",
+        "StartMs": 157820,
+        "EndMs": 159400,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 780,
+            "Word": "won't"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'll have big and beautiful eyes.",
+        "SliceSentence": "I'll have big and beautiful eyes .",
+        "WrittenText": "",
+        "StartMs": 160760,
+        "EndMs": 163330,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 285,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 530,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 975,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1370,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll live in Beijing and I'll be a teacher.",
+        "SliceSentence": "I'll live in Beijing and I'll be a teacher .",
+        "WrittenText": "",
+        "StartMs": 164310,
+        "EndMs": 167920,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 740,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1010,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "Beijing"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2465,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2855,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3035,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 3035,
+            "OffsetEndMs": 3275,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3275,
+            "OffsetEndMs": 3610,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 3275,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 15.",
+        "SliceSentence": "Students book page 15 .",
+        "WrittenText": "",
+        "StartMs": 172060,
+        "EndMs": 174330,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "15"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "D yeah.",
+        "SliceSentence": "D yeah .",
+        "WrittenText": "",
+        "StartMs": 175500,
+        "EndMs": 178220,
+        "SpeechSpeed": 2.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "D"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "yeah"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look and learn.",
+        "SliceSentence": "Look and learn .",
+        "WrittenText": "",
+        "StartMs": 180040,
+        "EndMs": 181290,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 525,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 525,
+            "OffsetEndMs": 885,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1250,
+            "Word": "learn"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Do exercise.",
+        "SliceSentence": "Do exercise .",
+        "WrittenText": "",
+        "StartMs": 183360,
+        "EndMs": 184670,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1310,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Do exercise.",
+        "SliceSentence": "Do exercise .",
+        "WrittenText": "",
+        "StartMs": 185900,
+        "EndMs": 187330,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Take a photo.",
+        "SliceSentence": "Take a photo .",
+        "WrittenText": "",
+        "StartMs": 188600,
+        "EndMs": 189640,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 480,
+            "Word": "Take"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 750,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1040,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Take a photo.",
+        "SliceSentence": "Take a photo .",
+        "WrittenText": "",
+        "StartMs": 190720,
+        "EndMs": 191910,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Take"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 885,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1190,
+            "Word": "photo"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wear glasses.",
+        "SliceSentence": "Wear glasses .",
+        "WrittenText": "",
+        "StartMs": 193800,
+        "EndMs": 194900,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Wear"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wear glasses.",
+        "SliceSentence": "Wear glasses .",
+        "WrittenText": "",
+        "StartMs": 196120,
+        "EndMs": 197190,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Wear"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "glasses"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 16.",
+        "SliceSentence": "Students book page 16 .",
+        "WrittenText": "",
+        "StartMs": 200680,
+        "EndMs": 202950,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "16"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look and read.",
+        "SliceSentence": "Look and read .",
+        "WrittenText": "",
+        "StartMs": 209180,
+        "EndMs": 210490,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 930,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1310,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Now and future.",
+        "SliceSentence": "Now and future .",
+        "WrittenText": "",
+        "StartMs": 211780,
+        "EndMs": 213540,
+        "SpeechSpeed": 8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1380,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One.",
+        "SliceSentence": "One .",
+        "WrittenText": "",
+        "StartMs": 215600,
+        "EndMs": 216130,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "My name is bobbie.",
+        "SliceSentence": "My name is bobbie .",
+        "WrittenText": "",
+        "StartMs": 217520,
+        "EndMs": 219220,
+        "SpeechSpeed": 10,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 465,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 765,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1065,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1700,
+            "Word": "bobbie"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I am good at maths.",
+        "SliceSentence": "I am good at maths .",
+        "WrittenText": "",
+        "StartMs": 219600,
+        "EndMs": 221410,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 875,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1115,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1810,
+            "Word": "maths"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "But I am weak in English.",
+        "SliceSentence": "But I am weak in English .",
+        "WrittenText": "",
+        "StartMs": 222140,
+        "EndMs": 224260,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 690,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 900,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1200,
+            "Word": "weak"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2120,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I do not like to get up early so I have no time for breakfast.",
+        "SliceSentence": "I do not like to get up early so I have no time for breakfast .",
+        "WrittenText": "",
+        "StartMs": 225120,
+        "EndMs": 229700,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 645,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 900,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1170,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1380,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1545,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1545,
+            "OffsetEndMs": 1755,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2060,
+            "Word": "early"
+          },
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 2895,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3105,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3105,
+            "OffsetEndMs": 3315,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3315,
+            "OffsetEndMs": 3615,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 3615,
+            "OffsetEndMs": 3980,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4290,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4580,
+            "Word": "breakfast"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I am often late for school.",
+        "SliceSentence": "I am often late for school .",
+        "WrittenText": "",
+        "StartMs": 230920,
+        "EndMs": 232800,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 330,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 495,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 800,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1275,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1560,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I do not like sport and I get tired easily.",
+        "SliceSentence": "I do not like sport and I get tired easily .",
+        "WrittenText": "",
+        "StartMs": 233720,
+        "EndMs": 236950,
+        "SpeechSpeed": 13,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 615,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 825,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1125,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 1520,
+            "Word": "sport"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2115,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2115,
+            "OffsetEndMs": 2295,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2295,
+            "OffsetEndMs": 2490,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2810,
+            "Word": "tired"
+          },
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3230,
+            "Word": "easily"
+          },
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I like watching TV.",
+        "SliceSentence": "I like watching TV .",
+        "WrittenText": "",
+        "StartMs": 238020,
+        "EndMs": 239240,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 210,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 210,
+            "OffsetEndMs": 450,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "watching"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "TV"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two,",
+        "SliceSentence": "Two ,",
+        "WrittenText": "",
+        "StartMs": 241440,
+        "EndMs": 241940,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " in the future I will study hard and I will read more English books.",
+        "SliceSentence": "in the future I will study hard and I will read more English books .",
+        "WrittenText": "",
+        "StartMs": 242560,
+        "EndMs": 248000,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 880,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1985,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2270,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2600,
+            "Word": "study"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2980,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3710,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3710,
+            "OffsetEndMs": 3920,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3920,
+            "OffsetEndMs": 4100,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 4100,
+            "OffsetEndMs": 4325,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 4325,
+            "OffsetEndMs": 4660,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 4800,
+            "OffsetEndMs": 5120,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 5120,
+            "OffsetEndMs": 5440,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 5120,
+            "OffsetEndMs": 5440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I will try to get up early and have breakfast.",
+        "SliceSentence": "I will try to get up early and have breakfast .",
+        "WrittenText": "",
+        "StartMs": 248840,
+        "EndMs": 251560,
+        "SpeechSpeed": 16.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 345,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 525,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 525,
+            "OffsetEndMs": 765,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 960,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1110,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1275,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1550,
+            "Word": "early"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2100,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2370,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2720,
+            "Word": "breakfast"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I will not be late for school anymore.",
+        "SliceSentence": "I will not be late for school anymore .",
+        "WrittenText": "",
+        "StartMs": 252720,
+        "EndMs": 255200,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 345,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 510,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 720,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 945,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1200,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1470,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1790,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2480,
+            "Word": "anymore"
+          },
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I will do exercise every day.",
+        "SliceSentence": "I will do exercise every day .",
+        "WrittenText": "",
+        "StartMs": 256000,
+        "EndMs": 258210,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 345,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 510,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 800,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1830,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2210,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I will not watch too much TV.",
+        "SliceSentence": "I will not watch too much TV .",
+        "WrittenText": "",
+        "StartMs": 259080,
+        "EndMs": 261110,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 195,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 195,
+            "OffsetEndMs": 360,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 555,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 860,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1320,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1650,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2030,
+            "Word": "TV"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 19.",
+        "SliceSentence": "Students book page 19 .",
+        "WrittenText": "",
+        "StartMs": 264800,
+        "EndMs": 266830,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 620,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "19"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Learn the sounds.",
+        "SliceSentence": "Learn the sounds .",
+        "WrittenText": "",
+        "StartMs": 272620,
+        "EndMs": 273660,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 510,
+            "Word": "Learn"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 765,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1040,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E e.",
+        "SliceSentence": "E e .",
+        "WrittenText": "",
+        "StartMs": 275140,
+        "EndMs": 275910,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 405,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 770,
+            "Word": "e"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E.",
+        "SliceSentence": "E .",
+        "WrittenText": "",
+        "StartMs": 276860,
+        "EndMs": 277120,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "B.",
+        "SliceSentence": "B .",
+        "WrittenText": "",
+        "StartMs": 278040,
+        "EndMs": 278390,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E E E.",
+        "SliceSentence": "E E E .",
+        "WrittenText": "",
+        "StartMs": 280240,
+        "EndMs": 282150,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 830,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "B.",
+        "SliceSentence": "B .",
+        "WrittenText": "",
+        "StartMs": 283160,
+        "EndMs": 283540,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E A E T.",
+        "SliceSentence": "E A E T .",
+        "WrittenText": "",
+        "StartMs": 285420,
+        "EndMs": 288410,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 435,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 800,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 2590,
+            "OffsetEndMs": 2990,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 2590,
+            "OffsetEndMs": 2990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E A E.",
+        "SliceSentence": "E A E .",
+        "WrittenText": "",
+        "StartMs": 290340,
+        "EndMs": 292250,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "T.",
+        "SliceSentence": "T .",
+        "WrittenText": "",
+        "StartMs": 293240,
+        "EndMs": 293530,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E E R ear.",
+        "SliceSentence": "E E R ear .",
+        "WrittenText": "",
+        "StartMs": 295420,
+        "EndMs": 297720,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 765,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1130,
+            "Word": "R"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "ear"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dear.",
+        "SliceSentence": "Dear .",
+        "WrittenText": "",
+        "StartMs": 298620,
+        "EndMs": 299000,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Dear"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E E R.",
+        "SliceSentence": "E E R .",
+        "WrittenText": "",
+        "StartMs": 301000,
+        "EndMs": 302190,
+        "SpeechSpeed": 4.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 795,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1190,
+            "Word": "R"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ear.",
+        "SliceSentence": "Ear .",
+        "WrittenText": "",
+        "StartMs": 303240,
+        "EndMs": 303560,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Ear"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dear.",
+        "SliceSentence": "Dear .",
+        "WrittenText": "",
+        "StartMs": 304440,
+        "EndMs": 304790,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Dear"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E A R E.",
+        "SliceSentence": "E A R E .",
+        "WrittenText": "",
+        "StartMs": 306600,
+        "EndMs": 308840,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 765,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1130,
+            "Word": "R"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tear.",
+        "SliceSentence": "Tear .",
+        "WrittenText": "",
+        "StartMs": 309820,
+        "EndMs": 310110,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Tear"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "E-a-r ear.",
+        "SliceSentence": "E -a -r ear .",
+        "WrittenText": "",
+        "StartMs": 312240,
+        "EndMs": 314540,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "-a"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1220,
+            "Word": "-r"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "ear"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tear.",
+        "SliceSentence": "Tear .",
+        "WrittenText": "",
+        "StartMs": 315460,
+        "EndMs": 315840,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Tear"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mr b is having tea with his friend Miss deer.",
+        "SliceSentence": "Mr b is having tea with his friend Miss deer .",
+        "WrittenText": "",
+        "StartMs": 318500,
+        "EndMs": 325150,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 3010,
+            "OffsetEndMs": 3360,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3645,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3645,
+            "OffsetEndMs": 3980,
+            "Word": "having"
+          },
+          {
+            "OffsetStartMs": 4210,
+            "OffsetEndMs": 4610,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 4840,
+            "OffsetEndMs": 5160,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 5160,
+            "OffsetEndMs": 5430,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 5430,
+            "OffsetEndMs": 5760,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 5760,
+            "OffsetEndMs": 6060,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 6060,
+            "OffsetEndMs": 6650,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 6060,
+            "OffsetEndMs": 6650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Suddenly he falls into the tea and Miss deer is in tears.",
+        "SliceSentence": "Suddenly he falls into the tea and Miss deer is in tears .",
+        "WrittenText": "",
+        "StartMs": 325680,
+        "EndMs": 331480,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Suddenly"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1265,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1600,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2195,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2465,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2770,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3965,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3965,
+            "OffsetEndMs": 4280,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 4280,
+            "OffsetEndMs": 4865,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 4865,
+            "OffsetEndMs": 5180,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5180,
+            "OffsetEndMs": 5465,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5465,
+            "OffsetEndMs": 5800,
+            "Word": "tears"
+          },
+          {
+            "OffsetStartMs": 5465,
+            "OffsetEndMs": 5800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 331740,
+        "EndMs": 332710,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 970,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Mr b I can swim in Mr b is having tea with his friend Miss deer.",
+        "SliceSentence": "says Mr b I can swim in Mr b is having tea with his friend Miss deer .",
+        "WrittenText": "",
+        "StartMs": 332880,
+        "EndMs": 343060,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1505,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1850,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2150,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2470,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6340,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 6540,
+            "OffsetEndMs": 6890,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 6890,
+            "OffsetEndMs": 7190,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7190,
+            "OffsetEndMs": 7540,
+            "Word": "having"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 8110,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 8370,
+            "OffsetEndMs": 8720,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 8720,
+            "OffsetEndMs": 9005,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 9005,
+            "OffsetEndMs": 9320,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 9320,
+            "OffsetEndMs": 9620,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 9620,
+            "OffsetEndMs": 10180,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 9620,
+            "OffsetEndMs": 10180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Suddenly he falls into the tea and Miss deer is in tears.",
+        "SliceSentence": "Suddenly he falls into the tea and Miss deer is in tears .",
+        "WrittenText": "",
+        "StartMs": 343530,
+        "EndMs": 349390,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Suddenly"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1295,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1660,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2240,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2510,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2830,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3980,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3980,
+            "OffsetEndMs": 4310,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 4310,
+            "OffsetEndMs": 4895,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 4895,
+            "OffsetEndMs": 5210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5210,
+            "OffsetEndMs": 5510,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5510,
+            "OffsetEndMs": 5860,
+            "Word": "tears"
+          },
+          {
+            "OffsetStartMs": 5510,
+            "OffsetEndMs": 5860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 349620,
+        "EndMs": 350560,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Mr b I can swim in tea.",
+        "SliceSentence": "says Mr b I can swim in tea .",
+        "WrittenText": "",
+        "StartMs": 350760,
+        "EndMs": 353530,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1835,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2135,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2420,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2770,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

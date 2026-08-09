@@ -1,0 +1,565 @@
+{
+  "RequestId": "33f97680-0e99-42a9-9f3e-bb289ed70499",
+  "Data": {
+    "TaskId": 16292425498,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 52.616438,
+    "Result": "In the garden.Tweet, tweet. What's that, grandpa? Oh, it's a baby bird. Grandpa, let's help the bird. Oh no, coco, look a nest. Let's put the bird in the nest. Be careful, grandpa, the baby bird is happy now.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "In the garden.",
+        "SliceSentence": "In the garden .",
+        "WrittenText": "",
+        "StartMs": 420,
+        "EndMs": 1520,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 795,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1100,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Tweet,",
+        "SliceSentence": "Tweet ,",
+        "WrittenText": "",
+        "StartMs": 3480,
+        "EndMs": 5060,
+        "SpeechSpeed": 3.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "Tweet"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " tweet.",
+        "SliceSentence": "tweet .",
+        "WrittenText": "",
+        "StartMs": 5650,
+        "EndMs": 6050,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "tweet"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's that,",
+        "SliceSentence": "What's that ,",
+        "WrittenText": "",
+        "StartMs": 7060,
+        "EndMs": 7910,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grandpa?",
+        "SliceSentence": "grandpa ?",
+        "WrittenText": "",
+        "StartMs": 8080,
+        "EndMs": 8810,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 12340,
+        "EndMs": 12740,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a baby bird.",
+        "SliceSentence": "it's a baby bird .",
+        "WrittenText": "",
+        "StartMs": 13180,
+        "EndMs": 14360,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 485,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "baby"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandpa,",
+        "SliceSentence": "Grandpa ,",
+        "WrittenText": "",
+        "StartMs": 18910,
+        "EndMs": 19760,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": "Grandpa"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's help the bird.",
+        "SliceSentence": "let's help the bird .",
+        "WrittenText": "",
+        "StartMs": 20560,
+        "EndMs": 21710,
+        "SpeechSpeed": 17.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 650,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 875,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1150,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 26050,
+        "EndMs": 26760,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 710,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 710,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " coco,",
+        "SliceSentence": "coco ,",
+        "WrittenText": "",
+        "StartMs": 26760,
+        "EndMs": 27380,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "coco"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look a nest.",
+        "SliceSentence": "look a nest .",
+        "WrittenText": "",
+        "StartMs": 32410,
+        "EndMs": 34640,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "nest"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's put the bird in the nest.",
+        "SliceSentence": "Let's put the bird in the nest .",
+        "WrittenText": "",
+        "StartMs": 37120,
+        "EndMs": 40280,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1720,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2420,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2780,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3160,
+            "Word": "nest"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Be careful,",
+        "SliceSentence": "Be careful ,",
+        "WrittenText": "",
+        "StartMs": 41470,
+        "EndMs": 42170,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Be"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "careful"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grandpa,",
+        "SliceSentence": "grandpa ,",
+        "WrittenText": "",
+        "StartMs": 42670,
+        "EndMs": 43430,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the baby bird is happy now.",
+        "SliceSentence": "the baby bird is happy now .",
+        "WrittenText": "",
+        "StartMs": 45430,
+        "EndMs": 48350,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "baby"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1850,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2230,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

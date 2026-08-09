@@ -1,0 +1,805 @@
+{
+  "RequestId": "de2ad9f9-5850-45bb-b6ac-4db9d82bda35",
+  "Data": {
+    "TaskId": 16292498703,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 78.0655,
+    "Result": "Poems about being polite the ox always knock. What does the ox always do? The ox always knock? He waits to go in until someone invites him. What are they doing behind that door? Maybe they're sleeping or sad and crying. So the ox always asks, may I come in and everyone says how kind of him.Bears always share. Bears share their toys. Bears share their honey. Bears share a joke. They think it's funny. Whatever they do, whatever they wear, they're always sharing with another bear.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Poems about being polite the ox always knock.",
+        "SliceSentence": "Poems about being polite the ox always knock .",
+        "WrittenText": "",
+        "StartMs": 400,
+        "EndMs": 6960,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 710,
+            "Word": "Poems"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "being"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2510,
+            "Word": "polite"
+          },
+          {
+            "OffsetStartMs": 4060,
+            "OffsetEndMs": 4395,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4395,
+            "OffsetEndMs": 4730,
+            "Word": "ox"
+          },
+          {
+            "OffsetStartMs": 5530,
+            "OffsetEndMs": 5930,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 6160,
+            "OffsetEndMs": 6560,
+            "Word": "knock"
+          },
+          {
+            "OffsetStartMs": 6160,
+            "OffsetEndMs": 6560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What does the ox always do?",
+        "SliceSentence": "What does the ox always do ?",
+        "WrittenText": "",
+        "StartMs": 8210,
+        "EndMs": 11250,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 860,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1145,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1450,
+            "Word": "ox"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The ox always knock?",
+        "SliceSentence": "The ox always knock ?",
+        "WrittenText": "",
+        "StartMs": 11750,
+        "EndMs": 14010,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "ox"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "knock"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He waits to go in until someone invites him.",
+        "SliceSentence": "He waits to go in until someone invites him .",
+        "WrittenText": "",
+        "StartMs": 14990,
+        "EndMs": 19620,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 935,
+            "Word": "waits"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1160,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1415,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1780,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2720,
+            "Word": "until"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3100,
+            "Word": "someone"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 4090,
+            "Word": "invites"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4630,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are they doing behind that door?",
+        "SliceSentence": "What are they doing behind that door ?",
+        "WrittenText": "",
+        "StartMs": 23690,
+        "EndMs": 26640,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 860,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "behind"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2555,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2950,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2950,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Maybe they're sleeping or sad and crying.",
+        "SliceSentence": "Maybe they're sleeping or sad and crying .",
+        "WrittenText": "",
+        "StartMs": 27560,
+        "EndMs": 31320,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Maybe"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 890,
+            "Word": "they're"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1210,
+            "Word": "sleeping"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2255,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2650,
+            "Word": "sad"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "crying"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " So the ox always asks,",
+        "SliceSentence": "So the ox always asks ,",
+        "WrittenText": "",
+        "StartMs": 32180,
+        "EndMs": 34470,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "So"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "ox"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1895,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2290,
+            "Word": "asks"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " may I come in and everyone says how kind of him.",
+        "SliceSentence": "may I come in and everyone says how kind of him .",
+        "WrittenText": "",
+        "StartMs": 35330,
+        "EndMs": 40920,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1115,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3110,
+            "Word": "everyone"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3460,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4250,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 4250,
+            "OffsetEndMs": 4630,
+            "Word": "kind"
+          },
+          {
+            "OffsetStartMs": 4890,
+            "OffsetEndMs": 5240,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 5240,
+            "OffsetEndMs": 5590,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 5240,
+            "OffsetEndMs": 5590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bears always share.",
+        "SliceSentence": "Bears always share .",
+        "WrittenText": "",
+        "StartMs": 42120,
+        "EndMs": 46100,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2810,
+            "Word": "Bears"
+          },
+          {
+            "OffsetStartMs": 3010,
+            "OffsetEndMs": 3410,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 3980,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 3980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bears share their toys.",
+        "SliceSentence": "Bears share their toys .",
+        "WrittenText": "",
+        "StartMs": 47620,
+        "EndMs": 50000,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "Bears"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2000,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2380,
+            "Word": "toys"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bears share their honey.",
+        "SliceSentence": "Bears share their honey .",
+        "WrittenText": "",
+        "StartMs": 52660,
+        "EndMs": 54680,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 770,
+            "Word": "Bears"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1655,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "honey"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bears share a joke.",
+        "SliceSentence": "Bears share a joke .",
+        "WrittenText": "",
+        "StartMs": 56890,
+        "EndMs": 58940,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 815,
+            "Word": "Bears"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1700,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2050,
+            "Word": "joke"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They think it's funny.",
+        "SliceSentence": "They think it's funny .",
+        "WrittenText": "",
+        "StartMs": 59650,
+        "EndMs": 61160,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1175,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "funny"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Whatever they do,",
+        "SliceSentence": "Whatever they do ,",
+        "WrittenText": "",
+        "StartMs": 62410,
+        "EndMs": 64010,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Whatever"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " whatever they wear,",
+        "SliceSentence": "whatever they wear ,",
+        "WrittenText": "",
+        "StartMs": 64420,
+        "EndMs": 65990,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "whatever"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1205,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they're always sharing with another bear.",
+        "SliceSentence": "they're always sharing with another bear .",
+        "WrittenText": "",
+        "StartMs": 66610,
+        "EndMs": 69830,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 580,
+            "Word": "they're"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "sharing"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2405,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2800,
+            "Word": "another"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

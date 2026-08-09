@@ -1,0 +1,147 @@
+{
+  "RequestId": "a098d7f6-ba8f-477c-8e64-412fb3e8a7ba",
+  "Data": {
+    "TaskId": 16292411065,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 35.805188,
+    "Result": "V v.123412345 I see five doves on the Van 1234512345 I see five dolls on the bed.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "V v.",
+        "SliceSentence": "V v .",
+        "WrittenText": "",
+        "StartMs": 1000,
+        "EndMs": 2610,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "V"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "v"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "123412345 I see five doves on the Van 1234512345 I see five dolls on the bed.",
+        "SliceSentence": "123412345 I see five doves on the Van 1234512345 I see five dolls on the bed .",
+        "WrittenText": "",
+        "StartMs": 3220,
+        "EndMs": 33210,
+        "SpeechSpeed": 2.5,
+        "WordsNum": 17,
+        "Words": [
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 10850,
+            "Word": "123412345"
+          },
+          {
+            "OffsetStartMs": 11740,
+            "OffsetEndMs": 12140,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 12340,
+            "OffsetEndMs": 12740,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 12910,
+            "OffsetEndMs": 13310,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 13510,
+            "OffsetEndMs": 14235,
+            "Word": "doves"
+          },
+          {
+            "OffsetStartMs": 14235,
+            "OffsetEndMs": 14540,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 14740,
+            "OffsetEndMs": 15140,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 15280,
+            "OffsetEndMs": 15680,
+            "Word": "Van"
+          },
+          {
+            "OffsetStartMs": 18970,
+            "OffsetEndMs": 25190,
+            "Word": "1234512345"
+          },
+          {
+            "OffsetStartMs": 26080,
+            "OffsetEndMs": 26480,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 26680,
+            "OffsetEndMs": 27080,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 27250,
+            "OffsetEndMs": 27650,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 27880,
+            "OffsetEndMs": 28575,
+            "Word": "dolls"
+          },
+          {
+            "OffsetStartMs": 28575,
+            "OffsetEndMs": 28880,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 29050,
+            "OffsetEndMs": 29450,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 29590,
+            "OffsetEndMs": 29990,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 29590,
+            "OffsetEndMs": 29990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 610,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

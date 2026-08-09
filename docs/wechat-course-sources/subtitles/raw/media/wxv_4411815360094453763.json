@@ -1,0 +1,255 @@
+{
+  "RequestId": "308bca23-8567-437a-a47b-fb1c637cbdb0",
+  "Data": {
+    "TaskId": 16292406995,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.32525,
+    "Result": "S s.Sing, sing, sing a song. Sophie can sing a soft soph sing sing a song, sophie can sing a song.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "S s.",
+        "SliceSentence": "S s .",
+        "WrittenText": "",
+        "StartMs": 760,
+        "EndMs": 1200,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 225,
+            "Word": "S"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 440,
+            "Word": "s"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sing,",
+        "SliceSentence": "Sing ,",
+        "WrittenText": "",
+        "StartMs": 3200,
+        "EndMs": 8170,
+        "SpeechSpeed": 0.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 4570,
+            "OffsetEndMs": 4970,
+            "Word": "Sing"
+          },
+          {
+            "OffsetStartMs": 4570,
+            "OffsetEndMs": 4970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sing,",
+        "SliceSentence": "sing ,",
+        "WrittenText": "",
+        "StartMs": 8940,
+        "EndMs": 9340,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sing a song.",
+        "SliceSentence": "sing a song .",
+        "WrittenText": "",
+        "StartMs": 10080,
+        "EndMs": 11650,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "song"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sophie can sing a soft soph sing sing a song,",
+        "SliceSentence": "Sophie can sing a soft soph sing sing a song ,",
+        "WrittenText": "",
+        "StartMs": 12480,
+        "EndMs": 23530,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "Sophie"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2480,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2800,
+            "Word": "soft"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "soph"
+          },
+          {
+            "OffsetStartMs": 7080,
+            "OffsetEndMs": 7480,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 8250,
+            "OffsetEndMs": 8650,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 10110,
+            "OffsetEndMs": 10510,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 10650,
+            "OffsetEndMs": 11050,
+            "Word": "song"
+          },
+          {
+            "OffsetStartMs": 10650,
+            "OffsetEndMs": 11050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sophie can sing a song.",
+        "SliceSentence": "sophie can sing a song .",
+        "WrittenText": "",
+        "StartMs": 24360,
+        "EndMs": 27160,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "sophie"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1060,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2450,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2800,
+            "Word": "song"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

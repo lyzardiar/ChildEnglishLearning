@@ -1,0 +1,738 @@
+{
+  "RequestId": "4a7d2457-f149-43c5-9e92-7d258ec266bd",
+  "Data": {
+    "TaskId": 16292471813,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 78.019063,
+    "Result": "In the park, the children are in a park hello jinging. Hello, Yao yaoo can fly a kite she is happy Chen Chen can ride a bike. It's fun. Whoo oh no, o hoi can run fast and help 10 tenen the children skip together.But tinting can't skip hey let's skip together. Okay, I can't skip but I can get some juice. Are you thirsty? Ting ting can skateboard. She brings some juice. Wow ting ting. Thank you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "In the park,",
+        "SliceSentence": "In the park ,",
+        "WrittenText": "",
+        "StartMs": 160,
+        "EndMs": 1440,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 735,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1005,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1280,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1280,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the children are in a park hello jinging.",
+        "SliceSentence": "the children are in a park hello jinging .",
+        "WrittenText": "",
+        "StartMs": 3800,
+        "EndMs": 8910,
+        "SpeechSpeed": 8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1535,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1895,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2210,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2530,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "hello"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 5110,
+            "Word": "jinging"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 5110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 10010,
+        "EndMs": 10410,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yao yaoo can fly a kite she is happy Chen Chen can ride a bike.",
+        "SliceSentence": "Yao yaoo can fly a kite she is happy Chen Chen can ride a bike .",
+        "WrittenText": "",
+        "StartMs": 12110,
+        "EndMs": 21090,
+        "SpeechSpeed": 7,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "Yao"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 935,
+            "Word": "yaoo"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2285,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2620,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4235,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4235,
+            "OffsetEndMs": 4630,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 6270,
+            "OffsetEndMs": 6680,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 6680,
+            "OffsetEndMs": 7090,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 7350,
+            "OffsetEndMs": 7745,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 7745,
+            "OffsetEndMs": 8140,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 8280,
+            "OffsetEndMs": 8630,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 8630,
+            "OffsetEndMs": 8980,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 8630,
+            "OffsetEndMs": 8980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's fun.",
+        "SliceSentence": "It's fun .",
+        "WrittenText": "",
+        "StartMs": 25850,
+        "EndMs": 26760,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Whoo oh no,",
+        "SliceSentence": "Whoo oh no ,",
+        "WrittenText": "",
+        "StartMs": 27710,
+        "EndMs": 32400,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Whoo"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4690,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4690,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " o hoi can run fast and help 10 tenen the children skip together.",
+        "SliceSentence": "o hoi can run fast and help 10 tenen the children skip together .",
+        "WrittenText": "",
+        "StartMs": 33920,
+        "EndMs": 42090,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "o"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 935,
+            "Word": "hoi"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1240,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3140,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3140,
+            "OffsetEndMs": 3520,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4115,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 4115,
+            "OffsetEndMs": 4540,
+            "Word": "tenen"
+          },
+          {
+            "OffsetStartMs": 5820,
+            "OffsetEndMs": 6155,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6155,
+            "OffsetEndMs": 6490,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 7050,
+            "OffsetEndMs": 7480,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 7770,
+            "OffsetEndMs": 8170,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 7770,
+            "OffsetEndMs": 8170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "But tinting can't skip hey let's skip together.",
+        "SliceSentence": "But tinting can't skip hey let's skip together .",
+        "WrittenText": "",
+        "StartMs": 43540,
+        "EndMs": 50850,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 645,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 1430,
+            "Word": "tinting"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 2250,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2660,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 4550,
+            "Word": "hey"
+          },
+          {
+            "OffsetStartMs": 5470,
+            "OffsetEndMs": 6150,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 6150,
+            "OffsetEndMs": 6530,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7310,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 52670,
+        "EndMs": 53070,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't skip but I can get some juice.",
+        "SliceSentence": "I can't skip but I can get some juice .",
+        "WrittenText": "",
+        "StartMs": 54740,
+        "EndMs": 58410,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 830,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1180,
+            "Word": "skip"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2105,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2315,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3020,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 3020,
+            "OffsetEndMs": 3320,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3670,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Are you thirsty?",
+        "SliceSentence": "Are you thirsty ?",
+        "WrittenText": "",
+        "StartMs": 59150,
+        "EndMs": 60480,
+        "SpeechSpeed": 12,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 590,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 1330,
+            "Word": "thirsty"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 1330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ting ting can skateboard.",
+        "SliceSentence": "Ting ting can skateboard .",
+        "WrittenText": "",
+        "StartMs": 61580,
+        "EndMs": 64110,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Ting"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 880,
+            "Word": "ting"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2530,
+            "Word": "skateboard"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She brings some juice.",
+        "SliceSentence": "She brings some juice .",
+        "WrittenText": "",
+        "StartMs": 64820,
+        "EndMs": 66960,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "brings"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1745,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2140,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wow ting ting.",
+        "SliceSentence": "Wow ting ting .",
+        "WrittenText": "",
+        "StartMs": 68150,
+        "EndMs": 69780,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wow"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1235,
+            "Word": "ting"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1630,
+            "Word": "ting"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you.",
+        "SliceSentence": "Thank you .",
+        "WrittenText": "",
+        "StartMs": 70070,
+        "EndMs": 70920,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

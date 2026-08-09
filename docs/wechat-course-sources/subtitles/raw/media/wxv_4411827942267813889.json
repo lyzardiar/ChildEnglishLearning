@@ -1,0 +1,332 @@
+{
+  "RequestId": "98b30f5b-f2bf-4b76-a323-6785d218f732",
+  "Data": {
+    "TaskId": 16292412713,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.093063,
+    "Result": "X.Here is a toy box. Here is a box, but the toy box in the box. Here is a toy box, here is a box. Put the toy box in the box.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "X.",
+        "SliceSentence": "X .",
+        "WrittenText": "",
+        "StartMs": 660,
+        "EndMs": 1100,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "X"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Here is a toy box.",
+        "SliceSentence": "Here is a toy box .",
+        "WrittenText": "",
+        "StartMs": 3140,
+        "EndMs": 9940,
+        "SpeechSpeed": 2.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5120,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 5320,
+            "OffsetEndMs": 5685,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5685,
+            "OffsetEndMs": 5955,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5955,
+            "OffsetEndMs": 6260,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 6400,
+            "OffsetEndMs": 6800,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 6400,
+            "OffsetEndMs": 6800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here is a box,",
+        "SliceSentence": "Here is a box ,",
+        "WrittenText": "",
+        "StartMs": 10230,
+        "EndMs": 11800,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but the toy box in the box.",
+        "SliceSentence": "but the toy box in the box .",
+        "WrittenText": "",
+        "StartMs": 12660,
+        "EndMs": 16540,
+        "SpeechSpeed": 7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here is a toy box,",
+        "SliceSentence": "Here is a toy box ,",
+        "WrittenText": "",
+        "StartMs": 18540,
+        "EndMs": 20710,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here is a box.",
+        "SliceSentence": "here is a box .",
+        "WrittenText": "",
+        "StartMs": 21000,
+        "EndMs": 22510,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 875,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Put the toy box in the box.",
+        "SliceSentence": "Put the toy box in the box .",
+        "WrittenText": "",
+        "StartMs": 23370,
+        "EndMs": 27160,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Put"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "RequestId": "242ecd5e-6505-4f83-868b-055ecd9a360c",
+  "Data": {
+    "TaskId": 16292465231,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 53.405938,
+    "Result": "School life around the world let's meet some students from around the world what do they do in their schools? Yang ting is from China. She is in a paper cutting class. She has lots of fun. Taylor is from the UK. She is in the school garden. She and her friend like to help in the garden. Matthew is from Australia. He is in the music club. He and his friends love music.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "School life around the world let's meet some students from around the world what do they do in their schools?",
+        "SliceSentence": "School life around the world let's meet some students from around the world what do they do in their schools ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 13070,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 21,
+        "Words": [
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1080,
+            "Word": "School"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1460,
+            "Word": "life"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2145,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2145,
+            "OffsetEndMs": 2385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2385,
+            "OffsetEndMs": 2660,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5685,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 5685,
+            "OffsetEndMs": 5990,
+            "Word": "meet"
+          },
+          {
+            "OffsetStartMs": 6130,
+            "OffsetEndMs": 6530,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 7660,
+            "OffsetEndMs": 8060,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 8260,
+            "OffsetEndMs": 8660,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 8740,
+            "OffsetEndMs": 9030,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 9030,
+            "OffsetEndMs": 9320,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 10480,
+            "OffsetEndMs": 10860,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 10860,
+            "OffsetEndMs": 11175,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 11175,
+            "OffsetEndMs": 11475,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 11475,
+            "OffsetEndMs": 11840,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 11950,
+            "OffsetEndMs": 12270,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 12270,
+            "OffsetEndMs": 12590,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 12670,
+            "OffsetEndMs": 13070,
+            "Word": "schools"
+          },
+          {
+            "OffsetStartMs": 12670,
+            "OffsetEndMs": 13070,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yang ting is from China.",
+        "SliceSentence": "Yang ting is from China .",
+        "WrittenText": "",
+        "StartMs": 14680,
+        "EndMs": 16910,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Yang"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 820,
+            "Word": "ting"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "China"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She is in a paper cutting class.",
+        "SliceSentence": "She is in a paper cutting class .",
+        "WrittenText": "",
+        "StartMs": 17950,
+        "EndMs": 21500,
+        "SpeechSpeed": 9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 995,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1390,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2110,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "cutting"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She has lots of fun.",
+        "SliceSentence": "She has lots of fun .",
+        "WrittenText": "",
+        "StartMs": 22420,
+        "EndMs": 24680,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "lots"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1865,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2260,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taylor is from the UK.",
+        "SliceSentence": "Taylor is from the UK .",
+        "WrittenText": "",
+        "StartMs": 26050,
+        "EndMs": 28670,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taylor"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2285,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2620,
+            "Word": "UK"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She is in the school garden.",
+        "SliceSentence": "She is in the school garden .",
+        "WrittenText": "",
+        "StartMs": 30070,
+        "EndMs": 32600,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 905,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1300,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1715,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2110,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She and her friend like to help in the garden.",
+        "SliceSentence": "She and her friend like to help in the garden .",
+        "WrittenText": "",
+        "StartMs": 33760,
+        "EndMs": 37850,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 860,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1190,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1570,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2765,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3070,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3635,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 3830,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3830,
+            "OffsetEndMs": 4090,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 3830,
+            "OffsetEndMs": 4090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Matthew is from Australia.",
+        "SliceSentence": "Matthew is from Australia .",
+        "WrittenText": "",
+        "StartMs": 39670,
+        "EndMs": 42260,
+        "SpeechSpeed": 10,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Matthew"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "Australia"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He is in the music club.",
+        "SliceSentence": "He is in the music club .",
+        "WrittenText": "",
+        "StartMs": 43150,
+        "EndMs": 46250,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1910,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2260,
+            "Word": "music"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He and his friends love music.",
+        "SliceSentence": "He and his friends love music .",
+        "WrittenText": "",
+        "StartMs": 47020,
+        "EndMs": 50300,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "music"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

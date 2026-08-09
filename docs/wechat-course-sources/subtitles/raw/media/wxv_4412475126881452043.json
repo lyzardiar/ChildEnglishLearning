@@ -1,0 +1,773 @@
+{
+  "RequestId": "7acdb239-ce0e-4333-9c09-ff018351c244",
+  "Data": {
+    "TaskId": 16292482005,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.534438,
+    "Result": "Come and join us maths club. Do you like numbers in the maths? We play many different number games. Join us this wednesday. This is an abacus sports club. Do you like sport in the sports club? We can run and play basketball, we can play ping pong. We can play football too. Please come on friday, you can bring your friends drama club. Do you like telling stories in Chinese or English? Come and join the drama club. Let's meet on thursdays. Everyone is welcome.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Come and join us maths club.",
+        "SliceSentence": "Come and join us maths club .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4550,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 735,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1020,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1335,
+            "Word": "join"
+          },
+          {
+            "OffsetStartMs": 1335,
+            "OffsetEndMs": 1700,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 3610,
+            "OffsetEndMs": 4230,
+            "Word": "maths"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4550,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like numbers in the maths?",
+        "SliceSentence": "Do you like numbers in the maths ?",
+        "WrittenText": "",
+        "StartMs": 5470,
+        "EndMs": 8780,
+        "SpeechSpeed": 10,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2570,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2765,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3310,
+            "Word": "maths"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3310,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We play many different number games.",
+        "SliceSentence": "We play many different number games .",
+        "WrittenText": "",
+        "StartMs": 9400,
+        "EndMs": 12080,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 725,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1120,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "number"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "games"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Join us this wednesday.",
+        "SliceSentence": "Join us this wednesday .",
+        "WrittenText": "",
+        "StartMs": 12970,
+        "EndMs": 14630,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Join"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "wednesday"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is an abacus sports club.",
+        "SliceSentence": "This is an abacus sports club .",
+        "WrittenText": "",
+        "StartMs": 15670,
+        "EndMs": 21530,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1490,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 2380,
+            "Word": "abacus"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5170,
+            "Word": "sports"
+          },
+          {
+            "OffsetStartMs": 5460,
+            "OffsetEndMs": 5860,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 5460,
+            "OffsetEndMs": 5860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like sport in the sports club?",
+        "SliceSentence": "Do you like sport in the sports club ?",
+        "WrittenText": "",
+        "StartMs": 22060,
+        "EndMs": 25850,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "sport"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2600,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2900,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3250,
+            "Word": "sports"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can run and play basketball,",
+        "SliceSentence": "We can run and play basketball ,",
+        "WrittenText": "",
+        "StartMs": 26110,
+        "EndMs": 28490,
+        "SpeechSpeed": 13,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1640,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 2000,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2380,
+            "Word": "basketball"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can play ping pong.",
+        "SliceSentence": "we can play ping pong .",
+        "WrittenText": "",
+        "StartMs": 29890,
+        "EndMs": 31700,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1055,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1415,
+            "Word": "ping"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "pong"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can play football too.",
+        "SliceSentence": "We can play football too .",
+        "WrittenText": "",
+        "StartMs": 32350,
+        "EndMs": 34400,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 935,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1300,
+            "Word": "football"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Please come on friday,",
+        "SliceSentence": "Please come on friday ,",
+        "WrittenText": "",
+        "StartMs": 35320,
+        "EndMs": 36950,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Please"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 860,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "friday"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you can bring your friends drama club.",
+        "SliceSentence": "you can bring your friends drama club .",
+        "WrittenText": "",
+        "StartMs": 37540,
+        "EndMs": 42260,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1010,
+            "Word": "bring"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1310,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1660,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4210,
+            "Word": "drama"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4720,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 4320,
+            "OffsetEndMs": 4720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like telling stories in Chinese or English?",
+        "SliceSentence": "Do you like telling stories in Chinese or English ?",
+        "WrittenText": "",
+        "StartMs": 43150,
+        "EndMs": 47240,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 890,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1270,
+            "Word": "telling"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "stories"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2420,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2740,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come and join the drama club.",
+        "SliceSentence": "Come and join the drama club .",
+        "WrittenText": "",
+        "StartMs": 48160,
+        "EndMs": 50330,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1010,
+            "Word": "join"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1325,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1660,
+            "Word": "drama"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's meet on thursdays.",
+        "SliceSentence": "Let's meet on thursdays .",
+        "WrittenText": "",
+        "StartMs": 50980,
+        "EndMs": 52910,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 755,
+            "Word": "meet"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1010,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1930,
+            "Word": "thursdays"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Everyone is welcome.",
+        "SliceSentence": "Everyone is welcome .",
+        "WrittenText": "",
+        "StartMs": 53620,
+        "EndMs": 54440,
+        "SpeechSpeed": 24.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Everyone"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 515,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

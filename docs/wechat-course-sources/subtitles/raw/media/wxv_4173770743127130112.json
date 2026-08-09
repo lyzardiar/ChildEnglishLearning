@@ -1,0 +1,614 @@
+{
+  "RequestId": "c108e7a3-6d65-42c0-9c21-c2f2b315a3ee",
+  "Data": {
+    "TaskId": 16292475761,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 80.78225,
+    "Result": "Tao Tao's birthday in the morning Tao Tao is 10 years old today. Happy birthday Tao Tao come and see your gifts I have a gift for you do you like it? Yes what a lovely picture thank you lola wow. I love this toy plane thank you mum and dad let's go out in the afternoon the family are in a park ta ta shares his toys it's windy.Let's fly a kite in the evening. Yeah, I like noodles. What a great birthday.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Tao Tao's birthday in the morning Tao Tao is 10 years old today.",
+        "SliceSentence": "Tao Tao's birthday in the morning Tao Tao is 10 years old today .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 9710,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1005,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1740,
+            "Word": "Tao's"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2090,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 3340,
+            "OffsetEndMs": 3740,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4090,
+            "OffsetEndMs": 4455,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4455,
+            "OffsetEndMs": 4820,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6165,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 6165,
+            "OffsetEndMs": 6560,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 6670,
+            "OffsetEndMs": 7070,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7240,
+            "OffsetEndMs": 7640,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 7810,
+            "OffsetEndMs": 8210,
+            "Word": "years"
+          },
+          {
+            "OffsetStartMs": 8410,
+            "OffsetEndMs": 8810,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 9310,
+            "OffsetEndMs": 9710,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 9310,
+            "OffsetEndMs": 9710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Happy birthday Tao Tao come and see your gifts I have a gift for you do you like it?",
+        "SliceSentence": "Happy birthday Tao Tao come and see your gifts I have a gift for you do you like it ?",
+        "WrittenText": "",
+        "StartMs": 10420,
+        "EndMs": 24170,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 20,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Happy"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2470,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2950,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4060,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5080,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5620,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 6040,
+            "Word": "gifts"
+          },
+          {
+            "OffsetStartMs": 9510,
+            "OffsetEndMs": 9890,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 9890,
+            "OffsetEndMs": 10220,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 10220,
+            "OffsetEndMs": 10490,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 10490,
+            "OffsetEndMs": 10810,
+            "Word": "gift"
+          },
+          {
+            "OffsetStartMs": 10920,
+            "OffsetEndMs": 11285,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 11285,
+            "OffsetEndMs": 11650,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 12450,
+            "OffsetEndMs": 12785,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 12785,
+            "OffsetEndMs": 13025,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 13025,
+            "OffsetEndMs": 13330,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 13350,
+            "OffsetEndMs": 13750,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 13350,
+            "OffsetEndMs": 13750,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes what a lovely picture thank you lola wow.",
+        "SliceSentence": "Yes what a lovely picture thank you lola wow .",
+        "WrittenText": "",
+        "StartMs": 24850,
+        "EndMs": 34670,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2165,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2560,
+            "Word": "lovely"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "picture"
+          },
+          {
+            "OffsetStartMs": 5070,
+            "OffsetEndMs": 5470,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 6010,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 6390,
+            "OffsetEndMs": 7150,
+            "Word": "lola"
+          },
+          {
+            "OffsetStartMs": 9420,
+            "OffsetEndMs": 9820,
+            "Word": "wow"
+          },
+          {
+            "OffsetStartMs": 9420,
+            "OffsetEndMs": 9820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I love this toy plane thank you mum and dad let's go out in the afternoon the family are in a park ta ta shares his toys it's windy.",
+        "SliceSentence": "I love this toy plane thank you mum and dad let's go out in the afternoon the family are in a park ta ta shares his toys it's windy .",
+        "WrittenText": "",
+        "StartMs": 35740,
+        "EndMs": 60270,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 30,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "plane"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4300,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 4810,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5620,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 6000,
+            "OffsetEndMs": 6400,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 6420,
+            "OffsetEndMs": 6820,
+            "Word": "dad"
+          },
+          {
+            "OffsetStartMs": 8220,
+            "OffsetEndMs": 9005,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 9005,
+            "OffsetEndMs": 9340,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 9480,
+            "OffsetEndMs": 9880,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 11610,
+            "OffsetEndMs": 12010,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 12300,
+            "OffsetEndMs": 12635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 12635,
+            "OffsetEndMs": 12970,
+            "Word": "afternoon"
+          },
+          {
+            "OffsetStartMs": 14910,
+            "OffsetEndMs": 15260,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 15260,
+            "OffsetEndMs": 15610,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 16260,
+            "OffsetEndMs": 16640,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 16640,
+            "OffsetEndMs": 17020,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 17160,
+            "OffsetEndMs": 17480,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 17480,
+            "OffsetEndMs": 17800,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 18960,
+            "OffsetEndMs": 19340,
+            "Word": "ta"
+          },
+          {
+            "OffsetStartMs": 19340,
+            "OffsetEndMs": 19720,
+            "Word": "ta"
+          },
+          {
+            "OffsetStartMs": 19830,
+            "OffsetEndMs": 20230,
+            "Word": "shares"
+          },
+          {
+            "OffsetStartMs": 20820,
+            "OffsetEndMs": 21220,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 21240,
+            "OffsetEndMs": 21640,
+            "Word": "toys"
+          },
+          {
+            "OffsetStartMs": 23160,
+            "OffsetEndMs": 23920,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 23940,
+            "OffsetEndMs": 24530,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 23940,
+            "OffsetEndMs": 24530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's fly a kite in the evening.",
+        "SliceSentence": "Let's fly a kite in the evening .",
+        "WrittenText": "",
+        "StartMs": 60300,
+        "EndMs": 66470,
+        "SpeechSpeed": 5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1875,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 1875,
+            "OffsetEndMs": 2270,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2850,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3230,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 5080,
+            "OffsetEndMs": 5480,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5500,
+            "OffsetEndMs": 5835,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5835,
+            "OffsetEndMs": 6170,
+            "Word": "evening"
+          },
+          {
+            "OffsetStartMs": 5835,
+            "OffsetEndMs": 6170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 30,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yeah,",
+        "SliceSentence": "Yeah ,",
+        "WrittenText": "",
+        "StartMs": 67720,
+        "EndMs": 68120,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yeah"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like noodles.",
+        "SliceSentence": "I like noodles .",
+        "WrittenText": "",
+        "StartMs": 69250,
+        "EndMs": 71630,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 2380,
+            "Word": "noodles"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 2380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What a great birthday.",
+        "SliceSentence": "What a great birthday .",
+        "WrittenText": "",
+        "StartMs": 72790,
+        "EndMs": 75350,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

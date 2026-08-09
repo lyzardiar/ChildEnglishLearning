@@ -1,0 +1,526 @@
+{
+  "RequestId": "3b9d290c-c08e-423d-b054-37968e604491",
+  "Data": {
+    "TaskId": 16292503305,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 43.282,
+    "Result": "Numbers in our lives. How old are you? What's the time? We use numbers all the time. We use numbers to tell the time. The numbers on the clock help us know the time we call people on their phone numbers.Then we can talk to them on the phone. We use numbers in the supermarket. Everything in the supermarket has a price.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Numbers in our lives.",
+        "SliceSentence": "Numbers in our lives .",
+        "WrittenText": "",
+        "StartMs": 400,
+        "EndMs": 2400,
+        "SpeechSpeed": 10,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Numbers"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1215,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1550,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2000,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How old are you?",
+        "SliceSentence": "How old are you ?",
+        "WrittenText": "",
+        "StartMs": 4430,
+        "EndMs": 6510,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1685,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2080,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2080,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's the time?",
+        "SliceSentence": "What's the time ?",
+        "WrittenText": "",
+        "StartMs": 7730,
+        "EndMs": 8940,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 905,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1210,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1210,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use numbers all the time.",
+        "SliceSentence": "We use numbers all the time .",
+        "WrittenText": "",
+        "StartMs": 10580,
+        "EndMs": 13320,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2450,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use numbers to tell the time.",
+        "SliceSentence": "We use numbers to tell the time .",
+        "WrittenText": "",
+        "StartMs": 14600,
+        "EndMs": 17550,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1955,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2260,
+            "Word": "tell"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2660,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 2950,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2660,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The numbers on the clock help us know the time we call people on their phone numbers.",
+        "SliceSentence": "The numbers on the clock help us know the time we call people on their phone numbers .",
+        "WrittenText": "",
+        "StartMs": 18650,
+        "EndMs": 27120,
+        "SpeechSpeed": 10,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1235,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1810,
+            "Word": "clock"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3425,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3710,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3710,
+            "OffsetEndMs": 4000,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 5550,
+            "OffsetEndMs": 5900,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 5900,
+            "OffsetEndMs": 6250,
+            "Word": "call"
+          },
+          {
+            "OffsetStartMs": 6360,
+            "OffsetEndMs": 6760,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 7020,
+            "OffsetEndMs": 7355,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 7355,
+            "OffsetEndMs": 7670,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 7670,
+            "OffsetEndMs": 8050,
+            "Word": "phone"
+          },
+          {
+            "OffsetStartMs": 8070,
+            "OffsetEndMs": 8470,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 8070,
+            "OffsetEndMs": 8470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Then we can talk to them on the phone.",
+        "SliceSentence": "Then we can talk to them on the phone .",
+        "WrittenText": "",
+        "StartMs": 28180,
+        "EndMs": 31500,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 855,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1155,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1455,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1850,
+            "Word": "talk"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2235,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2490,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2805,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2805,
+            "OffsetEndMs": 3030,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3320,
+            "Word": "phone"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We use numbers in the supermarket.",
+        "SliceSentence": "We use numbers in the supermarket .",
+        "WrittenText": "",
+        "StartMs": 33380,
+        "EndMs": 36330,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "numbers"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2000,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2210,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2950,
+            "Word": "supermarket"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Everything in the supermarket has a price.",
+        "SliceSentence": "Everything in the supermarket has a price .",
+        "WrittenText": "",
+        "StartMs": 38030,
+        "EndMs": 41010,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Everything"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 830,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1630,
+            "Word": "supermarket"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2330,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2645,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2980,
+            "Word": "price"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

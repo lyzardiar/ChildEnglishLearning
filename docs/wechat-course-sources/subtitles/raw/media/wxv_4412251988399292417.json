@@ -1,0 +1,659 @@
+{
+  "RequestId": "d6d48ecd-84e1-4bb5-a556-a3890f2fab1f",
+  "Data": {
+    "TaskId": 16292438858,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 66.409063,
+    "Result": "Peter's story the hero dream team always wins rainbow team always wins let's wait and see oh no we don't have any water don't worry we have some water here you are thanks Peter go hooray you're our hero your team plays well thanks your team plays well too let me help you. Thank you Peter you're welcome let me help you you're so nice don't climb the tree my paw is in the tree. Can you help me? I have an idea. Let me try.Here you are. Thank you. You're so clever.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Peter's story the hero dream team always wins rainbow team always wins let's wait and see oh no we don't have any water don't worry we have some water here you are thanks Peter go hooray you're our hero your team plays well thanks your team plays well too let me help you.",
+        "SliceSentence": "Peter's story the hero dream team always wins rainbow team always wins let's wait and see oh no we don't have any water don't worry we have some water here you are thanks Peter go hooray you're our hero your team plays well thanks your team plays well too let me help you .",
+        "WrittenText": "",
+        "StartMs": 340,
+        "EndMs": 36690,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 54,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 765,
+            "Word": "Peter's"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1070,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2150,
+            "Word": "hero"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4395,
+            "Word": "dream"
+          },
+          {
+            "OffsetStartMs": 4395,
+            "OffsetEndMs": 4790,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 5230,
+            "OffsetEndMs": 5595,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 5595,
+            "OffsetEndMs": 5960,
+            "Word": "wins"
+          },
+          {
+            "OffsetStartMs": 6970,
+            "OffsetEndMs": 7710,
+            "Word": "rainbow"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 8030,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 8350,
+            "OffsetEndMs": 8700,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 8700,
+            "OffsetEndMs": 9050,
+            "Word": "wins"
+          },
+          {
+            "OffsetStartMs": 10360,
+            "OffsetEndMs": 10920,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 10920,
+            "OffsetEndMs": 11160,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 11160,
+            "OffsetEndMs": 11430,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 11430,
+            "OffsetEndMs": 11750,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 12640,
+            "OffsetEndMs": 13020,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 13020,
+            "OffsetEndMs": 13400,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 13690,
+            "OffsetEndMs": 14010,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 14010,
+            "OffsetEndMs": 14430,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 14430,
+            "OffsetEndMs": 14595,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 14595,
+            "OffsetEndMs": 14865,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 14865,
+            "OffsetEndMs": 15230,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 16090,
+            "OffsetEndMs": 16545,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 16545,
+            "OffsetEndMs": 16820,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 17290,
+            "OffsetEndMs": 17580,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 17580,
+            "OffsetEndMs": 17820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 17820,
+            "OffsetEndMs": 18105,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 18105,
+            "OffsetEndMs": 18440,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 18850,
+            "OffsetEndMs": 19245,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 19245,
+            "OffsetEndMs": 19515,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 19515,
+            "OffsetEndMs": 19790,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 20500,
+            "OffsetEndMs": 20900,
+            "Word": "thanks"
+          },
+          {
+            "OffsetStartMs": 21070,
+            "OffsetEndMs": 21470,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 22990,
+            "OffsetEndMs": 23390,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 23890,
+            "OffsetEndMs": 24560,
+            "Word": "hooray"
+          },
+          {
+            "OffsetStartMs": 25210,
+            "OffsetEndMs": 25710,
+            "Word": "you're"
+          },
+          {
+            "OffsetStartMs": 25710,
+            "OffsetEndMs": 25940,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 25990,
+            "OffsetEndMs": 26390,
+            "Word": "hero"
+          },
+          {
+            "OffsetStartMs": 27850,
+            "OffsetEndMs": 28250,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 28270,
+            "OffsetEndMs": 28670,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 28750,
+            "OffsetEndMs": 29150,
+            "Word": "plays"
+          },
+          {
+            "OffsetStartMs": 29170,
+            "OffsetEndMs": 29570,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 30880,
+            "OffsetEndMs": 31280,
+            "Word": "thanks"
+          },
+          {
+            "OffsetStartMs": 31660,
+            "OffsetEndMs": 32010,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 32010,
+            "OffsetEndMs": 32355,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 32355,
+            "OffsetEndMs": 32745,
+            "Word": "plays"
+          },
+          {
+            "OffsetStartMs": 32745,
+            "OffsetEndMs": 33140,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 33160,
+            "OffsetEndMs": 33560,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 35080,
+            "OffsetEndMs": 35415,
+            "Word": "let"
+          },
+          {
+            "OffsetStartMs": 35415,
+            "OffsetEndMs": 35685,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 35685,
+            "OffsetEndMs": 35985,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 35985,
+            "OffsetEndMs": 36350,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 35985,
+            "OffsetEndMs": 36350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you Peter you're welcome let me help you you're so nice don't climb the tree my paw is in the tree.",
+        "SliceSentence": "Thank you Peter you're welcome let me help you you're so nice don't climb the tree my paw is in the tree .",
+        "WrittenText": "",
+        "StartMs": 37430,
+        "EndMs": 51450,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 23,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 740,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1090,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2120,
+            "Word": "you're"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2380,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3725,
+            "Word": "let"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 3980,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3980,
+            "OffsetEndMs": 4295,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 4295,
+            "OffsetEndMs": 4690,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5765,
+            "Word": "you're"
+          },
+          {
+            "OffsetStartMs": 5765,
+            "OffsetEndMs": 6005,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 6005,
+            "OffsetEndMs": 6370,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 10050,
+            "OffsetEndMs": 10595,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 10595,
+            "OffsetEndMs": 10835,
+            "Word": "climb"
+          },
+          {
+            "OffsetStartMs": 10835,
+            "OffsetEndMs": 11120,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 11120,
+            "OffsetEndMs": 11440,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 12210,
+            "OffsetEndMs": 12575,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 12575,
+            "OffsetEndMs": 12970,
+            "Word": "paw"
+          },
+          {
+            "OffsetStartMs": 12990,
+            "OffsetEndMs": 13280,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 13280,
+            "OffsetEndMs": 13490,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 13490,
+            "OffsetEndMs": 13715,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 13715,
+            "OffsetEndMs": 14020,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 13715,
+            "OffsetEndMs": 14020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you help me?",
+        "SliceSentence": "Can you help me ?",
+        "WrittenText": "",
+        "StartMs": 51890,
+        "EndMs": 53280,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 725,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1025,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have an idea.",
+        "SliceSentence": "I have an idea .",
+        "WrittenText": "",
+        "StartMs": 53780,
+        "EndMs": 54900,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 860,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1120,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let me try.",
+        "SliceSentence": "Let me try .",
+        "WrittenText": "",
+        "StartMs": 55460,
+        "EndMs": 56490,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 635,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1030,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Here you are.",
+        "SliceSentence": "Here you are .",
+        "WrittenText": "",
+        "StartMs": 59640,
+        "EndMs": 60620,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 690,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 980,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you.",
+        "SliceSentence": "Thank you .",
+        "WrittenText": "",
+        "StartMs": 61180,
+        "EndMs": 61970,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're so clever.",
+        "SliceSentence": "You're so clever .",
+        "WrittenText": "",
+        "StartMs": 62440,
+        "EndMs": 63590,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 770,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "clever"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "RequestId": "49f2ff56-5663-48a0-bc58-91a4007e9bcf",
+  "Data": {
+    "TaskId": 16292449749,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 31.416625,
+    "Result": "In.In.Martin sees a tin. Martin sees a bin. He puts the tin in the bin. Martin sees a tin Martin a bin. He puts the tin in the bin.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "In.",
+        "SliceSentence": "In .",
+        "WrittenText": "",
+        "StartMs": 940,
+        "EndMs": 1350,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In.",
+        "SliceSentence": "In .",
+        "WrittenText": "",
+        "StartMs": 2300,
+        "EndMs": 2620,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Martin sees a tin.",
+        "SliceSentence": "Martin sees a tin .",
+        "WrittenText": "",
+        "StartMs": 6720,
+        "EndMs": 10310,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2420,
+            "Word": "Martin"
+          },
+          {
+            "OffsetStartMs": 2650,
+            "OffsetEndMs": 3015,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 3015,
+            "OffsetEndMs": 3270,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3590,
+            "Word": "tin"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Martin sees a bin.",
+        "SliceSentence": "Martin sees a bin .",
+        "WrittenText": "",
+        "StartMs": 11050,
+        "EndMs": 12740,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Martin"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1055,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He puts the tin in the bin.",
+        "SliceSentence": "He puts the tin in the bin .",
+        "WrittenText": "",
+        "StartMs": 13480,
+        "EndMs": 17420,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1010,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "tin"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3940,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Martin sees a tin Martin a bin.",
+        "SliceSentence": "Martin sees a tin Martin a bin .",
+        "WrittenText": "",
+        "StartMs": 20680,
+        "EndMs": 24710,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Martin"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 980,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "tin"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "Martin"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3650,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4030,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He puts the tin in the bin.",
+        "SliceSentence": "He puts the tin in the bin .",
+        "WrittenText": "",
+        "StartMs": 25480,
+        "EndMs": 29420,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "tin"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3940,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

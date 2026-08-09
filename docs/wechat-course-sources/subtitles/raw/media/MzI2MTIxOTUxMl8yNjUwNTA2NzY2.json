@@ -1,0 +1,2727 @@
+{
+  "RequestId": "33ce0f20-5302-4840-89d0-0dc3d58acdaf",
+  "Data": {
+    "TaskId": 16292593961,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 195.24,
+    "Result": "Unit 12 the five p's.Students book page 84.Words and expressions.P.Pod.Forever.Bigger.Excited bullet.Lazy?Ruth.Yard.Hit.See the world.One by one.Look out of.Students book page 74.One five peas live together in a pod. Will we live here forever? Asked one pea no, we'll grow bigger and stronger. Then one day we'll leave this pod and see the world answered another pea.Two.The peas grew bigger and bigger.One day a boy picked the pod. We'll soon see the world, said the peas. They were very excited.Three, the boy took the peas out of the pod. You'll make good bullets, he said four.I'll see the world, said the first pea. I'll fly to the sun, said the second pea, the third and the fourth. Peas were lazy. We're happy anywhere. We only want to sleep, they said.The fifth piecea said I'll do something useful.Five.One by one, the peas flew into the sky.Six.The first pea fell on a roof and a bird ate it.The second pea fell into some water.The third and fourth peas fell into a yard. 2 chickens ate them.The fifth pea hit a window and fell on the ground.Soon it grew into a plant with some green leaves.Seven.A girl was ill.She looked out of her window and saw the plant.The pea is growing bigger and taller. It must be strong.I'll try to do the same, she said.A few weeks later, the girl got well.Her mother said thank you, little pea.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit 12 the five p's.",
+        "SliceSentence": "Unit 12 the five p's .",
+        "WrittenText": "",
+        "StartMs": 1260,
+        "EndMs": 4520,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "12"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 1965,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1965,
+            "OffsetEndMs": 2270,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 3260,
+            "Word": "p's"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 3260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 84.",
+        "SliceSentence": "Students book page 84 .",
+        "WrittenText": "",
+        "StartMs": 5640,
+        "EndMs": 8090,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2450,
+            "Word": "84"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Words and expressions.",
+        "SliceSentence": "Words and expressions .",
+        "WrittenText": "",
+        "StartMs": 14240,
+        "EndMs": 16060,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Words"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1820,
+            "Word": "expressions"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 17500,
+        "EndMs": 17940,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Pod.",
+        "SliceSentence": "Pod .",
+        "WrittenText": "",
+        "StartMs": 19520,
+        "EndMs": 19960,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Pod"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Forever.",
+        "SliceSentence": "Forever .",
+        "WrittenText": "",
+        "StartMs": 21620,
+        "EndMs": 22330,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Forever"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Bigger.",
+        "SliceSentence": "Bigger .",
+        "WrittenText": "",
+        "StartMs": 23240,
+        "EndMs": 23680,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Bigger"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excited bullet.",
+        "SliceSentence": "Excited bullet .",
+        "WrittenText": "",
+        "StartMs": 25140,
+        "EndMs": 27020,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Excited"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "bullet"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Lazy?",
+        "SliceSentence": "Lazy ?",
+        "WrittenText": "",
+        "StartMs": 28660,
+        "EndMs": 29220,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 560,
+            "Word": "Lazy"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 560,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ruth.",
+        "SliceSentence": "Ruth .",
+        "WrittenText": "",
+        "StartMs": 30320,
+        "EndMs": 30940,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Ruth"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yard.",
+        "SliceSentence": "Yard .",
+        "WrittenText": "",
+        "StartMs": 32260,
+        "EndMs": 32760,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Yard"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hit.",
+        "SliceSentence": "Hit .",
+        "WrittenText": "",
+        "StartMs": 33840,
+        "EndMs": 34160,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Hit"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "See the world.",
+        "SliceSentence": "See the world .",
+        "WrittenText": "",
+        "StartMs": 35580,
+        "EndMs": 36830,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "See"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 960,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1250,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One by one.",
+        "SliceSentence": "One by one .",
+        "WrittenText": "",
+        "StartMs": 37860,
+        "EndMs": 39140,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 900,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look out of.",
+        "SliceSentence": "Look out of .",
+        "WrittenText": "",
+        "StartMs": 40300,
+        "EndMs": 41460,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 480,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 795,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1160,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 74.",
+        "SliceSentence": "Students book page 74 .",
+        "WrittenText": "",
+        "StartMs": 43220,
+        "EndMs": 45970,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2750,
+            "Word": "74"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One five peas live together in a pod.",
+        "SliceSentence": "One five peas live together in a pod .",
+        "WrittenText": "",
+        "StartMs": 51880,
+        "EndMs": 56220,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2715,
+            "Word": "peas"
+          },
+          {
+            "OffsetStartMs": 2715,
+            "OffsetEndMs": 3110,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 3190,
+            "OffsetEndMs": 3590,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 3610,
+            "OffsetEndMs": 3915,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3915,
+            "OffsetEndMs": 4080,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4340,
+            "Word": "pod"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Will we live here forever?",
+        "SliceSentence": "Will we live here forever ?",
+        "WrittenText": "",
+        "StartMs": 56990,
+        "EndMs": 58860,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Will"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 950,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1300,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "forever"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Asked one pea no,",
+        "SliceSentence": "Asked one pea no ,",
+        "WrittenText": "",
+        "StartMs": 59450,
+        "EndMs": 61290,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Asked"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 845,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1420,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we'll grow bigger and stronger.",
+        "SliceSentence": "we'll grow bigger and stronger .",
+        "WrittenText": "",
+        "StartMs": 61880,
+        "EndMs": 64110,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 680,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "bigger"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "stronger"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then one day we'll leave this pod and see the world answered another pea.",
+        "SliceSentence": "Then one day we'll leave this pod and see the world answered another pea .",
+        "WrittenText": "",
+        "StartMs": 64760,
+        "EndMs": 71430,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1970,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2230,
+            "Word": "leave"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2600,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2950,
+            "Word": "pod"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3470,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3470,
+            "OffsetEndMs": 3845,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4100,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4100,
+            "OffsetEndMs": 4360,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 4980,
+            "OffsetEndMs": 5380,
+            "Word": "answered"
+          },
+          {
+            "OffsetStartMs": 5790,
+            "OffsetEndMs": 6125,
+            "Word": "another"
+          },
+          {
+            "OffsetStartMs": 6125,
+            "OffsetEndMs": 6670,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 6125,
+            "OffsetEndMs": 6670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two.",
+        "SliceSentence": "Two .",
+        "WrittenText": "",
+        "StartMs": 72980,
+        "EndMs": 73450,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The peas grew bigger and bigger.",
+        "SliceSentence": "The peas grew bigger and bigger .",
+        "WrittenText": "",
+        "StartMs": 74580,
+        "EndMs": 77030,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 870,
+            "Word": "peas"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1155,
+            "Word": "grew"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1520,
+            "Word": "bigger"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2070,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2450,
+            "Word": "bigger"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One day a boy picked the pod.",
+        "SliceSentence": "One day a boy picked the pod .",
+        "WrittenText": "",
+        "StartMs": 78100,
+        "EndMs": 80790,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 345,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 680,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1215,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1520,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2060,
+            "Word": "picked"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2415,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2415,
+            "OffsetEndMs": 2690,
+            "Word": "pod"
+          },
+          {
+            "OffsetStartMs": 2415,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We'll soon see the world,",
+        "SliceSentence": "We'll soon see the world ,",
+        "WrittenText": "",
+        "StartMs": 81530,
+        "EndMs": 83400,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "We'll"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "soon"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1340,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1580,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1870,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1870,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the peas.",
+        "SliceSentence": "said the peas .",
+        "WrittenText": "",
+        "StartMs": 84140,
+        "EndMs": 85230,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 1090,
+            "Word": "peas"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They were very excited.",
+        "SliceSentence": "They were very excited .",
+        "WrittenText": "",
+        "StartMs": 85700,
+        "EndMs": 87180,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 560,
+            "Word": "were"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 880,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "excited"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Three,",
+        "SliceSentence": "Three ,",
+        "WrittenText": "",
+        "StartMs": 89040,
+        "EndMs": 89630,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the boy took the peas out of the pod.",
+        "SliceSentence": "the boy took the peas out of the pod .",
+        "WrittenText": "",
+        "StartMs": 90370,
+        "EndMs": 93440,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": "took"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1325,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1865,
+            "Word": "peas"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2170,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2570,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2795,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3070,
+            "Word": "pod"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You'll make good bullets,",
+        "SliceSentence": "You'll make good bullets ,",
+        "WrittenText": "",
+        "StartMs": 94090,
+        "EndMs": 96080,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "You'll"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 850,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1990,
+            "Word": "bullets"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1990,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he said four.",
+        "SliceSentence": "he said four .",
+        "WrittenText": "",
+        "StartMs": 96610,
+        "EndMs": 98150,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'll see the world,",
+        "SliceSentence": "I'll see the world ,",
+        "WrittenText": "",
+        "StartMs": 99100,
+        "EndMs": 100500,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 555,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 855,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1125,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 1400,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 1400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the first pea.",
+        "SliceSentence": "said the first pea .",
+        "WrittenText": "",
+        "StartMs": 101540,
+        "EndMs": 103020,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 560,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 820,
+            "Word": "first"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1480,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll fly to the sun,",
+        "SliceSentence": "I'll fly to the sun ,",
+        "WrittenText": "",
+        "StartMs": 103280,
+        "EndMs": 104910,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 905,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1175,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1630,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the second pea,",
+        "SliceSentence": "said the second pea ,",
+        "WrittenText": "",
+        "StartMs": 105590,
+        "EndMs": 107160,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "second"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1570,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the third and the fourth.",
+        "SliceSentence": "the third and the fourth .",
+        "WrittenText": "",
+        "StartMs": 107360,
+        "EndMs": 108840,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "third"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1040,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1220,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1480,
+            "Word": "fourth"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Peas were lazy.",
+        "SliceSentence": "Peas were lazy .",
+        "WrittenText": "",
+        "StartMs": 108860,
+        "EndMs": 110130,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "Peas"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 905,
+            "Word": "were"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1270,
+            "Word": "lazy"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 20,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We're happy anywhere.",
+        "SliceSentence": "We're happy anywhere .",
+        "WrittenText": "",
+        "StartMs": 111020,
+        "EndMs": 113100,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "We're"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 970,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "anywhere"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We only want to sleep,",
+        "SliceSentence": "We only want to sleep ,",
+        "WrittenText": "",
+        "StartMs": 113630,
+        "EndMs": 115680,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "only"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1295,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1655,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2050,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they said.",
+        "SliceSentence": "they said .",
+        "WrittenText": "",
+        "StartMs": 116330,
+        "EndMs": 117000,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The fifth piecea said I'll do something useful.",
+        "SliceSentence": "The fifth piecea said I'll do something useful .",
+        "WrittenText": "",
+        "StartMs": 118000,
+        "EndMs": 121950,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 435,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 710,
+            "Word": "fifth"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1170,
+            "Word": "piecea"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1430,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2625,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 2625,
+            "OffsetEndMs": 2895,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3290,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "useful"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Five.",
+        "SliceSentence": "Five .",
+        "WrittenText": "",
+        "StartMs": 124260,
+        "EndMs": 124760,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One by one,",
+        "SliceSentence": "One by one ,",
+        "WrittenText": "",
+        "StartMs": 125920,
+        "EndMs": 127020,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 450,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 750,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the peas flew into the sky.",
+        "SliceSentence": "the peas flew into the sky .",
+        "WrittenText": "",
+        "StartMs": 127310,
+        "EndMs": 129510,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 890,
+            "Word": "peas"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1240,
+            "Word": "flew"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1745,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 1910,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2200,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Six.",
+        "SliceSentence": "Six .",
+        "WrittenText": "",
+        "StartMs": 131180,
+        "EndMs": 131740,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Six"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The first pea fell on a roof and a bird ate it.",
+        "SliceSentence": "The first pea fell on a roof and a bird ate it .",
+        "WrittenText": "",
+        "StartMs": 132900,
+        "EndMs": 136910,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 345,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 620,
+            "Word": "first"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1200,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1500,
+            "Word": "fell"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1770,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 1920,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2180,
+            "Word": "roof"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2820,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3015,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3015,
+            "OffsetEndMs": 3290,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 3310,
+            "OffsetEndMs": 3660,
+            "Word": "ate"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4010,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The second pea fell into some water.",
+        "SliceSentence": "The second pea fell into some water .",
+        "WrittenText": "",
+        "StartMs": 137740,
+        "EndMs": 140220,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 530,
+            "Word": "second"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1155,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1460,
+            "Word": "fell"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 1980,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2175,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2175,
+            "OffsetEndMs": 2480,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2175,
+            "OffsetEndMs": 2480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The third and fourth peas fell into a yard.",
+        "SliceSentence": "The third and fourth peas fell into a yard .",
+        "WrittenText": "",
+        "StartMs": 141480,
+        "EndMs": 144620,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 420,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 710,
+            "Word": "third"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1095,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1095,
+            "OffsetEndMs": 1430,
+            "Word": "fourth"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 2100,
+            "Word": "peas"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2450,
+            "Word": "fell"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2760,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 2880,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3140,
+            "Word": "yard"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 2 chickens ate them.",
+        "SliceSentence": "2 chickens ate them .",
+        "WrittenText": "",
+        "StartMs": 145560,
+        "EndMs": 147050,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 300,
+            "Word": "2"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 855,
+            "Word": "chickens"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1140,
+            "Word": "ate"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The fifth pea hit a window and fell on the ground.",
+        "SliceSentence": "The fifth pea hit a window and fell on the ground .",
+        "WrittenText": "",
+        "StartMs": 148080,
+        "EndMs": 151880,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 495,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 750,
+            "Word": "fifth"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1275,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1485,
+            "Word": "hit"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1665,
+            "OffsetEndMs": 1940,
+            "Word": "window"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2685,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2685,
+            "OffsetEndMs": 3030,
+            "Word": "fell"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3315,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3315,
+            "OffsetEndMs": 3510,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3800,
+            "Word": "ground"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Soon it grew into a plant with some green leaves.",
+        "SliceSentence": "Soon it grew into a plant with some green leaves .",
+        "WrittenText": "",
+        "StartMs": 152900,
+        "EndMs": 156880,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Soon"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1185,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1545,
+            "Word": "grew"
+          },
+          {
+            "OffsetStartMs": 1545,
+            "OffsetEndMs": 1800,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 1950,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2240,
+            "Word": "plant"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3030,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3315,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3315,
+            "OffsetEndMs": 3630,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3980,
+            "Word": "leaves"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Seven.",
+        "SliceSentence": "Seven .",
+        "WrittenText": "",
+        "StartMs": 159120,
+        "EndMs": 159680,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Seven"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A girl was ill.",
+        "SliceSentence": "A girl was ill .",
+        "WrittenText": "",
+        "StartMs": 160880,
+        "EndMs": 161950,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 150,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 150,
+            "OffsetEndMs": 440,
+            "Word": "girl"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 780,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1070,
+            "Word": "ill"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "She looked out of her window and saw the plant.",
+        "SliceSentence": "She looked out of her window and saw the plant .",
+        "WrittenText": "",
+        "StartMs": 162940,
+        "EndMs": 165780,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 495,
+            "Word": "looked"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 765,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 975,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1155,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1460,
+            "Word": "window"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2010,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2325,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 2325,
+            "OffsetEndMs": 2565,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2565,
+            "OffsetEndMs": 2840,
+            "Word": "plant"
+          },
+          {
+            "OffsetStartMs": 2565,
+            "OffsetEndMs": 2840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The pea is growing bigger and taller.",
+        "SliceSentence": "The pea is growing bigger and taller .",
+        "WrittenText": "",
+        "StartMs": 166760,
+        "EndMs": 170380,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 210,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 210,
+            "OffsetEndMs": 885,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1160,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "growing"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "bigger"
+          },
+          {
+            "OffsetStartMs": 2440,
+            "OffsetEndMs": 2790,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3620,
+            "Word": "taller"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It must be strong.",
+        "SliceSentence": "It must be strong .",
+        "WrittenText": "",
+        "StartMs": 170850,
+        "EndMs": 172360,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "must"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1090,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "strong"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'll try to do the same,",
+        "SliceSentence": "I'll try to do the same ,",
+        "WrittenText": "",
+        "StartMs": 173400,
+        "EndMs": 174890,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 360,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 615,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 855,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1020,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1200,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1490,
+            "Word": "same"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1490,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she said.",
+        "SliceSentence": "she said .",
+        "WrittenText": "",
+        "StartMs": 175630,
+        "EndMs": 176270,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A few weeks later,",
+        "SliceSentence": "A few weeks later ,",
+        "WrittenText": "",
+        "StartMs": 177120,
+        "EndMs": 178280,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 285,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 510,
+            "Word": "few"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 795,
+            "Word": "weeks"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1160,
+            "Word": "later"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1160,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the girl got well.",
+        "SliceSentence": "the girl got well .",
+        "WrittenText": "",
+        "StartMs": 178720,
+        "EndMs": 179960,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 575,
+            "Word": "girl"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 905,
+            "Word": "got"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1240,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Her mother said thank you,",
+        "SliceSentence": "Her mother said thank you ,",
+        "WrittenText": "",
+        "StartMs": 180860,
+        "EndMs": 183185,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "Her"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 540,
+            "Word": "mother"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 920,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2000,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2325,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2325,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little pea.",
+        "SliceSentence": "little pea .",
+        "WrittenText": "",
+        "StartMs": 183185,
+        "EndMs": 184120,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 270,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 935,
+            "Word": "pea"
+          },
+          {
+            "OffsetStartMs": 270,
+            "OffsetEndMs": 935,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

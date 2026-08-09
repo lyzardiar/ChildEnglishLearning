@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNDk4MzQ1",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:10,080"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 10080
+      },
+      "text": " page 56 daily expressions look here don't worry we can",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.906876,
+          "t_dtw": -1
+        },
+        {
+          "text": " page",
+          "timestamps": {
+            "from": "00:00:00,380",
+            "to": "00:00:00,800"
+          },
+          "offsets": {
+            "from": 380,
+            "to": 800
+          },
+          "id": 2443,
+          "p": 0.410594,
+          "t_dtw": -1
+        },
+        {
+          "text": " 56",
+          "timestamps": {
+            "from": "00:00:00,800",
+            "to": "00:00:01,830"
+          },
+          "offsets": {
+            "from": 800,
+            "to": 1830
+          },
+          "id": 7265,
+          "p": 0.862224,
+          "t_dtw": -1
+        },
+        {
+          "text": " daily",
+          "timestamps": {
+            "from": "00:00:03,030",
+            "to": "00:00:03,590"
+          },
+          "offsets": {
+            "from": 3030,
+            "to": 3590
+          },
+          "id": 4445,
+          "p": 0.321853,
+          "t_dtw": -1
+        },
+        {
+          "text": " expressions",
+          "timestamps": {
+            "from": "00:00:03,680",
+            "to": "00:00:04,600"
+          },
+          "offsets": {
+            "from": 3680,
+            "to": 4600
+          },
+          "id": 14700,
+          "p": 0.948054,
+          "t_dtw": -1
+        },
+        {
+          "text": " look",
+          "timestamps": {
+            "from": "00:00:05,460",
+            "to": "00:00:05,910"
+          },
+          "offsets": {
+            "from": 5460,
+            "to": 5910
+          },
+          "id": 804,
+          "p": 0.47247,
+          "t_dtw": -1
+        },
+        {
+          "text": " here",
+          "timestamps": {
+            "from": "00:00:06,040",
+            "to": "00:00:06,560"
+          },
+          "offsets": {
+            "from": 6040,
+            "to": 6560
+          },
+          "id": 994,
+          "p": 0.90888,
+          "t_dtw": -1
+        },
+        {
+          "text": " don",
+          "timestamps": {
+            "from": "00:00:06,560",
+            "to": "00:00:06,670"
+          },
+          "offsets": {
+            "from": 6560,
+            "to": 6670
+          },
+          "id": 836,
+          "p": 0.617489,
+          "t_dtw": -1
+        },
+        {
+          "text": "'t",
+          "timestamps": {
+            "from": "00:00:07,890",
+            "to": "00:00:08,000"
+          },
+          "offsets": {
+            "from": 7890,
+            "to": 8000
+          },
+          "id": 470,
+          "p": 0.999603,
+          "t_dtw": -1
+        },
+        {
+          "text": " worry",
+          "timestamps": {
+            "from": "00:00:08,000",
+            "to": "00:00:08,960"
+          },
+          "offsets": {
+            "from": 8000,
+            "to": 8960
+          },
+          "id": 5490,
+          "p": 0.823387,
+          "t_dtw": -1
+        },
+        {
+          "text": " we",
+          "timestamps": {
+            "from": "00:00:09,450",
+            "to": "00:00:09,600"
+          },
+          "offsets": {
+            "from": 9450,
+            "to": 9600
+          },
+          "id": 356,
+          "p": 0.911742,
+          "t_dtw": -1
+        },
+        {
+          "text": " can",
+          "timestamps": {
+            "from": "00:00:09,600",
+            "to": "00:00:10,080"
+          },
+          "offsets": {
+            "from": 9600,
+            "to": 10080
+          },
+          "id": 460,
+          "p": 0.966067,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_504]",
+          "timestamps": {
+            "from": "00:00:10,080",
+            "to": "00:00:10,080"
+          },
+          "offsets": {
+            "from": 10080,
+            "to": 10080
+          },
+          "id": 50867,
+          "p": 0.0321338,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:10,080",
+        "to": "00:00:14,120"
+      },
+      "offsets": {
+        "from": 10080,
+        "to": 14120
+      },
+      "text": " help don't touch it",
+      "tokens": [
+        {
+          "text": " help",
+          "timestamps": {
+            "from": "00:00:10,430",
+            "to": "00:00:11,910"
+          },
+          "offsets": {
+            "from": 10430,
+            "to": 11910
+          },
+          "id": 1037,
+          "p": 0.994814,
+          "t_dtw": -1
+        },
+        {
+          "text": " don",
+          "timestamps": {
+            "from": "00:00:12,980",
+            "to": "00:00:12,980"
+          },
+          "offsets": {
+            "from": 12980,
+            "to": 12980
+          },
+          "id": 836,
+          "p": 0.927292,
+          "t_dtw": -1
+        },
+        {
+          "text": "'t",
+          "timestamps": {
+            "from": "00:00:13,110",
+            "to": "00:00:13,240"
+          },
+          "offsets": {
+            "from": 13110,
+            "to": 13240
+          },
+          "id": 470,
+          "p": 0.999699,
+          "t_dtw": -1
+        },
+        {
+          "text": " touch",
+          "timestamps": {
+            "from": "00:00:13,240",
+            "to": "00:00:13,800"
+          },
+          "offsets": {
+            "from": 13240,
+            "to": 13800
+          },
+          "id": 3638,
+          "p": 0.996998,
+          "t_dtw": -1
+        },
+        {
+          "text": " it",
+          "timestamps": {
+            "from": "00:00:13,920",
+            "to": "00:00:14,120"
+          },
+          "offsets": {
+            "from": 13920,
+            "to": 14120
+          },
+          "id": 340,
+          "p": 0.978232,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_706]",
+          "timestamps": {
+            "from": "00:00:14,120",
+            "to": "00:00:14,120"
+          },
+          "offsets": {
+            "from": 14120,
+            "to": 14120
+          },
+          "id": 51069,
+          "p": 0.0429637,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

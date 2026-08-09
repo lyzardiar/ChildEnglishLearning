@@ -1,0 +1,780 @@
+{
+  "RequestId": "12e09fc3-86d9-47ef-bbb2-d6fc9886d451",
+  "Data": {
+    "TaskId": 16292458171,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 84.033,
+    "Result": "Gu Dong is coming. Listen, what can you hear? I can hear Gu Dong. Help help. Gongg is coming. It has green eyes. Run, run. Goong is coming. It has eight legs. Help gudong is coming. It has nine legs. What's gudong?It has four green eyes, 10 legs. What's Gong? It's in the lake. Don't worry. Look, it's a papaya.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Gu Dong is coming.",
+        "SliceSentence": "Gu Dong is coming .",
+        "WrittenText": "",
+        "StartMs": 160,
+        "EndMs": 2280,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 840,
+            "Word": "Gu"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1250,
+            "Word": "Dong"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1755,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2120,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Listen,",
+        "SliceSentence": "Listen ,",
+        "WrittenText": "",
+        "StartMs": 7460,
+        "EndMs": 7860,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what can you hear?",
+        "SliceSentence": "what can you hear ?",
+        "WrittenText": "",
+        "StartMs": 8690,
+        "EndMs": 10500,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can hear Gu Dong.",
+        "SliceSentence": "I can hear Gu Dong .",
+        "WrittenText": "",
+        "StartMs": 11330,
+        "EndMs": 13590,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1835,
+            "Word": "Gu"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2260,
+            "Word": "Dong"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Help help.",
+        "SliceSentence": "Help help .",
+        "WrittenText": "",
+        "StartMs": 16850,
+        "EndMs": 18240,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Help"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Gongg is coming.",
+        "SliceSentence": "Gongg is coming .",
+        "WrittenText": "",
+        "StartMs": 19100,
+        "EndMs": 20580,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "Gongg"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1115,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has green eyes.",
+        "SliceSentence": "It has green eyes .",
+        "WrittenText": "",
+        "StartMs": 23840,
+        "EndMs": 25680,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Run,",
+        "SliceSentence": "Run ,",
+        "WrittenText": "",
+        "StartMs": 32060,
+        "EndMs": 32460,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Run"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " run.",
+        "SliceSentence": "run .",
+        "WrittenText": "",
+        "StartMs": 32960,
+        "EndMs": 33360,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Goong is coming.",
+        "SliceSentence": "Goong is coming .",
+        "WrittenText": "",
+        "StartMs": 33740,
+        "EndMs": 35340,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "Goong"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has eight legs.",
+        "SliceSentence": "It has eight legs .",
+        "WrittenText": "",
+        "StartMs": 36890,
+        "EndMs": 39030,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "eight"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Help gudong is coming.",
+        "SliceSentence": "Help gudong is coming .",
+        "WrittenText": "",
+        "StartMs": 45890,
+        "EndMs": 48630,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Help"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1930,
+            "Word": "gudong"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2740,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has nine legs.",
+        "SliceSentence": "It has nine legs .",
+        "WrittenText": "",
+        "StartMs": 49580,
+        "EndMs": 51690,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's gudong?",
+        "SliceSentence": "What's gudong ?",
+        "WrittenText": "",
+        "StartMs": 58610,
+        "EndMs": 60150,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 785,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1540,
+            "Word": "gudong"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1540,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It has four green eyes,",
+        "SliceSentence": "It has four green eyes ,",
+        "WrittenText": "",
+        "StartMs": 60640,
+        "EndMs": 63420,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 675,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 1040,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2360,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 10 legs.",
+        "SliceSentence": "10 legs .",
+        "WrittenText": "",
+        "StartMs": 63650,
+        "EndMs": 65130,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's Gong?",
+        "SliceSentence": "What's Gong ?",
+        "WrittenText": "",
+        "StartMs": 67520,
+        "EndMs": 69060,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1540,
+            "Word": "Gong"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1540,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's in the lake.",
+        "SliceSentence": "It's in the lake .",
+        "WrittenText": "",
+        "StartMs": 69680,
+        "EndMs": 71190,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1190,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "lake"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry.",
+        "SliceSentence": "Don't worry .",
+        "WrittenText": "",
+        "StartMs": 72050,
+        "EndMs": 73080,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 73790,
+        "EndMs": 74190,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a papaya.",
+        "SliceSentence": "it's a papaya .",
+        "WrittenText": "",
+        "StartMs": 74870,
+        "EndMs": 76680,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 755,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1810,
+            "Word": "papaya"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

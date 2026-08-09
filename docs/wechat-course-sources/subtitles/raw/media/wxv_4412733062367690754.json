@@ -1,0 +1,746 @@
+{
+  "RequestId": "09f9e9fc-933c-4c43-8438-93bc7dc3afde",
+  "Data": {
+    "TaskId": 16292499667,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 62.601,
+    "Result": "Act like a team. How do you get along with people around you? Many families act like a team. Family members always work together. They do chores together. They look after each other. They ask about each other's day. They have fun together. What is your family like at school? You work with your teachers and classmates like a team. Are your classmates polite and kind? Do you share your things? Do you say please excuse me and thank you. These things make your day.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Act like a team.",
+        "SliceSentence": "Act like a team .",
+        "WrittenText": "",
+        "StartMs": 300,
+        "EndMs": 2180,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Act"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1560,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How do you get along with people around you?",
+        "SliceSentence": "How do you get along with people around you ?",
+        "WrittenText": "",
+        "StartMs": 5290,
+        "EndMs": 9710,
+        "SpeechSpeed": 10,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 905,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1270,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2930,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2930,
+            "OffsetEndMs": 3280,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4025,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 4025,
+            "OffsetEndMs": 4420,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 4025,
+            "OffsetEndMs": 4420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Many families act like a team.",
+        "SliceSentence": "Many families act like a team .",
+        "WrittenText": "",
+        "StartMs": 10810,
+        "EndMs": 13910,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Many"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "act"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2435,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2765,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3100,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Family members always work together.",
+        "SliceSentence": "Family members always work together .",
+        "WrittenText": "",
+        "StartMs": 14830,
+        "EndMs": 18050,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Family"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "members"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They do chores together.",
+        "SliceSentence": "They do chores together .",
+        "WrittenText": "",
+        "StartMs": 19000,
+        "EndMs": 21170,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1150,
+            "Word": "chores"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They look after each other.",
+        "SliceSentence": "They look after each other .",
+        "WrittenText": "",
+        "StartMs": 22000,
+        "EndMs": 24020,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1670,
+            "Word": "each"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2020,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They ask about each other's day.",
+        "SliceSentence": "They ask about each other's day .",
+        "WrittenText": "",
+        "StartMs": 25210,
+        "EndMs": 28220,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "ask"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1655,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2030,
+            "Word": "each"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2720,
+            "Word": "other's"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3010,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They have fun together.",
+        "SliceSentence": "They have fun together .",
+        "WrittenText": "",
+        "StartMs": 29080,
+        "EndMs": 30950,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What is your family like at school?",
+        "SliceSentence": "What is your family like at school ?",
+        "WrittenText": "",
+        "StartMs": 32140,
+        "EndMs": 36530,
+        "SpeechSpeed": 8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You work with your teachers and classmates like a team.",
+        "SliceSentence": "You work with your teachers and classmates like a team .",
+        "WrittenText": "",
+        "StartMs": 37000,
+        "EndMs": 42140,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1160,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1430,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "teachers"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3550,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4420,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 4500,
+            "OffsetEndMs": 4820,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4820,
+            "OffsetEndMs": 5140,
+            "Word": "team"
+          },
+          {
+            "OffsetStartMs": 4820,
+            "OffsetEndMs": 5140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Are your classmates polite and kind?",
+        "SliceSentence": "Are your classmates polite and kind ?",
+        "WrittenText": "",
+        "StartMs": 43210,
+        "EndMs": 46610,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1600,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2410,
+            "Word": "polite"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3050,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3400,
+            "Word": "kind"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you share your things?",
+        "SliceSentence": "Do you share your things ?",
+        "WrittenText": "",
+        "StartMs": 47830,
+        "EndMs": 49670,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 1000,
+            "Word": "share"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1475,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1840,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you say please excuse me and thank you.",
+        "SliceSentence": "Do you say please excuse me and thank you .",
+        "WrittenText": "",
+        "StartMs": 50950,
+        "EndMs": 56150,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 1000,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "excuse"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4210,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4440,
+            "OffsetEndMs": 4820,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 4820,
+            "OffsetEndMs": 5200,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 4820,
+            "OffsetEndMs": 5200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " These things make your day.",
+        "SliceSentence": "These things make your day .",
+        "WrittenText": "",
+        "StartMs": 57070,
+        "EndMs": 59570,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "These"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

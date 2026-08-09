@@ -1,0 +1,790 @@
+{
+  "RequestId": "96683055-fcb9-46a2-acff-2100406c260e",
+  "Data": {
+    "TaskId": 16292490546,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 81.618125,
+    "Result": "The world of paper cuts it is bedtime. Yen, Yen is making animal paper cuts. Suddenly the green sheep stands up and runs around. Welcome to the world of paper cups. You can talk the Chinese dragon flies around the room. Hello dragon. Good evening. The monkey starts to peel off the wallpaper stop that monkey, dragon and sheep help me.The Chinese dragon and the sheep catch the monkey. Yen, Yen wakes up. She looks at the paper, cuts on the wall. She smiles.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The world of paper cuts it is bedtime.",
+        "SliceSentence": "The world of paper cuts it is bedtime .",
+        "WrittenText": "",
+        "StartMs": 80,
+        "EndMs": 7180,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 915,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1250,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "cuts"
+          },
+          {
+            "OffsetStartMs": 5470,
+            "OffsetEndMs": 5870,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 5920,
+            "OffsetEndMs": 6315,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 6315,
+            "OffsetEndMs": 7100,
+            "Word": "bedtime"
+          },
+          {
+            "OffsetStartMs": 6315,
+            "OffsetEndMs": 7100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yen,",
+        "SliceSentence": "Yen ,",
+        "WrittenText": "",
+        "StartMs": 7950,
+        "EndMs": 8315,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Yen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yen is making animal paper cuts.",
+        "SliceSentence": "Yen is making animal paper cuts .",
+        "WrittenText": "",
+        "StartMs": 8315,
+        "EndMs": 11650,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Yen"
+          },
+          {
+            "OffsetStartMs": 625,
+            "OffsetEndMs": 1005,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1385,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 1645,
+            "OffsetEndMs": 2045,
+            "Word": "animal"
+          },
+          {
+            "OffsetStartMs": 2425,
+            "OffsetEndMs": 2825,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2935,
+            "OffsetEndMs": 3335,
+            "Word": "cuts"
+          },
+          {
+            "OffsetStartMs": 2935,
+            "OffsetEndMs": 3335,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Suddenly the green sheep stands up and runs around.",
+        "SliceSentence": "Suddenly the green sheep stands up and runs around .",
+        "WrittenText": "",
+        "StartMs": 13530,
+        "EndMs": 19090,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Suddenly"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1595,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1960,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "stands"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4490,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4490,
+            "OffsetEndMs": 4870,
+            "Word": "runs"
+          },
+          {
+            "OffsetStartMs": 5160,
+            "OffsetEndMs": 5560,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 5160,
+            "OffsetEndMs": 5560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Welcome to the world of paper cups.",
+        "SliceSentence": "Welcome to the world of paper cups .",
+        "WrittenText": "",
+        "StartMs": 20910,
+        "EndMs": 24370,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Welcome"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1100,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1325,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1630,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3460,
+            "Word": "cups"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can talk the Chinese dragon flies around the room.",
+        "SliceSentence": "You can talk the Chinese dragon flies around the room .",
+        "WrittenText": "",
+        "StartMs": 25500,
+        "EndMs": 33820,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "talk"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4580,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4580,
+            "OffsetEndMs": 4930,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 5520,
+            "OffsetEndMs": 5920,
+            "Word": "dragon"
+          },
+          {
+            "OffsetStartMs": 6330,
+            "OffsetEndMs": 6760,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 7260,
+            "OffsetEndMs": 7660,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 8015,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8015,
+            "OffsetEndMs": 8320,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 8015,
+            "OffsetEndMs": 8320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello dragon.",
+        "SliceSentence": "Hello dragon .",
+        "WrittenText": "",
+        "StartMs": 37290,
+        "EndMs": 38560,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "dragon"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good evening.",
+        "SliceSentence": "Good evening .",
+        "WrittenText": "",
+        "StartMs": 41010,
+        "EndMs": 41710,
+        "SpeechSpeed": 18.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "evening"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The monkey starts to peel off the wallpaper stop that monkey,",
+        "SliceSentence": "The monkey starts to peel off the wallpaper stop that monkey ,",
+        "WrittenText": "",
+        "StartMs": 44820,
+        "EndMs": 53770,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "starts"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2345,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2975,
+            "Word": "peel"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3280,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3695,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 4480,
+            "Word": "wallpaper"
+          },
+          {
+            "OffsetStartMs": 7320,
+            "OffsetEndMs": 7720,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 7890,
+            "OffsetEndMs": 8290,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 8550,
+            "OffsetEndMs": 8950,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 8550,
+            "OffsetEndMs": 8950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " dragon and sheep help me.",
+        "SliceSentence": "dragon and sheep help me .",
+        "WrittenText": "",
+        "StartMs": 55470,
+        "EndMs": 58390,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "dragon"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1115,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1480,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The Chinese dragon and the sheep catch the monkey.",
+        "SliceSentence": "The Chinese dragon and the sheep catch the monkey .",
+        "WrittenText": "",
+        "StartMs": 60560,
+        "EndMs": 66100,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1665,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1665,
+            "OffsetEndMs": 1970,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2870,
+            "Word": "dragon"
+          },
+          {
+            "OffsetStartMs": 3130,
+            "OffsetEndMs": 3510,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3780,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4070,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "catch"
+          },
+          {
+            "OffsetStartMs": 4960,
+            "OffsetEndMs": 5250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5250,
+            "OffsetEndMs": 5540,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 5250,
+            "OffsetEndMs": 5540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yen,",
+        "SliceSentence": "Yen ,",
+        "WrittenText": "",
+        "StartMs": 68610,
+        "EndMs": 68990,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Yen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yen wakes up.",
+        "SliceSentence": "Yen wakes up .",
+        "WrittenText": "",
+        "StartMs": 68990,
+        "EndMs": 70450,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Yen"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 1010,
+            "Word": "wakes"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She looks at the paper,",
+        "SliceSentence": "She looks at the paper ,",
+        "WrittenText": "",
+        "StartMs": 71790,
+        "EndMs": 73600,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1520,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " cuts on the wall.",
+        "SliceSentence": "cuts on the wall .",
+        "WrittenText": "",
+        "StartMs": 73770,
+        "EndMs": 75310,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "cuts"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1220,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "wall"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She smiles.",
+        "SliceSentence": "She smiles .",
+        "WrittenText": "",
+        "StartMs": 76860,
+        "EndMs": 77860,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1000,
+            "Word": "smiles"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

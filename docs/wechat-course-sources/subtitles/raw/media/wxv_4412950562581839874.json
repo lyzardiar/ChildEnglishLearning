@@ -1,0 +1,830 @@
+{
+  "RequestId": "5bed0677-941a-49c6-a2a3-4558351325ca",
+  "Data": {
+    "TaskId": 16292593425,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 84.195563,
+    "Result": "Rudolph's big red nose.Rudolf had a big red nose. He did not like it because his friends laughed at him your nose is funny rudolph it was Christmas Eve father Christmas was on his way to give presents to children rudolph and his friends helped father Christmas let's go the weather was bad father Christmas could not find his way oh no where am I help rudolph's nose was bright father Christmas could see his way rudolph is that you? Your nose is so bright rudolph took father Christmas.To the children, merry Christmas. Rudolph was happy. He loved his big red nose. His friends loved it too. You have a great nose, rudolph.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Rudolph's big red nose.",
+        "SliceSentence": "Rudolph's big red nose .",
+        "WrittenText": "",
+        "StartMs": 1300,
+        "EndMs": 3570,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 900,
+            "Word": "Rudolph's"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1220,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Rudolf had a big red nose.",
+        "SliceSentence": "Rudolf had a big red nose .",
+        "WrittenText": "",
+        "StartMs": 5040,
+        "EndMs": 9800,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 3030,
+            "Word": "Rudolf"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3270,
+            "Word": "had"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3510,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3830,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 3910,
+            "OffsetEndMs": 4310,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He did not like it because his friends laughed at him your nose is funny rudolph it was Christmas Eve father Christmas was on his way to give presents to children rudolph and his friends helped father Christmas let's go the weather was bad father Christmas could not find his way oh no where am I help rudolph's nose was bright father Christmas could see his way rudolph is that you?",
+        "SliceSentence": "He did not like it because his friends laughed at him your nose is funny rudolph it was Christmas Eve father Christmas was on his way to give presents to children rudolph and his friends helped father Christmas let's go the weather was bad father Christmas could not find his way oh no where am I help rudolph's nose was bright father Christmas could see his way rudolph is that you ?",
+        "WrittenText": "",
+        "StartMs": 10750,
+        "EndMs": 58070,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 72,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 470,
+            "Word": "did"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 740,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1085,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1450,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1895,
+            "Word": "because"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2180,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2530,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "laughed"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3695,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 4000,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 5340,
+            "OffsetEndMs": 5740,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 5910,
+            "OffsetEndMs": 6310,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 6360,
+            "OffsetEndMs": 6710,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 6710,
+            "OffsetEndMs": 7060,
+            "Word": "funny"
+          },
+          {
+            "OffsetStartMs": 7230,
+            "OffsetEndMs": 8230,
+            "Word": "rudolph"
+          },
+          {
+            "OffsetStartMs": 10380,
+            "OffsetEndMs": 10700,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 10700,
+            "OffsetEndMs": 10970,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 10970,
+            "OffsetEndMs": 11320,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 11490,
+            "OffsetEndMs": 11890,
+            "Word": "Eve"
+          },
+          {
+            "OffsetStartMs": 13140,
+            "OffsetEndMs": 13540,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 13710,
+            "OffsetEndMs": 14110,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 14700,
+            "OffsetEndMs": 15020,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 15020,
+            "OffsetEndMs": 15290,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 15290,
+            "OffsetEndMs": 15590,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 15590,
+            "OffsetEndMs": 15920,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 15920,
+            "OffsetEndMs": 16175,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 16175,
+            "OffsetEndMs": 16415,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 16415,
+            "OffsetEndMs": 16780,
+            "Word": "presents"
+          },
+          {
+            "OffsetStartMs": 17160,
+            "OffsetEndMs": 17465,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 17465,
+            "OffsetEndMs": 17770,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 19260,
+            "OffsetEndMs": 20000,
+            "Word": "rudolph"
+          },
+          {
+            "OffsetStartMs": 20000,
+            "OffsetEndMs": 20180,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 20180,
+            "OffsetEndMs": 20435,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 20435,
+            "OffsetEndMs": 20770,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 21180,
+            "OffsetEndMs": 21580,
+            "Word": "helped"
+          },
+          {
+            "OffsetStartMs": 21780,
+            "OffsetEndMs": 22180,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 22290,
+            "OffsetEndMs": 22690,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 24480,
+            "OffsetEndMs": 25040,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 25040,
+            "OffsetEndMs": 25330,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 27000,
+            "OffsetEndMs": 27335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 27335,
+            "OffsetEndMs": 27670,
+            "Word": "weather"
+          },
+          {
+            "OffsetStartMs": 27930,
+            "OffsetEndMs": 28250,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 28250,
+            "OffsetEndMs": 28570,
+            "Word": "bad"
+          },
+          {
+            "OffsetStartMs": 29460,
+            "OffsetEndMs": 29860,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 30000,
+            "OffsetEndMs": 30400,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 30840,
+            "OffsetEndMs": 31235,
+            "Word": "could"
+          },
+          {
+            "OffsetStartMs": 31235,
+            "OffsetEndMs": 31610,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 31610,
+            "OffsetEndMs": 31970,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 31970,
+            "OffsetEndMs": 32300,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 32300,
+            "OffsetEndMs": 32650,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 33630,
+            "OffsetEndMs": 34030,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 34230,
+            "OffsetEndMs": 34630,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 35340,
+            "OffsetEndMs": 35660,
+            "Word": "where"
+          },
+          {
+            "OffsetStartMs": 35660,
+            "OffsetEndMs": 35900,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 35900,
+            "OffsetEndMs": 36220,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 36750,
+            "OffsetEndMs": 37150,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 38550,
+            "OffsetEndMs": 39380,
+            "Word": "rudolph's"
+          },
+          {
+            "OffsetStartMs": 39380,
+            "OffsetEndMs": 39670,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 39840,
+            "OffsetEndMs": 40205,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 40205,
+            "OffsetEndMs": 40570,
+            "Word": "bright"
+          },
+          {
+            "OffsetStartMs": 41550,
+            "OffsetEndMs": 41950,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 42120,
+            "OffsetEndMs": 42520,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 42930,
+            "OffsetEndMs": 43280,
+            "Word": "could"
+          },
+          {
+            "OffsetStartMs": 43280,
+            "OffsetEndMs": 43595,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 43595,
+            "OffsetEndMs": 43925,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 43925,
+            "OffsetEndMs": 44290,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 45570,
+            "OffsetEndMs": 46385,
+            "Word": "rudolph"
+          },
+          {
+            "OffsetStartMs": 46385,
+            "OffsetEndMs": 46685,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 46685,
+            "OffsetEndMs": 46970,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 46970,
+            "OffsetEndMs": 47320,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 46970,
+            "OffsetEndMs": 47320,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Your nose is so bright rudolph took father Christmas.",
+        "SliceSentence": "Your nose is so bright rudolph took father Christmas .",
+        "WrittenText": "",
+        "StartMs": 58630,
+        "EndMs": 65150,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Your"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1205,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1505,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1900,
+            "Word": "bright"
+          },
+          {
+            "OffsetStartMs": 4470,
+            "OffsetEndMs": 5330,
+            "Word": "rudolph"
+          },
+          {
+            "OffsetStartMs": 5330,
+            "OffsetEndMs": 5645,
+            "Word": "took"
+          },
+          {
+            "OffsetStartMs": 5645,
+            "OffsetEndMs": 5980,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6520,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "To the children,",
+        "SliceSentence": "To the children ,",
+        "WrittenText": "",
+        "StartMs": 65520,
+        "EndMs": 66260,
+        "SpeechSpeed": 20.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 300,
+            "Word": "To"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 465,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 740,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 740,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " merry Christmas.",
+        "SliceSentence": "merry Christmas .",
+        "WrittenText": "",
+        "StartMs": 67570,
+        "EndMs": 68930,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1010,
+            "Word": "merry"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1360,
+            "Word": "Christmas"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Rudolph was happy.",
+        "SliceSentence": "Rudolph was happy .",
+        "WrittenText": "",
+        "StartMs": 70330,
+        "EndMs": 71750,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 830,
+            "Word": "Rudolph"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1085,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1420,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He loved his big red nose.",
+        "SliceSentence": "He loved his big red nose .",
+        "WrittenText": "",
+        "StartMs": 72730,
+        "EndMs": 74900,
+        "SpeechSpeed": 12,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "loved"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1175,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1475,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1805,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2170,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " His friends loved it too.",
+        "SliceSentence": "His friends loved it too .",
+        "WrittenText": "",
+        "StartMs": 75790,
+        "EndMs": 77780,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "His"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1325,
+            "Word": "loved"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1640,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1990,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You have a great nose,",
+        "SliceSentence": "You have a great nose ,",
+        "WrittenText": "",
+        "StartMs": 78970,
+        "EndMs": 80960,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 815,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1145,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "nose"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " rudolph.",
+        "SliceSentence": "rudolph .",
+        "WrittenText": "",
+        "StartMs": 81100,
+        "EndMs": 82040,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 940,
+            "Word": "rudolph"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "RequestId": "211e5949-9b98-4dd3-94fa-0f839cdb71a4",
+  "Data": {
+    "TaskId": 16292523032,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 90.348875,
+    "Result": "Tomorrow.It is raining, but little monkey does not have a house. He sleeps in a tree. I need a house. He thinks I'm going to build one tomorrow.The next day is sunday. It's sunday. Today he thinks I'm not going to work. On the third day, he finds a swing. I'm going to play on it today. He says to his friend, little rabbit. Little monkey plays every day on the sixth day it is raining again. Oh no little monkey cries. I'm going to build my house tomorrow. You should build your house. Now, says little rabbit. Don't wait until tomorrow.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Tomorrow.",
+        "SliceSentence": "Tomorrow .",
+        "WrittenText": "",
+        "StartMs": 1220,
+        "EndMs": 1960,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Tomorrow"
+          },
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It is raining,",
+        "SliceSentence": "It is raining ,",
+        "WrittenText": "",
+        "StartMs": 4260,
+        "EndMs": 10520,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 5410,
+            "OffsetEndMs": 5715,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 5715,
+            "OffsetEndMs": 5940,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6260,
+            "Word": "raining"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6260,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but little monkey does not have a house.",
+        "SliceSentence": "but little monkey does not have a house .",
+        "WrittenText": "",
+        "StartMs": 11110,
+        "EndMs": 13940,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 725,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1120,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2135,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2390,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2555,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2830,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He sleeps in a tree.",
+        "SliceSentence": "He sleeps in a tree .",
+        "WrittenText": "",
+        "StartMs": 15880,
+        "EndMs": 17660,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 980,
+            "Word": "sleeps"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1235,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1460,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1780,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I need a house.",
+        "SliceSentence": "I need a house .",
+        "WrittenText": "",
+        "StartMs": 19060,
+        "EndMs": 20180,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 845,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1120,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He thinks I'm going to build one tomorrow.",
+        "SliceSentence": "He thinks I'm going to build one tomorrow .",
+        "WrittenText": "",
+        "StartMs": 20860,
+        "EndMs": 24440,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "thinks"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 2060,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2270,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2510,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2750,
+            "Word": "build"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3130,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "tomorrow"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The next day is sunday.",
+        "SliceSentence": "The next day is sunday .",
+        "WrittenText": "",
+        "StartMs": 27160,
+        "EndMs": 30030,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1365,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1365,
+            "OffsetEndMs": 1650,
+            "Word": "next"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2030,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2535,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2535,
+            "OffsetEndMs": 2870,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 2535,
+            "OffsetEndMs": 2870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's sunday.",
+        "SliceSentence": "It's sunday .",
+        "WrittenText": "",
+        "StartMs": 32300,
+        "EndMs": 33060,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Today he thinks I'm not going to work.",
+        "SliceSentence": "Today he thinks I'm not going to work .",
+        "WrittenText": "",
+        "StartMs": 33410,
+        "EndMs": 37200,
+        "SpeechSpeed": 10,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Today"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1085,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1420,
+            "Word": "thinks"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2840,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 2975,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3245,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3500,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3500,
+            "OffsetEndMs": 3790,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 3500,
+            "OffsetEndMs": 3790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On the third day,",
+        "SliceSentence": "On the third day ,",
+        "WrittenText": "",
+        "StartMs": 41570,
+        "EndMs": 42810,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 545,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "third"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he finds a swing.",
+        "SliceSentence": "he finds a swing .",
+        "WrittenText": "",
+        "StartMs": 43130,
+        "EndMs": 44640,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "finds"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1145,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "swing"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to play on it today.",
+        "SliceSentence": "I'm going to play on it today .",
+        "WrittenText": "",
+        "StartMs": 49400,
+        "EndMs": 51480,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 680,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 980,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1220,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1415,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1685,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2080,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He says to his friend,",
+        "SliceSentence": "He says to his friend ,",
+        "WrittenText": "",
+        "StartMs": 51740,
+        "EndMs": 53190,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1115,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little rabbit.",
+        "SliceSentence": "little rabbit .",
+        "WrittenText": "",
+        "StartMs": 53360,
+        "EndMs": 54120,
+        "SpeechSpeed": 18.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little monkey plays every day on the sixth day it is raining again.",
+        "SliceSentence": "Little monkey plays every day on the sixth day it is raining again .",
+        "WrittenText": "",
+        "StartMs": 57110,
+        "EndMs": 67500,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "plays"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 7380,
+            "OffsetEndMs": 7700,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 7700,
+            "OffsetEndMs": 7910,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7910,
+            "OffsetEndMs": 8200,
+            "Word": "sixth"
+          },
+          {
+            "OffsetStartMs": 8220,
+            "OffsetEndMs": 8620,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 9030,
+            "OffsetEndMs": 9320,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 9320,
+            "OffsetEndMs": 9545,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 9545,
+            "OffsetEndMs": 9880,
+            "Word": "raining"
+          },
+          {
+            "OffsetStartMs": 9990,
+            "OffsetEndMs": 10390,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 9990,
+            "OffsetEndMs": 10390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no little monkey cries.",
+        "SliceSentence": "Oh no little monkey cries .",
+        "WrittenText": "",
+        "StartMs": 69110,
+        "EndMs": 72150,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2120,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2500,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3040,
+            "Word": "cries"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to build my house tomorrow.",
+        "SliceSentence": "I'm going to build my house tomorrow .",
+        "WrittenText": "",
+        "StartMs": 73430,
+        "EndMs": 75930,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 680,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 935,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1175,
+            "Word": "build"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1445,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1750,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "tomorrow"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You should build your house.",
+        "SliceSentence": "You should build your house .",
+        "WrittenText": "",
+        "StartMs": 76820,
+        "EndMs": 78720,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "build"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1535,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1900,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now,",
+        "SliceSentence": "Now ,",
+        "WrittenText": "",
+        "StartMs": 78920,
+        "EndMs": 79320,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says little rabbit.",
+        "SliceSentence": "says little rabbit .",
+        "WrittenText": "",
+        "StartMs": 80390,
+        "EndMs": 81600,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't wait until tomorrow.",
+        "SliceSentence": "Don't wait until tomorrow .",
+        "WrittenText": "",
+        "StartMs": 82640,
+        "EndMs": 84780,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 970,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "until"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "tomorrow"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

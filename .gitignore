@@ -15,3 +15,6 @@ Thumbs.db
 # 密钥（统一配置在根目录 config.js，不提交）
 config.js
 cloudfunctions/*/config.js
+
+# Local generated previews and diagnostic screenshots
+output/

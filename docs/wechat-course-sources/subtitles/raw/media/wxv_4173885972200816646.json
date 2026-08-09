@@ -1,0 +1,565 @@
+{
+  "RequestId": "faf58ba5-a03c-4e4e-a04d-6305390d6cf1",
+  "Data": {
+    "TaskId": 16292501793,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 44.907375,
+    "Result": "Panda Tao Tao a panda mom has a baby in a panda center. People take care of him. They call him Tao Tao. Tao Tao is one year old. He loves his mom. Wow. Tao Tao is now a big strong panda. Where is Tao Tao? He is up in a tree. Tao Tao now lives in the wild. That is amazing.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Panda Tao Tao a panda mom has a baby in a panda center.",
+        "SliceSentence": "Panda Tao Tao a panda mom has a baby in a panda center .",
+        "WrittenText": "",
+        "StartMs": 240,
+        "EndMs": 8840,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Panda"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1515,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1910,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 4470,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4470,
+            "OffsetEndMs": 4790,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5420,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 5830,
+            "OffsetEndMs": 6230,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 6250,
+            "OffsetEndMs": 6555,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6555,
+            "OffsetEndMs": 6860,
+            "Word": "baby"
+          },
+          {
+            "OffsetStartMs": 7090,
+            "OffsetEndMs": 7455,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7455,
+            "OffsetEndMs": 7710,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 8000,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 8200,
+            "OffsetEndMs": 8600,
+            "Word": "center"
+          },
+          {
+            "OffsetStartMs": 8200,
+            "OffsetEndMs": 8600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People take care of him.",
+        "SliceSentence": "People take care of him .",
+        "WrittenText": "",
+        "StartMs": 10360,
+        "EndMs": 12500,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "care"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1805,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2140,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They call him Tao Tao.",
+        "SliceSentence": "They call him Tao Tao .",
+        "WrittenText": "",
+        "StartMs": 13420,
+        "EndMs": 15320,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "call"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 970,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1520,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tao Tao is one year old.",
+        "SliceSentence": "Tao Tao is one year old .",
+        "WrittenText": "",
+        "StartMs": 16600,
+        "EndMs": 19250,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 790,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He loves his mom.",
+        "SliceSentence": "He loves his mom .",
+        "WrittenText": "",
+        "StartMs": 20440,
+        "EndMs": 22130,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "loves"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1325,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1690,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wow.",
+        "SliceSentence": "Wow .",
+        "WrittenText": "",
+        "StartMs": 23530,
+        "EndMs": 23930,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wow"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tao Tao is now a big strong panda.",
+        "SliceSentence": "Tao Tao is now a big strong panda .",
+        "WrittenText": "",
+        "StartMs": 24430,
+        "EndMs": 28250,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1415,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1775,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2165,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2560,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "strong"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "panda"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where is Tao Tao?",
+        "SliceSentence": "Where is Tao Tao ?",
+        "WrittenText": "",
+        "StartMs": 29920,
+        "EndMs": 31670,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Where"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1355,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He is up in a tree.",
+        "SliceSentence": "He is up in a tree .",
+        "WrittenText": "",
+        "StartMs": 32830,
+        "EndMs": 35150,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1180,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1610,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1955,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2320,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tao Tao now lives in the wild.",
+        "SliceSentence": "Tao Tao now lives in the wild .",
+        "WrittenText": "",
+        "StartMs": 36580,
+        "EndMs": 39650,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "Tao"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2495,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2750,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": "wild"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That is amazing.",
+        "SliceSentence": "That is amazing .",
+        "WrittenText": "",
+        "StartMs": 41110,
+        "EndMs": 42620,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "That"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "amazing"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

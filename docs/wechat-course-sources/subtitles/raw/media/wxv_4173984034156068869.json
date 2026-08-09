@@ -1,0 +1,416 @@
+{
+  "RequestId": "3f09a089-f90f-458a-8b23-d02a3da1229d",
+  "Data": {
+    "TaskId": 16292510078,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 66.896688,
+    "Result": "I I kid o o cross.This is ollie. He's a kid. He's on his way to school, but he's a red light. Ollie stops, he's following the rule. Red means stop and green means cross, and staying safe is cool.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I I kid o o cross.",
+        "SliceSentence": "I I kid o o cross .",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 33500,
+        "SpeechSpeed": 0.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6470,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 7270,
+            "OffsetEndMs": 7670,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 14980,
+            "OffsetEndMs": 15380,
+            "Word": "kid"
+          },
+          {
+            "OffsetStartMs": 23950,
+            "OffsetEndMs": 24350,
+            "Word": "o"
+          },
+          {
+            "OffsetStartMs": 25210,
+            "OffsetEndMs": 25610,
+            "Word": "o"
+          },
+          {
+            "OffsetStartMs": 32980,
+            "OffsetEndMs": 33380,
+            "Word": "cross"
+          },
+          {
+            "OffsetStartMs": 32980,
+            "OffsetEndMs": 33380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "This is ollie.",
+        "SliceSentence": "This is ollie .",
+        "WrittenText": "",
+        "StartMs": 36680,
+        "EndMs": 40960,
+        "SpeechSpeed": 3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3290,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 4280,
+            "Word": "ollie"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 4280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He's a kid.",
+        "SliceSentence": "He's a kid .",
+        "WrittenText": "",
+        "StartMs": 41340,
+        "EndMs": 42820,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "He's"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1000,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "kid"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He's on his way to school,",
+        "SliceSentence": "He's on his way to school ,",
+        "WrittenText": "",
+        "StartMs": 43410,
+        "EndMs": 46510,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "He's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "way"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but he's a red light.",
+        "SliceSentence": "but he's a red light .",
+        "WrittenText": "",
+        "StartMs": 47040,
+        "EndMs": 49300,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 1070,
+            "Word": "he's"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1390,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1865,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2260,
+            "Word": "light"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ollie stops,",
+        "SliceSentence": "Ollie stops ,",
+        "WrittenText": "",
+        "StartMs": 49710,
+        "EndMs": 51280,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Ollie"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "stops"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he's following the rule.",
+        "SliceSentence": "he's following the rule .",
+        "WrittenText": "",
+        "StartMs": 51660,
+        "EndMs": 54880,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "he's"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "following"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "rule"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Red means stop and green means cross,",
+        "SliceSentence": "Red means stop and green means cross ,",
+        "WrittenText": "",
+        "StartMs": 55740,
+        "EndMs": 59770,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Red"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "means"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "means"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "cross"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " and staying safe is cool.",
+        "SliceSentence": "and staying safe is cool .",
+        "WrittenText": "",
+        "StartMs": 60240,
+        "EndMs": 63220,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "staying"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "cool"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

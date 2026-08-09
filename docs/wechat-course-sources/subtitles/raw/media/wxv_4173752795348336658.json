@@ -1,0 +1,593 @@
+{
+  "RequestId": "05838fb3-6c2e-49b2-9797-9a2766fc0181",
+  "Data": {
+    "TaskId": 16292470839,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 63.018938,
+    "Result": "Min min's haircut. Look at your hair min min. It's too long but I like it. Min min. I can't see your eyes. Now sit on this chair please.Look, do you like your haircut? Oh, I have short hair. I like my haircut. Mom, you look great. Thanks, mom.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Min min's haircut.",
+        "SliceSentence": "Min min's haircut .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2210,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 825,
+            "Word": "Min"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1470,
+            "Word": "min's"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 2210,
+            "Word": "haircut"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 2210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at your hair min min.",
+        "SliceSentence": "Look at your hair min min .",
+        "WrittenText": "",
+        "StartMs": 7930,
+        "EndMs": 10790,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1265,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1660,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2495,
+            "Word": "min"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2860,
+            "Word": "min"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's too long but I like it.",
+        "SliceSentence": "It's too long but I like it .",
+        "WrittenText": "",
+        "StartMs": 11380,
+        "EndMs": 15680,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3125,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 3125,
+            "OffsetEndMs": 3455,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3455,
+            "OffsetEndMs": 3850,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4300,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Min min.",
+        "SliceSentence": "Min min .",
+        "WrittenText": "",
+        "StartMs": 17710,
+        "EndMs": 18380,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Min"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "min"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't see your eyes.",
+        "SliceSentence": "I can't see your eyes .",
+        "WrittenText": "",
+        "StartMs": 18790,
+        "EndMs": 21050,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 1085,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1420,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1880,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2260,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now sit on this chair please.",
+        "SliceSentence": "Now sit on this chair please .",
+        "WrittenText": "",
+        "StartMs": 22570,
+        "EndMs": 25340,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "sit"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1775,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "chair"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 33540,
+        "EndMs": 34250,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " do you like your haircut?",
+        "SliceSentence": "do you like your haircut ?",
+        "WrittenText": "",
+        "StartMs": 35080,
+        "EndMs": 37250,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1415,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 2170,
+            "Word": "haircut"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 2170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 38350,
+        "EndMs": 38750,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have short hair.",
+        "SliceSentence": "I have short hair .",
+        "WrittenText": "",
+        "StartMs": 39460,
+        "EndMs": 41270,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1180,
+            "Word": "short"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like my haircut.",
+        "SliceSentence": "I like my haircut .",
+        "WrittenText": "",
+        "StartMs": 42520,
+        "EndMs": 44570,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1355,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 2050,
+            "Word": "haircut"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mom,",
+        "SliceSentence": "Mom ,",
+        "WrittenText": "",
+        "StartMs": 44620,
+        "EndMs": 45020,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mom"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you look great.",
+        "SliceSentence": "you look great .",
+        "WrittenText": "",
+        "StartMs": 46030,
+        "EndMs": 47690,
+        "SpeechSpeed": 9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thanks,",
+        "SliceSentence": "Thanks ,",
+        "WrittenText": "",
+        "StartMs": 49060,
+        "EndMs": 49460,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thanks"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mom.",
+        "SliceSentence": "mom .",
+        "WrittenText": "",
+        "StartMs": 49750,
+        "EndMs": 50150,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

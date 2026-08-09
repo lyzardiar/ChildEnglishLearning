@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0OTg5",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:07,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 7000
+      },
+      "text": " Unit 2 Wash my hands.",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.707138,
+          "t_dtw": -1
+        },
+        {
+          "text": " Unit",
+          "timestamps": {
+            "from": "00:00:01,530",
+            "to": "00:00:01,710"
+          },
+          "offsets": {
+            "from": 1530,
+            "to": 1710
+          },
+          "id": 11801,
+          "p": 0.863855,
+          "t_dtw": -1
+        },
+        {
+          "text": " 2",
+          "timestamps": {
+            "from": "00:00:01,710",
+            "to": "00:00:02,470"
+          },
+          "offsets": {
+            "from": 1710,
+            "to": 2470
+          },
+          "id": 362,
+          "p": 0.775374,
+          "t_dtw": -1
+        },
+        {
+          "text": " Wash",
+          "timestamps": {
+            "from": "00:00:03,670",
+            "to": "00:00:04,120"
+          },
+          "offsets": {
+            "from": 3670,
+            "to": 4120
+          },
+          "id": 22892,
+          "p": 0.50147,
+          "t_dtw": -1
+        },
+        {
+          "text": " my",
+          "timestamps": {
+            "from": "00:00:04,170",
+            "to": "00:00:04,710"
+          },
+          "offsets": {
+            "from": 4170,
+            "to": 4710
+          },
+          "id": 616,
+          "p": 0.994177,
+          "t_dtw": -1
+        },
+        {
+          "text": " hands",
+          "timestamps": {
+            "from": "00:00:04,710",
+            "to": "00:00:06,130"
+          },
+          "offsets": {
+            "from": 4710,
+            "to": 6130
+          },
+          "id": 2832,
+          "p": 0.998007,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:06,130",
+            "to": "00:00:06,880"
+          },
+          "offsets": {
+            "from": 6130,
+            "to": 6880
+          },
+          "id": 13,
+          "p": 0.882532,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_350]",
+          "timestamps": {
+            "from": "00:00:07,000",
+            "to": "00:00:07,000"
+          },
+          "offsets": {
+            "from": 7000,
+            "to": 7000
+          },
+          "id": 50713,
+          "p": 0.0598433,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,000",
+        "to": "00:00:14,000"
+      },
+      "offsets": {
+        "from": 7000,
+        "to": 14000
+      },
+      "text": " Brush my teeth.",
+      "tokens": [
+        {
+          "text": " Brush",
+          "timestamps": {
+            "from": "00:00:08,540",
+            "to": "00:00:09,330"
+          },
+          "offsets": {
+            "from": 8540,
+            "to": 9330
+          },
+          "id": 39846,
+          "p": 0.737202,
+          "t_dtw": -1
+        },
+        {
+          "text": " my",
+          "timestamps": {
+            "from": "00:00:09,330",
+            "to": "00:00:09,490"
+          },
+          "offsets": {
+            "from": 9330,
+            "to": 9490
+          },
+          "id": 616,
+          "p": 0.999462,
+          "t_dtw": -1
+        },
+        {
+          "text": " teeth",
+          "timestamps": {
+            "from": "00:00:10,670",
+            "to": "00:00:12,050"
+          },
+          "offsets": {
+            "from": 10670,
+            "to": 12050
+          },
+          "id": 9941,
+          "p": 0.998664,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:12,920",
+            "to": "00:00:13,990"
+          },
+          "offsets": {
+            "from": 12920,
+            "to": 13990
+          },
+          "id": 13,
+          "p": 0.996506,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_700]",
+          "timestamps": {
+            "from": "00:00:14,000",
+            "to": "00:00:14,000"
+          },
+          "offsets": {
+            "from": 14000,
+            "to": 14000
+          },
+          "id": 51063,
+          "p": 0.68769,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:14,000",
+        "to": "00:00:21,000"
+      },
+      "offsets": {
+        "from": 14000,
+        "to": 21000
+      },
+      "text": " Wash my face.",
+      "tokens": [
+        {
+          "text": " Wash",
+          "timestamps": {
+            "from": "00:00:15,530",
+            "to": "00:00:16,030"
+          },
+          "offsets": {
+            "from": 15530,
+            "to": 16030
+          },
+          "id": 22892,
+          "p": 0.955423,
+          "t_dtw": -1
+        },
+        {
+          "text": " my",
+          "timestamps": {
+            "from": "00:00:16,150",
+            "to": "00:00:16,490"
+          },
+          "offsets": {
+            "from": 16150,
+            "to": 16490
+          },
+          "id": 616,
+          "p": 0.99955,
+          "t_dtw": -1
+        },
+        {
+          "text": " face",
+          "timestamps": {
+            "from": "00:00:17,670",
+            "to": "00:00:19,030"
+          },
+          "offsets": {
+            "from": 17670,
+            "to": 19030
+          },
+          "id": 1986,
+          "p": 0.99979,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:19,920",
+            "to": "00:00:20,990"
+          },
+          "offsets": {
+            "from": 19920,
+            "to": 20990
+          },
+          "id": 13,
+          "p": 0.9981,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1050]",
+          "timestamps": {
+            "from": "00:00:21,000",
+            "to": "00:00:21,000"
+          },
+          "offsets": {
+            "from": 21000,
+            "to": 21000
+          },
+          "id": 51413,
+          "p": 0.244864,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

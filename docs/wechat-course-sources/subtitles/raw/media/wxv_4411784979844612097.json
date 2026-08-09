@@ -1,0 +1,144 @@
+{
+  "RequestId": "899d54e7-ab94-4516-8b17-89807efb84f0",
+  "Data": {
+    "TaskId": 16292398762,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 20.990938,
+    "Result": "F.1234 my father has four fish 1234. My father has four fish.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "F.",
+        "SliceSentence": "F .",
+        "WrittenText": "",
+        "StartMs": 500,
+        "EndMs": 940,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "1234 my father has four fish 1234.",
+        "SliceSentence": "1234 my father has four fish 1234 .",
+        "WrittenText": "",
+        "StartMs": 2540,
+        "EndMs": 16000,
+        "SpeechSpeed": 2.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 4900,
+            "OffsetEndMs": 6350,
+            "Word": "1234"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7215,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 7215,
+            "OffsetEndMs": 7520,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 7660,
+            "OffsetEndMs": 8025,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 8025,
+            "OffsetEndMs": 8325,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 8325,
+            "OffsetEndMs": 8660,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 11950,
+            "OffsetEndMs": 13460,
+            "Word": "1234"
+          },
+          {
+            "OffsetStartMs": 11950,
+            "OffsetEndMs": 13460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My father has four fish.",
+        "SliceSentence": "My father has four fish .",
+        "WrittenText": "",
+        "StartMs": 16650,
+        "EndMs": 18520,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1205,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1520,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

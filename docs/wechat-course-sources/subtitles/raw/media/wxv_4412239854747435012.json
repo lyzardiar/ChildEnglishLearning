@@ -1,0 +1,1103 @@
+{
+  "RequestId": "e589a7d7-ac26-42cd-9fd1-36b2bbd686be",
+  "Data": {
+    "TaskId": 16292436938,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 76.022125,
+    "Result": "Emily's story in the jungle Emily and Charlie are in the jungle. Where's Leon? I don't know, Emily. Look, those are Leon's footprints. Chameleons can run. Come on. Uh oh, can chameleons swim? Yes, but where's Leon? Can chameleons fly? No, they don't have wings.But they can climb. Can you climb? Yes I can. Comedians can change color.Yes, but where's Le hmm? I can't see Leon. Wait, what's that noise? Look, he's here. The bananas are green. Leon is green too. Wake up, Leon.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Emily's story in the jungle Emily and Charlie are in the jungle.",
+        "SliceSentence": "Emily's story in the jungle Emily and Charlie are in the jungle .",
+        "WrittenText": "",
+        "StartMs": 240,
+        "EndMs": 8990,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 1200,
+            "Word": "Emily's"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1520,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2590,
+            "OffsetEndMs": 2970,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3255,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3255,
+            "OffsetEndMs": 3920,
+            "Word": "jungle"
+          },
+          {
+            "OffsetStartMs": 4870,
+            "OffsetEndMs": 5745,
+            "Word": "Emily"
+          },
+          {
+            "OffsetStartMs": 5745,
+            "OffsetEndMs": 6140,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 6160,
+            "OffsetEndMs": 7010,
+            "Word": "Charlie"
+          },
+          {
+            "OffsetStartMs": 7090,
+            "OffsetEndMs": 7455,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 7455,
+            "OffsetEndMs": 7800,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7800,
+            "OffsetEndMs": 8070,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8070,
+            "OffsetEndMs": 8750,
+            "Word": "jungle"
+          },
+          {
+            "OffsetStartMs": 8070,
+            "OffsetEndMs": 8750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where's Leon?",
+        "SliceSentence": "Where's Leon ?",
+        "WrittenText": "",
+        "StartMs": 11290,
+        "EndMs": 12410,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 1120,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 1120,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't know,",
+        "SliceSentence": "I don't know ,",
+        "WrittenText": "",
+        "StartMs": 13390,
+        "EndMs": 14330,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 940,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Emily.",
+        "SliceSentence": "Emily .",
+        "WrittenText": "",
+        "StartMs": 14380,
+        "EndMs": 15110,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Emily"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 17710,
+        "EndMs": 18110,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " those are Leon's footprints.",
+        "SliceSentence": "those are Leon's footprints .",
+        "WrittenText": "",
+        "StartMs": 18640,
+        "EndMs": 20840,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "those"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1360,
+            "Word": "Leon's"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2200,
+            "Word": "footprints"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Chameleons can run.",
+        "SliceSentence": "Chameleons can run .",
+        "WrittenText": "",
+        "StartMs": 21550,
+        "EndMs": 23030,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 905,
+            "Word": "Chameleons"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1160,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come on.",
+        "SliceSentence": "Come on .",
+        "WrittenText": "",
+        "StartMs": 23260,
+        "EndMs": 23840,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Uh oh,",
+        "SliceSentence": "Uh oh ,",
+        "WrittenText": "",
+        "StartMs": 25630,
+        "EndMs": 26300,
+        "SpeechSpeed": 9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Uh"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " can chameleons swim?",
+        "SliceSentence": "can chameleons swim ?",
+        "WrittenText": "",
+        "StartMs": 26680,
+        "EndMs": 28520,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 1330,
+            "Word": "chameleons"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 29770,
+        "EndMs": 30170,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but where's Leon?",
+        "SliceSentence": "but where's Leon ?",
+        "WrittenText": "",
+        "StartMs": 30880,
+        "EndMs": 32360,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 875,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1480,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1480,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can chameleons fly?",
+        "SliceSentence": "Can chameleons fly ?",
+        "WrittenText": "",
+        "StartMs": 33610,
+        "EndMs": 35270,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 1240,
+            "Word": "chameleons"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 36280,
+        "EndMs": 36680,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they don't have wings.",
+        "SliceSentence": "they don't have wings .",
+        "WrittenText": "",
+        "StartMs": 37180,
+        "EndMs": 38390,
+        "SpeechSpeed": 18.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 620,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 845,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "wings"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "But they can climb.",
+        "SliceSentence": "But they can climb .",
+        "WrittenText": "",
+        "StartMs": 39580,
+        "EndMs": 40830,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 630,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 900,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "climb"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you climb?",
+        "SliceSentence": "Can you climb ?",
+        "WrittenText": "",
+        "StartMs": 41300,
+        "EndMs": 42270,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "climb"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes I can.",
+        "SliceSentence": "Yes I can .",
+        "WrittenText": "",
+        "StartMs": 43130,
+        "EndMs": 44490,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1025,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1360,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Comedians can change color.",
+        "SliceSentence": "Comedians can change color .",
+        "WrittenText": "",
+        "StartMs": 46070,
+        "EndMs": 48180,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1025,
+            "Word": "Comedians"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1355,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "change"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "color"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 49840,
+        "EndMs": 50130,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but where's Le hmm?",
+        "SliceSentence": "but where's Le hmm ?",
+        "WrittenText": "",
+        "StartMs": 50720,
+        "EndMs": 55950,
+        "SpeechSpeed": 3.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 800,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1090,
+            "Word": "Le"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "hmm"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't see Leon.",
+        "SliceSentence": "I can't see Leon .",
+        "WrittenText": "",
+        "StartMs": 56870,
+        "EndMs": 58590,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 890,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1145,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1720,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wait,",
+        "SliceSentence": "Wait ,",
+        "WrittenText": "",
+        "StartMs": 59450,
+        "EndMs": 59850,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wait"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's that noise?",
+        "SliceSentence": "what's that noise ?",
+        "WrittenText": "",
+        "StartMs": 60380,
+        "EndMs": 61320,
+        "SpeechSpeed": 19.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 605,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "noise"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 65420,
+        "EndMs": 65820,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he's here.",
+        "SliceSentence": "he's here .",
+        "WrittenText": "",
+        "StartMs": 65870,
+        "EndMs": 66540,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "he's"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 670,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The bananas are green.",
+        "SliceSentence": "The bananas are green .",
+        "WrittenText": "",
+        "StartMs": 66980,
+        "EndMs": 68970,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 1120,
+            "Word": "bananas"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1625,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1990,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leon is green too.",
+        "SliceSentence": "Leon is green too .",
+        "WrittenText": "",
+        "StartMs": 69500,
+        "EndMs": 71520,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1340,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1655,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wake up,",
+        "SliceSentence": "Wake up ,",
+        "WrittenText": "",
+        "StartMs": 71870,
+        "EndMs": 72570,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Wake"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leon.",
+        "SliceSentence": "Leon .",
+        "WrittenText": "",
+        "StartMs": 72800,
+        "EndMs": 73440,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 640,
+            "Word": "Leon"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "RequestId": "3b9fa3ac-0b02-487a-8508-51c1dc86abd3",
+  "Data": {
+    "TaskId": 16292507005,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 43.003375,
+    "Result": "U u usually in summer I usually go to the beach, I usually a spade to dig in the sand, my sister looks cute in her yellow swimsuit and Ice cubes just melt in her hand.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "U u usually in summer I usually go to the beach,",
+        "SliceSentence": "U u usually in summer I usually go to the beach ,",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 26010,
+        "SpeechSpeed": 1.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 6130,
+            "OffsetEndMs": 6530,
+            "Word": "U"
+          },
+          {
+            "OffsetStartMs": 7180,
+            "OffsetEndMs": 7580,
+            "Word": "u"
+          },
+          {
+            "OffsetStartMs": 15070,
+            "OffsetEndMs": 15470,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 21580,
+            "OffsetEndMs": 21945,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 21945,
+            "OffsetEndMs": 22310,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 22900,
+            "OffsetEndMs": 23250,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 23250,
+            "OffsetEndMs": 23600,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 24370,
+            "OffsetEndMs": 24770,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 24970,
+            "OffsetEndMs": 25335,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 25335,
+            "OffsetEndMs": 25605,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 25605,
+            "OffsetEndMs": 25910,
+            "Word": "beach"
+          },
+          {
+            "OffsetStartMs": 25605,
+            "OffsetEndMs": 25910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I usually a spade to dig in the sand,",
+        "SliceSentence": "I usually a spade to dig in the sand ,",
+        "WrittenText": "",
+        "StartMs": 26570,
+        "EndMs": 30720,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1840,
+            "Word": "spade"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2765,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3100,
+            "Word": "dig"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3575,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3575,
+            "OffsetEndMs": 3845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4150,
+            "Word": "sand"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4150,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my sister looks cute in her yellow swimsuit and Ice cubes just melt in her hand.",
+        "SliceSentence": "my sister looks cute in her yellow swimsuit and Ice cubes just melt in her hand .",
+        "WrittenText": "",
+        "StartMs": 31340,
+        "EndMs": 39210,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 17,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "cute"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2435,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2735,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 3100,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 4240,
+            "Word": "swimsuit"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5105,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 5105,
+            "OffsetEndMs": 5470,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 5520,
+            "OffsetEndMs": 6170,
+            "Word": "cubes"
+          },
+          {
+            "OffsetStartMs": 6170,
+            "OffsetEndMs": 6455,
+            "Word": "just"
+          },
+          {
+            "OffsetStartMs": 6455,
+            "OffsetEndMs": 6820,
+            "Word": "melt"
+          },
+          {
+            "OffsetStartMs": 6960,
+            "OffsetEndMs": 7295,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7295,
+            "OffsetEndMs": 7550,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 7550,
+            "OffsetEndMs": 7870,
+            "Word": "hand"
+          },
+          {
+            "OffsetStartMs": 7550,
+            "OffsetEndMs": 7870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

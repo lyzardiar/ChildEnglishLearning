@@ -1,0 +1,1247 @@
+{
+  "RequestId": "bd4abeb3-eee5-4de4-b566-3b3b487db1e8",
+  "Data": {
+    "TaskId": 16292434587,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 80.898313,
+    "Result": "Billy's story a secret club. Look Kate, there's a new club. Let's go and see billy. Look, the secret club is in this room.What do you do in the club? I do paper cutting. Is it a paper cutting club? No, it isn't. Is it a lion dance club? No, it isn't. Look, hmm, I have an idea. Do you kick a shuttlecock in the club? No, I don't. Look, here's a bin.What's in it? Is this a drama club? Yes, it is. Come in, I make masks. I put paper cuts on the clothes. Do you like drama? You can join in, right?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Billy's story a secret club.",
+        "SliceSentence": "Billy's story a secret club .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3170,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 1035,
+            "Word": "Billy's"
+          },
+          {
+            "OffsetStartMs": 1035,
+            "OffsetEndMs": 1430,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2100,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2450,
+            "Word": "secret"
+          },
+          {
+            "OffsetStartMs": 2770,
+            "OffsetEndMs": 3170,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 2770,
+            "OffsetEndMs": 3170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look Kate,",
+        "SliceSentence": "Look Kate ,",
+        "WrittenText": "",
+        "StartMs": 7420,
+        "EndMs": 8390,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "Kate"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there's a new club.",
+        "SliceSentence": "there's a new club .",
+        "WrittenText": "",
+        "StartMs": 8980,
+        "EndMs": 10250,
+        "SpeechSpeed": 15,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "there's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 920,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's go and see billy.",
+        "SliceSentence": "Let's go and see billy .",
+        "WrittenText": "",
+        "StartMs": 11620,
+        "EndMs": 13220,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 650,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 890,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1205,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1600,
+            "Word": "billy"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 15220,
+        "EndMs": 15620,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the secret club is in this room.",
+        "SliceSentence": "the secret club is in this room .",
+        "WrittenText": "",
+        "StartMs": 16000,
+        "EndMs": 18530,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "secret"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1655,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1925,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2210,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2530,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What do you do in the club?",
+        "SliceSentence": "What do you do in the club ?",
+        "WrittenText": "",
+        "StartMs": 21060,
+        "EndMs": 23120,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 600,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 855,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1220,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1575,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1770,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2060,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2060,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I do paper cutting.",
+        "SliceSentence": "I do paper cutting .",
+        "WrittenText": "",
+        "StartMs": 24040,
+        "EndMs": 25550,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 725,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1060,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "cutting"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is it a paper cutting club?",
+        "SliceSentence": "Is it a paper cutting club ?",
+        "WrittenText": "",
+        "StartMs": 26680,
+        "EndMs": 28850,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1070,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1360,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1775,
+            "Word": "cutting"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 29890,
+        "EndMs": 30290,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it isn't.",
+        "SliceSentence": "it isn't .",
+        "WrittenText": "",
+        "StartMs": 30640,
+        "EndMs": 31610,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 970,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is it a lion dance club?",
+        "SliceSentence": "Is it a lion dance club ?",
+        "WrittenText": "",
+        "StartMs": 33340,
+        "EndMs": 35510,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 875,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1150,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 36520,
+        "EndMs": 36920,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it isn't.",
+        "SliceSentence": "it isn't .",
+        "WrittenText": "",
+        "StartMs": 37210,
+        "EndMs": 37970,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 760,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 39640,
+        "EndMs": 40040,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hmm,",
+        "SliceSentence": "hmm ,",
+        "WrittenText": "",
+        "StartMs": 41380,
+        "EndMs": 41780,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hmm"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have an idea.",
+        "SliceSentence": "I have an idea .",
+        "WrittenText": "",
+        "StartMs": 42640,
+        "EndMs": 43820,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 920,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1180,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you kick a shuttlecock in the club?",
+        "SliceSentence": "Do you kick a shuttlecock in the club ?",
+        "WrittenText": "",
+        "StartMs": 45520,
+        "EndMs": 47990,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 740,
+            "Word": "kick"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 995,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1715,
+            "Word": "shuttlecock"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 1925,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2150,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2470,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2470,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 48610,
+        "EndMs": 49005,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I don't.",
+        "SliceSentence": "I don't .",
+        "WrittenText": "",
+        "StartMs": 49005,
+        "EndMs": 49940,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 330,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 935,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 935,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 50890,
+        "EndMs": 51290,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a bin.",
+        "SliceSentence": "here's a bin .",
+        "WrittenText": "",
+        "StartMs": 51970,
+        "EndMs": 53000,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 725,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1030,
+            "Word": "bin"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What's in it?",
+        "SliceSentence": "What's in it ?",
+        "WrittenText": "",
+        "StartMs": 53600,
+        "EndMs": 54970,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 900,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1050,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1370,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1370,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is this a drama club?",
+        "SliceSentence": "Is this a drama club ?",
+        "WrittenText": "",
+        "StartMs": 57060,
+        "EndMs": 58870,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 965,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1270,
+            "Word": "drama"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 59910,
+        "EndMs": 60310,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is.",
+        "SliceSentence": "it is .",
+        "WrittenText": "",
+        "StartMs": 60510,
+        "EndMs": 61120,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come in,",
+        "SliceSentence": "Come in ,",
+        "WrittenText": "",
+        "StartMs": 61710,
+        "EndMs": 62380,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I make masks.",
+        "SliceSentence": "I make masks .",
+        "WrittenText": "",
+        "StartMs": 65100,
+        "EndMs": 66580,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 725,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1480,
+            "Word": "masks"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I put paper cuts on the clothes.",
+        "SliceSentence": "I put paper cuts on the clothes .",
+        "WrittenText": "",
+        "StartMs": 67650,
+        "EndMs": 70150,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 710,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "cuts"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1985,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2225,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2500,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like drama?",
+        "SliceSentence": "Do you like drama ?",
+        "WrittenText": "",
+        "StartMs": 72300,
+        "EndMs": 73420,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 785,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "drama"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can join in,",
+        "SliceSentence": "You can join in ,",
+        "WrittenText": "",
+        "StartMs": 74310,
+        "EndMs": 75490,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 530,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 830,
+            "Word": "join"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1180,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1180,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " right?",
+        "SliceSentence": "right ?",
+        "WrittenText": "",
+        "StartMs": 77220,
+        "EndMs": 77620,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

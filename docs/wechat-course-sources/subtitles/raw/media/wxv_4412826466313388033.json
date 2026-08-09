@@ -1,0 +1,504 @@
+{
+  "RequestId": "a0c15d28-371b-436a-8eee-38275c012eda",
+  "Data": {
+    "TaskId": 16292518200,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 37.175188,
+    "Result": "Mr b is having tea with his friend Miss deer. Suddenly he falls into the tea and Miss deer is in tears. Don't worry, says Mr b I can swim in tea. Mr b is having tea with his friend Miss deer. Suddenly he falls into the tea and Miss deer is in tears. Don't worry, says Mr b I can swim minty.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Mr b is having tea with his friend Miss deer.",
+        "SliceSentence": "Mr b is having tea with his friend Miss deer .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6500,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 2860,
+            "OffsetEndMs": 3225,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 3225,
+            "OffsetEndMs": 3525,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3525,
+            "OffsetEndMs": 3860,
+            "Word": "having"
+          },
+          {
+            "OffsetStartMs": 4090,
+            "OffsetEndMs": 4490,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5040,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5310,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 5625,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 5625,
+            "OffsetEndMs": 5925,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 5925,
+            "OffsetEndMs": 6500,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 5925,
+            "OffsetEndMs": 6500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Suddenly he falls into the tea and Miss deer is in tears.",
+        "SliceSentence": "Suddenly he falls into the tea and Miss deer is in tears .",
+        "WrittenText": "",
+        "StartMs": 7060,
+        "EndMs": 12860,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Suddenly"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2195,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2465,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2770,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3965,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3965,
+            "OffsetEndMs": 4265,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 4265,
+            "OffsetEndMs": 4865,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 4865,
+            "OffsetEndMs": 5165,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5165,
+            "OffsetEndMs": 5450,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5450,
+            "OffsetEndMs": 5800,
+            "Word": "tears"
+          },
+          {
+            "OffsetStartMs": 5450,
+            "OffsetEndMs": 5800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 13090,
+        "EndMs": 14060,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Mr b I can swim in tea.",
+        "SliceSentence": "says Mr b I can swim in tea .",
+        "WrittenText": "",
+        "StartMs": 14230,
+        "EndMs": 17000,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1850,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2165,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2435,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2770,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mr b is having tea with his friend Miss deer.",
+        "SliceSentence": "Mr b is having tea with his friend Miss deer .",
+        "WrittenText": "",
+        "StartMs": 20200,
+        "EndMs": 24440,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 920,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1570,
+            "Word": "having"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2750,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3050,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3365,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3650,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4240,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Suddenly he falls into the tea and Miss deer is in tears.",
+        "SliceSentence": "Suddenly he falls into the tea and Miss deer is in tears .",
+        "WrittenText": "",
+        "StartMs": 24910,
+        "EndMs": 30770,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Suddenly"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1280,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1630,
+            "Word": "falls"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2240,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2495,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2800,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3980,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3980,
+            "OffsetEndMs": 4310,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 4310,
+            "OffsetEndMs": 4895,
+            "Word": "deer"
+          },
+          {
+            "OffsetStartMs": 4895,
+            "OffsetEndMs": 5210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5210,
+            "OffsetEndMs": 5510,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5510,
+            "OffsetEndMs": 5860,
+            "Word": "tears"
+          },
+          {
+            "OffsetStartMs": 5510,
+            "OffsetEndMs": 5860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 31000,
+        "EndMs": 31940,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 940,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Mr b I can swim minty.",
+        "SliceSentence": "says Mr b I can swim minty .",
+        "WrittenText": "",
+        "StartMs": 32140,
+        "EndMs": 34910,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1835,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2135,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2770,
+            "Word": "minty"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

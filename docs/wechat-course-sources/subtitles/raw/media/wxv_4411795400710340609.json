@@ -1,0 +1,250 @@
+{
+  "RequestId": "35e749a6-3490-425e-945d-28d28dad6aa4",
+  "Data": {
+    "TaskId": 16292401181,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 28.746313,
+    "Result": "JJ.Jenny likes juice. Jenny likes juicey. Jenny likes juice and jelly. Jenny likesny likes jelly. Jenny likes juice and jelly.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "JJ.",
+        "SliceSentence": "JJ .",
+        "WrittenText": "",
+        "StartMs": 820,
+        "EndMs": 2400,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "JJ"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Jenny likes juice.",
+        "SliceSentence": "Jenny likes juice .",
+        "WrittenText": "",
+        "StartMs": 3060,
+        "EndMs": 9230,
+        "SpeechSpeed": 2.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 4600,
+            "OffsetEndMs": 5235,
+            "Word": "Jenny"
+          },
+          {
+            "OffsetStartMs": 5235,
+            "OffsetEndMs": 5570,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6170,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jenny likes juicey.",
+        "SliceSentence": "Jenny likes juicey .",
+        "WrittenText": "",
+        "StartMs": 10030,
+        "EndMs": 11930,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "Jenny"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1900,
+            "Word": "juicey"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jenny likes juice and jelly.",
+        "SliceSentence": "Jenny likes juice and jelly .",
+        "WrittenText": "",
+        "StartMs": 12460,
+        "EndMs": 15470,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "Jenny"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 3010,
+            "Word": "jelly"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jenny likesny likes jelly.",
+        "SliceSentence": "Jenny likesny likes jelly .",
+        "WrittenText": "",
+        "StartMs": 18370,
+        "EndMs": 22730,
+        "SpeechSpeed": 6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "Jenny"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 3095,
+            "Word": "likesny"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3430,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 4360,
+            "Word": "jelly"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 4360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jenny likes juice and jelly.",
+        "SliceSentence": "Jenny likes juice and jelly .",
+        "WrittenText": "",
+        "StartMs": 23170,
+        "EndMs": 26300,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "Jenny"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 3130,
+            "Word": "jelly"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 3130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

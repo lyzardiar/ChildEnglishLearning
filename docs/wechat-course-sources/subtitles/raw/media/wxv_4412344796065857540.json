@@ -1,0 +1,820 @@
+{
+  "RequestId": "1b651f7e-cce0-4a2c-94af-fb5c0f130e7c",
+  "Data": {
+    "TaskId": 16292453904,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 106.06875,
+    "Result": "Elliot's new friend elliot is sad he sees a tortoise. Hello, I'm pretty I'm elliot. I can't find my family. Let's look look. Is that your family? No, those are zebras. Elliot and tuti eat, play and sleep. Look, is that your family?No, those are lions. Elliot and totie are afraid. They run away. Look elephants. That's my family, yes.Thanks to t, elliot gets a new friend.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Elliot's new friend elliot is sad he sees a tortoise.",
+        "SliceSentence": "Elliot's new friend elliot is sad he sees a tortoise .",
+        "WrittenText": "",
+        "StartMs": 480,
+        "EndMs": 9500,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 1040,
+            "Word": "Elliot's"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4580,
+            "Word": "elliot"
+          },
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5115,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5115,
+            "OffsetEndMs": 5510,
+            "Word": "sad"
+          },
+          {
+            "OffsetStartMs": 6760,
+            "OffsetEndMs": 7160,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 7180,
+            "OffsetEndMs": 7580,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 7960,
+            "OffsetEndMs": 8295,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 8295,
+            "OffsetEndMs": 9020,
+            "Word": "tortoise"
+          },
+          {
+            "OffsetStartMs": 8295,
+            "OffsetEndMs": 9020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 12010,
+        "EndMs": 12410,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm pretty I'm elliot.",
+        "SliceSentence": "I'm pretty I'm elliot .",
+        "WrittenText": "",
+        "StartMs": 13360,
+        "EndMs": 17390,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "pretty"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 3200,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 3200,
+            "OffsetEndMs": 4030,
+            "Word": "elliot"
+          },
+          {
+            "OffsetStartMs": 3200,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't find my family.",
+        "SliceSentence": "I can't find my family .",
+        "WrittenText": "",
+        "StartMs": 18160,
+        "EndMs": 20330,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 965,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1270,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2170,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's look look.",
+        "SliceSentence": "Let's look look .",
+        "WrittenText": "",
+        "StartMs": 21670,
+        "EndMs": 32210,
+        "SpeechSpeed": 1.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 800,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 10140,
+            "OffsetEndMs": 10540,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 10140,
+            "OffsetEndMs": 10540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is that your family?",
+        "SliceSentence": "Is that your family ?",
+        "WrittenText": "",
+        "StartMs": 33220,
+        "EndMs": 35240,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 36910,
+        "EndMs": 37310,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " those are zebras.",
+        "SliceSentence": "those are zebras .",
+        "WrittenText": "",
+        "StartMs": 38440,
+        "EndMs": 40520,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "those"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 2080,
+            "Word": "zebras"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Elliot and tuti eat,",
+        "SliceSentence": "Elliot and tuti eat ,",
+        "WrittenText": "",
+        "StartMs": 42490,
+        "EndMs": 45080,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "Elliot"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1960,
+            "Word": "tuti"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " play and sleep.",
+        "SliceSentence": "play and sleep .",
+        "WrittenText": "",
+        "StartMs": 45820,
+        "EndMs": 47510,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 56350,
+        "EndMs": 56750,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " is that your family?",
+        "SliceSentence": "is that your family ?",
+        "WrittenText": "",
+        "StartMs": 57910,
+        "EndMs": 60140,
+        "SpeechSpeed": 9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 62900,
+        "EndMs": 65680,
+        "SpeechSpeed": 0.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " those are lions.",
+        "SliceSentence": "those are lions .",
+        "WrittenText": "",
+        "StartMs": 66810,
+        "EndMs": 69040,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "those"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 2230,
+            "Word": "lions"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Elliot and totie are afraid.",
+        "SliceSentence": "Elliot and totie are afraid .",
+        "WrittenText": "",
+        "StartMs": 70410,
+        "EndMs": 73990,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "Elliot"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2380,
+            "Word": "totie"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "afraid"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They run away.",
+        "SliceSentence": "They run away .",
+        "WrittenText": "",
+        "StartMs": 74760,
+        "EndMs": 76270,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "away"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look elephants.",
+        "SliceSentence": "Look elephants .",
+        "WrittenText": "",
+        "StartMs": 84000,
+        "EndMs": 86410,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2410,
+            "Word": "elephants"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's my family,",
+        "SliceSentence": "That's my family ,",
+        "WrittenText": "",
+        "StartMs": 91140,
+        "EndMs": 92830,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 785,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " yes.",
+        "SliceSentence": "yes .",
+        "WrittenText": "",
+        "StartMs": 94770,
+        "EndMs": 95170,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Thanks to t,",
+        "SliceSentence": "Thanks to t ,",
+        "WrittenText": "",
+        "StartMs": 96820,
+        "EndMs": 99210,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "Thanks"
+          },
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2055,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2390,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " elliot gets a new friend.",
+        "SliceSentence": "elliot gets a new friend .",
+        "WrittenText": "",
+        "StartMs": 100490,
+        "EndMs": 103470,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "elliot"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "gets"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

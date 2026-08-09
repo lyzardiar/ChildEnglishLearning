@@ -1,0 +1,964 @@
+{
+  "RequestId": "1ed1e3a9-5bfb-489e-bca3-3cc47e19bb02",
+  "Data": {
+    "TaskId": 16292486745,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 107.81025,
+    "Result": "Let's make music january. I'm maddie and we're students in Mrs king's class. We want to join our school concert but we can't play the piano, violin or guitar february. We think and think and then get a great idea. We can make some musical instruments and play together. Isn't it a clever idea april? We're using jars and candies. Oscar and faye are shaking them may.These buckets and pots are our drums. Craig, Sara and Dan are hitting them june. We don't sound beautiful together. Mrs king helps us september. It's the evening of the concert. We're all having fun. People are clapping their hands. What a wonderful concert.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Let's make music january.",
+        "SliceSentence": "Let's make music january .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6200,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1350,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1670,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "music"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": "january"
+          },
+          {
+            "OffsetStartMs": 5800,
+            "OffsetEndMs": 6200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm maddie and we're students in Mrs king's class.",
+        "SliceSentence": "I'm maddie and we're students in Mrs king's class .",
+        "WrittenText": "",
+        "StartMs": 8440,
+        "EndMs": 13280,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1300,
+            "Word": "maddie"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1730,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2285,
+            "Word": "we're"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2650,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3245,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3580,
+            "Word": "Mrs"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4490,
+            "Word": "king's"
+          },
+          {
+            "OffsetStartMs": 4490,
+            "OffsetEndMs": 4840,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 4490,
+            "OffsetEndMs": 4840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We want to join our school concert but we can't play the piano,",
+        "SliceSentence": "We want to join our school concert but we can't play the piano ,",
+        "WrittenText": "",
+        "StartMs": 15220,
+        "EndMs": 21470,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1115,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1415,
+            "Word": "join"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2255,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2620,
+            "Word": "concert"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4580,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 4580,
+            "OffsetEndMs": 4835,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 4835,
+            "OffsetEndMs": 5390,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 5390,
+            "OffsetEndMs": 5690,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 5690,
+            "OffsetEndMs": 5960,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5960,
+            "OffsetEndMs": 6250,
+            "Word": "piano"
+          },
+          {
+            "OffsetStartMs": 5960,
+            "OffsetEndMs": 6250,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " violin or guitar february.",
+        "SliceSentence": "violin or guitar february .",
+        "WrittenText": "",
+        "StartMs": 22180,
+        "EndMs": 27890,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 880,
+            "Word": "violin"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "guitar"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 5710,
+            "Word": "february"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 5710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We think and think and then get a great idea.",
+        "SliceSentence": "We think and think and then get a great idea .",
+        "WrittenText": "",
+        "StartMs": 30400,
+        "EndMs": 35060,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2600,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2950,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3395,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4210,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can make some musical instruments and play together.",
+        "SliceSentence": "We can make some musical instruments and play together .",
+        "WrittenText": "",
+        "StartMs": 37840,
+        "EndMs": 42230,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1535,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1900,
+            "Word": "musical"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "instruments"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3470,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3470,
+            "OffsetEndMs": 3850,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Isn't it a clever idea april?",
+        "SliceSentence": "Isn't it a clever idea april ?",
+        "WrittenText": "",
+        "StartMs": 43750,
+        "EndMs": 47810,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Isn't"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 830,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1100,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1450,
+            "Word": "clever"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4060,
+            "Word": "april"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4060,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We're using jars and candies.",
+        "SliceSentence": "We're using jars and candies .",
+        "WrittenText": "",
+        "StartMs": 49630,
+        "EndMs": 52910,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "We're"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "using"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1510,
+            "Word": "jars"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 3280,
+            "Word": "candies"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oscar and faye are shaking them may.",
+        "SliceSentence": "Oscar and faye are shaking them may .",
+        "WrittenText": "",
+        "StartMs": 54340,
+        "EndMs": 59930,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 770,
+            "Word": "Oscar"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1085,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1700,
+            "Word": "faye"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 1955,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2630,
+            "Word": "shaking"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2950,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5590,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "These buckets and pots are our drums.",
+        "SliceSentence": "These buckets and pots are our drums .",
+        "WrittenText": "",
+        "StartMs": 60220,
+        "EndMs": 65850,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "These"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2480,
+            "Word": "buckets"
+          },
+          {
+            "OffsetStartMs": 2590,
+            "OffsetEndMs": 2970,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3740,
+            "Word": "pots"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4400,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 4420,
+            "OffsetEndMs": 4820,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5630,
+            "Word": "drums"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Craig,",
+        "SliceSentence": "Craig ,",
+        "WrittenText": "",
+        "StartMs": 67190,
+        "EndMs": 67930,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "Craig"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sara and Dan are hitting them june.",
+        "SliceSentence": "Sara and Dan are hitting them june .",
+        "WrittenText": "",
+        "StartMs": 67930,
+        "EndMs": 74850,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 780,
+            "Word": "Sara"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1095,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1095,
+            "OffsetEndMs": 1460,
+            "Word": "Dan"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2025,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2025,
+            "OffsetEndMs": 2390,
+            "Word": "hitting"
+          },
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 2960,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 6520,
+            "OffsetEndMs": 6920,
+            "Word": "june"
+          },
+          {
+            "OffsetStartMs": 6520,
+            "OffsetEndMs": 6920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We don't sound beautiful together.",
+        "SliceSentence": "We don't sound beautiful together .",
+        "WrittenText": "",
+        "StartMs": 76130,
+        "EndMs": 79050,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1010,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "sound"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mrs king helps us september.",
+        "SliceSentence": "Mrs king helps us september .",
+        "WrittenText": "",
+        "StartMs": 79880,
+        "EndMs": 85650,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mrs"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "helps"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5770,
+            "Word": "september"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the evening of the concert.",
+        "SliceSentence": "It's the evening of the concert .",
+        "WrittenText": "",
+        "StartMs": 87770,
+        "EndMs": 90180,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 815,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1150,
+            "Word": "evening"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1865,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2120,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2410,
+            "Word": "concert"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We're all having fun.",
+        "SliceSentence": "We're all having fun .",
+        "WrittenText": "",
+        "StartMs": 92030,
+        "EndMs": 93990,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "We're"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 760,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "having"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People are clapping their hands.",
+        "SliceSentence": "People are clapping their hands .",
+        "WrittenText": "",
+        "StartMs": 94910,
+        "EndMs": 97230,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 965,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1670,
+            "Word": "clapping"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1955,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2320,
+            "Word": "hands"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What a wonderful concert.",
+        "SliceSentence": "What a wonderful concert .",
+        "WrittenText": "",
+        "StartMs": 98210,
+        "EndMs": 100140,
+        "SpeechSpeed": 13,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 635,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1030,
+            "Word": "wonderful"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "concert"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

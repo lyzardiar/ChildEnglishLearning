@@ -1,0 +1,683 @@
+{
+  "RequestId": "96b4ce0b-3f8d-4ca0-b669-6dab663eade9",
+  "Data": {
+    "TaskId": 16292424608,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 62.484938,
+    "Result": "The.M.M.M m.Monkey.Monkey.P.N.N.N n.Nightingale.Nightingale.M for monkey, m for nightingale. I can see a monkey, I can see a nightingale, m for monkey, m for nightale. I can see a night. I can see a nightingale.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 400,
+        "EndMs": 600,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "M.",
+        "SliceSentence": "M .",
+        "WrittenText": "",
+        "StartMs": 1860,
+        "EndMs": 2270,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "M"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "M.",
+        "SliceSentence": "M .",
+        "WrittenText": "",
+        "StartMs": 3120,
+        "EndMs": 3530,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "M"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "M m.",
+        "SliceSentence": "M m .",
+        "WrittenText": "",
+        "StartMs": 4920,
+        "EndMs": 6440,
+        "SpeechSpeed": 2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "M"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "m"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Monkey.",
+        "SliceSentence": "Monkey .",
+        "WrittenText": "",
+        "StartMs": 7620,
+        "EndMs": 11780,
+        "SpeechSpeed": 1.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 3760,
+            "OffsetEndMs": 4160,
+            "Word": "Monkey"
+          },
+          {
+            "OffsetStartMs": 3760,
+            "OffsetEndMs": 4160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Monkey.",
+        "SliceSentence": "Monkey .",
+        "WrittenText": "",
+        "StartMs": 12860,
+        "EndMs": 13390,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Monkey"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 17820,
+        "EndMs": 18200,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "N.",
+        "SliceSentence": "N .",
+        "WrittenText": "",
+        "StartMs": 19320,
+        "EndMs": 19760,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "N.",
+        "SliceSentence": "N .",
+        "WrittenText": "",
+        "StartMs": 20700,
+        "EndMs": 21050,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "N n.",
+        "SliceSentence": "N n .",
+        "WrittenText": "",
+        "StartMs": 22380,
+        "EndMs": 23900,
+        "SpeechSpeed": 2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "n"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Nightingale.",
+        "SliceSentence": "Nightingale .",
+        "WrittenText": "",
+        "StartMs": 25260,
+        "EndMs": 30470,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 4270,
+            "OffsetEndMs": 5210,
+            "Word": "Nightingale"
+          },
+          {
+            "OffsetStartMs": 4270,
+            "OffsetEndMs": 5210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Nightingale.",
+        "SliceSentence": "Nightingale .",
+        "WrittenText": "",
+        "StartMs": 31300,
+        "EndMs": 32340,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1040,
+            "Word": "Nightingale"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "M for monkey,",
+        "SliceSentence": "M for monkey ,",
+        "WrittenText": "",
+        "StartMs": 35160,
+        "EndMs": 39050,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "M"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3290,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3490,
+            "OffsetEndMs": 3890,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 3490,
+            "OffsetEndMs": 3890,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " m for nightingale.",
+        "SliceSentence": "m for nightingale .",
+        "WrittenText": "",
+        "StartMs": 39820,
+        "EndMs": 42020,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "m"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 2200,
+            "Word": "nightingale"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a monkey,",
+        "SliceSentence": "I can see a monkey ,",
+        "WrittenText": "",
+        "StartMs": 42250,
+        "EndMs": 43760,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1510,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a nightingale,",
+        "SliceSentence": "I can see a nightingale ,",
+        "WrittenText": "",
+        "StartMs": 44650,
+        "EndMs": 46790,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1205,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 2140,
+            "Word": "nightingale"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 2140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " m for monkey,",
+        "SliceSentence": "m for monkey ,",
+        "WrittenText": "",
+        "StartMs": 49840,
+        "EndMs": 51410,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "m"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "monkey"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " m for nightale.",
+        "SliceSentence": "m for nightale .",
+        "WrittenText": "",
+        "StartMs": 52210,
+        "EndMs": 54440,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "m"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 2230,
+            "Word": "nightale"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a night.",
+        "SliceSentence": "I can see a night .",
+        "WrittenText": "",
+        "StartMs": 54730,
+        "EndMs": 56240,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1160,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1510,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a nightingale.",
+        "SliceSentence": "I can see a nightingale .",
+        "WrittenText": "",
+        "StartMs": 57100,
+        "EndMs": 59210,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1160,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 2110,
+            "Word": "nightingale"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

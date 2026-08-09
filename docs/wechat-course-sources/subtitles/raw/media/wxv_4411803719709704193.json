@@ -1,0 +1,324 @@
+{
+  "RequestId": "dec52d67-f98d-49c6-9ae4-3f673927823e",
+  "Data": {
+    "TaskId": 16292403590,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.302063,
+    "Result": "O.It is a frog. A big, big frog look. The frog can hop. It is a frog. A big big frog look. The frog can hop.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "O.",
+        "SliceSentence": "O .",
+        "WrittenText": "",
+        "StartMs": 880,
+        "EndMs": 1320,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "O"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It is a frog.",
+        "SliceSentence": "It is a frog .",
+        "WrittenText": "",
+        "StartMs": 3540,
+        "EndMs": 10010,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 4420,
+            "OffsetEndMs": 4820,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 4990,
+            "OffsetEndMs": 5355,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5355,
+            "OffsetEndMs": 5655,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5655,
+            "OffsetEndMs": 6470,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 5655,
+            "OffsetEndMs": 6470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A big,",
+        "SliceSentence": "A big ,",
+        "WrittenText": "",
+        "StartMs": 10090,
+        "EndMs": 10760,
+        "SpeechSpeed": 9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " big frog look.",
+        "SliceSentence": "big frog look .",
+        "WrittenText": "",
+        "StartMs": 10900,
+        "EndMs": 13160,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1480,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The frog can hop.",
+        "SliceSentence": "The frog can hop .",
+        "WrittenText": "",
+        "StartMs": 13660,
+        "EndMs": 15440,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 920,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1210,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is a frog.",
+        "SliceSentence": "It is a frog .",
+        "WrittenText": "",
+        "StartMs": 19840,
+        "EndMs": 21950,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 2110,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A big big frog look.",
+        "SliceSentence": "A big big frog look .",
+        "WrittenText": "",
+        "StartMs": 22000,
+        "EndMs": 24950,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2260,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The frog can hop.",
+        "SliceSentence": "The frog can hop .",
+        "WrittenText": "",
+        "StartMs": 25600,
+        "EndMs": 27290,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 920,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1210,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "hop"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

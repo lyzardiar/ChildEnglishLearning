@@ -1,0 +1,322 @@
+{
+  "RequestId": "01fa0489-9ded-4472-ad9c-95cdc2ae8d72",
+  "Data": {
+    "TaskId": 16292469416,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 29.884063,
+    "Result": "A thirsty bird. I'm thirsty water. I can't drink the water. The bird is sad. I have a good idea I can drink the water. Now look, the bird is happy.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A thirsty bird.",
+        "SliceSentence": "A thirsty bird .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1850,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 765,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1515,
+            "Word": "thirsty"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1850,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm thirsty water.",
+        "SliceSentence": "I'm thirsty water .",
+        "WrittenText": "",
+        "StartMs": 3310,
+        "EndMs": 7070,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1630,
+            "Word": "thirsty"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't drink the water.",
+        "SliceSentence": "I can't drink the water .",
+        "WrittenText": "",
+        "StartMs": 9100,
+        "EndMs": 11810,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1280,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2360,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2710,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The bird is sad.",
+        "SliceSentence": "The bird is sad .",
+        "WrittenText": "",
+        "StartMs": 13090,
+        "EndMs": 14870,
+        "SpeechSpeed": 9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "sad"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a good idea I can drink the water.",
+        "SliceSentence": "I have a good idea I can drink the water .",
+        "WrittenText": "",
+        "StartMs": 15610,
+        "EndMs": 21950,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1540,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5080,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5590,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 5670,
+            "OffsetEndMs": 6005,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6005,
+            "OffsetEndMs": 6340,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 6005,
+            "OffsetEndMs": 6340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now look,",
+        "SliceSentence": "Now look ,",
+        "WrittenText": "",
+        "StartMs": 22240,
+        "EndMs": 24590,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the bird is happy.",
+        "SliceSentence": "the bird is happy .",
+        "WrittenText": "",
+        "StartMs": 25330,
+        "EndMs": 26990,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

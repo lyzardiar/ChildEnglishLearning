@@ -1,0 +1,374 @@
+{
+  "RequestId": "047614d1-3932-444c-a772-a86adcff8c2a",
+  "Data": {
+    "TaskId": 16292443931,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 38.336125,
+    "Result": "Grandma's bag Ken. The dog is naughty. Grandma's bag is in Ken's mouth. Mum throws a ball to Ken. Dad runs after Ken. Tom throws a bone to Ken. Grandma has her bag. Now everyone is happy.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Grandma's bag Ken.",
+        "SliceSentence": "Grandma's bag Ken .",
+        "WrittenText": "",
+        "StartMs": 140,
+        "EndMs": 3940,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 1425,
+            "Word": "Grandma's"
+          },
+          {
+            "OffsetStartMs": 1425,
+            "OffsetEndMs": 1700,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 3400,
+            "OffsetEndMs": 3800,
+            "Word": "Ken"
+          },
+          {
+            "OffsetStartMs": 3400,
+            "OffsetEndMs": 3800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The dog is naughty.",
+        "SliceSentence": "The dog is naughty .",
+        "WrittenText": "",
+        "StartMs": 4350,
+        "EndMs": 6760,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 2410,
+            "Word": "naughty"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandma's bag is in Ken's mouth.",
+        "SliceSentence": "Grandma's bag is in Ken's mouth .",
+        "WrittenText": "",
+        "StartMs": 7680,
+        "EndMs": 11710,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1130,
+            "Word": "Grandma's"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3725,
+            "Word": "Ken's"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4030,
+            "Word": "mouth"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mum throws a ball to Ken.",
+        "SliceSentence": "Mum throws a ball to Ken .",
+        "WrittenText": "",
+        "StartMs": 15150,
+        "EndMs": 18670,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mum"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1745,
+            "Word": "throws"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2045,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "ball"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3185,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3185,
+            "OffsetEndMs": 3520,
+            "Word": "Ken"
+          },
+          {
+            "OffsetStartMs": 3185,
+            "OffsetEndMs": 3520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Dad runs after Ken.",
+        "SliceSentence": "Dad runs after Ken .",
+        "WrittenText": "",
+        "StartMs": 20340,
+        "EndMs": 22960,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Dad"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "runs"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "Ken"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Tom throws a bone to Ken.",
+        "SliceSentence": "Tom throws a bone to Ken .",
+        "WrittenText": "",
+        "StartMs": 24570,
+        "EndMs": 28300,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Tom"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1865,
+            "Word": "throws"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2195,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2560,
+            "Word": "bone"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3395,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3730,
+            "Word": "Ken"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandma has her bag.",
+        "SliceSentence": "Grandma has her bag .",
+        "WrittenText": "",
+        "StartMs": 30000,
+        "EndMs": 32350,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Grandma"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now everyone is happy.",
+        "SliceSentence": "Now everyone is happy .",
+        "WrittenText": "",
+        "StartMs": 32640,
+        "EndMs": 35770,
+        "SpeechSpeed": 7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "everyone"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2765,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3130,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

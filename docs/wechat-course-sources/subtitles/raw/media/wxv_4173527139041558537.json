@@ -1,0 +1,792 @@
+{
+  "RequestId": "9914b1a4-28bc-47c4-8fe0-d0d896138074",
+  "Data": {
+    "TaskId": 16292443209,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 71.5175,
+    "Result": "Dan's story at uncle Bob's party. Who is he? He's my cousin Henry. Is she your sister? No, she's Henry's sister Anne. Look here. Say cheese g.Is that your uncle? No? Hi, children. Mom, aunt Susan, you look great. Where's uncle Bob Henry? Let's look for him. Hello, uncle Bob. This party is great. Let's have fun. Yay.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Dan's story at uncle Bob's party.",
+        "SliceSentence": "Dan's story at uncle Bob's party .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4430,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 1155,
+            "Word": "Dan's"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1550,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3105,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3105,
+            "OffsetEndMs": 3500,
+            "Word": "uncle"
+          },
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 4140,
+            "Word": "Bob's"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4430,
+            "Word": "party"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Who is he?",
+        "SliceSentence": "Who is he ?",
+        "WrittenText": "",
+        "StartMs": 8950,
+        "EndMs": 10280,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Who"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 935,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1330,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He's my cousin Henry.",
+        "SliceSentence": "He's my cousin Henry .",
+        "WrittenText": "",
+        "StartMs": 11350,
+        "EndMs": 13040,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "He's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 680,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "cousin"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "Henry"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is she your sister?",
+        "SliceSentence": "Is she your sister ?",
+        "WrittenText": "",
+        "StartMs": 18820,
+        "EndMs": 20450,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1295,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1630,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 21580,
+        "EndMs": 21980,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she's Henry's sister Anne.",
+        "SliceSentence": "she's Henry's sister Anne .",
+        "WrittenText": "",
+        "StartMs": 22480,
+        "EndMs": 24500,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1085,
+            "Word": "Henry's"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1330,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "Anne"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look here.",
+        "SliceSentence": "Look here .",
+        "WrittenText": "",
+        "StartMs": 27220,
+        "EndMs": 27950,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Say cheese g.",
+        "SliceSentence": "Say cheese g .",
+        "WrittenText": "",
+        "StartMs": 28780,
+        "EndMs": 31280,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Say"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "cheese"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "g"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is that your uncle?",
+        "SliceSentence": "Is that your uncle ?",
+        "WrittenText": "",
+        "StartMs": 33600,
+        "EndMs": 38210,
+        "SpeechSpeed": 3.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 3340,
+            "OffsetEndMs": 3690,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4005,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 4005,
+            "OffsetEndMs": 4290,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4610,
+            "Word": "uncle"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4610,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No?",
+        "SliceSentence": "No ?",
+        "WrittenText": "",
+        "StartMs": 39460,
+        "EndMs": 39860,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hi,",
+        "SliceSentence": "Hi ,",
+        "WrittenText": "",
+        "StartMs": 40690,
+        "EndMs": 41090,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hi"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " children.",
+        "SliceSentence": "children .",
+        "WrittenText": "",
+        "StartMs": 41290,
+        "EndMs": 41690,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mom,",
+        "SliceSentence": "Mom ,",
+        "WrittenText": "",
+        "StartMs": 42580,
+        "EndMs": 42980,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mom"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " aunt Susan,",
+        "SliceSentence": "aunt Susan ,",
+        "WrittenText": "",
+        "StartMs": 44050,
+        "EndMs": 45140,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "aunt"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1090,
+            "Word": "Susan"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you look great.",
+        "SliceSentence": "you look great .",
+        "WrittenText": "",
+        "StartMs": 45400,
+        "EndMs": 46340,
+        "SpeechSpeed": 16,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 940,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Where's uncle Bob Henry?",
+        "SliceSentence": "Where's uncle Bob Henry ?",
+        "WrittenText": "",
+        "StartMs": 50290,
+        "EndMs": 52070,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Where's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 850,
+            "Word": "uncle"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "Bob"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "Henry"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's look for him.",
+        "SliceSentence": "Let's look for him .",
+        "WrittenText": "",
+        "StartMs": 53230,
+        "EndMs": 54530,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 770,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1025,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1300,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 58120,
+        "EndMs": 58520,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " uncle Bob.",
+        "SliceSentence": "uncle Bob .",
+        "WrittenText": "",
+        "StartMs": 58630,
+        "EndMs": 59510,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "uncle"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "Bob"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This party is great.",
+        "SliceSentence": "This party is great .",
+        "WrittenText": "",
+        "StartMs": 59980,
+        "EndMs": 61730,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "party"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's have fun.",
+        "SliceSentence": "Let's have fun .",
+        "WrittenText": "",
+        "StartMs": 62620,
+        "EndMs": 63920,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yay.",
+        "SliceSentence": "Yay .",
+        "WrittenText": "",
+        "StartMs": 67090,
+        "EndMs": 67520,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Yay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

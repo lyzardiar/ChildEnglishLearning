@@ -1,0 +1,757 @@
+{
+  "RequestId": "fac10541-20a2-403b-99ee-cd295208446d",
+  "Data": {
+    "TaskId": 16292432920,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 78.019063,
+    "Result": "Leo's story a new family member Leo guess who is coming? Is that Sam? Yes, welcome your new pet. Take good care of Sam. Okay mom, come Sam. Sam, your pawsres are dirty let's go and wash. Let me wash your pores. It's bedtime. Let's brush our teeth. I brush my teeth every day.Now your teeth are clean, Sam. We need to keep clean every day. This is a story about a dog.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Leo's story a new family member Leo guess who is coming?",
+        "SliceSentence": "Leo's story a new family member Leo guess who is coming ?",
+        "WrittenText": "",
+        "StartMs": 180,
+        "EndMs": 13850,
+        "SpeechSpeed": 4,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 975,
+            "Word": "Leo's"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1370,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2310,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2625,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 2625,
+            "OffsetEndMs": 2990,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 3130,
+            "OffsetEndMs": 3530,
+            "Word": "member"
+          },
+          {
+            "OffsetStartMs": 10240,
+            "OffsetEndMs": 10880,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 11230,
+            "OffsetEndMs": 11630,
+            "Word": "guess"
+          },
+          {
+            "OffsetStartMs": 12340,
+            "OffsetEndMs": 12740,
+            "Word": "who"
+          },
+          {
+            "OffsetStartMs": 12820,
+            "OffsetEndMs": 13220,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 13270,
+            "OffsetEndMs": 13670,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 13270,
+            "OffsetEndMs": 13670,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is that Sam?",
+        "SliceSentence": "Is that Sam ?",
+        "WrittenText": "",
+        "StartMs": 16300,
+        "EndMs": 17360,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 19630,
+        "EndMs": 20030,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " welcome your new pet.",
+        "SliceSentence": "welcome your new pet .",
+        "WrittenText": "",
+        "StartMs": 20950,
+        "EndMs": 23120,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "pet"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Take good care of Sam.",
+        "SliceSentence": "Take good care of Sam .",
+        "WrittenText": "",
+        "StartMs": 27280,
+        "EndMs": 30080,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Take"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "care"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay mom,",
+        "SliceSentence": "Okay mom ,",
+        "WrittenText": "",
+        "StartMs": 31390,
+        "EndMs": 32120,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " come Sam.",
+        "SliceSentence": "come Sam .",
+        "WrittenText": "",
+        "StartMs": 33910,
+        "EndMs": 34940,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sam,",
+        "SliceSentence": "Sam ,",
+        "WrittenText": "",
+        "StartMs": 38230,
+        "EndMs": 38630,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " your pawsres are dirty let's go and wash.",
+        "SliceSentence": "your pawsres are dirty let's go and wash .",
+        "WrittenText": "",
+        "StartMs": 39100,
+        "EndMs": 42530,
+        "SpeechSpeed": 12,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 920,
+            "Word": "pawsres"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1070,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1360,
+            "Word": "dirty"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2585,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2810,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 2810,
+            "OffsetEndMs": 3095,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3430,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let me wash your pores.",
+        "SliceSentence": "Let me wash your pores .",
+        "WrittenText": "",
+        "StartMs": 44530,
+        "EndMs": 46730,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1030,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1415,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 2200,
+            "Word": "pores"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's bedtime.",
+        "SliceSentence": "It's bedtime .",
+        "WrittenText": "",
+        "StartMs": 50140,
+        "EndMs": 51230,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 1090,
+            "Word": "bedtime"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's brush our teeth.",
+        "SliceSentence": "Let's brush our teeth .",
+        "WrittenText": "",
+        "StartMs": 51880,
+        "EndMs": 53480,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 770,
+            "Word": "brush"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I brush my teeth every day.",
+        "SliceSentence": "I brush my teeth every day .",
+        "WrittenText": "",
+        "StartMs": 56650,
+        "EndMs": 59270,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "brush"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1130,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1480,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Now your teeth are clean,",
+        "SliceSentence": "Now your teeth are clean ,",
+        "WrittenText": "",
+        "StartMs": 60660,
+        "EndMs": 62690,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 960,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1305,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 1665,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1665,
+            "OffsetEndMs": 2030,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 1665,
+            "OffsetEndMs": 2030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sam.",
+        "SliceSentence": "Sam .",
+        "WrittenText": "",
+        "StartMs": 65290,
+        "EndMs": 65690,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sam"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We need to keep clean every day.",
+        "SliceSentence": "We need to keep clean every day .",
+        "WrittenText": "",
+        "StartMs": 66130,
+        "EndMs": 68720,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 530,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 800,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1120,
+            "Word": "keep"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a story about a dog.",
+        "SliceSentence": "This is a story about a dog .",
+        "WrittenText": "",
+        "StartMs": 72670,
+        "EndMs": 75170,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 635,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 875,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1925,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2210,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2500,
+            "Word": "dog"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3950,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

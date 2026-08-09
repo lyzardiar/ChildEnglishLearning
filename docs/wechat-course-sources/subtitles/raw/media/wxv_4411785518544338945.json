@@ -1,0 +1,223 @@
+{
+  "RequestId": "bff82bd1-9167-4c11-bf8d-351d577597db",
+  "Data": {
+    "TaskId": 16292399013,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 21.408813,
+    "Result": "G g little girl, little girl, here's a gift for you little girl, little girl, here's a gift for you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "G g little girl,",
+        "SliceSentence": "G g little girl ,",
+        "WrittenText": "",
+        "StartMs": 800,
+        "EndMs": 8320,
+        "SpeechSpeed": 2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "G"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "g"
+          },
+          {
+            "OffsetStartMs": 6610,
+            "OffsetEndMs": 7010,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 7120,
+            "OffsetEndMs": 7520,
+            "Word": "girl"
+          },
+          {
+            "OffsetStartMs": 7120,
+            "OffsetEndMs": 7520,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little girl,",
+        "SliceSentence": "little girl ,",
+        "WrittenText": "",
+        "StartMs": 8550,
+        "EndMs": 9490,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "girl"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a gift for you little girl,",
+        "SliceSentence": "here's a gift for you little girl ,",
+        "WrittenText": "",
+        "StartMs": 9690,
+        "EndMs": 15490,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 950,
+            "Word": "gift"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1235,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 5400,
+            "OffsetEndMs": 5800,
+            "Word": "girl"
+          },
+          {
+            "OffsetStartMs": 5400,
+            "OffsetEndMs": 5800,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " little girl,",
+        "SliceSentence": "little girl ,",
+        "WrittenText": "",
+        "StartMs": 15720,
+        "EndMs": 16690,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "girl"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a gift for you.",
+        "SliceSentence": "here's a gift for you .",
+        "WrittenText": "",
+        "StartMs": 16890,
+        "EndMs": 18520,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 965,
+            "Word": "gift"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1280,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1630,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

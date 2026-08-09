@@ -1,0 +1,617 @@
+{
+  "RequestId": "ccb4cd9e-9c99-49c8-90c8-d4f2cdc3c951",
+  "Data": {
+    "TaskId": 16292532932,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 35.410438,
+    "Result": "A tiny little mouse is bowing to a cow. A big brown owl is flying in the clouds. The owl wants to catch the mouse. It hits the cow and calls out. Ouch, ouch, a tiny little mouse is bowing to a cowl. A big brown owl is flying in the clouds. The owl wants to catch the mouse. It hits the cow and calls out. Ouch, ouch.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A tiny little mouse is bowing to a cow.",
+        "SliceSentence": "A tiny little mouse is bowing to a cow .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6260,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 1990,
+            "OffsetEndMs": 2325,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 2325,
+            "OffsetEndMs": 2660,
+            "Word": "tiny"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3290,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 3490,
+            "OffsetEndMs": 3890,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4725,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4725,
+            "OffsetEndMs": 5415,
+            "Word": "bowing"
+          },
+          {
+            "OffsetStartMs": 5415,
+            "OffsetEndMs": 5685,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5685,
+            "OffsetEndMs": 5940,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6260,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A big brown owl is flying in the clouds.",
+        "SliceSentence": "A big brown owl is flying in the clouds .",
+        "WrittenText": "",
+        "StartMs": 6790,
+        "EndMs": 11060,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 2180,
+            "Word": "owl"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2500,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3650,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3935,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4270,
+            "Word": "clouds"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The owl wants to catch the mouse.",
+        "SliceSentence": "The owl wants to catch the mouse .",
+        "WrittenText": "",
+        "StartMs": 11590,
+        "EndMs": 14000,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 920,
+            "Word": "owl"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1505,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1805,
+            "Word": "catch"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2105,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2410,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It hits the cow and calls out.",
+        "SliceSentence": "It hits the cow and calls out .",
+        "WrittenText": "",
+        "StartMs": 14560,
+        "EndMs": 16725,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 605,
+            "Word": "hits"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1180,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1520,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1835,
+            "Word": "calls"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2165,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2165,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ouch,",
+        "SliceSentence": "Ouch ,",
+        "WrittenText": "",
+        "StartMs": 16725,
+        "EndMs": 17310,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 585,
+            "Word": "Ouch"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 585,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ouch,",
+        "SliceSentence": "ouch ,",
+        "WrittenText": "",
+        "StartMs": 17310,
+        "EndMs": 18050,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "ouch"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a tiny little mouse is bowing to a cowl.",
+        "SliceSentence": "a tiny little mouse is bowing to a cowl .",
+        "WrittenText": "",
+        "StartMs": 18760,
+        "EndMs": 23390,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "tiny"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2675,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3350,
+            "Word": "bowing"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3620,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3890,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3890,
+            "OffsetEndMs": 4630,
+            "Word": "cowl"
+          },
+          {
+            "OffsetStartMs": 3890,
+            "OffsetEndMs": 4630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A big brown owl is flying in the clouds.",
+        "SliceSentence": "A big brown owl is flying in the clouds .",
+        "WrittenText": "",
+        "StartMs": 23500,
+        "EndMs": 27770,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 2150,
+            "Word": "owl"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2470,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3650,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3935,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4270,
+            "Word": "clouds"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The owl wants to catch the mouse.",
+        "SliceSentence": "The owl wants to catch the mouse .",
+        "WrittenText": "",
+        "StartMs": 28330,
+        "EndMs": 30740,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 920,
+            "Word": "owl"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1505,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1790,
+            "Word": "catch"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2090,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2410,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It hits the cow and calls out.",
+        "SliceSentence": "It hits the cow and calls out .",
+        "WrittenText": "",
+        "StartMs": 31270,
+        "EndMs": 33420,
+        "SpeechSpeed": 14,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "hits"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1220,
+            "Word": "cow"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1520,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1820,
+            "Word": "calls"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2150,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ouch,",
+        "SliceSentence": "Ouch ,",
+        "WrittenText": "",
+        "StartMs": 33420,
+        "EndMs": 33975,
+        "SpeechSpeed": 9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 555,
+            "Word": "Ouch"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 555,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ouch.",
+        "SliceSentence": "ouch .",
+        "WrittenText": "",
+        "StartMs": 33975,
+        "EndMs": 34670,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "ouch"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

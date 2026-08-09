@@ -1,0 +1,732 @@
+{
+  "RequestId": "ef5badfa-3f5d-4ca4-a9b7-df425bd25aa1",
+  "Data": {
+    "TaskId": 16292538803,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 59.280563,
+    "Result": "A flying machine.Wilbur Wright and orville Wright are brothers. They like to invent things. One day they are watching some birds flying in the sky. They want to fly, too. We should invent a flying machine, says Wilbur. Great, says orville. But how? First we'll watch how the birds fly. Next, we'll draw a picture of our flying machine. Then we'll build it. Finally, we'll fly like birds.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A flying machine.",
+        "SliceSentence": "A flying machine .",
+        "WrittenText": "",
+        "StartMs": 620,
+        "EndMs": 1900,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 405,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 770,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1280,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wilbur Wright and orville Wright are brothers.",
+        "SliceSentence": "Wilbur Wright and orville Wright are brothers .",
+        "WrittenText": "",
+        "StartMs": 3900,
+        "EndMs": 9890,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 3165,
+            "Word": "Wilbur"
+          },
+          {
+            "OffsetStartMs": 3165,
+            "OffsetEndMs": 3500,
+            "Word": "Wright"
+          },
+          {
+            "OffsetStartMs": 3760,
+            "OffsetEndMs": 4125,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4125,
+            "OffsetEndMs": 4755,
+            "Word": "orville"
+          },
+          {
+            "OffsetStartMs": 4755,
+            "OffsetEndMs": 5120,
+            "Word": "Wright"
+          },
+          {
+            "OffsetStartMs": 5290,
+            "OffsetEndMs": 5640,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 5990,
+            "Word": "brothers"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 5990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They like to invent things.",
+        "SliceSentence": "They like to invent things .",
+        "WrittenText": "",
+        "StartMs": 10900,
+        "EndMs": 12650,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 950,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1330,
+            "Word": "invent"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day they are watching some birds flying in the sky.",
+        "SliceSentence": "One day they are watching some birds flying in the sky .",
+        "WrittenText": "",
+        "StartMs": 13660,
+        "EndMs": 17960,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1460,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1625,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1930,
+            "Word": "watching"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2420,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2770,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3785,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3785,
+            "OffsetEndMs": 3995,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3995,
+            "OffsetEndMs": 4300,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 3995,
+            "OffsetEndMs": 4300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They want to fly,",
+        "SliceSentence": "They want to fly ,",
+        "WrittenText": "",
+        "StartMs": 19090,
+        "EndMs": 20265,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 905,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1175,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1175,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 20265,
+        "EndMs": 20630,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We should invent a flying machine,",
+        "SliceSentence": "We should invent a flying machine ,",
+        "WrittenText": "",
+        "StartMs": 21730,
+        "EndMs": 23930,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1010,
+            "Word": "invent"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1720,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Wilbur.",
+        "SliceSentence": "says Wilbur .",
+        "WrittenText": "",
+        "StartMs": 24610,
+        "EndMs": 25730,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1120,
+            "Word": "Wilbur"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great,",
+        "SliceSentence": "Great ,",
+        "WrittenText": "",
+        "StartMs": 27160,
+        "EndMs": 27560,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says orville.",
+        "SliceSentence": "says orville .",
+        "WrittenText": "",
+        "StartMs": 27850,
+        "EndMs": 28970,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1120,
+            "Word": "orville"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " But how?",
+        "SliceSentence": "But how ?",
+        "WrittenText": "",
+        "StartMs": 30040,
+        "EndMs": 30680,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " First we'll watch how the birds fly.",
+        "SliceSentence": "First we'll watch how the birds fly .",
+        "WrittenText": "",
+        "StartMs": 31690,
+        "EndMs": 34640,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "First"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1370,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1595,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1925,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2150,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2410,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Next,",
+        "SliceSentence": "Next ,",
+        "WrittenText": "",
+        "StartMs": 38980,
+        "EndMs": 39380,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Next"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we'll draw a picture of our flying machine.",
+        "SliceSentence": "we'll draw a picture of our flying machine .",
+        "WrittenText": "",
+        "StartMs": 39940,
+        "EndMs": 42710,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 650,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1210,
+            "Word": "picture"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1760,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2015,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2375,
+            "Word": "flying"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2770,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then we'll build it.",
+        "SliceSentence": "Then we'll build it .",
+        "WrittenText": "",
+        "StartMs": 43840,
+        "EndMs": 45410,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1055,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1235,
+            "Word": "build"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Finally,",
+        "SliceSentence": "Finally ,",
+        "WrittenText": "",
+        "StartMs": 47950,
+        "EndMs": 48350,
+        "SpeechSpeed": 20,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Finally"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we'll fly like birds.",
+        "SliceSentence": "we'll fly like birds .",
+        "WrittenText": "",
+        "StartMs": 48850,
+        "EndMs": 50210,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "we'll"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 755,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1040,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1360,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "RequestId": "c8a10d1a-d0cc-4537-8bd2-3ab73d877691",
+  "Data": {
+    "TaskId": 16292451220,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 40.867125,
+    "Result": "The story of Chang er Yi shoots down nine of the suns. It's a pill to live forever. There's only one pill. You can't have it. Chang er takes the pill. She flies to the moon. Now we look at the moon at the Mid autumn festival. Can you see Chang er?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The story of Chang er Yi shoots down nine of the suns.",
+        "SliceSentence": "The story of Chang er Yi shoots down nine of the suns .",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 7590,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 750,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1100,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "Chang"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "er"
+          },
+          {
+            "OffsetStartMs": 4120,
+            "OffsetEndMs": 4545,
+            "Word": "Yi"
+          },
+          {
+            "OffsetStartMs": 4545,
+            "OffsetEndMs": 5115,
+            "Word": "shoots"
+          },
+          {
+            "OffsetStartMs": 5115,
+            "OffsetEndMs": 5420,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 5740,
+            "OffsetEndMs": 6140,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 6280,
+            "OffsetEndMs": 6615,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 6615,
+            "OffsetEndMs": 6840,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7490,
+            "Word": "suns"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a pill to live forever.",
+        "SliceSentence": "It's a pill to live forever .",
+        "WrittenText": "",
+        "StartMs": 9140,
+        "EndMs": 12240,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 890,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1240,
+            "Word": "pill"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1910,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2230,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "forever"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's only one pill.",
+        "SliceSentence": "There's only one pill .",
+        "WrittenText": "",
+        "StartMs": 14000,
+        "EndMs": 16200,
+        "SpeechSpeed": 10,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "only"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "pill"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You can't have it.",
+        "SliceSentence": "You can't have it .",
+        "WrittenText": "",
+        "StartMs": 17600,
+        "EndMs": 19380,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1100,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1385,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1780,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Chang er takes the pill.",
+        "SliceSentence": "Chang er takes the pill .",
+        "WrittenText": "",
+        "StartMs": 20840,
+        "EndMs": 23160,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Chang"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "er"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2045,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2320,
+            "Word": "pill"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She flies to the moon.",
+        "SliceSentence": "She flies to the moon .",
+        "WrittenText": "",
+        "StartMs": 24140,
+        "EndMs": 25860,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 820,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1310,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1460,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1720,
+            "Word": "moon"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now we look at the moon at the Mid autumn festival.",
+        "SliceSentence": "Now we look at the moon at the Mid autumn festival .",
+        "WrittenText": "",
+        "StartMs": 31070,
+        "EndMs": 35610,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1040,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1420,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1865,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2165,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2470,
+            "Word": "moon"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3125,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3125,
+            "OffsetEndMs": 3380,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3380,
+            "OffsetEndMs": 3635,
+            "Word": "Mid"
+          },
+          {
+            "OffsetStartMs": 3635,
+            "OffsetEndMs": 4220,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see Chang er?",
+        "SliceSentence": "Can you see Chang er ?",
+        "WrittenText": "",
+        "StartMs": 36800,
+        "EndMs": 39000,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "Chang"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "er"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

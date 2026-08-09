@@ -1,0 +1,5481 @@
+{
+  "RequestId": "56fbbfa9-d56e-4497-acaa-4667f6e8ec33",
+  "Data": {
+    "TaskId": 16292533986,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 554.88,
+    "Result": "Unit nine, seeing the doctor.Students book page 90 sh ti.Words and expressions.Ill.Ill.Wrong.Wrong.Headache.Headache.Fever.Fever.Should.Should.Medicine.Medicine.Rest.Rest.Toothache.Toothache.Toothless.Toothless.Present.Present.World.World.Dentist.Dentist.Have a headache.Have a headache.Have a fever.Have a fever.Have a cold.Have a cold.Have a rest.Have a rest.Get well.Get well.Have a toothache?Have a toothache?Have a meeting.Have a meeting.Pull out.Pull out.Students book page 58.D.You should take some medicine. You shouldn't go to bed late.Listen and say.Kitty is not feeling well. She is ill. Her mum takes her to the hospital.What's wrong with you?I have a headache. She has a fever too.Let me have a look.Open your mouth and say, ah.Ah.You have a cold, you should take some medicine.You should also drink a lot of water.You shouldn't go to bed late.Have a good rest and you'll get well soon. Thank you, doctor. You're welcome.Students book page 59.Look and learn.Have a cold.Have a cold.Have a fever.Have a fever.Have a headache.Have a headache.Have a toothache?Have a toothache?Students book pages sixty and sixty one.Read a story.A toothless tiger.One.All the animals are afraid of the tiger. I'm the king of the forest, help, help.Two.The animals have a meeting.A clever Fox has a good idea.What shall we do? I have an idea.Three.The Fox gives the tiger a lot of candy.The tiger likes the candy very much.My king, I have a present for you. It's the best food in the world.Really try it. You'll love it.Four.The tiger eats the candy every day.Soon, he has a toothache.The animals come to help.They pull all the tiger's teeth out. He becomes a toothless tiger.Students book page 63.Listen and enjoy.Doctor, doctor I have a toothache you shouldn didn't eat so many cakes doctor doctor I have a fever you should drink a lot of water doctor doctor I have a c cold you should wear warm clothes doctor doctor I have a cough you should take some medicine doctor doctor I have a toothache you shouldn't eat so many cakes doctor doctor I have a fever you should drink a lot of water doctor. Doctor I have a cold you should wear warm clothes doctor. Doctor, I have a cough you should take some medicine.Learn the sounds.A Y A may.Ay a may.AI a wait.AI I a wait?What's the date today? It's the fifth of may. It's my birthday today. Hooray hooray. Come and play, come and play. I come't wait, it's a happy day. What's the date today? It's the fifth of may. It's my birthday today. Hooray, hooray. Come and play, come and play. I can't wait. It's a happy day.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit nine,",
+        "SliceSentence": "Unit nine ,",
+        "WrittenText": "",
+        "StartMs": 2020,
+        "EndMs": 2970,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " seeing the doctor.",
+        "SliceSentence": "seeing the doctor .",
+        "WrittenText": "",
+        "StartMs": 3590,
+        "EndMs": 4530,
+        "SpeechSpeed": 19.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "seeing"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 680,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 940,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 90 sh ti.",
+        "SliceSentence": "Students book page 90 sh ti .",
+        "WrittenText": "",
+        "StartMs": 7060,
+        "EndMs": 12720,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "90"
+          },
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 3470,
+            "Word": "sh"
+          },
+          {
+            "OffsetStartMs": 4840,
+            "OffsetEndMs": 5660,
+            "Word": "ti"
+          },
+          {
+            "OffsetStartMs": 4840,
+            "OffsetEndMs": 5660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Words and expressions.",
+        "SliceSentence": "Words and expressions .",
+        "WrittenText": "",
+        "StartMs": 15720,
+        "EndMs": 17450,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Words"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1730,
+            "Word": "expressions"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ill.",
+        "SliceSentence": "Ill .",
+        "WrittenText": "",
+        "StartMs": 19620,
+        "EndMs": 20030,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Ill"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ill.",
+        "SliceSentence": "Ill .",
+        "WrittenText": "",
+        "StartMs": 21860,
+        "EndMs": 22300,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Ill"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wrong.",
+        "SliceSentence": "Wrong .",
+        "WrittenText": "",
+        "StartMs": 24320,
+        "EndMs": 24880,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Wrong"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Wrong.",
+        "SliceSentence": "Wrong .",
+        "WrittenText": "",
+        "StartMs": 26780,
+        "EndMs": 27310,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Wrong"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Headache.",
+        "SliceSentence": "Headache .",
+        "WrittenText": "",
+        "StartMs": 29640,
+        "EndMs": 30320,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 680,
+            "Word": "Headache"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Headache.",
+        "SliceSentence": "Headache .",
+        "WrittenText": "",
+        "StartMs": 31960,
+        "EndMs": 32760,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 800,
+            "Word": "Headache"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Fever.",
+        "SliceSentence": "Fever .",
+        "WrittenText": "",
+        "StartMs": 34660,
+        "EndMs": 35520,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 860,
+            "Word": "Fever"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Fever.",
+        "SliceSentence": "Fever .",
+        "WrittenText": "",
+        "StartMs": 37060,
+        "EndMs": 37950,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 890,
+            "Word": "Fever"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Should.",
+        "SliceSentence": "Should .",
+        "WrittenText": "",
+        "StartMs": 39580,
+        "EndMs": 40080,
+        "SpeechSpeed": 12,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Should"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Should.",
+        "SliceSentence": "Should .",
+        "WrittenText": "",
+        "StartMs": 41940,
+        "EndMs": 42470,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Should"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Medicine.",
+        "SliceSentence": "Medicine .",
+        "WrittenText": "",
+        "StartMs": 44500,
+        "EndMs": 45000,
+        "SpeechSpeed": 16,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Medicine"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Medicine.",
+        "SliceSentence": "Medicine .",
+        "WrittenText": "",
+        "StartMs": 47060,
+        "EndMs": 47530,
+        "SpeechSpeed": 17,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Medicine"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Rest.",
+        "SliceSentence": "Rest .",
+        "WrittenText": "",
+        "StartMs": 49540,
+        "EndMs": 50130,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Rest"
+          },
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Rest.",
+        "SliceSentence": "Rest .",
+        "WrittenText": "",
+        "StartMs": 52160,
+        "EndMs": 52660,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Rest"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toothache.",
+        "SliceSentence": "Toothache .",
+        "WrittenText": "",
+        "StartMs": 54720,
+        "EndMs": 55490,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 770,
+            "Word": "Toothache"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toothache.",
+        "SliceSentence": "Toothache .",
+        "WrittenText": "",
+        "StartMs": 57360,
+        "EndMs": 58100,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 740,
+            "Word": "Toothache"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toothless.",
+        "SliceSentence": "Toothless .",
+        "WrittenText": "",
+        "StartMs": 60040,
+        "EndMs": 60900,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 860,
+            "Word": "Toothless"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toothless.",
+        "SliceSentence": "Toothless .",
+        "WrittenText": "",
+        "StartMs": 62680,
+        "EndMs": 63540,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "Toothless"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Present.",
+        "SliceSentence": "Present .",
+        "WrittenText": "",
+        "StartMs": 65940,
+        "EndMs": 66470,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Present"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Present.",
+        "SliceSentence": "Present .",
+        "WrittenText": "",
+        "StartMs": 68460,
+        "EndMs": 68960,
+        "SpeechSpeed": 14,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Present"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "World.",
+        "SliceSentence": "World .",
+        "WrittenText": "",
+        "StartMs": 70800,
+        "EndMs": 71300,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "World"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "World.",
+        "SliceSentence": "World .",
+        "WrittenText": "",
+        "StartMs": 73180,
+        "EndMs": 73680,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "World"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dentist.",
+        "SliceSentence": "Dentist .",
+        "WrittenText": "",
+        "StartMs": 75760,
+        "EndMs": 76590,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 830,
+            "Word": "Dentist"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dentist.",
+        "SliceSentence": "Dentist .",
+        "WrittenText": "",
+        "StartMs": 78380,
+        "EndMs": 79180,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 800,
+            "Word": "Dentist"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a headache.",
+        "SliceSentence": "Have a headache .",
+        "WrittenText": "",
+        "StartMs": 80980,
+        "EndMs": 82350,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 840,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1370,
+            "Word": "headache"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a headache.",
+        "SliceSentence": "Have a headache .",
+        "WrittenText": "",
+        "StartMs": 83860,
+        "EndMs": 85380,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 915,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1520,
+            "Word": "headache"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a fever.",
+        "SliceSentence": "Have a fever .",
+        "WrittenText": "",
+        "StartMs": 87060,
+        "EndMs": 88670,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 975,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1610,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a fever.",
+        "SliceSentence": "Have a fever .",
+        "WrittenText": "",
+        "StartMs": 90100,
+        "EndMs": 91800,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 960,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1700,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a cold.",
+        "SliceSentence": "Have a cold .",
+        "WrittenText": "",
+        "StartMs": 93520,
+        "EndMs": 94650,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 825,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1130,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a cold.",
+        "SliceSentence": "Have a cold .",
+        "WrittenText": "",
+        "StartMs": 96620,
+        "EndMs": 97720,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 810,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1100,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a rest.",
+        "SliceSentence": "Have a rest .",
+        "WrittenText": "",
+        "StartMs": 99720,
+        "EndMs": 100820,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 795,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1100,
+            "Word": "rest"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a rest.",
+        "SliceSentence": "Have a rest .",
+        "WrittenText": "",
+        "StartMs": 102720,
+        "EndMs": 103850,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 810,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1130,
+            "Word": "rest"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Get well.",
+        "SliceSentence": "Get well .",
+        "WrittenText": "",
+        "StartMs": 105860,
+        "EndMs": 106720,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 510,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 860,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Get well.",
+        "SliceSentence": "Get well .",
+        "WrittenText": "",
+        "StartMs": 108600,
+        "EndMs": 109460,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 465,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 860,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a toothache?",
+        "SliceSentence": "Have a toothache ?",
+        "WrittenText": "",
+        "StartMs": 111300,
+        "EndMs": 112760,
+        "SpeechSpeed": 11,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 885,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1460,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1460,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a toothache?",
+        "SliceSentence": "Have a toothache ?",
+        "WrittenText": "",
+        "StartMs": 114360,
+        "EndMs": 115940,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 945,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1580,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1580,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a meeting.",
+        "SliceSentence": "Have a meeting .",
+        "WrittenText": "",
+        "StartMs": 117780,
+        "EndMs": 118850,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 465,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 765,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1070,
+            "Word": "meeting"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a meeting.",
+        "SliceSentence": "Have a meeting .",
+        "WrittenText": "",
+        "StartMs": 120860,
+        "EndMs": 121930,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 765,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1070,
+            "Word": "meeting"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Pull out.",
+        "SliceSentence": "Pull out .",
+        "WrittenText": "",
+        "StartMs": 124040,
+        "EndMs": 125530,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Pull"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Pull out.",
+        "SliceSentence": "Pull out .",
+        "WrittenText": "",
+        "StartMs": 127620,
+        "EndMs": 128930,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Pull"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1310,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 58.",
+        "SliceSentence": "Students book page 58 .",
+        "WrittenText": "",
+        "StartMs": 134220,
+        "EndMs": 136850,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 675,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2630,
+            "Word": "58"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "D.",
+        "SliceSentence": "D .",
+        "WrittenText": "",
+        "StartMs": 137740,
+        "EndMs": 139620,
+        "SpeechSpeed": 0.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "D"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You should take some medicine.",
+        "SliceSentence": "You should take some medicine .",
+        "WrittenText": "",
+        "StartMs": 143980,
+        "EndMs": 145890,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 510,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 840,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1590,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1910,
+            "Word": "medicine"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You shouldn't go to bed late.",
+        "SliceSentence": "You shouldn't go to bed late .",
+        "WrittenText": "",
+        "StartMs": 146570,
+        "EndMs": 148500,
+        "SpeechSpeed": 15,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 770,
+            "Word": "shouldn't"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1040,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1265,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1535,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1930,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 150920,
+        "EndMs": 152320,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1035,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1035,
+            "OffsetEndMs": 1400,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1035,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Kitty is not feeling well.",
+        "SliceSentence": "Kitty is not feeling well .",
+        "WrittenText": "",
+        "StartMs": 154600,
+        "EndMs": 156720,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 705,
+            "Word": "Kitty"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1005,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1290,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1640,
+            "Word": "feeling"
+          },
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2120,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She is ill.",
+        "SliceSentence": "She is ill .",
+        "WrittenText": "",
+        "StartMs": 157310,
+        "EndMs": 158370,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 725,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1060,
+            "Word": "ill"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Her mum takes her to the hospital.",
+        "SliceSentence": "Her mum takes her to the hospital .",
+        "WrittenText": "",
+        "StartMs": 159020,
+        "EndMs": 161070,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Her"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "takes"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1445,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1640,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1775,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "hospital"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What's wrong with you?",
+        "SliceSentence": "What's wrong with you ?",
+        "WrittenText": "",
+        "StartMs": 163360,
+        "EndMs": 164820,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 690,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 915,
+            "Word": "wrong"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1155,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1460,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1460,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I have a headache.",
+        "SliceSentence": "I have a headache .",
+        "WrittenText": "",
+        "StartMs": 165820,
+        "EndMs": 167550,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 465,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 780,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1020,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1730,
+            "Word": "headache"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She has a fever too.",
+        "SliceSentence": "She has a fever too .",
+        "WrittenText": "",
+        "StartMs": 168320,
+        "EndMs": 170160,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1535,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1840,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let me have a look.",
+        "SliceSentence": "Let me have a look .",
+        "WrittenText": "",
+        "StartMs": 171140,
+        "EndMs": 172420,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 330,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 600,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 825,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1005,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1280,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Open your mouth and say,",
+        "SliceSentence": "Open your mouth and say ,",
+        "WrittenText": "",
+        "StartMs": 173240,
+        "EndMs": 174850,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 360,
+            "Word": "Open"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 615,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 890,
+            "Word": "mouth"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1260,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1610,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " ah.",
+        "SliceSentence": "ah .",
+        "WrittenText": "",
+        "StartMs": 175110,
+        "EndMs": 175510,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "ah"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ah.",
+        "SliceSentence": "Ah .",
+        "WrittenText": "",
+        "StartMs": 176940,
+        "EndMs": 177350,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Ah"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You have a cold,",
+        "SliceSentence": "You have a cold ,",
+        "WrittenText": "",
+        "StartMs": 178920,
+        "EndMs": 180140,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 495,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 750,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 945,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1220,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 945,
+            "OffsetEndMs": 1220,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you should take some medicine.",
+        "SliceSentence": "you should take some medicine .",
+        "WrittenText": "",
+        "StartMs": 181030,
+        "EndMs": 182390,
+        "SpeechSpeed": 22.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 515,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 785,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1055,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1360,
+            "Word": "medicine"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You should also drink a lot of water.",
+        "SliceSentence": "You should also drink a lot of water .",
+        "WrittenText": "",
+        "StartMs": 183420,
+        "EndMs": 185540,
+        "SpeechSpeed": 17,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 285,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 450,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 740,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1200,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1410,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1620,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1830,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2120,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You shouldn't go to bed late.",
+        "SliceSentence": "You shouldn't go to bed late .",
+        "WrittenText": "",
+        "StartMs": 186520,
+        "EndMs": 188340,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 345,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 795,
+            "Word": "shouldn't"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1020,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1215,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1455,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1820,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a good rest and you'll get well soon.",
+        "SliceSentence": "Have a good rest and you'll get well soon .",
+        "WrittenText": "",
+        "StartMs": 189260,
+        "EndMs": 191980,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 150,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 150,
+            "OffsetEndMs": 315,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 315,
+            "OffsetEndMs": 540,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "rest"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1515,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1845,
+            "Word": "you'll"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2025,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 2025,
+            "OffsetEndMs": 2340,
+            "Word": "well"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2720,
+            "Word": "soon"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you,",
+        "SliceSentence": "Thank you ,",
+        "WrittenText": "",
+        "StartMs": 192810,
+        "EndMs": 193580,
+        "SpeechSpeed": 13,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " doctor.",
+        "SliceSentence": "doctor .",
+        "WrittenText": "",
+        "StartMs": 193580,
+        "EndMs": 193900,
+        "SpeechSpeed": 21.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're welcome.",
+        "SliceSentence": "You're welcome .",
+        "WrittenText": "",
+        "StartMs": 194580,
+        "EndMs": 195250,
+        "SpeechSpeed": 22.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 670,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 59.",
+        "SliceSentence": "Students book page 59 .",
+        "WrittenText": "",
+        "StartMs": 197480,
+        "EndMs": 200200,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2720,
+            "Word": "59"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look and learn.",
+        "SliceSentence": "Look and learn .",
+        "WrittenText": "",
+        "StartMs": 205900,
+        "EndMs": 207090,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 855,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1190,
+            "Word": "learn"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a cold.",
+        "SliceSentence": "Have a cold .",
+        "WrittenText": "",
+        "StartMs": 208020,
+        "EndMs": 209000,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 690,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 980,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a cold.",
+        "SliceSentence": "Have a cold .",
+        "WrittenText": "",
+        "StartMs": 210500,
+        "EndMs": 211630,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 840,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1130,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a fever.",
+        "SliceSentence": "Have a fever .",
+        "WrittenText": "",
+        "StartMs": 213120,
+        "EndMs": 214490,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 450,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 735,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1370,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a fever.",
+        "SliceSentence": "Have a fever .",
+        "WrittenText": "",
+        "StartMs": 215460,
+        "EndMs": 216920,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 465,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 765,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1460,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a headache.",
+        "SliceSentence": "Have a headache .",
+        "WrittenText": "",
+        "StartMs": 217900,
+        "EndMs": 219210,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 810,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1310,
+            "Word": "headache"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a headache.",
+        "SliceSentence": "Have a headache .",
+        "WrittenText": "",
+        "StartMs": 220240,
+        "EndMs": 221640,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 795,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1400,
+            "Word": "headache"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a toothache?",
+        "SliceSentence": "Have a toothache ?",
+        "WrittenText": "",
+        "StartMs": 222880,
+        "EndMs": 224190,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 465,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 750,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1310,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1310,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Have a toothache?",
+        "SliceSentence": "Have a toothache ?",
+        "WrittenText": "",
+        "StartMs": 225360,
+        "EndMs": 226820,
+        "SpeechSpeed": 11,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Have"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 825,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1460,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1460,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book pages sixty and sixty one.",
+        "SliceSentence": "Students book pages sixty and sixty one .",
+        "WrittenText": "",
+        "StartMs": 229480,
+        "EndMs": 233130,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1670,
+            "Word": "pages"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "sixty"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2865,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3230,
+            "Word": "sixty"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3650,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Read a story.",
+        "SliceSentence": "Read a story .",
+        "WrittenText": "",
+        "StartMs": 240540,
+        "EndMs": 241670,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 525,
+            "Word": "Read"
+          },
+          {
+            "OffsetStartMs": 525,
+            "OffsetEndMs": 825,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1130,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A toothless tiger.",
+        "SliceSentence": "A toothless tiger .",
+        "WrittenText": "",
+        "StartMs": 243460,
+        "EndMs": 245070,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 390,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 1190,
+            "Word": "toothless"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One.",
+        "SliceSentence": "One .",
+        "WrittenText": "",
+        "StartMs": 247080,
+        "EndMs": 247640,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "All the animals are afraid of the tiger.",
+        "SliceSentence": "All the animals are afraid of the tiger .",
+        "WrittenText": "",
+        "StartMs": 249000,
+        "EndMs": 252200,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 450,
+            "Word": "All"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 705,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 980,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "afraid"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2685,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2685,
+            "OffsetEndMs": 2910,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3200,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm the king of the forest,",
+        "SliceSentence": "I'm the king of the forest ,",
+        "WrittenText": "",
+        "StartMs": 255160,
+        "EndMs": 257720,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 950,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1270,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1865,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2210,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "forest"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " help,",
+        "SliceSentence": "help ,",
+        "WrittenText": "",
+        "StartMs": 258460,
+        "EndMs": 258860,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " help.",
+        "SliceSentence": "help .",
+        "WrittenText": "",
+        "StartMs": 259450,
+        "EndMs": 259850,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Two.",
+        "SliceSentence": "Two .",
+        "WrittenText": "",
+        "StartMs": 262260,
+        "EndMs": 262730,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The animals have a meeting.",
+        "SliceSentence": "The animals have a meeting .",
+        "WrittenText": "",
+        "StartMs": 263660,
+        "EndMs": 265420,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 180,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 180,
+            "OffsetEndMs": 440,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1260,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1470,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1760,
+            "Word": "meeting"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A clever Fox has a good idea.",
+        "SliceSentence": "A clever Fox has a good idea .",
+        "WrittenText": "",
+        "StartMs": 266400,
+        "EndMs": 268970,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 390,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 710,
+            "Word": "clever"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1785,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2025,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2025,
+            "OffsetEndMs": 2250,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2570,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What shall we do?",
+        "SliceSentence": "What shall we do ?",
+        "WrittenText": "",
+        "StartMs": 270140,
+        "EndMs": 271780,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 585,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 585,
+            "OffsetEndMs": 975,
+            "Word": "shall"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1305,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 1640,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 1640,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have an idea.",
+        "SliceSentence": "I have an idea .",
+        "WrittenText": "",
+        "StartMs": 273030,
+        "EndMs": 274480,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 950,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1175,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1450,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Three.",
+        "SliceSentence": "Three .",
+        "WrittenText": "",
+        "StartMs": 276520,
+        "EndMs": 277020,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The Fox gives the tiger a lot of candy.",
+        "SliceSentence": "The Fox gives the tiger a lot of candy .",
+        "WrittenText": "",
+        "StartMs": 277920,
+        "EndMs": 281150,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 210,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 210,
+            "OffsetEndMs": 500,
+            "Word": "Fox"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1650,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1940,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2505,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2505,
+            "OffsetEndMs": 2715,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 2715,
+            "OffsetEndMs": 2925,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2925,
+            "OffsetEndMs": 3230,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 2925,
+            "OffsetEndMs": 3230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The tiger likes the candy very much.",
+        "SliceSentence": "The tiger likes the candy very much .",
+        "WrittenText": "",
+        "StartMs": 282300,
+        "EndMs": 284990,
+        "SpeechSpeed": 13,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 225,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 500,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1410,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1700,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "My king,",
+        "SliceSentence": "My king ,",
+        "WrittenText": "",
+        "StartMs": 286020,
+        "EndMs": 286880,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": "king"
+          },
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 860,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a present for you.",
+        "SliceSentence": "I have a present for you .",
+        "WrittenText": "",
+        "StartMs": 287260,
+        "EndMs": 289460,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 920,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1270,
+            "Word": "present"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1850,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2200,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the best food in the world.",
+        "SliceSentence": "It's the best food in the world .",
+        "WrittenText": "",
+        "StartMs": 289750,
+        "EndMs": 292280,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 815,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1210,
+            "Word": "best"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2090,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2255,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2530,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Really try it.",
+        "SliceSentence": "Really try it .",
+        "WrittenText": "",
+        "StartMs": 293800,
+        "EndMs": 296100,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Really"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1905,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 1905,
+            "OffsetEndMs": 2300,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1905,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You'll love it.",
+        "SliceSentence": "You'll love it .",
+        "WrittenText": "",
+        "StartMs": 296390,
+        "EndMs": 297690,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "You'll"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 920,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1300,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Four.",
+        "SliceSentence": "Four .",
+        "WrittenText": "",
+        "StartMs": 300040,
+        "EndMs": 300540,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Four"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The tiger eats the candy every day.",
+        "SliceSentence": "The tiger eats the candy every day .",
+        "WrittenText": "",
+        "StartMs": 301420,
+        "EndMs": 304530,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 300,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 590,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1590,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1770,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2060,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2630,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Soon,",
+        "SliceSentence": "Soon ,",
+        "WrittenText": "",
+        "StartMs": 305340,
+        "EndMs": 305750,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Soon"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he has a toothache.",
+        "SliceSentence": "he has a toothache .",
+        "WrittenText": "",
+        "StartMs": 306130,
+        "EndMs": 307640,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1510,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The animals come to help.",
+        "SliceSentence": "The animals come to help .",
+        "WrittenText": "",
+        "StartMs": 308540,
+        "EndMs": 310600,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 330,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 330,
+            "OffsetEndMs": 620,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1545,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 1545,
+            "OffsetEndMs": 1785,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2060,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1785,
+            "OffsetEndMs": 2060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "They pull all the tiger's teeth out.",
+        "SliceSentence": "They pull all the tiger's teeth out .",
+        "WrittenText": "",
+        "StartMs": 311420,
+        "EndMs": 313840,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 225,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 560,
+            "Word": "pull"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1005,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1275,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1815,
+            "Word": "tiger's"
+          },
+          {
+            "OffsetStartMs": 1815,
+            "OffsetEndMs": 2055,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2420,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He becomes a toothless tiger.",
+        "SliceSentence": "He becomes a toothless tiger .",
+        "WrittenText": "",
+        "StartMs": 314340,
+        "EndMs": 316840,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "becomes"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1355,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 2050,
+            "Word": "toothless"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Students book page 63.",
+        "SliceSentence": "Students book page 63 .",
+        "WrittenText": "",
+        "StartMs": 320340,
+        "EndMs": 323210,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 680,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1730,
+            "Word": "page"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2870,
+            "Word": "63"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and enjoy.",
+        "SliceSentence": "Listen and enjoy .",
+        "WrittenText": "",
+        "StartMs": 328600,
+        "EndMs": 330180,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1100,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "enjoy"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Doctor,",
+        "SliceSentence": "Doctor ,",
+        "WrittenText": "",
+        "StartMs": 332140,
+        "EndMs": 334980,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 2440,
+            "OffsetEndMs": 2840,
+            "Word": "Doctor"
+          },
+          {
+            "OffsetStartMs": 2440,
+            "OffsetEndMs": 2840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " doctor I have a toothache you shouldn didn't eat so many cakes doctor doctor I have a fever you should drink a lot of water doctor doctor I have a c cold you should wear warm clothes doctor doctor I have a cough you should take some medicine doctor doctor I have a toothache you shouldn't eat so many cakes doctor doctor I have a fever you should drink a lot of water doctor.",
+        "SliceSentence": "doctor I have a toothache you shouldn didn't eat so many cakes doctor doctor I have a fever you should drink a lot of water doctor doctor I have a c cold you should wear warm clothes doctor doctor I have a cough you should take some medicine doctor doctor I have a toothache you shouldn't eat so many cakes doctor doctor I have a fever you should drink a lot of water doctor .",
+        "WrittenText": "",
+        "StartMs": 335180,
+        "EndMs": 366030,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 75,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 935,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1175,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1805,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 1970,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2165,
+            "Word": "shouldn"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2540,
+            "Word": "didn't"
+          },
+          {
+            "OffsetStartMs": 2540,
+            "OffsetEndMs": 2765,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3050,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3370,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3970,
+            "Word": "cakes"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4570,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5170,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 5340,
+            "OffsetEndMs": 5690,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 5690,
+            "OffsetEndMs": 5930,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 5930,
+            "OffsetEndMs": 6080,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6080,
+            "OffsetEndMs": 6650,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 6650,
+            "OffsetEndMs": 6920,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 6920,
+            "OffsetEndMs": 7220,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 7220,
+            "OffsetEndMs": 7535,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 7535,
+            "OffsetEndMs": 7790,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7790,
+            "OffsetEndMs": 8075,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 8075,
+            "OffsetEndMs": 8360,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 8360,
+            "OffsetEndMs": 8680,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 8910,
+            "OffsetEndMs": 9310,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 9510,
+            "OffsetEndMs": 9910,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 10110,
+            "OffsetEndMs": 10460,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 10460,
+            "OffsetEndMs": 10700,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 10700,
+            "OffsetEndMs": 10820,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 10820,
+            "OffsetEndMs": 10865,
+            "Word": "c"
+          },
+          {
+            "OffsetStartMs": 10865,
+            "OffsetEndMs": 11080,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 11370,
+            "OffsetEndMs": 11675,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 11675,
+            "OffsetEndMs": 11960,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 11960,
+            "OffsetEndMs": 12340,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 12540,
+            "OffsetEndMs": 12940,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 13110,
+            "OffsetEndMs": 13510,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 13710,
+            "OffsetEndMs": 14110,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 14310,
+            "OffsetEndMs": 14710,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 14850,
+            "OffsetEndMs": 15200,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 15200,
+            "OffsetEndMs": 15440,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 15440,
+            "OffsetEndMs": 15575,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 15575,
+            "OffsetEndMs": 15850,
+            "Word": "cough"
+          },
+          {
+            "OffsetStartMs": 16110,
+            "OffsetEndMs": 16445,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 16445,
+            "OffsetEndMs": 16730,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 16730,
+            "OffsetEndMs": 17045,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 17045,
+            "OffsetEndMs": 17330,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 17330,
+            "OffsetEndMs": 17650,
+            "Word": "medicine"
+          },
+          {
+            "OffsetStartMs": 20820,
+            "OffsetEndMs": 21220,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 21450,
+            "OffsetEndMs": 21850,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 22080,
+            "OffsetEndMs": 22430,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 22430,
+            "OffsetEndMs": 22670,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 22670,
+            "OffsetEndMs": 22820,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 22820,
+            "OffsetEndMs": 23330,
+            "Word": "toothache"
+          },
+          {
+            "OffsetStartMs": 23330,
+            "OffsetEndMs": 23615,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 23615,
+            "OffsetEndMs": 24005,
+            "Word": "shouldn't"
+          },
+          {
+            "OffsetStartMs": 24005,
+            "OffsetEndMs": 24230,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 24230,
+            "OffsetEndMs": 24530,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 24530,
+            "OffsetEndMs": 24880,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 25020,
+            "OffsetEndMs": 25450,
+            "Word": "cakes"
+          },
+          {
+            "OffsetStartMs": 25620,
+            "OffsetEndMs": 26020,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 26220,
+            "OffsetEndMs": 26620,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 26850,
+            "OffsetEndMs": 27200,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 27200,
+            "OffsetEndMs": 27440,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 27440,
+            "OffsetEndMs": 27590,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 27590,
+            "OffsetEndMs": 28115,
+            "Word": "fever"
+          },
+          {
+            "OffsetStartMs": 28115,
+            "OffsetEndMs": 28370,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 28370,
+            "OffsetEndMs": 28670,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 28670,
+            "OffsetEndMs": 28985,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 28985,
+            "OffsetEndMs": 29270,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 29270,
+            "OffsetEndMs": 29555,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 29555,
+            "OffsetEndMs": 29855,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 29855,
+            "OffsetEndMs": 30220,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 30450,
+            "OffsetEndMs": 30850,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 30450,
+            "OffsetEndMs": 30850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Doctor I have a cold you should wear warm clothes doctor.",
+        "SliceSentence": "Doctor I have a cold you should wear warm clothes doctor .",
+        "WrittenText": "",
+        "StartMs": 366200,
+        "EndMs": 370770,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Doctor"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 980,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1220,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1355,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1600,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2120,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2405,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2770,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4570,
+            "Word": "doctor"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Doctor,",
+        "SliceSentence": "Doctor ,",
+        "WrittenText": "",
+        "StartMs": 370970,
+        "EndMs": 371370,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Doctor"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a cough you should take some medicine.",
+        "SliceSentence": "I have a cough you should take some medicine .",
+        "WrittenText": "",
+        "StartMs": 371630,
+        "EndMs": 374340,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 940,
+            "Word": "cough"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1490,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1760,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2075,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2375,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2710,
+            "Word": "medicine"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Learn the sounds.",
+        "SliceSentence": "Learn the sounds .",
+        "WrittenText": "",
+        "StartMs": 431820,
+        "EndMs": 432800,
+        "SpeechSpeed": 16.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 495,
+            "Word": "Learn"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 720,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 980,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 57480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A Y A may.",
+        "SliceSentence": "A Y A may .",
+        "WrittenText": "",
+        "StartMs": 434760,
+        "EndMs": 437690,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 435,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 830,
+            "Word": "Y"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1790,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 2530,
+            "OffsetEndMs": 2930,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 2530,
+            "OffsetEndMs": 2930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ay a may.",
+        "SliceSentence": "Ay a may .",
+        "WrittenText": "",
+        "StartMs": 439700,
+        "EndMs": 442660,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 830,
+            "Word": "Ay"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 2960,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 2960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "AI a wait.",
+        "SliceSentence": "AI a wait .",
+        "WrittenText": "",
+        "StartMs": 444840,
+        "EndMs": 447860,
+        "SpeechSpeed": 3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "AI"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "AI I a wait?",
+        "SliceSentence": "AI I a wait ?",
+        "WrittenText": "",
+        "StartMs": 449660,
+        "EndMs": 452680,
+        "SpeechSpeed": 3.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 435,
+            "Word": "AI"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 830,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What's the date today?",
+        "SliceSentence": "What's the date today ?",
+        "WrittenText": "",
+        "StartMs": 454760,
+        "EndMs": 458860,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2970,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3150,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3470,
+            "Word": "date"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4100,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4100,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the fifth of may.",
+        "SliceSentence": "It's the fifth of may .",
+        "WrittenText": "",
+        "StartMs": 459030,
+        "EndMs": 461110,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "fifth"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1760,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's my birthday today.",
+        "SliceSentence": "It's my birthday today .",
+        "WrittenText": "",
+        "StartMs": 461940,
+        "EndMs": 463630,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 665,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hooray hooray.",
+        "SliceSentence": "Hooray hooray .",
+        "WrittenText": "",
+        "StartMs": 464070,
+        "EndMs": 466000,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Hooray"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1930,
+            "Word": "hooray"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come and play,",
+        "SliceSentence": "Come and play ,",
+        "WrittenText": "",
+        "StartMs": 466170,
+        "EndMs": 467260,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " come and play.",
+        "SliceSentence": "come and play .",
+        "WrittenText": "",
+        "StartMs": 467400,
+        "EndMs": 468490,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 710,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I come't wait,",
+        "SliceSentence": "I come't wait ,",
+        "WrittenText": "",
+        "StartMs": 469170,
+        "EndMs": 470770,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1280,
+            "Word": "come't"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a happy day.",
+        "SliceSentence": "it's a happy day .",
+        "WrittenText": "",
+        "StartMs": 471510,
+        "EndMs": 473110,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's the date today?",
+        "SliceSentence": "What's the date today ?",
+        "WrittenText": "",
+        "StartMs": 475170,
+        "EndMs": 476740,
+        "SpeechSpeed": 14,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "date"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the fifth of may.",
+        "SliceSentence": "It's the fifth of may .",
+        "WrittenText": "",
+        "StartMs": 476940,
+        "EndMs": 479050,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "fifth"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1775,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's my birthday today.",
+        "SliceSentence": "It's my birthday today .",
+        "WrittenText": "",
+        "StartMs": 479820,
+        "EndMs": 481480,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 650,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hooray,",
+        "SliceSentence": "Hooray ,",
+        "WrittenText": "",
+        "StartMs": 481920,
+        "EndMs": 482650,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Hooray"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hooray.",
+        "SliceSentence": "hooray .",
+        "WrittenText": "",
+        "StartMs": 483120,
+        "EndMs": 483850,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "hooray"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come and play,",
+        "SliceSentence": "Come and play ,",
+        "WrittenText": "",
+        "StartMs": 484080,
+        "EndMs": 485080,
+        "SpeechSpeed": 14,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1000,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " come and play.",
+        "SliceSentence": "come and play .",
+        "WrittenText": "",
+        "StartMs": 485190,
+        "EndMs": 486340,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't wait.",
+        "SliceSentence": "I can't wait .",
+        "WrittenText": "",
+        "StartMs": 487020,
+        "EndMs": 488590,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1235,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a happy day.",
+        "SliceSentence": "It's a happy day .",
+        "WrittenText": "",
+        "StartMs": 489390,
+        "EndMs": 491020,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

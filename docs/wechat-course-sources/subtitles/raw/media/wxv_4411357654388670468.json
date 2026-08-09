@@ -1,0 +1,1090 @@
+{
+  "RequestId": "5e744268-8082-4c47-b5b5-a6a74d8368fc",
+  "Data": {
+    "TaskId": 16292478218,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 94.273,
+    "Result": "Li Ming's and Li Yang's day hi, I'm Li Ming. I get up at seven o'clock every day. I brush my teeth and wash my face. What time does Li Liang get up? Then I have breakfast. I go to school. At half past seven, my little brother Li young gets up at eight o'clock. Then he drinks some milk. I have four lessons in the morning. I read books and work with my friends. Li Li Yang likes drawing pictures.What time does Li Ming come home? I get home at a quarter to five, I play with my brother. I read a story to Li Yang. At a quarter to nine, we go to bed at nine o'clock. Good night, kids.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Li Ming's and Li Yang's day hi,",
+        "SliceSentence": "Li Ming's and Li Yang's day hi ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 5660,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 750,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1460,
+            "Word": "Ming's"
+          },
+          {
+            "OffsetStartMs": 1600,
+            "OffsetEndMs": 2000,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2565,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 2565,
+            "OffsetEndMs": 3260,
+            "Word": "Yang's"
+          },
+          {
+            "OffsetStartMs": 3280,
+            "OffsetEndMs": 3680,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 5260,
+            "OffsetEndMs": 5660,
+            "Word": "hi"
+          },
+          {
+            "OffsetStartMs": 5260,
+            "OffsetEndMs": 5660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm Li Ming.",
+        "SliceSentence": "I'm Li Ming .",
+        "WrittenText": "",
+        "StartMs": 6160,
+        "EndMs": 7310,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 755,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "Ming"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I get up at seven o'clock every day.",
+        "SliceSentence": "I get up at seven o'clock every day .",
+        "WrittenText": "",
+        "StartMs": 8470,
+        "EndMs": 12140,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 695,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 980,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1330,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "seven"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2530,
+            "Word": "o'clock"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I brush my teeth and wash my face.",
+        "SliceSentence": "I brush my teeth and wash my face .",
+        "WrittenText": "",
+        "StartMs": 13510,
+        "EndMs": 16820,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "brush"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2165,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2165,
+            "OffsetEndMs": 2560,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2945,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3310,
+            "Word": "face"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What time does Li Liang get up?",
+        "SliceSentence": "What time does Li Liang get up ?",
+        "WrittenText": "",
+        "StartMs": 18310,
+        "EndMs": 20990,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1490,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1900,
+            "Word": "Liang"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2345,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2680,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2680,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then I have breakfast.",
+        "SliceSentence": "Then I have breakfast .",
+        "WrittenText": "",
+        "StartMs": 22660,
+        "EndMs": 24290,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1235,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1630,
+            "Word": "breakfast"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I go to school.",
+        "SliceSentence": "I go to school .",
+        "WrittenText": "",
+        "StartMs": 26530,
+        "EndMs": 27890,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 995,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At half past seven,",
+        "SliceSentence": "At half past seven ,",
+        "WrittenText": "",
+        "StartMs": 28030,
+        "EndMs": 29690,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 785,
+            "Word": "half"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1180,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "seven"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my little brother Li young gets up at eight o'clock.",
+        "SliceSentence": "my little brother Li young gets up at eight o'clock .",
+        "WrittenText": "",
+        "StartMs": 32380,
+        "EndMs": 37220,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1700,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2080,
+            "Word": "young"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "gets"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4205,
+            "Word": "eight"
+          },
+          {
+            "OffsetStartMs": 4205,
+            "OffsetEndMs": 4840,
+            "Word": "o'clock"
+          },
+          {
+            "OffsetStartMs": 4205,
+            "OffsetEndMs": 4840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then he drinks some milk.",
+        "SliceSentence": "Then he drinks some milk .",
+        "WrittenText": "",
+        "StartMs": 38260,
+        "EndMs": 40280,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "drinks"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1640,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 2020,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have four lessons in the morning.",
+        "SliceSentence": "I have four lessons in the morning .",
+        "WrittenText": "",
+        "StartMs": 42460,
+        "EndMs": 45560,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2630,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2825,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3100,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I read books and work with my friends.",
+        "SliceSentence": "I read books and work with my friends .",
+        "WrittenText": "",
+        "StartMs": 46450,
+        "EndMs": 49970,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2795,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3125,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3125,
+            "OffsetEndMs": 3520,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 3125,
+            "OffsetEndMs": 3520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Li Li Yang likes drawing pictures.",
+        "SliceSentence": "Li Li Yang likes drawing pictures .",
+        "WrittenText": "",
+        "StartMs": 52450,
+        "EndMs": 54950,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 575,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "Yang"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "drawing"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "What time does Li Ming come home?",
+        "SliceSentence": "What time does Li Ming come home ?",
+        "WrittenText": "",
+        "StartMs": 60400,
+        "EndMs": 63540,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 620,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2300,
+            "Word": "Ming"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2720,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3140,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3140,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I get home at a quarter to five,",
+        "SliceSentence": "I get home at a quarter to five ,",
+        "WrittenText": "",
+        "StartMs": 65180,
+        "EndMs": 68370,
+        "SpeechSpeed": 10,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2045,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2350,
+            "Word": "quarter"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2870,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2870,
+            "OffsetEndMs": 3190,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 2870,
+            "OffsetEndMs": 3190,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I play with my brother.",
+        "SliceSentence": "I play with my brother .",
+        "WrittenText": "",
+        "StartMs": 69740,
+        "EndMs": 71640,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 905,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1205,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1505,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1900,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I read a story to Li Yang.",
+        "SliceSentence": "I read a story to Li Yang .",
+        "WrittenText": "",
+        "StartMs": 73940,
+        "EndMs": 76650,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 770,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1085,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1450,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1970,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2285,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2710,
+            "Word": "Yang"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At a quarter to nine,",
+        "SliceSentence": "At a quarter to nine ,",
+        "WrittenText": "",
+        "StartMs": 76910,
+        "EndMs": 78900,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 830,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1150,
+            "Word": "quarter"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1670,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1990,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1990,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we go to bed at nine o'clock.",
+        "SliceSentence": "we go to bed at nine o'clock .",
+        "WrittenText": "",
+        "StartMs": 81260,
+        "EndMs": 84420,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 890,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1180,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 3160,
+            "Word": "o'clock"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 3160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good night,",
+        "SliceSentence": "Good night ,",
+        "WrittenText": "",
+        "StartMs": 85520,
+        "EndMs": 86130,
+        "SpeechSpeed": 18,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " kids.",
+        "SliceSentence": "kids .",
+        "WrittenText": "",
+        "StartMs": 86240,
+        "EndMs": 86640,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "kids"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

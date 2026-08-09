@@ -1,0 +1,1425 @@
+{
+  "RequestId": "3a58a281-cfe4-48f7-ad0d-32b83370cab1",
+  "Data": {
+    "TaskId": 16292440573,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 154.36625,
+    "Result": "The boy and the wolf day one this is a story about a boy. I'm sitting on the grass, I'm watching the sheep. How boring. I want to sleep.The boy wants to have some fun. Wolf wolf. I see a wolf help help wolf wolf. I see a wolf help. Help the farmers come. We can help you where's the wolf? Haha, there is no wolf day two.I'm lying on the grass I'm watching the sheep how boring I want to sleep wolf wolf I see a wolf help help wolf wolf I see a wolf help help we can help you where's the wolf there is no wolf day three a wolf comes wolf wolf I see a wolf help help wolf wolf I see a wolf help help but no one comes sheep, sheep. I'm so hungry it's time to eat.Sheep, sheep I'm so hungry I see yummy meat oh no my sheep, my sheep the wolf eats the sheep the boy goes to the farm I see a wolf but no one comes you've fooled us, we don't trust you, don't tell a lie.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The boy and the wolf day one this is a story about a boy.",
+        "SliceSentence": "The boy and the wolf day one this is a story about a boy .",
+        "WrittenText": "",
+        "StartMs": 200,
+        "EndMs": 9700,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 510,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 800,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1320,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1880,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 4240,
+            "OffsetEndMs": 4640,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5090,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 7180,
+            "OffsetEndMs": 7500,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 7500,
+            "OffsetEndMs": 7710,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 7905,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7905,
+            "OffsetEndMs": 8210,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 8740,
+            "OffsetEndMs": 9060,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 9060,
+            "OffsetEndMs": 9240,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 9240,
+            "OffsetEndMs": 9500,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 9240,
+            "OffsetEndMs": 9500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm sitting on the grass,",
+        "SliceSentence": "I'm sitting on the grass ,",
+        "WrittenText": "",
+        "StartMs": 15600,
+        "EndMs": 17410,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 790,
+            "Word": "sitting"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "grass"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm watching the sheep.",
+        "SliceSentence": "I'm watching the sheep .",
+        "WrittenText": "",
+        "StartMs": 17700,
+        "EndMs": 19180,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "watching"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1205,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1480,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How boring.",
+        "SliceSentence": "How boring .",
+        "WrittenText": "",
+        "StartMs": 19680,
+        "EndMs": 20650,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "boring"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to sleep.",
+        "SliceSentence": "I want to sleep .",
+        "WrittenText": "",
+        "StartMs": 21900,
+        "EndMs": 23140,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 905,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1240,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The boy wants to have some fun.",
+        "SliceSentence": "The boy wants to have some fun .",
+        "WrittenText": "",
+        "StartMs": 26480,
+        "EndMs": 30520,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 975,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 975,
+            "OffsetEndMs": 1310,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2150,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2670,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 2990,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3640,
+            "OffsetEndMs": 4040,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 3640,
+            "OffsetEndMs": 4040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wolf wolf.",
+        "SliceSentence": "Wolf wolf .",
+        "WrittenText": "",
+        "StartMs": 32070,
+        "EndMs": 33220,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wolf"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a wolf help help wolf wolf.",
+        "SliceSentence": "I see a wolf help help wolf wolf .",
+        "WrittenText": "",
+        "StartMs": 33720,
+        "EndMs": 39010,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 680,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 845,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1120,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4510,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 4890,
+            "OffsetEndMs": 5290,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 4890,
+            "OffsetEndMs": 5290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a wolf help.",
+        "SliceSentence": "I see a wolf help .",
+        "WrittenText": "",
+        "StartMs": 39480,
+        "EndMs": 41170,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 605,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 770,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1060,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Help the farmers come.",
+        "SliceSentence": "Help the farmers come .",
+        "WrittenText": "",
+        "StartMs": 41280,
+        "EndMs": 44500,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Help"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1925,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2260,
+            "Word": "farmers"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can help you where's the wolf?",
+        "SliceSentence": "We can help you where's the wolf ?",
+        "WrittenText": "",
+        "StartMs": 45570,
+        "EndMs": 48820,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2840,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 2975,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3250,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3250,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Haha,",
+        "SliceSentence": "Haha ,",
+        "WrittenText": "",
+        "StartMs": 51240,
+        "EndMs": 52030,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "Haha"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there is no wolf day two.",
+        "SliceSentence": "there is no wolf day two .",
+        "WrittenText": "",
+        "StartMs": 52500,
+        "EndMs": 58120,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5110,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5620,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm lying on the grass I'm watching the sheep how boring I want to sleep wolf wolf I see a wolf help help wolf wolf I see a wolf help help we can help you where's the wolf there is no wolf day three a wolf comes wolf wolf I see a wolf help help wolf wolf I see a wolf help help but no one comes sheep,",
+        "SliceSentence": "I'm lying on the grass I'm watching the sheep how boring I want to sleep wolf wolf I see a wolf help help wolf wolf I see a wolf help help we can help you where's the wolf there is no wolf day three a wolf comes wolf wolf I see a wolf help help wolf wolf I see a wolf help help but no one comes sheep ,",
+        "WrittenText": "",
+        "StartMs": 59660,
+        "EndMs": 113560,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 69,
+        "Words": [
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2190,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2445,
+            "Word": "lying"
+          },
+          {
+            "OffsetStartMs": 2445,
+            "OffsetEndMs": 2745,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2745,
+            "OffsetEndMs": 2940,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3230,
+            "Word": "grass"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4230,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 4230,
+            "OffsetEndMs": 4490,
+            "Word": "watching"
+          },
+          {
+            "OffsetStartMs": 4630,
+            "OffsetEndMs": 4920,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4920,
+            "OffsetEndMs": 5210,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 6010,
+            "OffsetEndMs": 6410,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 6580,
+            "OffsetEndMs": 6980,
+            "Word": "boring"
+          },
+          {
+            "OffsetStartMs": 7840,
+            "OffsetEndMs": 8175,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 8175,
+            "OffsetEndMs": 8475,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 8475,
+            "OffsetEndMs": 8775,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 8775,
+            "OffsetEndMs": 9110,
+            "Word": "sleep"
+          },
+          {
+            "OffsetStartMs": 11290,
+            "OffsetEndMs": 11690,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 12010,
+            "OffsetEndMs": 12410,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 12910,
+            "OffsetEndMs": 13305,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 13305,
+            "OffsetEndMs": 13590,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 13590,
+            "OffsetEndMs": 13770,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 13770,
+            "OffsetEndMs": 14060,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 14740,
+            "OffsetEndMs": 15140,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 15580,
+            "OffsetEndMs": 15980,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 16510,
+            "OffsetEndMs": 16910,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 17290,
+            "OffsetEndMs": 17690,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 18160,
+            "OffsetEndMs": 18540,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 18540,
+            "OffsetEndMs": 18795,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 18795,
+            "OffsetEndMs": 18945,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 18945,
+            "OffsetEndMs": 19220,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 19360,
+            "OffsetEndMs": 19760,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 19870,
+            "OffsetEndMs": 20270,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 22990,
+            "OffsetEndMs": 23355,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 23355,
+            "OffsetEndMs": 23700,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 23700,
+            "OffsetEndMs": 24080,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 24160,
+            "OffsetEndMs": 24560,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 25390,
+            "OffsetEndMs": 25935,
+            "Word": "where's"
+          },
+          {
+            "OffsetStartMs": 25935,
+            "OffsetEndMs": 26100,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 26100,
+            "OffsetEndMs": 26390,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 29800,
+            "OffsetEndMs": 30180,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 30180,
+            "OffsetEndMs": 30540,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 30540,
+            "OffsetEndMs": 30920,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 31060,
+            "OffsetEndMs": 31460,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 34510,
+            "OffsetEndMs": 34910,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 35110,
+            "OffsetEndMs": 35510,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 36880,
+            "OffsetEndMs": 37185,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 37185,
+            "OffsetEndMs": 37490,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 37510,
+            "OffsetEndMs": 37910,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 39550,
+            "OffsetEndMs": 39950,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 40300,
+            "OffsetEndMs": 40700,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 41230,
+            "OffsetEndMs": 41610,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 41610,
+            "OffsetEndMs": 41880,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 41880,
+            "OffsetEndMs": 42060,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 42060,
+            "OffsetEndMs": 42350,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 43060,
+            "OffsetEndMs": 43460,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 43870,
+            "OffsetEndMs": 44270,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 45310,
+            "OffsetEndMs": 45710,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 46090,
+            "OffsetEndMs": 46490,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 46960,
+            "OffsetEndMs": 47325,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 47325,
+            "OffsetEndMs": 47580,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 47580,
+            "OffsetEndMs": 47730,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 47730,
+            "OffsetEndMs": 47990,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 48220,
+            "OffsetEndMs": 48620,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 48730,
+            "OffsetEndMs": 49130,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 49450,
+            "OffsetEndMs": 49850,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 50050,
+            "OffsetEndMs": 50450,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 50500,
+            "OffsetEndMs": 50900,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 50920,
+            "OffsetEndMs": 51320,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 53500,
+            "OffsetEndMs": 53900,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 53500,
+            "OffsetEndMs": 53900,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sheep.",
+        "SliceSentence": "sheep .",
+        "WrittenText": "",
+        "StartMs": 114210,
+        "EndMs": 114610,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm so hungry it's time to eat.",
+        "SliceSentence": "I'm so hungry it's time to eat .",
+        "WrittenText": "",
+        "StartMs": 114960,
+        "EndMs": 118870,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2675,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 2980,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3560,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3910,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sheep,",
+        "SliceSentence": "Sheep ,",
+        "WrittenText": "",
+        "StartMs": 120140,
+        "EndMs": 120430,
+        "SpeechSpeed": 17.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Sheep"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sheep I'm so hungry I see yummy meat oh no my sheep,",
+        "SliceSentence": "sheep I'm so hungry I see yummy meat oh no my sheep ,",
+        "WrittenText": "",
+        "StartMs": 121290,
+        "EndMs": 129430,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1520,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4060,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 5015,
+            "Word": "yummy"
+          },
+          {
+            "OffsetStartMs": 5015,
+            "OffsetEndMs": 5380,
+            "Word": "meat"
+          },
+          {
+            "OffsetStartMs": 6390,
+            "OffsetEndMs": 6785,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 6785,
+            "OffsetEndMs": 7180,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 7440,
+            "OffsetEndMs": 7790,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 7790,
+            "OffsetEndMs": 8140,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 7790,
+            "OffsetEndMs": 8140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my sheep the wolf eats the sheep the boy goes to the farm I see a wolf but no one comes you've fooled us,",
+        "SliceSentence": "my sheep the wolf eats the sheep the boy goes to the farm I see a wolf but no one comes you've fooled us ,",
+        "WrittenText": "",
+        "StartMs": 129750,
+        "EndMs": 144790,
+        "SpeechSpeed": 7,
+        "WordsNum": 25,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3065,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3430,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4535,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4850,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4850,
+            "OffsetEndMs": 5170,
+            "Word": "sheep"
+          },
+          {
+            "OffsetStartMs": 6330,
+            "OffsetEndMs": 6665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6665,
+            "OffsetEndMs": 7000,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 7320,
+            "OffsetEndMs": 7720,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 7950,
+            "OffsetEndMs": 8270,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 8270,
+            "OffsetEndMs": 8495,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8495,
+            "OffsetEndMs": 8800,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 9900,
+            "OffsetEndMs": 10265,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 10265,
+            "OffsetEndMs": 10505,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 10505,
+            "OffsetEndMs": 10670,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 10670,
+            "OffsetEndMs": 10960,
+            "Word": "wolf"
+          },
+          {
+            "OffsetStartMs": 11220,
+            "OffsetEndMs": 11525,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 11525,
+            "OffsetEndMs": 11810,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 11810,
+            "OffsetEndMs": 12140,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 12140,
+            "OffsetEndMs": 12490,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 13800,
+            "OffsetEndMs": 14315,
+            "Word": "you've"
+          },
+          {
+            "OffsetStartMs": 14315,
+            "OffsetEndMs": 14795,
+            "Word": "fooled"
+          },
+          {
+            "OffsetStartMs": 14795,
+            "OffsetEndMs": 15040,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 14795,
+            "OffsetEndMs": 15040,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we don't trust you,",
+        "SliceSentence": "we don't trust you ,",
+        "WrittenText": "",
+        "StartMs": 146040,
+        "EndMs": 147880,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1010,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1390,
+            "Word": "trust"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " don't tell a lie.",
+        "SliceSentence": "don't tell a lie .",
+        "WrittenText": "",
+        "StartMs": 149550,
+        "EndMs": 151570,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "tell"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1685,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2020,
+            "Word": "lie"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

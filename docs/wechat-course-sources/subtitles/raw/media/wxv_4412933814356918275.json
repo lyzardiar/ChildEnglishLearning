@@ -1,0 +1,478 @@
+{
+  "RequestId": "7074d63e-becd-43c0-b454-f0cc1f119fb3",
+  "Data": {
+    "TaskId": 16292570196,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 32.925938,
+    "Result": "Life was different in the past. Time went slowly, not so fast. Children had fun all day long, running and jumping and singing a song. Life is easy these days. Machines help in many ways. Time goes fast, but it's okay. We still have lots of time to play.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Life was different in the past.",
+        "SliceSentence": "Life was different in the past .",
+        "WrittenText": "",
+        "StartMs": 1160,
+        "EndMs": 4300,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "Life"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 2290,
+            "OffsetEndMs": 2640,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 2865,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3140,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Time went slowly,",
+        "SliceSentence": "Time went slowly ,",
+        "WrittenText": "",
+        "StartMs": 5100,
+        "EndMs": 6400,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Time"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "went"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "slowly"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " not so fast.",
+        "SliceSentence": "not so fast .",
+        "WrittenText": "",
+        "StartMs": 6900,
+        "EndMs": 8020,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Children had fun all day long,",
+        "SliceSentence": "Children had fun all day long ,",
+        "WrittenText": "",
+        "StartMs": 9240,
+        "EndMs": 12040,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Children"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1205,
+            "Word": "had"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1595,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1990,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2420,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2800,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2800,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " running and jumping and singing a song.",
+        "SliceSentence": "running and jumping and singing a song .",
+        "WrittenText": "",
+        "StartMs": 12660,
+        "EndMs": 16060,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "running"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 980,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1360,
+            "Word": "jumping"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2180,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2560,
+            "Word": "singing"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3065,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3400,
+            "Word": "song"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Life is easy these days.",
+        "SliceSentence": "Life is easy these days .",
+        "WrittenText": "",
+        "StartMs": 17610,
+        "EndMs": 20080,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Life"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "easy"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "days"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Machines help in many ways.",
+        "SliceSentence": "Machines help in many ways .",
+        "WrittenText": "",
+        "StartMs": 20730,
+        "EndMs": 23290,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Machines"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1730,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2080,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "ways"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Time goes fast,",
+        "SliceSentence": "Time goes fast ,",
+        "WrittenText": "",
+        "StartMs": 24510,
+        "EndMs": 25840,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Time"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but it's okay.",
+        "SliceSentence": "but it's okay .",
+        "WrittenText": "",
+        "StartMs": 26310,
+        "EndMs": 27700,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 970,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We still have lots of time to play.",
+        "SliceSentence": "We still have lots of time to play .",
+        "WrittenText": "",
+        "StartMs": 28170,
+        "EndMs": 31660,
+        "SpeechSpeed": 10,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1355,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "lots"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2180,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2560,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3155,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3490,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

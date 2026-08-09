@@ -1,0 +1,322 @@
+{
+  "RequestId": "7bfedc4d-350e-4042-914f-34c55fc59630",
+  "Data": {
+    "TaskId": 16292504057,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 43.886938,
+    "Result": "E we.We play a game. Eva rolls the dice and even number 12 how nice. Jack rolls a nine, it's five for me, but Annie wins. She rolls a three.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "E we.",
+        "SliceSentence": "E we .",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 15420,
+        "SpeechSpeed": 0.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 5980,
+            "OffsetEndMs": 6380,
+            "Word": "E"
+          },
+          {
+            "OffsetStartMs": 14920,
+            "OffsetEndMs": 15320,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 14920,
+            "OffsetEndMs": 15320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We play a game.",
+        "SliceSentence": "We play a game .",
+        "WrittenText": "",
+        "StartMs": 19540,
+        "EndMs": 23340,
+        "SpeechSpeed": 3.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3210,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3495,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3495,
+            "OffsetEndMs": 3800,
+            "Word": "game"
+          },
+          {
+            "OffsetStartMs": 3495,
+            "OffsetEndMs": 3800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Eva rolls the dice and even number 12 how nice.",
+        "SliceSentence": "Eva rolls the dice and even number 12 how nice .",
+        "WrittenText": "",
+        "StartMs": 24050,
+        "EndMs": 30420,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "Eva"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1175,
+            "Word": "rolls"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1660,
+            "Word": "dice"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2480,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2830,
+            "Word": "even"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "number"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "12"
+          },
+          {
+            "OffsetStartMs": 5670,
+            "OffsetEndMs": 6020,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 6020,
+            "OffsetEndMs": 6370,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 6020,
+            "OffsetEndMs": 6370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Jack rolls a nine,",
+        "SliceSentence": "Jack rolls a nine ,",
+        "WrittenText": "",
+        "StartMs": 31340,
+        "EndMs": 32970,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Jack"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1115,
+            "Word": "rolls"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1310,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's five for me,",
+        "SliceSentence": "it's five for me ,",
+        "WrittenText": "",
+        "StartMs": 33170,
+        "EndMs": 35190,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but Annie wins.",
+        "SliceSentence": "but Annie wins .",
+        "WrittenText": "",
+        "StartMs": 35750,
+        "EndMs": 37560,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1060,
+            "Word": "Annie"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "wins"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She rolls a three.",
+        "SliceSentence": "She rolls a three .",
+        "WrittenText": "",
+        "StartMs": 38240,
+        "EndMs": 40020,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1250,
+            "Word": "rolls"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1445,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1780,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

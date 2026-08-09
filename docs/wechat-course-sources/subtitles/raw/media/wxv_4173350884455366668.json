@@ -1,0 +1,228 @@
+{
+  "RequestId": "02bd15bb-3dc2-4a2b-88ba-09548ead6747",
+  "Data": {
+    "TaskId": 16292421628,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 28.049688,
+    "Result": "Do you use them? This is my pencil. This is my pen. This is my crayon. This is my colored pencil.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Do you use them?",
+        "SliceSentence": "Do you use them ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2090,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1065,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1305,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 1640,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2090,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my pencil.",
+        "SliceSentence": "This is my pencil .",
+        "WrittenText": "",
+        "StartMs": 3610,
+        "EndMs": 5300,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1070,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1355,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my pen.",
+        "SliceSentence": "This is my pen .",
+        "WrittenText": "",
+        "StartMs": 9700,
+        "EndMs": 11540,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1175,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1505,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my crayon.",
+        "SliceSentence": "This is my crayon .",
+        "WrittenText": "",
+        "StartMs": 15670,
+        "EndMs": 17720,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 2050,
+            "Word": "crayon"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my colored pencil.",
+        "SliceSentence": "This is my colored pencil .",
+        "WrittenText": "",
+        "StartMs": 21820,
+        "EndMs": 23960,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1040,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1420,
+            "Word": "colored"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "pencil"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4100,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

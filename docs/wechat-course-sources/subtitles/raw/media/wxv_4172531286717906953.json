@@ -1,0 +1,272 @@
+{
+  "RequestId": "445dcfa9-130f-4feb-8328-7b4eeccf424b",
+  "Data": {
+    "TaskId": 16292416828,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 24.288063,
+    "Result": "Different families. I'm cook. My family is small. I'm lingling. This is my family. It's big. I'm an n this is.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Different families.",
+        "SliceSentence": "Different families .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1820,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1250,
+            "Word": "Different"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm cook.",
+        "SliceSentence": "I'm cook .",
+        "WrittenText": "",
+        "StartMs": 3640,
+        "EndMs": 4670,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "cook"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My family is small.",
+        "SliceSentence": "My family is small .",
+        "WrittenText": "",
+        "StartMs": 5710,
+        "EndMs": 7670,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm lingling.",
+        "SliceSentence": "I'm lingling .",
+        "WrittenText": "",
+        "StartMs": 9640,
+        "EndMs": 11360,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 880,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1720,
+            "Word": "lingling"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my family.",
+        "SliceSentence": "This is my family .",
+        "WrittenText": "",
+        "StartMs": 12610,
+        "EndMs": 14420,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1415,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's big.",
+        "SliceSentence": "It's big .",
+        "WrittenText": "",
+        "StartMs": 16030,
+        "EndMs": 17180,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm an n this is.",
+        "SliceSentence": "I'm an n this is .",
+        "WrittenText": "",
+        "StartMs": 18940,
+        "EndMs": 21890,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1040,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1390,
+            "Word": "n"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

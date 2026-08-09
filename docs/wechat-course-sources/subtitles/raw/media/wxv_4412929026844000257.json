@@ -1,0 +1,913 @@
+{
+  "RequestId": "1bd9681d-a54b-4ac1-8a17-cfd5438b4ffd",
+  "Data": {
+    "TaskId": 16292567037,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 76.6955,
+    "Result": "Joe is visiting his cousin George in the countryside. I weigh 47 kilograms. How much do you weigh, George? I weigh 40 kilograms. I'm 150 centimetres tall. How tall are you? I'm 152 centimetres tall. You're taller. Do you do a lot of exercise? Yes. I usually play basketball and table tennis after school. I usually play football after school. I'm a football fan. Sometimes I go fishing with my grandparent.How exciting.I don't go fishing often, there's no river near my home.But you can go to museums. That's fantastic.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Joe is visiting his cousin George in the countryside.",
+        "SliceSentence": "Joe is visiting his cousin George in the countryside .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4760,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 830,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1305,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1305,
+            "OffsetEndMs": 1640,
+            "Word": "visiting"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2295,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2295,
+            "OffsetEndMs": 2660,
+            "Word": "cousin"
+          },
+          {
+            "OffsetStartMs": 2860,
+            "OffsetEndMs": 3260,
+            "Word": "George"
+          },
+          {
+            "OffsetStartMs": 3490,
+            "OffsetEndMs": 3795,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3795,
+            "OffsetEndMs": 3960,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4760,
+            "Word": "countryside"
+          },
+          {
+            "OffsetStartMs": 3960,
+            "OffsetEndMs": 4760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I weigh 47 kilograms.",
+        "SliceSentence": "I weigh 47 kilograms .",
+        "WrittenText": "",
+        "StartMs": 13210,
+        "EndMs": 15770,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "weigh"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1780,
+            "Word": "47"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2560,
+            "Word": "kilograms"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How much do you weigh,",
+        "SliceSentence": "How much do you weigh ,",
+        "WrittenText": "",
+        "StartMs": 16600,
+        "EndMs": 17880,
+        "SpeechSpeed": 17.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 800,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1025,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1280,
+            "Word": "weigh"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1280,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " George?",
+        "SliceSentence": "George ?",
+        "WrittenText": "",
+        "StartMs": 17880,
+        "EndMs": 18200,
+        "SpeechSpeed": 21.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "George"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I weigh 40 kilograms.",
+        "SliceSentence": "I weigh 40 kilograms .",
+        "WrittenText": "",
+        "StartMs": 20350,
+        "EndMs": 26610,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "weigh"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 2050,
+            "Word": "40"
+          },
+          {
+            "OffsetStartMs": 5670,
+            "OffsetEndMs": 6260,
+            "Word": "kilograms"
+          },
+          {
+            "OffsetStartMs": 5670,
+            "OffsetEndMs": 6260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm 150 centimetres tall.",
+        "SliceSentence": "I'm 150 centimetres tall .",
+        "WrittenText": "",
+        "StartMs": 26610,
+        "EndMs": 29300,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 1310,
+            "Word": "150"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 2370,
+            "Word": "centimetres"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2690,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How tall are you?",
+        "SliceSentence": "How tall are you ?",
+        "WrittenText": "",
+        "StartMs": 29950,
+        "EndMs": 31160,
+        "SpeechSpeed": 14,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 710,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 935,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1210,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1210,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm 152 centimetres tall.",
+        "SliceSentence": "I'm 152 centimetres tall .",
+        "WrittenText": "",
+        "StartMs": 33525,
+        "EndMs": 35930,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 285,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 1260,
+            "Word": "152"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2085,
+            "Word": "centimetres"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2405,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 2085,
+            "OffsetEndMs": 2405,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2365,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're taller.",
+        "SliceSentence": "You're taller .",
+        "WrittenText": "",
+        "StartMs": 38350,
+        "EndMs": 39500,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 1150,
+            "Word": "taller"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you do a lot of exercise?",
+        "SliceSentence": "Do you do a lot of exercise ?",
+        "WrittenText": "",
+        "StartMs": 40390,
+        "EndMs": 42170,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 470,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 650,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 785,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 920,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1210,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes.",
+        "SliceSentence": "Yes .",
+        "WrittenText": "",
+        "StartMs": 43480,
+        "EndMs": 43880,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I usually play basketball and table tennis after school.",
+        "SliceSentence": "I usually play basketball and table tennis after school .",
+        "WrittenText": "",
+        "StartMs": 44230,
+        "EndMs": 48830,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1400,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1750,
+            "Word": "basketball"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2705,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 3070,
+            "Word": "table"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "tennis"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4060,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I usually play football after school.",
+        "SliceSentence": "I usually play football after school .",
+        "WrittenText": "",
+        "StartMs": 50770,
+        "EndMs": 53450,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1280,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1630,
+            "Word": "football"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm a football fan.",
+        "SliceSentence": "I'm a football fan .",
+        "WrittenText": "",
+        "StartMs": 54010,
+        "EndMs": 55460,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 590,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 880,
+            "Word": "football"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "fan"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sometimes I go fishing with my grandparent.",
+        "SliceSentence": "Sometimes I go fishing with my grandparent .",
+        "WrittenText": "",
+        "StartMs": 57640,
+        "EndMs": 60420,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sometimes"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1145,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1400,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1750,
+            "Word": "fishing"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2240,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2240,
+            "OffsetEndMs": 2465,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2780,
+            "Word": "grandparent"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How exciting.",
+        "SliceSentence": "How exciting .",
+        "WrittenText": "",
+        "StartMs": 60460,
+        "EndMs": 63030,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2120,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "exciting"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 40,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I don't go fishing often,",
+        "SliceSentence": "I don't go fishing often ,",
+        "WrittenText": "",
+        "StartMs": 64060,
+        "EndMs": 65520,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 555,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 735,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1065,
+            "Word": "fishing"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1460,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1460,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there's no river near my home.",
+        "SliceSentence": "there's no river near my home .",
+        "WrittenText": "",
+        "StartMs": 66260,
+        "EndMs": 68070,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "there's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 650,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 965,
+            "Word": "river"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1280,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1505,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "But you can go to museums.",
+        "SliceSentence": "But you can go to museums .",
+        "WrittenText": "",
+        "StartMs": 69200,
+        "EndMs": 71020,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 420,
+            "Word": "But"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 630,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 810,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1005,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1185,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1820,
+            "Word": "museums"
+          },
+          {
+            "OffsetStartMs": 1185,
+            "OffsetEndMs": 1820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's fantastic.",
+        "SliceSentence": "That's fantastic .",
+        "WrittenText": "",
+        "StartMs": 71460,
+        "EndMs": 72190,
+        "SpeechSpeed": 23.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": "fantastic"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

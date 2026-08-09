@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-08",
+  "publisherAccount": "向西家委会",
+  "textbook": {
+    "name": "沪教牛津版英语",
+    "region": "深圳",
+    "edition": "新版与历史版本混合",
+    "gradesExpected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "id": "upper-audio",
+      "semester": "upper",
+      "mediaType": "audio",
+      "url": "https://mp.weixin.qq.com/s/xeUS107T7bR05NtawgdVPg?search_click_id=8190108554150775372-1786160941112-8880190890",
+      "canonicalUrl": "https://mp.weixin.qq.com/s/xeUS107T7bR05NtawgdVPg",
+      "status": "index-cached",
+      "lastReadAt": "2026-08-08T04:21:22.108Z",
+      "title": "沪教版英语1-6年级上册",
+      "sectionCount": 8,
+      "indexItemCount": 93,
+      "cacheFile": "raw/upper-audio.json"
+    },
+    {
+      "id": "upper-video",
+      "semester": "upper",
+      "mediaType": "video",
+      "url": "https://mp.weixin.qq.com/s/sx3VY_L8Mcskoyaprm47IQ?search_click_id=8190108554150775372-1786160997983-4896002919",
+      "canonicalUrl": "https://mp.weixin.qq.com/s/sx3VY_L8Mcskoyaprm47IQ",
+      "status": "expanded-cached",
+      "lastReadAt": "2026-08-08T04:23:40.950Z",
+      "title": "【课本动画】小学英语1-6年级上册",
+      "sectionCount": 6,
+      "indexItemCount": 52,
+      "expandedItemCount": 52,
+      "cacheFile": "raw/upper-video.json"
+    },
+    {
+      "id": "lower-audio",
+      "semester": "lower",
+      "mediaType": "audio",
+      "url": "https://mp.weixin.qq.com/s/Pi5guDmqVs4YEQ46JP2fQw",
+      "canonicalUrl": "https://mp.weixin.qq.com/s/Pi5guDmqVs4YEQ46JP2fQw",
+      "status": "index-cached",
+      "lastReadAt": "2026-08-08T04:24:42.359Z",
+      "title": "[音频]1-6年级英语课本下册",
+      "sectionCount": 8,
+      "indexItemCount": 91,
+      "cacheFile": "raw/lower-audio.json"
+    },
+    {
+      "id": "lower-video",
+      "semester": "lower",
+      "mediaType": "video",
+      "url": "https://mp.weixin.qq.com/s/95zkSp0s_Rd-DsQud7uhQQ",
+      "canonicalUrl": "https://mp.weixin.qq.com/s/95zkSp0s_Rd-DsQud7uhQQ",
+      "status": "expanded-cached",
+      "lastReadAt": "2026-08-08T04:25:41.369Z",
+      "title": "【课本动画】小学英语1-6年级下册",
+      "sectionCount": 6,
+      "indexItemCount": 52,
+      "expandedItemCount": 52,
+      "cacheFile": "raw/lower-video.json"
+    }
+  ]
+}

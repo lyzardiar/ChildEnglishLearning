@@ -1,0 +1,658 @@
+{
+  "RequestId": "2c7b7093-a5ff-4a7f-94b3-1c4b43ef8c93",
+  "Data": {
+    "TaskId": 16292423610,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 72.492688,
+    "Result": "The talent show.Dong Dong has a dream. Can you help me grandpa? Sure. What can you do? I can sing. I can play the violin right? I can dance. I can ride a bike at the school talent show. Hello everyone. My sister can dance. My grandma can play the violin. My grandpa can sing. I can ride a bike.We win.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The talent show.",
+        "SliceSentence": "The talent show .",
+        "WrittenText": "",
+        "StartMs": 820,
+        "EndMs": 2220,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 480,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 800,
+            "Word": "talent"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "show"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dong Dong has a dream.",
+        "SliceSentence": "Dong Dong has a dream .",
+        "WrittenText": "",
+        "StartMs": 3680,
+        "EndMs": 7150,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1845,
+            "Word": "Dong"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2240,
+            "Word": "Dong"
+          },
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2660,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2770,
+            "OffsetEndMs": 3120,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3470,
+            "Word": "dream"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you help me grandpa?",
+        "SliceSentence": "Can you help me grandpa ?",
+        "WrittenText": "",
+        "StartMs": 11100,
+        "EndMs": 13120,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 850,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 2020,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 2020,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sure.",
+        "SliceSentence": "Sure .",
+        "WrittenText": "",
+        "StartMs": 13860,
+        "EndMs": 14260,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sure"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you do?",
+        "SliceSentence": "What can you do ?",
+        "WrittenText": "",
+        "StartMs": 15900,
+        "EndMs": 17200,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 965,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can sing.",
+        "SliceSentence": "I can sing .",
+        "WrittenText": "",
+        "StartMs": 18360,
+        "EndMs": 19480,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can play the violin right?",
+        "SliceSentence": "I can play the violin right ?",
+        "WrittenText": "",
+        "StartMs": 22710,
+        "EndMs": 31240,
+        "SpeechSpeed": 3.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2015,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2890,
+            "Word": "violin"
+          },
+          {
+            "OffsetStartMs": 8130,
+            "OffsetEndMs": 8530,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 8130,
+            "OffsetEndMs": 8530,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can dance.",
+        "SliceSentence": "I can dance .",
+        "WrittenText": "",
+        "StartMs": 34140,
+        "EndMs": 35170,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can ride a bike at the school talent show.",
+        "SliceSentence": "I can ride a bike at the school talent show .",
+        "WrittenText": "",
+        "StartMs": 36900,
+        "EndMs": 43900,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 935,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5110,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 5160,
+            "OffsetEndMs": 5495,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5495,
+            "OffsetEndMs": 5830,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 6000,
+            "OffsetEndMs": 6400,
+            "Word": "talent"
+          },
+          {
+            "OffsetStartMs": 6600,
+            "OffsetEndMs": 7000,
+            "Word": "show"
+          },
+          {
+            "OffsetStartMs": 6600,
+            "OffsetEndMs": 7000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello everyone.",
+        "SliceSentence": "Hello everyone .",
+        "WrittenText": "",
+        "StartMs": 48780,
+        "EndMs": 49930,
+        "SpeechSpeed": 13,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "everyone"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My sister can dance.",
+        "SliceSentence": "My sister can dance .",
+        "WrittenText": "",
+        "StartMs": 50340,
+        "EndMs": 51940,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1280,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My grandma can play the violin.",
+        "SliceSentence": "My grandma can play the violin .",
+        "WrittenText": "",
+        "StartMs": 52800,
+        "EndMs": 55330,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "grandma"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1310,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1625,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2530,
+            "Word": "violin"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My grandpa can sing.",
+        "SliceSentence": "My grandpa can sing .",
+        "WrittenText": "",
+        "StartMs": 56130,
+        "EndMs": 58060,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1180,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1595,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1930,
+            "Word": "sing"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can ride a bike.",
+        "SliceSentence": "I can ride a bike .",
+        "WrittenText": "",
+        "StartMs": 59490,
+        "EndMs": 61510,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 860,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1655,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "bike"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "We win.",
+        "SliceSentence": "We win .",
+        "WrittenText": "",
+        "StartMs": 64160,
+        "EndMs": 69490,
+        "SpeechSpeed": 1.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5330,
+            "Word": "win"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2650,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

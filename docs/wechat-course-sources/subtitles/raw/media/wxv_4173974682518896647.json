@@ -1,0 +1,511 @@
+{
+  "RequestId": "42fdc64a-a335-44e5-afb8-69fcaf103735",
+  "Data": {
+    "TaskId": 16292507766,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 53.847063,
+    "Result": "Useful plants carrots are good to eat. We can make carrot juice and carrot cake. Carrot are good for our eyes. Many people like tomatoes. Some people grow them at home. We can use tomatoes to make soup and salad. Mint has a special taste. We can drink mint tea or eat mint candy. We also have mint Ice cream.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Useful plants carrots are good to eat.",
+        "SliceSentence": "Useful plants carrots are good to eat .",
+        "WrittenText": "",
+        "StartMs": 300,
+        "EndMs": 7070,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 830,
+            "Word": "Useful"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4850,
+            "Word": "carrots"
+          },
+          {
+            "OffsetStartMs": 5080,
+            "OffsetEndMs": 5475,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 5475,
+            "OffsetEndMs": 5870,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 6100,
+            "OffsetEndMs": 6435,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 6435,
+            "OffsetEndMs": 6770,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 6435,
+            "OffsetEndMs": 6770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can make carrot juice and carrot cake.",
+        "SliceSentence": "We can make carrot juice and carrot cake .",
+        "WrittenText": "",
+        "StartMs": 8770,
+        "EndMs": 13760,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "carrot"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3730,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4330,
+            "Word": "carrot"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4990,
+            "Word": "cake"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Carrot are good for our eyes.",
+        "SliceSentence": "Carrot are good for our eyes .",
+        "WrittenText": "",
+        "StartMs": 15490,
+        "EndMs": 18830,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Carrot"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2435,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2830,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Many people like tomatoes.",
+        "SliceSentence": "Many people like tomatoes .",
+        "WrittenText": "",
+        "StartMs": 21010,
+        "EndMs": 23870,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Many"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2860,
+            "Word": "tomatoes"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people grow them at home.",
+        "SliceSentence": "Some people grow them at home .",
+        "WrittenText": "",
+        "StartMs": 26230,
+        "EndMs": 29270,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1775,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can use tomatoes to make soup and salad.",
+        "SliceSentence": "We can use tomatoes to make soup and salad .",
+        "WrittenText": "",
+        "StartMs": 31060,
+        "EndMs": 36290,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1900,
+            "Word": "tomatoes"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2855,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3160,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "salad"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mint has a special taste.",
+        "SliceSentence": "Mint has a special taste .",
+        "WrittenText": "",
+        "StartMs": 38590,
+        "EndMs": 41150,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Mint"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1595,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1990,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "taste"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can drink mint tea or eat mint candy.",
+        "SliceSentence": "We can drink mint tea or eat mint candy .",
+        "WrittenText": "",
+        "StartMs": 42460,
+        "EndMs": 46670,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1090,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1600,
+            "Word": "mint"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2885,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3250,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3760,
+            "Word": "mint"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4210,
+            "Word": "candy"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We also have mint Ice cream.",
+        "SliceSentence": "We also have mint Ice cream .",
+        "WrittenText": "",
+        "StartMs": 48190,
+        "EndMs": 50750,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1630,
+            "Word": "mint"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "cream"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

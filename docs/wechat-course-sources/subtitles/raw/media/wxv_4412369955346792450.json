@@ -1,0 +1,554 @@
+{
+  "RequestId": "52829896-1eb1-41bb-b783-8dd3aca2f307",
+  "Data": {
+    "TaskId": 16292462539,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 47.486938,
+    "Result": "Dear pan pan, thank you for your photos. Here are some photos of my home it's a boat. There's a kitchen, a dining room, a bathroom, 2 bedrooms. My bedroom is small. There's a teddy bear on my bed. It's my favourite toy. Do you like my home? Best wishes, lottie.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Dear pan pan,",
+        "SliceSentence": "Dear pan pan ,",
+        "WrittenText": "",
+        "StartMs": 780,
+        "EndMs": 5630,
+        "SpeechSpeed": 2.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 3490,
+            "OffsetEndMs": 3890,
+            "Word": "Dear"
+          },
+          {
+            "OffsetStartMs": 4030,
+            "OffsetEndMs": 4430,
+            "Word": "pan"
+          },
+          {
+            "OffsetStartMs": 4450,
+            "OffsetEndMs": 4850,
+            "Word": "pan"
+          },
+          {
+            "OffsetStartMs": 4450,
+            "OffsetEndMs": 4850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " thank you for your photos.",
+        "SliceSentence": "thank you for your photos .",
+        "WrittenText": "",
+        "StartMs": 6670,
+        "EndMs": 8600,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1190,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1535,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1930,
+            "Word": "photos"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here are some photos of my home it's a boat.",
+        "SliceSentence": "Here are some photos of my home it's a boat .",
+        "WrittenText": "",
+        "StartMs": 10150,
+        "EndMs": 16130,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "photos"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2645,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2990,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3370,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 5285,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 5285,
+            "OffsetEndMs": 5600,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5600,
+            "OffsetEndMs": 5980,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 5600,
+            "OffsetEndMs": 5980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's a kitchen,",
+        "SliceSentence": "There's a kitchen ,",
+        "WrittenText": "",
+        "StartMs": 17110,
+        "EndMs": 18350,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1240,
+            "Word": "kitchen"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a dining room,",
+        "SliceSentence": "a dining room ,",
+        "WrittenText": "",
+        "StartMs": 19180,
+        "EndMs": 20480,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 965,
+            "Word": "dining"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": "room"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a bathroom,",
+        "SliceSentence": "a bathroom ,",
+        "WrittenText": "",
+        "StartMs": 21010,
+        "EndMs": 21680,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "bathroom"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 2 bedrooms.",
+        "SliceSentence": "2 bedrooms .",
+        "WrittenText": "",
+        "StartMs": 22960,
+        "EndMs": 24440,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "2"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1480,
+            "Word": "bedrooms"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My bedroom is small.",
+        "SliceSentence": "My bedroom is small .",
+        "WrittenText": "",
+        "StartMs": 25210,
+        "EndMs": 27800,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "bedroom"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There's a teddy bear on my bed.",
+        "SliceSentence": "There's a teddy bear on my bed .",
+        "WrittenText": "",
+        "StartMs": 29080,
+        "EndMs": 32480,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "There's"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 935,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1300,
+            "Word": "teddy"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2615,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 3005,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3005,
+            "OffsetEndMs": 3400,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 3005,
+            "OffsetEndMs": 3400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's my favourite toy.",
+        "SliceSentence": "It's my favourite toy .",
+        "WrittenText": "",
+        "StartMs": 33430,
+        "EndMs": 35840,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 2030,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2410,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like my home?",
+        "SliceSentence": "Do you like my home ?",
+        "WrittenText": "",
+        "StartMs": 37240,
+        "EndMs": 39290,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1685,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2050,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2050,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Best wishes,",
+        "SliceSentence": "Best wishes ,",
+        "WrittenText": "",
+        "StartMs": 39910,
+        "EndMs": 40820,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Best"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " lottie.",
+        "SliceSentence": "lottie .",
+        "WrittenText": "",
+        "StartMs": 41470,
+        "EndMs": 42230,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "lottie"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

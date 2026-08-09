@@ -1,0 +1,494 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwMzc1NDAw",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:19,620"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 19620
+      },
+      "text": " unit 1 you and me words and expressions way kilogram centimeter taller",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.645001,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,950",
+            "to": "00:00:01,140"
+          },
+          "offsets": {
+            "from": 950,
+            "to": 1140
+          },
+          "id": 4326,
+          "p": 0.277047,
+          "t_dtw": -1
+        },
+        {
+          "text": " 1",
+          "timestamps": {
+            "from": "00:00:01,140",
+            "to": "00:00:01,730"
+          },
+          "offsets": {
+            "from": 1140,
+            "to": 1730
+          },
+          "id": 352,
+          "p": 0.537148,
+          "t_dtw": -1
+        },
+        {
+          "text": " you",
+          "timestamps": {
+            "from": "00:00:02,310",
+            "to": "00:00:02,670"
+          },
+          "offsets": {
+            "from": 2310,
+            "to": 2670
+          },
+          "id": 345,
+          "p": 0.254685,
+          "t_dtw": -1
+        },
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:02,790",
+            "to": "00:00:03,360"
+          },
+          "offsets": {
+            "from": 2790,
+            "to": 3360
+          },
+          "id": 290,
+          "p": 0.974078,
+          "t_dtw": -1
+        },
+        {
+          "text": " me",
+          "timestamps": {
+            "from": "00:00:03,360",
+            "to": "00:00:03,490"
+          },
+          "offsets": {
+            "from": 3360,
+            "to": 3490
+          },
+          "id": 502,
+          "p": 0.996928,
+          "t_dtw": -1
+        },
+        {
+          "text": " words",
+          "timestamps": {
+            "from": "00:00:04,460",
+            "to": "00:00:04,680"
+          },
+          "offsets": {
+            "from": 4460,
+            "to": 4680
+          },
+          "id": 2456,
+          "p": 0.788894,
+          "t_dtw": -1
+        },
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:04,680",
+            "to": "00:00:04,990"
+          },
+          "offsets": {
+            "from": 4680,
+            "to": 4990
+          },
+          "id": 290,
+          "p": 0.996126,
+          "t_dtw": -1
+        },
+        {
+          "text": " expressions",
+          "timestamps": {
+            "from": "00:00:05,140",
+            "to": "00:00:06,160"
+          },
+          "offsets": {
+            "from": 5140,
+            "to": 6160
+          },
+          "id": 14700,
+          "p": 0.973484,
+          "t_dtw": -1
+        },
+        {
+          "text": " way",
+          "timestamps": {
+            "from": "00:00:07,040",
+            "to": "00:00:07,560"
+          },
+          "offsets": {
+            "from": 7040,
+            "to": 7560
+          },
+          "id": 835,
+          "p": 0.528644,
+          "t_dtw": -1
+        },
+        {
+          "text": " kil",
+          "timestamps": {
+            "from": "00:00:10,080",
+            "to": "00:00:10,520"
+          },
+          "offsets": {
+            "from": 10080,
+            "to": 10520
+          },
+          "id": 8769,
+          "p": 0.793665,
+          "t_dtw": -1
+        },
+        {
+          "text": "ogram",
+          "timestamps": {
+            "from": "00:00:10,520",
+            "to": "00:00:10,790"
+          },
+          "offsets": {
+            "from": 10520,
+            "to": 10790
+          },
+          "id": 21857,
+          "p": 0.99934,
+          "t_dtw": -1
+        },
+        {
+          "text": " cent",
+          "timestamps": {
+            "from": "00:00:13,690",
+            "to": "00:00:13,960"
+          },
+          "offsets": {
+            "from": 13690,
+            "to": 13960
+          },
+          "id": 1247,
+          "p": 0.572916,
+          "t_dtw": -1
+        },
+        {
+          "text": "imeter",
+          "timestamps": {
+            "from": "00:00:13,960",
+            "to": "00:00:14,600"
+          },
+          "offsets": {
+            "from": 13960,
+            "to": 14600
+          },
+          "id": 16912,
+          "p": 0.873043,
+          "t_dtw": -1
+        },
+        {
+          "text": " taller",
+          "timestamps": {
+            "from": "00:00:16,690",
+            "to": "00:00:17,260"
+          },
+          "offsets": {
+            "from": 16690,
+            "to": 17260
+          },
+          "id": 25242,
+          "p": 0.947713,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:19,620",
+        "to": "00:00:21,800"
+      },
+      "offsets": {
+        "from": 19620,
+        "to": 21800
+      },
+      "text": " fan",
+      "tokens": [
+        {
+          "text": " fan",
+          "timestamps": {
+            "from": "00:00:19,620",
+            "to": "00:00:20,080"
+          },
+          "offsets": {
+            "from": 19620,
+            "to": 20080
+          },
+          "id": 4336,
+          "p": 0.456955,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1090]",
+          "timestamps": {
+            "from": "00:00:21,800",
+            "to": "00:00:21,800"
+          },
+          "offsets": {
+            "from": 21800,
+            "to": 21800
+          },
+          "id": 51453,
+          "p": 0.305164,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:21,800",
+        "to": "00:00:34,920"
+      },
+      "offsets": {
+        "from": 21800,
+        "to": 34920
+      },
+      "text": " fantastic themselves theater go fishing",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:21,800",
+            "to": "00:00:21,800"
+          },
+          "offsets": {
+            "from": 21800,
+            "to": 21800
+          },
+          "id": 50363,
+          "p": 0.99998,
+          "t_dtw": -1
+        },
+        {
+          "text": " fantastic",
+          "timestamps": {
+            "from": "00:00:22,750",
+            "to": "00:00:25,060"
+          },
+          "offsets": {
+            "from": 22750,
+            "to": 25060
+          },
+          "id": 9623,
+          "p": 0.97875,
+          "t_dtw": -1
+        },
+        {
+          "text": " themselves",
+          "timestamps": {
+            "from": "00:00:25,060",
+            "to": "00:00:27,970"
+          },
+          "offsets": {
+            "from": 25060,
+            "to": 27970
+          },
+          "id": 2405,
+          "p": 0.916184,
+          "t_dtw": -1
+        },
+        {
+          "text": " theater",
+          "timestamps": {
+            "from": "00:00:28,840",
+            "to": "00:00:29,360"
+          },
+          "offsets": {
+            "from": 28840,
+            "to": 29360
+          },
+          "id": 13766,
+          "p": 0.592885,
+          "t_dtw": -1
+        },
+        {
+          "text": " go",
+          "timestamps": {
+            "from": "00:00:31,880",
+            "to": "00:00:32,060"
+          },
+          "offsets": {
+            "from": 31880,
+            "to": 32060
+          },
+          "id": 467,
+          "p": 0.578297,
+          "t_dtw": -1
+        },
+        {
+          "text": " fishing",
+          "timestamps": {
+            "from": "00:00:32,060",
+            "to": "00:00:32,590"
+          },
+          "offsets": {
+            "from": 32060,
+            "to": 32590
+          },
+          "id": 12478,
+          "p": 0.98775,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_656]",
+          "timestamps": {
+            "from": "00:00:34,920",
+            "to": "00:00:34,920"
+          },
+          "offsets": {
+            "from": 34920,
+            "to": 34920
+          },
+          "id": 51019,
+          "p": 0.0851493,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:34,920",
+        "to": "00:00:38,760"
+      },
+      "offsets": {
+        "from": 34920,
+        "to": 38760
+      },
+      "text": " enjoy oneself",
+      "tokens": [
+        {
+          "text": " enjoy",
+          "timestamps": {
+            "from": "00:00:35,870",
+            "to": "00:00:36,520"
+          },
+          "offsets": {
+            "from": 35870,
+            "to": 36520
+          },
+          "id": 2883,
+          "p": 0.981259,
+          "t_dtw": -1
+        },
+        {
+          "text": " oneself",
+          "timestamps": {
+            "from": "00:00:36,520",
+            "to": "00:00:38,280"
+          },
+          "offsets": {
+            "from": 36520,
+            "to": 38280
+          },
+          "id": 27186,
+          "p": 0.99279,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_848]",
+          "timestamps": {
+            "from": "00:00:38,760",
+            "to": "00:00:38,760"
+          },
+          "offsets": {
+            "from": 38760,
+            "to": 38760
+          },
+          "id": 51211,
+          "p": 0.157907,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:38,760",
+        "to": "00:00:42,680"
+      },
+      "offsets": {
+        "from": 38760,
+        "to": 42680
+      },
+      "text": " get in",
+      "tokens": [
+        {
+          "text": " get",
+          "timestamps": {
+            "from": "00:00:39,710",
+            "to": "00:00:41,110"
+          },
+          "offsets": {
+            "from": 39710,
+            "to": 41110
+          },
+          "id": 651,
+          "p": 0.842617,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:41,110",
+            "to": "00:00:42,120"
+          },
+          "offsets": {
+            "from": 41110,
+            "to": 42120
+          },
+          "id": 287,
+          "p": 0.992123,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1044]",
+          "timestamps": {
+            "from": "00:00:42,680",
+            "to": "00:00:42,680"
+          },
+          "offsets": {
+            "from": 42680,
+            "to": 42680
+          },
+          "id": 51407,
+          "p": 0.164921,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

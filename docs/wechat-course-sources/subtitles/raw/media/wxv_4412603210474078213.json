@@ -1,0 +1,708 @@
+{
+  "RequestId": "5cd70942-d762-4c47-b69f-0a0c2e838ce3",
+  "Data": {
+    "TaskId": 16292497026,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 57.167563,
+    "Result": "What is our world made of? Everything in our world is a solid liquidids or gas. Ice and metal are sol. Water and milk are liquids. Air and steam are gases, but things change. The Ice is a solid. Now it's melting. It's changing into a liquid. The water is a liquid. Now it's freezing. It's changing into a solid. The water is a liquid. Now it's boiling. It's changing into a gas.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What is our world made of?",
+        "SliceSentence": "What is our world made of ?",
+        "WrittenText": "",
+        "StartMs": 720,
+        "EndMs": 3650,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 765,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1110,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1460,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2565,
+            "Word": "made"
+          },
+          {
+            "OffsetStartMs": 2565,
+            "OffsetEndMs": 2930,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2565,
+            "OffsetEndMs": 2930,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Everything in our world is a solid liquidids or gas.",
+        "SliceSentence": "Everything in our world is a solid liquidids or gas .",
+        "WrittenText": "",
+        "StartMs": 6880,
+        "EndMs": 12140,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Everything"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 560,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 860,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1240,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1685,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1880,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2170,
+            "Word": "solid"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 4030,
+            "Word": "liquidids"
+          },
+          {
+            "OffsetStartMs": 4650,
+            "OffsetEndMs": 4955,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 4955,
+            "OffsetEndMs": 5260,
+            "Word": "gas"
+          },
+          {
+            "OffsetStartMs": 4955,
+            "OffsetEndMs": 5260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ice and metal are sol.",
+        "SliceSentence": "Ice and metal are sol .",
+        "WrittenText": "",
+        "StartMs": 13570,
+        "EndMs": 15740,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 875,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "metal"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1835,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "sol"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Water and milk are liquids.",
+        "SliceSentence": "Water and milk are liquids .",
+        "WrittenText": "",
+        "StartMs": 17500,
+        "EndMs": 20300,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Water"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1040,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1390,
+            "Word": "milk"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2180,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2800,
+            "Word": "liquids"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Air and steam are gases,",
+        "SliceSentence": "Air and steam are gases ,",
+        "WrittenText": "",
+        "StartMs": 21520,
+        "EndMs": 24320,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Air"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 995,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1390,
+            "Word": "steam"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2150,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2800,
+            "Word": "gases"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2800,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but things change.",
+        "SliceSentence": "but things change .",
+        "WrittenText": "",
+        "StartMs": 25690,
+        "EndMs": 26930,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "change"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The Ice is a solid.",
+        "SliceSentence": "The Ice is a solid .",
+        "WrittenText": "",
+        "StartMs": 28690,
+        "EndMs": 30500,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1340,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": "solid"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now it's melting.",
+        "SliceSentence": "Now it's melting .",
+        "WrittenText": "",
+        "StartMs": 31600,
+        "EndMs": 32840,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1240,
+            "Word": "melting"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's changing into a liquid.",
+        "SliceSentence": "It's changing into a liquid .",
+        "WrittenText": "",
+        "StartMs": 33820,
+        "EndMs": 36020,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 790,
+            "Word": "changing"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1655,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1895,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2200,
+            "Word": "liquid"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The water is a liquid.",
+        "SliceSentence": "The water is a liquid .",
+        "WrittenText": "",
+        "StartMs": 38380,
+        "EndMs": 40070,
+        "SpeechSpeed": 13,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1235,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1415,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1690,
+            "Word": "liquid"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now it's freezing.",
+        "SliceSentence": "Now it's freezing .",
+        "WrittenText": "",
+        "StartMs": 41020,
+        "EndMs": 42380,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 770,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1360,
+            "Word": "freezing"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's changing into a solid.",
+        "SliceSentence": "It's changing into a solid .",
+        "WrittenText": "",
+        "StartMs": 42910,
+        "EndMs": 45140,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "changing"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1670,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1910,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2230,
+            "Word": "solid"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The water is a liquid.",
+        "SliceSentence": "The water is a liquid .",
+        "WrittenText": "",
+        "StartMs": 47620,
+        "EndMs": 49400,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1340,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1505,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1780,
+            "Word": "liquid"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now it's boiling.",
+        "SliceSentence": "Now it's boiling .",
+        "WrittenText": "",
+        "StartMs": 50320,
+        "EndMs": 51980,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1055,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1660,
+            "Word": "boiling"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's changing into a gas.",
+        "SliceSentence": "It's changing into a gas .",
+        "WrittenText": "",
+        "StartMs": 52810,
+        "EndMs": 55010,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "changing"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1685,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1910,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2200,
+            "Word": "gas"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

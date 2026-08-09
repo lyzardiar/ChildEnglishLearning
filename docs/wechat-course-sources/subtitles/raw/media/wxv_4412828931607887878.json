@@ -1,0 +1,814 @@
+{
+  "RequestId": "93bcedd6-f3fb-4f3c-872a-2be7b72cfc8a",
+  "Data": {
+    "TaskId": 16292519244,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 64.853375,
+    "Result": "Look, Alice, there are many storybooks. I'm going to buy one, I'm going to look at the picture books over there, okay?Do you like this picture book? Yes, it's fun. There are many beautiful pictures in it. What are the pictures about? They are pictures of different places in China. I'm going to visit these places in the future. What are you reading? Is it a storybook?Yes, it's stories for children. I'm going to read a story every day.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 7000,
+        "EndMs": 8850,
+        "SpeechSpeed": 2.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Alice,",
+        "SliceSentence": "Alice ,",
+        "WrittenText": "",
+        "StartMs": 8870,
+        "EndMs": 9270,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 20,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there are many storybooks.",
+        "SliceSentence": "there are many storybooks .",
+        "WrittenText": "",
+        "StartMs": 10010,
+        "EndMs": 12480,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 2470,
+            "Word": "storybooks"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to buy one,",
+        "SliceSentence": "I'm going to buy one ,",
+        "WrittenText": "",
+        "StartMs": 12830,
+        "EndMs": 14460,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 770,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 995,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1250,
+            "Word": "buy"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1630,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to look at the picture books over there,",
+        "SliceSentence": "I'm going to look at the picture books over there ,",
+        "WrittenText": "",
+        "StartMs": 16670,
+        "EndMs": 19830,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 785,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1025,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1190,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1370,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1550,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1840,
+            "Word": "picture"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2300,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2680,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " okay?",
+        "SliceSentence": "okay ?",
+        "WrittenText": "",
+        "StartMs": 22130,
+        "EndMs": 22530,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Do you like this picture book?",
+        "SliceSentence": "Do you like this picture book ?",
+        "WrittenText": "",
+        "StartMs": 25660,
+        "EndMs": 27810,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 435,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 600,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 855,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1200,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "picture"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2150,
+            "Word": "book"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2150,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 29900,
+        "EndMs": 30300,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's fun.",
+        "SliceSentence": "it's fun .",
+        "WrittenText": "",
+        "StartMs": 30920,
+        "EndMs": 31710,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 790,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are many beautiful pictures in it.",
+        "SliceSentence": "There are many beautiful pictures in it .",
+        "WrittenText": "",
+        "StartMs": 32480,
+        "EndMs": 35100,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 515,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 850,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2330,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2620,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2330,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are the pictures about?",
+        "SliceSentence": "What are the pictures about ?",
+        "WrittenText": "",
+        "StartMs": 35570,
+        "EndMs": 37320,
+        "SpeechSpeed": 16,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 560,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 755,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1030,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are pictures of different places in China.",
+        "SliceSentence": "They are pictures of different places in China .",
+        "WrittenText": "",
+        "StartMs": 39110,
+        "EndMs": 42030,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 880,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1295,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "places"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2585,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2920,
+            "Word": "China"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to visit these places in the future.",
+        "SliceSentence": "I'm going to visit these places in the future .",
+        "WrittenText": "",
+        "StartMs": 42920,
+        "EndMs": 45750,
+        "SpeechSpeed": 16.3,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 635,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 875,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1175,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1550,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1930,
+            "Word": "places"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2375,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2555,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2830,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are you reading?",
+        "SliceSentence": "What are you reading ?",
+        "WrittenText": "",
+        "StartMs": 47000,
+        "EndMs": 48030,
+        "SpeechSpeed": 20.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 695,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "reading"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is it a storybook?",
+        "SliceSentence": "Is it a storybook ?",
+        "WrittenText": "",
+        "StartMs": 48680,
+        "EndMs": 50130,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1450,
+            "Word": "storybook"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 52600,
+        "EndMs": 53160,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's stories for children.",
+        "SliceSentence": "it's stories for children .",
+        "WrittenText": "",
+        "StartMs": 53480,
+        "EndMs": 55380,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 940,
+            "Word": "stories"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1595,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm going to read a story every day.",
+        "SliceSentence": "I'm going to read a story every day .",
+        "WrittenText": "",
+        "StartMs": 56060,
+        "EndMs": 59160,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 785,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1025,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1235,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

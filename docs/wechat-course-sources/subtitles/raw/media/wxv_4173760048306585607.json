@@ -1,0 +1,377 @@
+{
+  "RequestId": "84e7c336-10e1-480a-8bb0-215d9ef8eb4c",
+  "Data": {
+    "TaskId": 16292473343,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 35.990938,
+    "Result": "Parts of plants we eat different parts of plants. Some of the parts are fruits, fruit or leaves. Carrots are long and orange, tomatoes are round and red, lettuce is big and green. What parts of plants do you like to eat?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Parts of plants we eat different parts of plants.",
+        "SliceSentence": "Parts of plants we eat different parts of plants .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6530,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Parts"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1275,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1670,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 3470,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 3490,
+            "OffsetEndMs": 3890,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 4210,
+            "OffsetEndMs": 4610,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 4900,
+            "OffsetEndMs": 5300,
+            "Word": "parts"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6150,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 6150,
+            "OffsetEndMs": 6530,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 6150,
+            "OffsetEndMs": 6530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some of the parts are fruits,",
+        "SliceSentence": "Some of the parts are fruits ,",
+        "WrittenText": "",
+        "StartMs": 7750,
+        "EndMs": 10220,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 800,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1040,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1330,
+            "Word": "parts"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2105,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2470,
+            "Word": "fruits"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " fruit or leaves.",
+        "SliceSentence": "fruit or leaves .",
+        "WrittenText": "",
+        "StartMs": 10930,
+        "EndMs": 12440,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "fruit"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1145,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "leaves"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Carrots are long and orange,",
+        "SliceSentence": "Carrots are long and orange ,",
+        "WrittenText": "",
+        "StartMs": 14890,
+        "EndMs": 17870,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "Carrots"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1415,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1780,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "orange"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " tomatoes are round and red,",
+        "SliceSentence": "tomatoes are round and red ,",
+        "WrittenText": "",
+        "StartMs": 19150,
+        "EndMs": 22670,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 610,
+            "Word": "tomatoes"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "round"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " lettuce is big and green.",
+        "SliceSentence": "lettuce is big and green .",
+        "WrittenText": "",
+        "StartMs": 23830,
+        "EndMs": 26810,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "lettuce"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What parts of plants do you like to eat?",
+        "SliceSentence": "What parts of plants do you like to eat ?",
+        "WrittenText": "",
+        "StartMs": 28210,
+        "EndMs": 32450,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "parts"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2735,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 3100,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3520,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3935,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4240,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4240,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

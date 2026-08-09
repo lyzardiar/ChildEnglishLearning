@@ -1,0 +1,725 @@
+{
+  "RequestId": "098de5ee-4e0a-4c6f-940e-9a5bae4a9f47",
+  "Data": {
+    "TaskId": 16292422905,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 62.949313,
+    "Result": "P.K.K.K hey.Toe.Kangaroo.Kangaroo.L.L.L l.Toe.Lion. Lion.K for kangaroo, l for lion, the kangaroo has a big bag, the lion has a big head, k for kangaroo, l for lion. The kangaroo has a big bag, the lion a big head.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 680,
+        "EndMs": 1150,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "K.",
+        "SliceSentence": "K .",
+        "WrittenText": "",
+        "StartMs": 1960,
+        "EndMs": 2400,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "K"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "K.",
+        "SliceSentence": "K .",
+        "WrittenText": "",
+        "StartMs": 3220,
+        "EndMs": 3600,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "K"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "K hey.",
+        "SliceSentence": "K hey .",
+        "WrittenText": "",
+        "StartMs": 4860,
+        "EndMs": 6350,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "K"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "hey"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7320,
+        "EndMs": 7730,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Kangaroo.",
+        "SliceSentence": "Kangaroo .",
+        "WrittenText": "",
+        "StartMs": 11460,
+        "EndMs": 12440,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 980,
+            "Word": "Kangaroo"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Kangaroo.",
+        "SliceSentence": "Kangaroo .",
+        "WrittenText": "",
+        "StartMs": 13120,
+        "EndMs": 14070,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 950,
+            "Word": "Kangaroo"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "L.",
+        "SliceSentence": "L .",
+        "WrittenText": "",
+        "StartMs": 18180,
+        "EndMs": 18650,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "L"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "L.",
+        "SliceSentence": "L .",
+        "WrittenText": "",
+        "StartMs": 19520,
+        "EndMs": 19840,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "L"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "L l.",
+        "SliceSentence": "L l .",
+        "WrittenText": "",
+        "StartMs": 21160,
+        "EndMs": 22620,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "L"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "l"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 23660,
+        "EndMs": 24070,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Lion.",
+        "SliceSentence": "Lion .",
+        "WrittenText": "",
+        "StartMs": 27480,
+        "EndMs": 28010,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Lion"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Lion.",
+        "SliceSentence": "Lion .",
+        "WrittenText": "",
+        "StartMs": 28810,
+        "EndMs": 29210,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Lion"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "K for kangaroo,",
+        "SliceSentence": "K for kangaroo ,",
+        "WrittenText": "",
+        "StartMs": 31780,
+        "EndMs": 36060,
+        "SpeechSpeed": 3.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "K"
+          },
+          {
+            "OffsetStartMs": 2650,
+            "OffsetEndMs": 3050,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 4280,
+            "Word": "kangaroo"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 4280,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " l for lion,",
+        "SliceSentence": "l for lion ,",
+        "WrittenText": "",
+        "StartMs": 36200,
+        "EndMs": 37800,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "l"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the kangaroo has a big bag,",
+        "SliceSentence": "the kangaroo has a big bag ,",
+        "WrittenText": "",
+        "StartMs": 38360,
+        "EndMs": 41370,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 1270,
+            "Word": "kangaroo"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2060,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2380,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the lion has a big head,",
+        "SliceSentence": "the lion has a big head ,",
+        "WrittenText": "",
+        "StartMs": 41960,
+        "EndMs": 44880,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2090,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2410,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "head"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " k for kangaroo,",
+        "SliceSentence": "k for kangaroo ,",
+        "WrittenText": "",
+        "StartMs": 48350,
+        "EndMs": 50640,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "k"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2290,
+            "Word": "kangaroo"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " l for lion.",
+        "SliceSentence": "l for lion .",
+        "WrittenText": "",
+        "StartMs": 50810,
+        "EndMs": 52350,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "l"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The kangaroo has a big bag,",
+        "SliceSentence": "The kangaroo has a big bag ,",
+        "WrittenText": "",
+        "StartMs": 52940,
+        "EndMs": 55950,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 1300,
+            "Word": "kangaroo"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1775,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2105,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2440,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the lion a big head.",
+        "SliceSentence": "the lion a big head .",
+        "WrittenText": "",
+        "StartMs": 56510,
+        "EndMs": 59490,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2120,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2440,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "head"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

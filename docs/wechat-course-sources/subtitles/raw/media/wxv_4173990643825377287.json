@@ -1,0 +1,983 @@
+{
+  "RequestId": "dba701a5-7888-49fa-b3c9-80d1c0aacc3f",
+  "Data": {
+    "TaskId": 16292510593,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 97.036188,
+    "Result": "Our grandparents I'm jun jun, my sister and I are at our grandparents house for a week. Our grandparents don't work now. Every morning they go for a walk in the park. They often do Tai Chi with their friends there. Grandpa and grandma do Tai Chi in the park. It's sunday morning. Grandma and I are in the supermarket. She always goes shopping. On sundays, grandma and I go shopping.In the afternoon, grandpa usually does gardening. He has lots of plants. They look great. Grandpa likes gardening. In the evening, grandma shows us her foodlog. Lots of people watch it. Grandma has a foodlog.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Our grandparents I'm jun jun,",
+        "SliceSentence": "Our grandparents I'm jun jun ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6320,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 2360,
+            "Word": "grandparents"
+          },
+          {
+            "OffsetStartMs": 5170,
+            "OffsetEndMs": 5700,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 5700,
+            "OffsetEndMs": 5940,
+            "Word": "jun"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6320,
+            "Word": "jun"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6320,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " my sister and I are at our grandparents house for a week.",
+        "SliceSentence": "my sister and I are at our grandparents house for a week .",
+        "WrittenText": "",
+        "StartMs": 8020,
+        "EndMs": 13280,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1460,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1840,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2285,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2600,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2600,
+            "OffsetEndMs": 2945,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3950,
+            "Word": "grandparents"
+          },
+          {
+            "OffsetStartMs": 3950,
+            "OffsetEndMs": 4240,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 4380,
+            "OffsetEndMs": 4715,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 4715,
+            "OffsetEndMs": 4955,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4955,
+            "OffsetEndMs": 5260,
+            "Word": "week"
+          },
+          {
+            "OffsetStartMs": 4955,
+            "OffsetEndMs": 5260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Our grandparents don't work now.",
+        "SliceSentence": "Our grandparents don't work now .",
+        "WrittenText": "",
+        "StartMs": 15070,
+        "EndMs": 17690,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1415,
+            "Word": "grandparents"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1865,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2140,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Every morning they go for a walk in the park.",
+        "SliceSentence": "Every morning they go for a walk in the park .",
+        "WrittenText": "",
+        "StartMs": 18550,
+        "EndMs": 22190,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Every"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1685,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2000,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2300,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2510,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2800,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3155,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3365,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3640,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They often do Tai Chi with their friends there.",
+        "SliceSentence": "They often do Tai Chi with their friends there .",
+        "WrittenText": "",
+        "StartMs": 25840,
+        "EndMs": 29510,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1325,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1720,
+            "Word": "Tai"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2195,
+            "Word": "Chi"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2495,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2780,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2780,
+            "OffsetEndMs": 3160,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandpa and grandma do Tai Chi in the park.",
+        "SliceSentence": "Grandpa and grandma do Tai Chi in the park .",
+        "WrittenText": "",
+        "StartMs": 30970,
+        "EndMs": 35330,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "Grandpa"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1265,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1660,
+            "Word": "grandma"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2585,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2980,
+            "Word": "Tai"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3460,
+            "Word": "Chi"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3860,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3860,
+            "OffsetEndMs": 4085,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4085,
+            "OffsetEndMs": 4360,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 4085,
+            "OffsetEndMs": 4360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's sunday morning.",
+        "SliceSentence": "It's sunday morning .",
+        "WrittenText": "",
+        "StartMs": 38560,
+        "EndMs": 40010,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandma and I are in the supermarket.",
+        "SliceSentence": "Grandma and I are in the supermarket .",
+        "WrittenText": "",
+        "StartMs": 42190,
+        "EndMs": 45380,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Grandma"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1055,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1895,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2150,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2390,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 3190,
+            "Word": "supermarket"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She always goes shopping.",
+        "SliceSentence": "She always goes shopping .",
+        "WrittenText": "",
+        "StartMs": 49270,
+        "EndMs": 50960,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 995,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1310,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1690,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On sundays,",
+        "SliceSentence": "On sundays ,",
+        "WrittenText": "",
+        "StartMs": 51250,
+        "EndMs": 52640,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1390,
+            "Word": "sundays"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grandma and I go shopping.",
+        "SliceSentence": "grandma and I go shopping .",
+        "WrittenText": "",
+        "StartMs": 54550,
+        "EndMs": 56960,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "grandma"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1100,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2030,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2410,
+            "Word": "shopping"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the afternoon,",
+        "SliceSentence": "In the afternoon ,",
+        "WrittenText": "",
+        "StartMs": 60380,
+        "EndMs": 61060,
+        "SpeechSpeed": 23.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 225,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 225,
+            "OffsetEndMs": 405,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 680,
+            "Word": "afternoon"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grandpa usually does gardening.",
+        "SliceSentence": "grandpa usually does gardening .",
+        "WrittenText": "",
+        "StartMs": 62040,
+        "EndMs": 64780,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "grandpa"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "usually"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2740,
+            "Word": "gardening"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He has lots of plants.",
+        "SliceSentence": "He has lots of plants .",
+        "WrittenText": "",
+        "StartMs": 66960,
+        "EndMs": 68920,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "lots"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1565,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1960,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They look great.",
+        "SliceSentence": "They look great .",
+        "WrittenText": "",
+        "StartMs": 70470,
+        "EndMs": 71830,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandpa likes gardening.",
+        "SliceSentence": "Grandpa likes gardening .",
+        "WrittenText": "",
+        "StartMs": 74850,
+        "EndMs": 76930,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "Grandpa"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2080,
+            "Word": "gardening"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the evening,",
+        "SliceSentence": "In the evening ,",
+        "WrittenText": "",
+        "StartMs": 79050,
+        "EndMs": 79810,
+        "SpeechSpeed": 19.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 500,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": "evening"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " grandma shows us her foodlog.",
+        "SliceSentence": "grandma shows us her foodlog .",
+        "WrittenText": "",
+        "StartMs": 80310,
+        "EndMs": 83260,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "grandma"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "shows"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1565,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2950,
+            "Word": "foodlog"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Lots of people watch it.",
+        "SliceSentence": "Lots of people watch it .",
+        "WrittenText": "",
+        "StartMs": 84510,
+        "EndMs": 86500,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Lots"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 740,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1090,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1625,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1990,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Grandma has a foodlog.",
+        "SliceSentence": "Grandma has a foodlog .",
+        "WrittenText": "",
+        "StartMs": 88470,
+        "EndMs": 91090,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Grandma"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1670,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2620,
+            "Word": "foodlog"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

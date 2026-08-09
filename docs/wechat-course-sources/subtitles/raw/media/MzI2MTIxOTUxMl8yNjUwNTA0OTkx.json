@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0OTkx",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:03,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 3000
+      },
+      "text": " Unit 3",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.67596,
+          "t_dtw": -1
+        },
+        {
+          "text": " Unit",
+          "timestamps": {
+            "from": "00:00:01,050",
+            "to": "00:00:01,570"
+          },
+          "offsets": {
+            "from": 1050,
+            "to": 1570
+          },
+          "id": 11801,
+          "p": 0.86855,
+          "t_dtw": -1
+        },
+        {
+          "text": " 3",
+          "timestamps": {
+            "from": "00:00:01,700",
+            "to": "00:00:02,090"
+          },
+          "offsets": {
+            "from": 1700,
+            "to": 2090
+          },
+          "id": 513,
+          "p": 0.668269,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_150]",
+          "timestamps": {
+            "from": "00:00:03,000",
+            "to": "00:00:03,000"
+          },
+          "offsets": {
+            "from": 3000,
+            "to": 3000
+          },
+          "id": 50513,
+          "p": 0.0112428,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:03,000",
+        "to": "00:00:08,000"
+      },
+      "offsets": {
+        "from": 3000,
+        "to": 8000
+      },
+      "text": " Do paper cutting.",
+      "tokens": [
+        {
+          "text": " Do",
+          "timestamps": {
+            "from": "00:00:03,000",
+            "to": "00:00:03,710"
+          },
+          "offsets": {
+            "from": 3000,
+            "to": 3710
+          },
+          "id": 2141,
+          "p": 0.902283,
+          "t_dtw": -1
+        },
+        {
+          "text": " paper",
+          "timestamps": {
+            "from": "00:00:04,050",
+            "to": "00:00:05,070"
+          },
+          "offsets": {
+            "from": 4050,
+            "to": 5070
+          },
+          "id": 3348,
+          "p": 0.950765,
+          "t_dtw": -1
+        },
+        {
+          "text": " cutting",
+          "timestamps": {
+            "from": "00:00:06,460",
+            "to": "00:00:07,990"
+          },
+          "offsets": {
+            "from": 6460,
+            "to": 7990
+          },
+          "id": 7720,
+          "p": 0.865337,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:07,990",
+            "to": "00:00:08,000"
+          },
+          "offsets": {
+            "from": 7990,
+            "to": 8000
+          },
+          "id": 13,
+          "p": 0.95099,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_400]",
+          "timestamps": {
+            "from": "00:00:08,000",
+            "to": "00:00:08,000"
+          },
+          "offsets": {
+            "from": 8000,
+            "to": 8000
+          },
+          "id": 50763,
+          "p": 0.648423,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:08,000",
+        "to": "00:00:15,000"
+      },
+      "offsets": {
+        "from": 8000,
+        "to": 15000
+      },
+      "text": " Do the lion dance.",
+      "tokens": [
+        {
+          "text": " Do",
+          "timestamps": {
+            "from": "00:00:08,000",
+            "to": "00:00:08,820"
+          },
+          "offsets": {
+            "from": 8000,
+            "to": 8820
+          },
+          "id": 2141,
+          "p": 0.995047,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:09,050",
+            "to": "00:00:10,030"
+          },
+          "offsets": {
+            "from": 9050,
+            "to": 10030
+          },
+          "id": 262,
+          "p": 0.996651,
+          "t_dtw": -1
+        },
+        {
+          "text": " lion",
+          "timestamps": {
+            "from": "00:00:10,040",
+            "to": "00:00:11,690"
+          },
+          "offsets": {
+            "from": 10040,
+            "to": 11690
+          },
+          "id": 18744,
+          "p": 0.953655,
+          "t_dtw": -1
+        },
+        {
+          "text": " dance",
+          "timestamps": {
+            "from": "00:00:11,690",
+            "to": "00:00:13,740"
+          },
+          "offsets": {
+            "from": 11690,
+            "to": 13740
+          },
+          "id": 9280,
+          "p": 0.998336,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:13,740",
+            "to": "00:00:14,970"
+          },
+          "offsets": {
+            "from": 13740,
+            "to": 14970
+          },
+          "id": 13,
+          "p": 0.99582,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_750]",
+          "timestamps": {
+            "from": "00:00:15,000",
+            "to": "00:00:15,000"
+          },
+          "offsets": {
+            "from": 15000,
+            "to": 15000
+          },
+          "id": 51113,
+          "p": 0.536889,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:15,000",
+        "to": "00:00:22,000"
+      },
+      "offsets": {
+        "from": 15000,
+        "to": 22000
+      },
+      "text": " Kick a shuttlecock.",
+      "tokens": [
+        {
+          "text": " Kick",
+          "timestamps": {
+            "from": "00:00:16,050",
+            "to": "00:00:16,470"
+          },
+          "offsets": {
+            "from": 16050,
+            "to": 16470
+          },
+          "id": 10279,
+          "p": 0.912172,
+          "t_dtw": -1
+        },
+        {
+          "text": " a",
+          "timestamps": {
+            "from": "00:00:16,470",
+            "to": "00:00:16,840"
+          },
+          "offsets": {
+            "from": 16470,
+            "to": 16840
+          },
+          "id": 257,
+          "p": 0.998929,
+          "t_dtw": -1
+        },
+        {
+          "text": " shuttle",
+          "timestamps": {
+            "from": "00:00:16,840",
+            "to": "00:00:19,410"
+          },
+          "offsets": {
+            "from": 16840,
+            "to": 19410
+          },
+          "id": 20992,
+          "p": 0.996871,
+          "t_dtw": -1
+        },
+        {
+          "text": "cock",
+          "timestamps": {
+            "from": "00:00:19,410",
+            "to": "00:00:20,880"
+          },
+          "offsets": {
+            "from": 19410,
+            "to": 20880
+          },
+          "id": 21517,
+          "p": 0.745553,
+          "t_dtw": -1
+        },
+        {
+          "text": ".",
+          "timestamps": {
+            "from": "00:00:20,880",
+            "to": "00:00:21,960"
+          },
+          "offsets": {
+            "from": 20880,
+            "to": 21960
+          },
+          "id": 13,
+          "p": 0.997485,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1100]",
+          "timestamps": {
+            "from": "00:00:22,000",
+            "to": "00:00:22,000"
+          },
+          "offsets": {
+            "from": 22000,
+            "to": 22000
+          },
+          "id": 51463,
+          "p": 0.385192,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

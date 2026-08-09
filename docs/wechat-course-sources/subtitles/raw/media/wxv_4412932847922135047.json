@@ -1,0 +1,882 @@
+{
+  "RequestId": "378f7fe7-2799-442d-8e3a-ccf6ff54df84",
+  "Data": {
+    "TaskId": 16292569821,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 77.020625,
+    "Result": "The happy farmer and his wife.Once upon a time there was a poor farmer called Fred. He and his wife Doris lived in a small old house. One day a fairy visited them. Fred, I'd like to give you three wishes, said the fairy Fred and Doris smiled at each other and said thank you but we don't need any wishes. I can give you some gold then you won't have to work said the fairy thank you we're poor but we're happy said Doris I can give you a big new house said the fairy thank you our house is small and old but it's warm and.Nice answered, Fred. I wish you a happy life, said the fairy.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The happy farmer and his wife.",
+        "SliceSentence": "The happy farmer and his wife .",
+        "WrittenText": "",
+        "StartMs": 1260,
+        "EndMs": 3590,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 375,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 650,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "farmer"
+          },
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1695,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1695,
+            "OffsetEndMs": 1995,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1995,
+            "OffsetEndMs": 2330,
+            "Word": "wife"
+          },
+          {
+            "OffsetStartMs": 1995,
+            "OffsetEndMs": 2330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Once upon a time there was a poor farmer called Fred.",
+        "SliceSentence": "Once upon a time there was a poor farmer called Fred .",
+        "WrittenText": "",
+        "StartMs": 4940,
+        "EndMs": 10540,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "Once"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2055,
+            "Word": "upon"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2205,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2480,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 3375,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3375,
+            "OffsetEndMs": 3540,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3675,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3675,
+            "OffsetEndMs": 3950,
+            "Word": "poor"
+          },
+          {
+            "OffsetStartMs": 4000,
+            "OffsetEndMs": 4400,
+            "Word": "farmer"
+          },
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5120,
+            "Word": "called"
+          },
+          {
+            "OffsetStartMs": 5200,
+            "OffsetEndMs": 5600,
+            "Word": "Fred"
+          },
+          {
+            "OffsetStartMs": 5200,
+            "OffsetEndMs": 5600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He and his wife Doris lived in a small old house.",
+        "SliceSentence": "He and his wife Doris lived in a small old house .",
+        "WrittenText": "",
+        "StartMs": 12840,
+        "EndMs": 16960,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 785,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1070,
+            "Word": "wife"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1720,
+            "Word": "Doris"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2180,
+            "Word": "lived"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2450,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2675,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3010,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3580,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day a fairy visited them.",
+        "SliceSentence": "One day a fairy visited them .",
+        "WrittenText": "",
+        "StartMs": 18630,
+        "EndMs": 21340,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1430,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1970,
+            "Word": "fairy"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2260,
+            "Word": "visited"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Fred,",
+        "SliceSentence": "Fred ,",
+        "WrittenText": "",
+        "StartMs": 22020,
+        "EndMs": 22420,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Fred"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'd like to give you three wishes,",
+        "SliceSentence": "I'd like to give you three wishes ,",
+        "WrittenText": "",
+        "StartMs": 22920,
+        "EndMs": 25720,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "I'd"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 850,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1175,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1400,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1750,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the fairy Fred and Doris smiled at each other and said thank you but we don't need any wishes.",
+        "SliceSentence": "said the fairy Fred and Doris smiled at each other and said thank you but we don't need any wishes .",
+        "WrittenText": "",
+        "StartMs": 26580,
+        "EndMs": 35590,
+        "SpeechSpeed": 11,
+        "WordsNum": 21,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 545,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 1120,
+            "Word": "fairy"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2690,
+            "Word": "Fred"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 2990,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3515,
+            "Word": "Doris"
+          },
+          {
+            "OffsetStartMs": 3515,
+            "OffsetEndMs": 3845,
+            "Word": "smiled"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4115,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 4115,
+            "OffsetEndMs": 4265,
+            "Word": "each"
+          },
+          {
+            "OffsetStartMs": 4265,
+            "OffsetEndMs": 4540,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 4650,
+            "OffsetEndMs": 4985,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4985,
+            "OffsetEndMs": 5320,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 5880,
+            "OffsetEndMs": 6280,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 6420,
+            "OffsetEndMs": 6820,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 7170,
+            "OffsetEndMs": 7550,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 7550,
+            "OffsetEndMs": 7790,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 7790,
+            "OffsetEndMs": 8090,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 8090,
+            "OffsetEndMs": 8315,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 8315,
+            "OffsetEndMs": 8645,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 8645,
+            "OffsetEndMs": 9010,
+            "Word": "wishes"
+          },
+          {
+            "OffsetStartMs": 8645,
+            "OffsetEndMs": 9010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can give you some gold then you won't have to work said the fairy thank you we're poor but we're happy said Doris I can give you a big new house said the fairy thank you our house is small and old but it's warm and.",
+        "SliceSentence": "I can give you some gold then you won't have to work said the fairy thank you we're poor but we're happy said Doris I can give you a big new house said the fairy thank you our house is small and old but it's warm and .",
+        "WrittenText": "",
+        "StartMs": 39570,
+        "EndMs": 65380,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 48,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 740,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1025,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1280,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1580,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1960,
+            "Word": "gold"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3050,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3320,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3320,
+            "OffsetEndMs": 3695,
+            "Word": "won't"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 3890,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3890,
+            "OffsetEndMs": 4115,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 4115,
+            "OffsetEndMs": 4390,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5345,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 5345,
+            "OffsetEndMs": 5555,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5555,
+            "OffsetEndMs": 6160,
+            "Word": "fairy"
+          },
+          {
+            "OffsetStartMs": 7350,
+            "OffsetEndMs": 7750,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 7770,
+            "OffsetEndMs": 8170,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 8670,
+            "OffsetEndMs": 9095,
+            "Word": "we're"
+          },
+          {
+            "OffsetStartMs": 9095,
+            "OffsetEndMs": 9340,
+            "Word": "poor"
+          },
+          {
+            "OffsetStartMs": 9810,
+            "OffsetEndMs": 10115,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 10115,
+            "OffsetEndMs": 10400,
+            "Word": "we're"
+          },
+          {
+            "OffsetStartMs": 10400,
+            "OffsetEndMs": 10630,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 11550,
+            "OffsetEndMs": 11915,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 11915,
+            "OffsetEndMs": 12520,
+            "Word": "Doris"
+          },
+          {
+            "OffsetStartMs": 14880,
+            "OffsetEndMs": 15245,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 15245,
+            "OffsetEndMs": 15545,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 15545,
+            "OffsetEndMs": 15815,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 15815,
+            "OffsetEndMs": 16040,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 16040,
+            "OffsetEndMs": 16330,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 16350,
+            "OffsetEndMs": 16750,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 16950,
+            "OffsetEndMs": 17330,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 17330,
+            "OffsetEndMs": 17710,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 18570,
+            "OffsetEndMs": 18920,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 18920,
+            "OffsetEndMs": 19130,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 19130,
+            "OffsetEndMs": 19720,
+            "Word": "fairy"
+          },
+          {
+            "OffsetStartMs": 20910,
+            "OffsetEndMs": 21290,
+            "Word": "thank"
+          },
+          {
+            "OffsetStartMs": 21290,
+            "OffsetEndMs": 21670,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 21930,
+            "OffsetEndMs": 22280,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 22280,
+            "OffsetEndMs": 22630,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 22650,
+            "OffsetEndMs": 23030,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 23030,
+            "OffsetEndMs": 23375,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 23375,
+            "OffsetEndMs": 23630,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 23630,
+            "OffsetEndMs": 23920,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 24390,
+            "OffsetEndMs": 24680,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 24680,
+            "OffsetEndMs": 24950,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 24950,
+            "OffsetEndMs": 25210,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 25410,
+            "OffsetEndMs": 25810,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 25410,
+            "OffsetEndMs": 25810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Nice answered,",
+        "SliceSentence": "Nice answered ,",
+        "WrittenText": "",
+        "StartMs": 65420,
+        "EndMs": 66970,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Nice"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "answered"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 40,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Fred.",
+        "SliceSentence": "Fred .",
+        "WrittenText": "",
+        "StartMs": 67110,
+        "EndMs": 67510,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Fred"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wish you a happy life,",
+        "SliceSentence": "I wish you a happy life ,",
+        "WrittenText": "",
+        "StartMs": 68550,
+        "EndMs": 71230,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "wish"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1355,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1730,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2110,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": "life"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the fairy.",
+        "SliceSentence": "said the fairy .",
+        "WrittenText": "",
+        "StartMs": 71970,
+        "EndMs": 73150,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 1180,
+            "Word": "fairy"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

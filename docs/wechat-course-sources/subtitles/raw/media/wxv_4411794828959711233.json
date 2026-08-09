@@ -1,0 +1,206 @@
+{
+  "RequestId": "5a441f1a-bedf-40e1-9c57-9d1f26fe7ea2",
+  "Data": {
+    "TaskId": 16292400822,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 21.594563,
+    "Result": "I.An insect in a box in a big big box. An insect in a box in a big, big box.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I.",
+        "SliceSentence": "I .",
+        "WrittenText": "",
+        "StartMs": 860,
+        "EndMs": 1300,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "An insect in a box in a big big box.",
+        "SliceSentence": "An insect in a box in a big big box .",
+        "WrittenText": "",
+        "StartMs": 2940,
+        "EndMs": 11330,
+        "SpeechSpeed": 4.2,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 4180,
+            "OffsetEndMs": 4580,
+            "Word": "An"
+          },
+          {
+            "OffsetStartMs": 4750,
+            "OffsetEndMs": 5150,
+            "Word": "insect"
+          },
+          {
+            "OffsetStartMs": 5320,
+            "OffsetEndMs": 5625,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5625,
+            "OffsetEndMs": 5790,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5790,
+            "OffsetEndMs": 6050,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 6460,
+            "OffsetEndMs": 6780,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 6780,
+            "OffsetEndMs": 6960,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6960,
+            "OffsetEndMs": 7220,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 7390,
+            "OffsetEndMs": 7790,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 7990,
+            "OffsetEndMs": 8390,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 7990,
+            "OffsetEndMs": 8390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " An insect in a box in a big,",
+        "SliceSentence": "An insect in a box in a big ,",
+        "WrittenText": "",
+        "StartMs": 14230,
+        "EndMs": 17330,
+        "SpeechSpeed": 9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "An"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "insect"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1550,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1700,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 1960,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2675,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 2840,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 3100,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 3100,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " big box.",
+        "SliceSentence": "big box .",
+        "WrittenText": "",
+        "StartMs": 17500,
+        "EndMs": 18470,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

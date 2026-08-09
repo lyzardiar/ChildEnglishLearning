@@ -1,0 +1,1059 @@
+{
+  "RequestId": "bb8a3810-3357-4100-b26d-ace699e54483",
+  "Data": {
+    "TaskId": 16292576105,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 80.36425,
+    "Result": "The students want to make presents for their families and friends. Miss squaw is helping them. What do you want to make jill? What do you need? I want to make a crown. I need a pair of scissors. That sounds nice. Who is it for? It's for my little cousin. She wants to be a princess. What about you Peter? What are you making? I'm making a toy plane for my brother. He likes playing with toy planes. That's good. What are you making, Joe?And Alice, we're making a model house. It's for kitty. We don't have any tape. Can you give us some please? Sure.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The students want to make presents for their families and friends.",
+        "SliceSentence": "The students want to make presents for their families and friends .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 10160,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5955,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 5955,
+            "OffsetEndMs": 6320,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 6670,
+            "OffsetEndMs": 7050,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 7050,
+            "OffsetEndMs": 7290,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 7290,
+            "OffsetEndMs": 7550,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 7570,
+            "OffsetEndMs": 7970,
+            "Word": "presents"
+          },
+          {
+            "OffsetStartMs": 8260,
+            "OffsetEndMs": 8550,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 8550,
+            "OffsetEndMs": 8775,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 8775,
+            "OffsetEndMs": 9110,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 9430,
+            "OffsetEndMs": 9795,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 9795,
+            "OffsetEndMs": 10160,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 9795,
+            "OffsetEndMs": 10160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Miss squaw is helping them.",
+        "SliceSentence": "Miss squaw is helping them .",
+        "WrittenText": "",
+        "StartMs": 11200,
+        "EndMs": 13250,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 790,
+            "Word": "squaw"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1160,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1510,
+            "Word": "helping"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you want to make jill?",
+        "SliceSentence": "What do you want to make jill ?",
+        "WrittenText": "",
+        "StartMs": 16390,
+        "EndMs": 18440,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 770,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1070,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1325,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1600,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2050,
+            "Word": "jill"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2050,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you need?",
+        "SliceSentence": "What do you need ?",
+        "WrittenText": "",
+        "StartMs": 19030,
+        "EndMs": 20030,
+        "SpeechSpeed": 17,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 515,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 695,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to make a crown.",
+        "SliceSentence": "I want to make a crown .",
+        "WrittenText": "",
+        "StartMs": 20800,
+        "EndMs": 22940,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 815,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1085,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1775,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2140,
+            "Word": "crown"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I need a pair of scissors.",
+        "SliceSentence": "I need a pair of scissors .",
+        "WrittenText": "",
+        "StartMs": 23590,
+        "EndMs": 25850,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1055,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1340,
+            "Word": "pair"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1625,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 2260,
+            "Word": "scissors"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That sounds nice.",
+        "SliceSentence": "That sounds nice .",
+        "WrittenText": "",
+        "StartMs": 30220,
+        "EndMs": 31520,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "That"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Who is it for?",
+        "SliceSentence": "Who is it for ?",
+        "WrittenText": "",
+        "StartMs": 32140,
+        "EndMs": 33260,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Who"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 785,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1120,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's for my little cousin.",
+        "SliceSentence": "It's for my little cousin .",
+        "WrittenText": "",
+        "StartMs": 34180,
+        "EndMs": 35870,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 680,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 890,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1210,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "cousin"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She wants to be a princess.",
+        "SliceSentence": "She wants to be a princess .",
+        "WrittenText": "",
+        "StartMs": 36610,
+        "EndMs": 38240,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "wants"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 980,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1115,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1310,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "princess"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What about you Peter?",
+        "SliceSentence": "What about you Peter ?",
+        "WrittenText": "",
+        "StartMs": 42670,
+        "EndMs": 44090,
+        "SpeechSpeed": 14.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 710,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1055,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "Peter"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are you making?",
+        "SliceSentence": "What are you making ?",
+        "WrittenText": "",
+        "StartMs": 44710,
+        "EndMs": 45740,
+        "SpeechSpeed": 19.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 725,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1030,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1030,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm making a toy plane for my brother.",
+        "SliceSentence": "I'm making a toy plane for my brother .",
+        "WrittenText": "",
+        "StartMs": 46690,
+        "EndMs": 49970,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 850,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1370,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1690,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "plane"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2735,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 2945,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3280,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He likes playing with toy planes.",
+        "SliceSentence": "He likes playing with toy planes .",
+        "WrittenText": "",
+        "StartMs": 50650,
+        "EndMs": 53000,
+        "SpeechSpeed": 14,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "playing"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2350,
+            "Word": "planes"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's good.",
+        "SliceSentence": "That's good .",
+        "WrittenText": "",
+        "StartMs": 54100,
+        "EndMs": 54980,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 880,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are you making,",
+        "SliceSentence": "What are you making ,",
+        "WrittenText": "",
+        "StartMs": 58000,
+        "EndMs": 59090,
+        "SpeechSpeed": 18.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 515,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 755,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1090,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3020,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Joe?",
+        "SliceSentence": "Joe ?",
+        "WrittenText": "",
+        "StartMs": 59350,
+        "EndMs": 59750,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "And Alice,",
+        "SliceSentence": "And Alice ,",
+        "WrittenText": "",
+        "StartMs": 60220,
+        "EndMs": 60660,
+        "SpeechSpeed": 20.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 135,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 135,
+            "OffsetEndMs": 440,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 135,
+            "OffsetEndMs": 440,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we're making a model house.",
+        "SliceSentence": "we're making a model house .",
+        "WrittenText": "",
+        "StartMs": 62480,
+        "EndMs": 64680,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "we're"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 820,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1370,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1720,
+            "Word": "model"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's for kitty.",
+        "SliceSentence": "It's for kitty .",
+        "WrittenText": "",
+        "StartMs": 65450,
+        "EndMs": 66660,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 650,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1210,
+            "Word": "kitty"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We don't have any tape.",
+        "SliceSentence": "We don't have any tape .",
+        "WrittenText": "",
+        "StartMs": 67580,
+        "EndMs": 69240,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 725,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 950,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1280,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "tape"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you give us some please?",
+        "SliceSentence": "Can you give us some please ?",
+        "WrittenText": "",
+        "StartMs": 70010,
+        "EndMs": 71700,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 725,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 965,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1295,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1690,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1690,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sure.",
+        "SliceSentence": "Sure .",
+        "WrittenText": "",
+        "StartMs": 74870,
+        "EndMs": 75270,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sure"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

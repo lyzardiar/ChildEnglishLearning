@@ -1,0 +1,820 @@
+{
+  "RequestId": "37c2db42-e0d1-4dc3-aede-b18d99c96d05",
+  "Data": {
+    "TaskId": 16292445307,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 71.819313,
+    "Result": "Bill's story the lost toy. I can't find my toy. It's blue. It has no ears. It has two eyes. Don't worry, we can help. What color is beau's toy? It's blue.That toy is blue. It has two ears. Not that toy look. A blue toy. It has three eyes. Not that toy look. This is Bill's toy.Oh, it's a spider. Here's your toy, Bill. Thank you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Bill's story the lost toy.",
+        "SliceSentence": "Bill's story the lost toy .",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 3660,
+        "SpeechSpeed": 7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 1070,
+            "Word": "Bill's"
+          },
+          {
+            "OffsetStartMs": 1090,
+            "OffsetEndMs": 1490,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2670,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 2960,
+            "Word": "lost"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't find my toy.",
+        "SliceSentence": "I can't find my toy .",
+        "WrittenText": "",
+        "StartMs": 9530,
+        "EndMs": 11520,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1010,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1300,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1655,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1990,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's blue.",
+        "SliceSentence": "It's blue .",
+        "WrittenText": "",
+        "StartMs": 12080,
+        "EndMs": 12900,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 820,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has no ears.",
+        "SliceSentence": "It has no ears .",
+        "WrittenText": "",
+        "StartMs": 13730,
+        "EndMs": 14970,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 905,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1240,
+            "Word": "ears"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has two eyes.",
+        "SliceSentence": "It has two eyes .",
+        "WrittenText": "",
+        "StartMs": 15680,
+        "EndMs": 17040,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1025,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1360,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't worry,",
+        "SliceSentence": "Don't worry ,",
+        "WrittenText": "",
+        "StartMs": 18410,
+        "EndMs": 19260,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "worry"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can help.",
+        "SliceSentence": "we can help .",
+        "WrittenText": "",
+        "StartMs": 19760,
+        "EndMs": 20820,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What color is beau's toy?",
+        "SliceSentence": "What color is beau's toy ?",
+        "WrittenText": "",
+        "StartMs": 23330,
+        "EndMs": 25350,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "color"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1175,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1745,
+            "Word": "beau's"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2020,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2020,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2510,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's blue.",
+        "SliceSentence": "It's blue .",
+        "WrittenText": "",
+        "StartMs": 28490,
+        "EndMs": 29220,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "That toy is blue.",
+        "SliceSentence": "That toy is blue .",
+        "WrittenText": "",
+        "StartMs": 31840,
+        "EndMs": 34680,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1695,
+            "Word": "That"
+          },
+          {
+            "OffsetStartMs": 1695,
+            "OffsetEndMs": 2060,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2460,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2840,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has two ears.",
+        "SliceSentence": "It has two ears .",
+        "WrittenText": "",
+        "StartMs": 38510,
+        "EndMs": 39870,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 995,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "ears"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Not that toy look.",
+        "SliceSentence": "Not that toy look .",
+        "WrittenText": "",
+        "StartMs": 40430,
+        "EndMs": 43920,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Not"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1030,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A blue toy.",
+        "SliceSentence": "A blue toy .",
+        "WrittenText": "",
+        "StartMs": 44210,
+        "EndMs": 45270,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has three eyes.",
+        "SliceSentence": "It has three eyes .",
+        "WrittenText": "",
+        "StartMs": 48770,
+        "EndMs": 50100,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 995,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Not that toy look.",
+        "SliceSentence": "Not that toy look .",
+        "WrittenText": "",
+        "StartMs": 50630,
+        "EndMs": 54810,
+        "SpeechSpeed": 4.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Not"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is Bill's toy.",
+        "SliceSentence": "This is Bill's toy .",
+        "WrittenText": "",
+        "StartMs": 55310,
+        "EndMs": 56670,
+        "SpeechSpeed": 14,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 1085,
+            "Word": "Bill's"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 59700,
+        "EndMs": 59990,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a spider.",
+        "SliceSentence": "it's a spider .",
+        "WrittenText": "",
+        "StartMs": 60400,
+        "EndMs": 61280,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 530,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 880,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here's your toy,",
+        "SliceSentence": "Here's your toy ,",
+        "WrittenText": "",
+        "StartMs": 64600,
+        "EndMs": 65690,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Here's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 770,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Bill.",
+        "SliceSentence": "Bill .",
+        "WrittenText": "",
+        "StartMs": 65710,
+        "EndMs": 66110,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Bill"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 20,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you.",
+        "SliceSentence": "Thank you .",
+        "WrittenText": "",
+        "StartMs": 67270,
+        "EndMs": 68180,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

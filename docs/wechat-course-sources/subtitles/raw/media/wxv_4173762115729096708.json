@@ -1,0 +1,972 @@
+{
+  "RequestId": "c4fe1a28-4b85-4d79-94ec-bc50dd8482e8",
+  "Data": {
+    "TaskId": 16292473869,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 85.472688,
+    "Result": "Coco's day in the park. It's a nice day. Today it is. What is it coco? Oh, it's a cat. Look, it has small ears. It's cute. It has big eyes. What is it coco? Look, that's a squirrel. Is this a squirrel too? Yes, they have big, long tails, I see.The two small animals. What are they? Oh, they're frogs. They're small. I like frogs. They eat bad bugs. Ben, Ben.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Coco's day in the park.",
+        "SliceSentence": "Coco's day in the park .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2540,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 1290,
+            "Word": "Coco's"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1670,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2100,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2540,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a nice day.",
+        "SliceSentence": "It's a nice day .",
+        "WrittenText": "",
+        "StartMs": 6040,
+        "EndMs": 7940,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 875,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1240,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Today it is.",
+        "SliceSentence": "Today it is .",
+        "WrittenText": "",
+        "StartMs": 8290,
+        "EndMs": 10520,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Today"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What is it coco?",
+        "SliceSentence": "What is it coco ?",
+        "WrittenText": "",
+        "StartMs": 16360,
+        "EndMs": 17930,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 905,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1570,
+            "Word": "coco"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 20860,
+        "EndMs": 21260,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a cat.",
+        "SliceSentence": "it's a cat .",
+        "WrittenText": "",
+        "StartMs": 22030,
+        "EndMs": 23000,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 23950,
+        "EndMs": 24350,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it has small ears.",
+        "SliceSentence": "it has small ears .",
+        "WrittenText": "",
+        "StartMs": 25210,
+        "EndMs": 27080,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "ears"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cute.",
+        "SliceSentence": "It's cute .",
+        "WrittenText": "",
+        "StartMs": 28330,
+        "EndMs": 29480,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "cute"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has big eyes.",
+        "SliceSentence": "It has big eyes .",
+        "WrittenText": "",
+        "StartMs": 30820,
+        "EndMs": 33110,
+        "SpeechSpeed": 7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What is it coco?",
+        "SliceSentence": "What is it coco ?",
+        "WrittenText": "",
+        "StartMs": 40840,
+        "EndMs": 42560,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1055,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1720,
+            "Word": "coco"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1720,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 44980,
+        "EndMs": 45380,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that's a squirrel.",
+        "SliceSentence": "that's a squirrel .",
+        "WrittenText": "",
+        "StartMs": 46420,
+        "EndMs": 48440,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 815,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 2020,
+            "Word": "squirrel"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is this a squirrel too?",
+        "SliceSentence": "Is this a squirrel too ?",
+        "WrittenText": "",
+        "StartMs": 49390,
+        "EndMs": 51440,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1085,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1715,
+            "Word": "squirrel"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2050,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2050,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 52240,
+        "EndMs": 52640,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they have big,",
+        "SliceSentence": "they have big ,",
+        "WrittenText": "",
+        "StartMs": 53440,
+        "EndMs": 55040,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " long tails,",
+        "SliceSentence": "long tails ,",
+        "WrittenText": "",
+        "StartMs": 55360,
+        "EndMs": 56960,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1600,
+            "Word": "tails"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see.",
+        "SliceSentence": "I see .",
+        "WrittenText": "",
+        "StartMs": 59530,
+        "EndMs": 60330,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 800,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The two small animals.",
+        "SliceSentence": "The two small animals .",
+        "WrittenText": "",
+        "StartMs": 60360,
+        "EndMs": 62420,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 650,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2060,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 30,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are they?",
+        "SliceSentence": "What are they ?",
+        "WrittenText": "",
+        "StartMs": 63400,
+        "EndMs": 64460,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 67360,
+        "EndMs": 67760,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they're frogs.",
+        "SliceSentence": "they're frogs .",
+        "WrittenText": "",
+        "StartMs": 68860,
+        "EndMs": 70340,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "they're"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1480,
+            "Word": "frogs"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They're small.",
+        "SliceSentence": "They're small .",
+        "WrittenText": "",
+        "StartMs": 71140,
+        "EndMs": 72170,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "They're"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like frogs.",
+        "SliceSentence": "I like frogs .",
+        "WrittenText": "",
+        "StartMs": 73120,
+        "EndMs": 74930,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1810,
+            "Word": "frogs"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They eat bad bugs.",
+        "SliceSentence": "They eat bad bugs .",
+        "WrittenText": "",
+        "StartMs": 75460,
+        "EndMs": 77870,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "bad"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2410,
+            "Word": "bugs"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ben,",
+        "SliceSentence": "Ben ,",
+        "WrittenText": "",
+        "StartMs": 80770,
+        "EndMs": 81170,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ben.",
+        "SliceSentence": "Ben .",
+        "WrittenText": "",
+        "StartMs": 81400,
+        "EndMs": 81800,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ben"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

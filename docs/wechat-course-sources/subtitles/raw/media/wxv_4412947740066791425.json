@@ -1,0 +1,1029 @@
+{
+  "RequestId": "8aa252bb-0801-4a55-a5f1-36b2d0338d03",
+  "Data": {
+    "TaskId": 16292587070,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 83.940125,
+    "Result": "Mum, can I throw away these bottles and cans? No, we should keep them. Why mum? Because we can reuse them. Let me show you. Look Alice, we can clean this small can and put your rubbers and crayons in it. That's a good idea. We can put some flowers in this bottle then it'll be a buzz. That's right, we can reuse other old things too. Do you have any ideas, Alice?Yes, look at this big can. I can put my pens, pencils and rulers in it. It's the right size. It'd be a nice pen holder. Good idea, Alice.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Mum,",
+        "SliceSentence": "Mum ,",
+        "WrittenText": "",
+        "StartMs": 180,
+        "EndMs": 9410,
+        "SpeechSpeed": 0.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 8830,
+            "OffsetEndMs": 9230,
+            "Word": "Mum"
+          },
+          {
+            "OffsetStartMs": 8830,
+            "OffsetEndMs": 9230,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " can I throw away these bottles and cans?",
+        "SliceSentence": "can I throw away these bottles and cans ?",
+        "WrittenText": "",
+        "StartMs": 10030,
+        "EndMs": 13340,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1055,
+            "Word": "throw"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1340,
+            "Word": "away"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1640,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 2225,
+            "Word": "bottles"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2525,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 3310,
+            "Word": "cans"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 3310,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 16270,
+        "EndMs": 16670,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we should keep them.",
+        "SliceSentence": "we should keep them .",
+        "WrittenText": "",
+        "StartMs": 16990,
+        "EndMs": 18320,
+        "SpeechSpeed": 15,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 560,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 910,
+            "Word": "keep"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Why mum?",
+        "SliceSentence": "Why mum ?",
+        "WrittenText": "",
+        "StartMs": 19180,
+        "EndMs": 19970,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Why"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Because we can reuse them.",
+        "SliceSentence": "Because we can reuse them .",
+        "WrittenText": "",
+        "StartMs": 23380,
+        "EndMs": 25340,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Because"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 650,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1540,
+            "Word": "reuse"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let me show you.",
+        "SliceSentence": "Let me show you .",
+        "WrittenText": "",
+        "StartMs": 25840,
+        "EndMs": 27020,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 815,
+            "Word": "show"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look Alice,",
+        "SliceSentence": "Look Alice ,",
+        "WrittenText": "",
+        "StartMs": 28510,
+        "EndMs": 29180,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can clean this small can and put your rubbers and crayons in it.",
+        "SliceSentence": "we can clean this small can and put your rubbers and crayons in it .",
+        "WrittenText": "",
+        "StartMs": 30100,
+        "EndMs": 35780,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 940,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1385,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1775,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2170,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3080,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3350,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 3350,
+            "OffsetEndMs": 3620,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 4145,
+            "Word": "rubbers"
+          },
+          {
+            "OffsetStartMs": 4145,
+            "OffsetEndMs": 4460,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4460,
+            "OffsetEndMs": 5045,
+            "Word": "crayons"
+          },
+          {
+            "OffsetStartMs": 5045,
+            "OffsetEndMs": 5360,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5360,
+            "OffsetEndMs": 5680,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 5360,
+            "OffsetEndMs": 5680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's a good idea.",
+        "SliceSentence": "That's a good idea .",
+        "WrittenText": "",
+        "StartMs": 39100,
+        "EndMs": 40430,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 710,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 995,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can put some flowers in this bottle then it'll be a buzz.",
+        "SliceSentence": "We can put some flowers in this bottle then it'll be a buzz .",
+        "WrittenText": "",
+        "StartMs": 41740,
+        "EndMs": 48830,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 815,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1160,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1540,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2285,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2570,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2920,
+            "Word": "bottle"
+          },
+          {
+            "OffsetStartMs": 5100,
+            "OffsetEndMs": 5495,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 5495,
+            "OffsetEndMs": 6005,
+            "Word": "it'll"
+          },
+          {
+            "OffsetStartMs": 6005,
+            "OffsetEndMs": 6170,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 6170,
+            "OffsetEndMs": 6350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6350,
+            "OffsetEndMs": 7090,
+            "Word": "buzz"
+          },
+          {
+            "OffsetStartMs": 6350,
+            "OffsetEndMs": 7090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That's right,",
+        "SliceSentence": "That's right ,",
+        "WrittenText": "",
+        "StartMs": 51400,
+        "EndMs": 52310,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can reuse other old things too.",
+        "SliceSentence": "we can reuse other old things too .",
+        "WrittenText": "",
+        "StartMs": 53080,
+        "EndMs": 56150,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 560,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 1180,
+            "Word": "reuse"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you have any ideas,",
+        "SliceSentence": "Do you have any ideas ,",
+        "WrittenText": "",
+        "StartMs": 56830,
+        "EndMs": 58130,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 515,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 740,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 980,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1300,
+            "Word": "ideas"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Alice?",
+        "SliceSentence": "Alice ?",
+        "WrittenText": "",
+        "StartMs": 58480,
+        "EndMs": 58880,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 60660,
+        "EndMs": 61280,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 620,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 220,
+            "OffsetEndMs": 620,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look at this big can.",
+        "SliceSentence": "look at this big can .",
+        "WrittenText": "",
+        "StartMs": 62440,
+        "EndMs": 64040,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 875,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1220,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can put my pens,",
+        "SliceSentence": "I can put my pens ,",
+        "WrittenText": "",
+        "StartMs": 64960,
+        "EndMs": 66500,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1175,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1540,
+            "Word": "pens"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1540,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " pencils and rulers in it.",
+        "SliceSentence": "pencils and rulers in it .",
+        "WrittenText": "",
+        "StartMs": 67060,
+        "EndMs": 69560,
+        "SpeechSpeed": 10,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "pencils"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1430,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 2030,
+            "Word": "rulers"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2210,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2500,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the right size.",
+        "SliceSentence": "It's the right size .",
+        "WrittenText": "",
+        "StartMs": 70000,
+        "EndMs": 71270,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 590,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 875,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1270,
+            "Word": "size"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It'd be a nice pen holder.",
+        "SliceSentence": "It'd be a nice pen holder .",
+        "WrittenText": "",
+        "StartMs": 72250,
+        "EndMs": 74450,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It'd"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 635,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 800,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1090,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1520,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 2200,
+            "Word": "holder"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good idea,",
+        "SliceSentence": "Good idea ,",
+        "WrittenText": "",
+        "StartMs": 75670,
+        "EndMs": 76370,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "idea"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Alice.",
+        "SliceSentence": "Alice .",
+        "WrittenText": "",
+        "StartMs": 76690,
+        "EndMs": 77090,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

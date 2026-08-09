@@ -1,0 +1,767 @@
+{
+  "RequestId": "ef2571f6-805d-4b6d-bf3f-328ae4a897de",
+  "Data": {
+    "TaskId": 16292517962,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 74.280625,
+    "Result": "Now and future.My name is Bobby. I am good at maths but I am weak in English. I do not like to get up early so I have no time for breakfast. I am often late for school. I do not like sport and I get tired easily. I like watching TV. In the future I will study hard and I will read more English books. I will try to get up early and have breakfast. I will not be late for school anymore.I will do exercise every day. I will not watch too much TV.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Now and future.",
+        "SliceSentence": "Now and future .",
+        "WrittenText": "",
+        "StartMs": 1740,
+        "EndMs": 3500,
+        "SpeechSpeed": 8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1380,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "My name is Bobby.",
+        "SliceSentence": "My name is Bobby .",
+        "WrittenText": "",
+        "StartMs": 5560,
+        "EndMs": 9960,
+        "SpeechSpeed": 3.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3180,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 3180,
+            "OffsetEndMs": 3480,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3780,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4400,
+            "Word": "Bobby"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I am good at maths but I am weak in English.",
+        "SliceSentence": "I am good at maths but I am weak in English .",
+        "WrittenText": "",
+        "StartMs": 10820,
+        "EndMs": 15480,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 860,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1115,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1810,
+            "Word": "maths"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3230,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3230,
+            "OffsetEndMs": 3425,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3725,
+            "Word": "weak"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4120,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I do not like to get up early so I have no time for breakfast.",
+        "SliceSentence": "I do not like to get up early so I have no time for breakfast .",
+        "WrittenText": "",
+        "StartMs": 23180,
+        "EndMs": 27690,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 830,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1100,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1310,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1475,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1685,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1990,
+            "Word": "early"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2810,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2810,
+            "OffsetEndMs": 3020,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3020,
+            "OffsetEndMs": 3245,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3545,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 3545,
+            "OffsetEndMs": 3910,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4220,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4510,
+            "Word": "breakfast"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I am often late for school.",
+        "SliceSentence": "I am often late for school .",
+        "WrittenText": "",
+        "StartMs": 32360,
+        "EndMs": 34200,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 425,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 730,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1205,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1505,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I do not like sport and I get tired easily.",
+        "SliceSentence": "I do not like sport and I get tired easily .",
+        "WrittenText": "",
+        "StartMs": 38600,
+        "EndMs": 41730,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 740,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1025,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1420,
+            "Word": "sport"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2030,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2225,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2405,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2710,
+            "Word": "tired"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "easily"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like watching TV.",
+        "SliceSentence": "I like watching TV .",
+        "WrittenText": "",
+        "StartMs": 43820,
+        "EndMs": 45150,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 530,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 880,
+            "Word": "watching"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "TV"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the future I will study hard and I will read more English books.",
+        "SliceSentence": "In the future I will study hard and I will read more English books .",
+        "WrittenText": "",
+        "StartMs": 47540,
+        "EndMs": 52980,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 880,
+            "Word": "future"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2000,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2300,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2630,
+            "Word": "study"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 3010,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3725,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 3920,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3920,
+            "OffsetEndMs": 4100,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 4100,
+            "OffsetEndMs": 4340,
+            "Word": "read"
+          },
+          {
+            "OffsetStartMs": 4340,
+            "OffsetEndMs": 4690,
+            "Word": "more"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5135,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 5135,
+            "OffsetEndMs": 5440,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 5135,
+            "OffsetEndMs": 5440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I will try to get up early and have breakfast.",
+        "SliceSentence": "I will try to get up early and have breakfast .",
+        "WrittenText": "",
+        "StartMs": 55760,
+        "EndMs": 58410,
+        "SpeechSpeed": 17.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 695,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 875,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1010,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1190,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1480,
+            "Word": "early"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2015,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2285,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2650,
+            "Word": "breakfast"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I will not be late for school anymore.",
+        "SliceSentence": "I will not be late for school anymore .",
+        "WrittenText": "",
+        "StartMs": 60770,
+        "EndMs": 63180,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 440,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 665,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 890,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1130,
+            "Word": "late"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1400,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1720,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "anymore"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2360,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I will do exercise every day.",
+        "SliceSentence": "I will do exercise every day .",
+        "WrittenText": "",
+        "StartMs": 66040,
+        "EndMs": 68970,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 790,
+            "OffsetEndMs": 1065,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1065,
+            "OffsetEndMs": 1230,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1520,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1750,
+            "OffsetEndMs": 2150,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2550,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2930,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I will not watch too much TV.",
+        "SliceSentence": "I will not watch too much TV .",
+        "WrittenText": "",
+        "StartMs": 69800,
+        "EndMs": 71910,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 440,
+            "Word": "will"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 650,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 970,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1430,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1745,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2110,
+            "Word": "TV"
+          },
+          {
+            "OffsetStartMs": 1745,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

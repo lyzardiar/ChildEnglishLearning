@@ -1,0 +1,797 @@
+{
+  "RequestId": "0a44f2bb-48a9-4d8a-b4db-d3becec1f254",
+  "Data": {
+    "TaskId": 16292576945,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 60.1165,
+    "Result": "Luban and the saw.A long time ago there was a craftsman. His name was Lu bun. One day Lu ban was at work on a mountain. A leaf cut his finger. Lou bun thought how could such a small leaf hurt my finger. He looked at the leaf carefully. There were many teeth on the leaf and the teeth were sharp. Could I make a tool with teeth like these? I could cut things with it easily Li bun said to himself soon Lu ban made a saw. It was the first saw in the world. People are still using this tool today.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Luban and the saw.",
+        "SliceSentence": "Luban and the saw .",
+        "WrittenText": "",
+        "StartMs": 1520,
+        "EndMs": 3250,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 770,
+            "Word": "Luban"
+          },
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1215,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1455,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1730,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A long time ago there was a craftsman.",
+        "SliceSentence": "A long time ago there was a craftsman .",
+        "WrittenText": "",
+        "StartMs": 4240,
+        "EndMs": 8790,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1485,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1790,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "ago"
+          },
+          {
+            "OffsetStartMs": 3010,
+            "OffsetEndMs": 3315,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3315,
+            "OffsetEndMs": 3495,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 3495,
+            "OffsetEndMs": 3675,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3675,
+            "OffsetEndMs": 4550,
+            "Word": "craftsman"
+          },
+          {
+            "OffsetStartMs": 3675,
+            "OffsetEndMs": 4550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " His name was Lu bun.",
+        "SliceSentence": "His name was Lu bun .",
+        "WrittenText": "",
+        "StartMs": 9560,
+        "EndMs": 11340,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "His"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1060,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1430,
+            "Word": "Lu"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "bun"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day Lu ban was at work on a mountain.",
+        "SliceSentence": "One day Lu ban was at work on a mountain .",
+        "WrittenText": "",
+        "StartMs": 12800,
+        "EndMs": 16350,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1385,
+            "Word": "Lu"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1750,
+            "Word": "ban"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2075,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2315,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2650,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3110,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3275,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3275,
+            "OffsetEndMs": 3550,
+            "Word": "mountain"
+          },
+          {
+            "OffsetStartMs": 3275,
+            "OffsetEndMs": 3550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A leaf cut his finger.",
+        "SliceSentence": "A leaf cut his finger .",
+        "WrittenText": "",
+        "StartMs": 17390,
+        "EndMs": 19320,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "leaf"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1250,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1580,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1930,
+            "Word": "finger"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Lou bun thought how could such a small leaf hurt my finger.",
+        "SliceSentence": "Lou bun thought how could such a small leaf hurt my finger .",
+        "WrittenText": "",
+        "StartMs": 20390,
+        "EndMs": 25860,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Lou"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "bun"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "thought"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2465,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2795,
+            "Word": "could"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3080,
+            "Word": "such"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3395,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3760,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "leaf"
+          },
+          {
+            "OffsetStartMs": 4440,
+            "OffsetEndMs": 4835,
+            "Word": "hurt"
+          },
+          {
+            "OffsetStartMs": 4835,
+            "OffsetEndMs": 5150,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 5150,
+            "OffsetEndMs": 5470,
+            "Word": "finger"
+          },
+          {
+            "OffsetStartMs": 5150,
+            "OffsetEndMs": 5470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He looked at the leaf carefully.",
+        "SliceSentence": "He looked at the leaf carefully .",
+        "WrittenText": "",
+        "StartMs": 26870,
+        "EndMs": 28620,
+        "SpeechSpeed": 18.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 590,
+            "Word": "looked"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 860,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1040,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1330,
+            "Word": "leaf"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "carefully"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There were many teeth on the leaf and the teeth were sharp.",
+        "SliceSentence": "There were many teeth on the leaf and the teeth were sharp .",
+        "WrittenText": "",
+        "StartMs": 29600,
+        "EndMs": 33690,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 440,
+            "Word": "were"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1760,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 1955,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2230,
+            "Word": "leaf"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 2990,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3155,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3430,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3770,
+            "Word": "were"
+          },
+          {
+            "OffsetStartMs": 3770,
+            "OffsetEndMs": 4090,
+            "Word": "sharp"
+          },
+          {
+            "OffsetStartMs": 3770,
+            "OffsetEndMs": 4090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Could I make a tool with teeth like these?",
+        "SliceSentence": "Could I make a tool with teeth like these ?",
+        "WrittenText": "",
+        "StartMs": 36020,
+        "EndMs": 38910,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Could"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 770,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 980,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1270,
+            "Word": "tool"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1895,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2230,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2570,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2890,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 2570,
+            "OffsetEndMs": 2890,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I could cut things with it easily Li bun said to himself soon Lu ban made a saw.",
+        "SliceSentence": "I could cut things with it easily Li bun said to himself soon Lu ban made a saw .",
+        "WrittenText": "",
+        "StartMs": 39830,
+        "EndMs": 47940,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 19,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "could"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 800,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1130,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1385,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1535,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1810,
+            "Word": "easily"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3125,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 3125,
+            "OffsetEndMs": 3460,
+            "Word": "bun"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3845,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4205,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 4205,
+            "OffsetEndMs": 4600,
+            "Word": "himself"
+          },
+          {
+            "OffsetStartMs": 5190,
+            "OffsetEndMs": 5590,
+            "Word": "soon"
+          },
+          {
+            "OffsetStartMs": 6210,
+            "OffsetEndMs": 6560,
+            "Word": "Lu"
+          },
+          {
+            "OffsetStartMs": 6560,
+            "OffsetEndMs": 6910,
+            "Word": "ban"
+          },
+          {
+            "OffsetStartMs": 6930,
+            "OffsetEndMs": 7330,
+            "Word": "made"
+          },
+          {
+            "OffsetStartMs": 7440,
+            "OffsetEndMs": 7775,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7775,
+            "OffsetEndMs": 8110,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 7775,
+            "OffsetEndMs": 8110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It was the first saw in the world.",
+        "SliceSentence": "It was the first saw in the world .",
+        "WrittenText": "",
+        "StartMs": 49280,
+        "EndMs": 52170,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "was"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1150,
+            "Word": "first"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "saw"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2465,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2630,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2890,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People are still using this tool today.",
+        "SliceSentence": "People are still using this tool today .",
+        "WrittenText": "",
+        "StartMs": 53210,
+        "EndMs": 56040,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1130,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1510,
+            "Word": "using"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1970,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2320,
+            "Word": "tool"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

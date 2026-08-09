@@ -1,0 +1,327 @@
+{
+  "RequestId": "727f41e4-b23c-4dfd-ade5-9c3769afbe08",
+  "Data": {
+    "TaskId": 16291890371,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 28.839188,
+    "Result": "B b.I see a bee, I see a bird, I see a bee and a bird, I see a bee, I see a bird, I see a bee and a bird.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "B b.",
+        "SliceSentence": "B b .",
+        "WrittenText": "",
+        "StartMs": 860,
+        "EndMs": 2470,
+        "SpeechSpeed": 1.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "b"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I see a bee,",
+        "SliceSentence": "I see a bee ,",
+        "WrittenText": "",
+        "StartMs": 3140,
+        "EndMs": 9700,
+        "SpeechSpeed": 1.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 4600,
+            "OffsetEndMs": 5000,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 5140,
+            "OffsetEndMs": 5490,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5790,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5790,
+            "OffsetEndMs": 6560,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 5790,
+            "OffsetEndMs": 6560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a bird,",
+        "SliceSentence": "I see a bird ,",
+        "WrittenText": "",
+        "StartMs": 10140,
+        "EndMs": 11680,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 890,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1190,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a bee and a bird,",
+        "SliceSentence": "I see a bee and a bird ,",
+        "WrittenText": "",
+        "StartMs": 12540,
+        "EndMs": 15250,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 875,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1190,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1775,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2075,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2390,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2710,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 2710,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a bee,",
+        "SliceSentence": "I see a bee ,",
+        "WrittenText": "",
+        "StartMs": 18420,
+        "EndMs": 20380,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 920,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1960,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1960,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a bird,",
+        "SliceSentence": "I see a bird ,",
+        "WrittenText": "",
+        "StartMs": 20730,
+        "EndMs": 22360,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 980,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1280,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1630,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I see a bee and a bird.",
+        "SliceSentence": "I see a bee and a bird .",
+        "WrittenText": "",
+        "StartMs": 23190,
+        "EndMs": 25960,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1850,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2135,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2450,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2770,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

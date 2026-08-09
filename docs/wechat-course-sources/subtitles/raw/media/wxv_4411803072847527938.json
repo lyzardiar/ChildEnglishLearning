@@ -1,0 +1,274 @@
+{
+  "RequestId": "bac14f74-fd27-4c93-9585-3ba4c824e0de",
+  "Data": {
+    "TaskId": 16292403292,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 27.585313,
+    "Result": "N taste theles the noodles. Nice, nice, nice. Taste the noodles taste the noodles. Nice, nice, nice.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "N taste theles the noodles.",
+        "SliceSentence": "N taste theles the noodles .",
+        "WrittenText": "",
+        "StartMs": 740,
+        "EndMs": 11620,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 6550,
+            "OffsetEndMs": 6950,
+            "Word": "taste"
+          },
+          {
+            "OffsetStartMs": 7090,
+            "OffsetEndMs": 8480,
+            "Word": "theles"
+          },
+          {
+            "OffsetStartMs": 9490,
+            "OffsetEndMs": 9890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 10180,
+            "OffsetEndMs": 10880,
+            "Word": "noodles"
+          },
+          {
+            "OffsetStartMs": 10180,
+            "OffsetEndMs": 10880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Nice,",
+        "SliceSentence": "Nice ,",
+        "WrittenText": "",
+        "StartMs": 12120,
+        "EndMs": 12520,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nice,",
+        "SliceSentence": "nice ,",
+        "WrittenText": "",
+        "StartMs": 13290,
+        "EndMs": 13690,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nice.",
+        "SliceSentence": "nice .",
+        "WrittenText": "",
+        "StartMs": 14490,
+        "EndMs": 14890,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taste the noodles taste the noodles.",
+        "SliceSentence": "Taste the noodles taste the noodles .",
+        "WrittenText": "",
+        "StartMs": 16770,
+        "EndMs": 21190,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 2080,
+            "Word": "noodles"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "taste"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4420,
+            "Word": "noodles"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Nice,",
+        "SliceSentence": "Nice ,",
+        "WrittenText": "",
+        "StartMs": 21540,
+        "EndMs": 21940,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nice,",
+        "SliceSentence": "nice ,",
+        "WrittenText": "",
+        "StartMs": 22740,
+        "EndMs": 23140,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " nice.",
+        "SliceSentence": "nice .",
+        "WrittenText": "",
+        "StartMs": 23910,
+        "EndMs": 24310,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

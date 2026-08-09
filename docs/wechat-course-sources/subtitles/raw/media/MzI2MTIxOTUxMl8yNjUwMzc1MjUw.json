@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwMzc1MjUw",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:07,980"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 7980
+      },
+      "text": " unit six holidays words and expressions",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.766978,
+          "t_dtw": -1
+        },
+        {
+          "text": " unit",
+          "timestamps": {
+            "from": "00:00:00,660",
+            "to": "00:00:01,140"
+          },
+          "offsets": {
+            "from": 660,
+            "to": 1140
+          },
+          "id": 4326,
+          "p": 0.280298,
+          "t_dtw": -1
+        },
+        {
+          "text": " six",
+          "timestamps": {
+            "from": "00:00:01,140",
+            "to": "00:00:01,580"
+          },
+          "offsets": {
+            "from": 1140,
+            "to": 1580
+          },
+          "id": 2237,
+          "p": 0.495995,
+          "t_dtw": -1
+        },
+        {
+          "text": " holidays",
+          "timestamps": {
+            "from": "00:00:02,270",
+            "to": "00:00:02,990"
+          },
+          "offsets": {
+            "from": 2270,
+            "to": 2990
+          },
+          "id": 17122,
+          "p": 0.629035,
+          "t_dtw": -1
+        },
+        {
+          "text": " words",
+          "timestamps": {
+            "from": "00:00:05,050",
+            "to": "00:00:05,480"
+          },
+          "offsets": {
+            "from": 5050,
+            "to": 5480
+          },
+          "id": 2456,
+          "p": 0.643863,
+          "t_dtw": -1
+        },
+        {
+          "text": " and",
+          "timestamps": {
+            "from": "00:00:05,480",
+            "to": "00:00:05,910"
+          },
+          "offsets": {
+            "from": 5480,
+            "to": 5910
+          },
+          "id": 290,
+          "p": 0.997839,
+          "t_dtw": -1
+        },
+        {
+          "text": " expressions",
+          "timestamps": {
+            "from": "00:00:06,000",
+            "to": "00:00:06,580"
+          },
+          "offsets": {
+            "from": 6000,
+            "to": 6580
+          },
+          "id": 14700,
+          "p": 0.982029,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_399]",
+          "timestamps": {
+            "from": "00:00:07,980",
+            "to": "00:00:07,980"
+          },
+          "offsets": {
+            "from": 7980,
+            "to": 7980
+          },
+          "id": 50762,
+          "p": 0.01867,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:07,980",
+        "to": "00:00:24,840"
+      },
+      "offsets": {
+        "from": 7980,
+        "to": 24840
+      },
+      "text": " holiday clear seafood hotel island butterfly how long go swimming in",
+      "tokens": [
+        {
+          "text": " holiday",
+          "timestamps": {
+            "from": "00:00:08,640",
+            "to": "00:00:09,550"
+          },
+          "offsets": {
+            "from": 8640,
+            "to": 9550
+          },
+          "id": 9912,
+          "p": 0.993257,
+          "t_dtw": -1
+        },
+        {
+          "text": " clear",
+          "timestamps": {
+            "from": "00:00:10,260",
+            "to": "00:00:10,970"
+          },
+          "offsets": {
+            "from": 10260,
+            "to": 10970
+          },
+          "id": 1598,
+          "p": 0.919492,
+          "t_dtw": -1
+        },
+        {
+          "text": " seafood",
+          "timestamps": {
+            "from": "00:00:13,030",
+            "to": "00:00:13,880"
+          },
+          "offsets": {
+            "from": 13030,
+            "to": 13880
+          },
+          "id": 31473,
+          "p": 0.995521,
+          "t_dtw": -1
+        },
+        {
+          "text": " hotel",
+          "timestamps": {
+            "from": "00:00:13,880",
+            "to": "00:00:14,560"
+          },
+          "offsets": {
+            "from": 13880,
+            "to": 14560
+          },
+          "id": 7541,
+          "p": 0.916694,
+          "t_dtw": -1
+        },
+        {
+          "text": " island",
+          "timestamps": {
+            "from": "00:00:16,390",
+            "to": "00:00:16,980"
+          },
+          "offsets": {
+            "from": 16390,
+            "to": 16980
+          },
+          "id": 7022,
+          "p": 0.886273,
+          "t_dtw": -1
+        },
+        {
+          "text": " butterfly",
+          "timestamps": {
+            "from": "00:00:18,370",
+            "to": "00:00:18,900"
+          },
+          "offsets": {
+            "from": 18370,
+            "to": 18900
+          },
+          "id": 35113,
+          "p": 0.710966,
+          "t_dtw": -1
+        },
+        {
+          "text": " how",
+          "timestamps": {
+            "from": "00:00:20,230",
+            "to": "00:00:20,680"
+          },
+          "offsets": {
+            "from": 20230,
+            "to": 20680
+          },
+          "id": 703,
+          "p": 0.717823,
+          "t_dtw": -1
+        },
+        {
+          "text": " long",
+          "timestamps": {
+            "from": "00:00:20,680",
+            "to": "00:00:22,500"
+          },
+          "offsets": {
+            "from": 20680,
+            "to": 22500
+          },
+          "id": 890,
+          "p": 0.985919,
+          "t_dtw": -1
+        },
+        {
+          "text": " go",
+          "timestamps": {
+            "from": "00:00:22,500",
+            "to": "00:00:23,100"
+          },
+          "offsets": {
+            "from": 22500,
+            "to": 23100
+          },
+          "id": 467,
+          "p": 0.596165,
+          "t_dtw": -1
+        },
+        {
+          "text": " swimming",
+          "timestamps": {
+            "from": "00:00:24,480",
+            "to": "00:00:24,680"
+          },
+          "offsets": {
+            "from": 24480,
+            "to": 24680
+          },
+          "id": 14899,
+          "p": 0.925599,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:24,680",
+            "to": "00:00:24,840"
+          },
+          "offsets": {
+            "from": 24680,
+            "to": 24840
+          },
+          "id": 287,
+          "p": 0.873971,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:24,840",
+        "to": "00:00:25,720"
+      },
+      "offsets": {
+        "from": 24840,
+        "to": 25720
+      },
+      "text": " the",
+      "tokens": [
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:24,840",
+            "to": "00:00:24,980"
+          },
+          "offsets": {
+            "from": 24840,
+            "to": 24980
+          },
+          "id": 262,
+          "p": 0.937487,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1286]",
+          "timestamps": {
+            "from": "00:00:25,720",
+            "to": "00:00:25,720"
+          },
+          "offsets": {
+            "from": 25720,
+            "to": 25720
+          },
+          "id": 51649,
+          "p": 0.352175,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:25,720",
+        "to": "00:00:29,720"
+      },
+      "offsets": {
+        "from": 25720,
+        "to": 29720
+      },
+      "text": " South of All Year Round",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:25,720",
+            "to": "00:00:25,720"
+          },
+          "offsets": {
+            "from": 25720,
+            "to": 25720
+          },
+          "id": 50363,
+          "p": 0.985815,
+          "t_dtw": -1
+        },
+        {
+          "text": " South",
+          "timestamps": {
+            "from": "00:00:26,380",
+            "to": "00:00:26,430"
+          },
+          "offsets": {
+            "from": 26380,
+            "to": 26430
+          },
+          "id": 2520,
+          "p": 0.34087,
+          "t_dtw": -1
+        },
+        {
+          "text": " of",
+          "timestamps": {
+            "from": "00:00:26,430",
+            "to": "00:00:26,660"
+          },
+          "offsets": {
+            "from": 26430,
+            "to": 26660
+          },
+          "id": 286,
+          "p": 0.903485,
+          "t_dtw": -1
+        },
+        {
+          "text": " All",
+          "timestamps": {
+            "from": "00:00:26,730",
+            "to": "00:00:27,280"
+          },
+          "offsets": {
+            "from": 26730,
+            "to": 27280
+          },
+          "id": 1439,
+          "p": 0.443083,
+          "t_dtw": -1
+        },
+        {
+          "text": " Year",
+          "timestamps": {
+            "from": "00:00:28,010",
+            "to": "00:00:28,470"
+          },
+          "offsets": {
+            "from": 28010,
+            "to": 28470
+          },
+          "id": 6280,
+          "p": 0.84511,
+          "t_dtw": -1
+        },
+        {
+          "text": " Round",
+          "timestamps": {
+            "from": "00:00:28,470",
+            "to": "00:00:28,720"
+          },
+          "offsets": {
+            "from": 28470,
+            "to": 28720
+          },
+          "id": 10485,
+          "p": 0.973359,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_200]",
+          "timestamps": {
+            "from": "00:00:29,720",
+            "to": "00:00:29,720"
+          },
+          "offsets": {
+            "from": 29720,
+            "to": 29720
+          },
+          "id": 50563,
+          "p": 0.193905,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

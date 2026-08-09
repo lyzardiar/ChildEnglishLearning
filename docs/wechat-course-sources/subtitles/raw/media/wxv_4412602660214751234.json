@@ -1,0 +1,358 @@
+{
+  "RequestId": "60e82ff9-410e-4677-a6b1-044f5eea5f78",
+  "Data": {
+    "TaskId": 16292496660,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 54.822313,
+    "Result": "F r fr freezer what can we do with fresh fruit juice? It's healthy and so sweet. Let's put it in the freezer to make a frozen treat. The fruit juice gets so cold it freezes into Ice. It turns into a lolly that really tastes nice.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "F r fr freezer what can we do with fresh fruit juice?",
+        "SliceSentence": "F r fr freezer what can we do with fresh fruit juice ?",
+        "WrittenText": "",
+        "StartMs": 160,
+        "EndMs": 25140,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 6010,
+            "OffsetEndMs": 6410,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 6760,
+            "OffsetEndMs": 7160,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 7840,
+            "OffsetEndMs": 8240,
+            "Word": "fr"
+          },
+          {
+            "OffsetStartMs": 14920,
+            "OffsetEndMs": 15770,
+            "Word": "freezer"
+          },
+          {
+            "OffsetStartMs": 21070,
+            "OffsetEndMs": 21470,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 21580,
+            "OffsetEndMs": 21975,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 21975,
+            "OffsetEndMs": 22290,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 22290,
+            "OffsetEndMs": 22610,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 22780,
+            "OffsetEndMs": 23180,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 23380,
+            "OffsetEndMs": 23780,
+            "Word": "fresh"
+          },
+          {
+            "OffsetStartMs": 24010,
+            "OffsetEndMs": 24410,
+            "Word": "fruit"
+          },
+          {
+            "OffsetStartMs": 24580,
+            "OffsetEndMs": 24980,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 24580,
+            "OffsetEndMs": 24980,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's healthy and so sweet.",
+        "SliceSentence": "It's healthy and so sweet .",
+        "WrittenText": "",
+        "StartMs": 25610,
+        "EndMs": 28740,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 700,
+            "Word": "healthy"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "sweet"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's put it in the freezer to make a frozen treat.",
+        "SliceSentence": "Let's put it in the freezer to make a frozen treat .",
+        "WrittenText": "",
+        "StartMs": 29540,
+        "EndMs": 35850,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 890,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1190,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 3130,
+            "Word": "freezer"
+          },
+          {
+            "OffsetStartMs": 3330,
+            "OffsetEndMs": 3650,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3970,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 4080,
+            "OffsetEndMs": 4480,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 5650,
+            "Word": "frozen"
+          },
+          {
+            "OffsetStartMs": 5910,
+            "OffsetEndMs": 6310,
+            "Word": "treat"
+          },
+          {
+            "OffsetStartMs": 5910,
+            "OffsetEndMs": 6310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The fruit juice gets so cold it freezes into Ice.",
+        "SliceSentence": "The fruit juice gets so cold it freezes into Ice .",
+        "WrittenText": "",
+        "StartMs": 37640,
+        "EndMs": 44160,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "fruit"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "juice"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "gets"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3935,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4720,
+            "Word": "freezes"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5890,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6520,
+            "Word": "Ice"
+          },
+          {
+            "OffsetStartMs": 6120,
+            "OffsetEndMs": 6520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It turns into a lolly that really tastes nice.",
+        "SliceSentence": "It turns into a lolly that really tastes nice .",
+        "WrittenText": "",
+        "StartMs": 44840,
+        "EndMs": 51270,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "turns"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 3310,
+            "Word": "lolly"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3905,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 3905,
+            "OffsetEndMs": 4270,
+            "Word": "really"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5170,
+            "Word": "tastes"
+          },
+          {
+            "OffsetStartMs": 6030,
+            "OffsetEndMs": 6430,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 6030,
+            "OffsetEndMs": 6430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

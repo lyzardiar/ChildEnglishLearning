@@ -1,0 +1,891 @@
+{
+  "RequestId": "6ce3fb80-1a18-4d3f-a841-013741de193a",
+  "Data": {
+    "TaskId": 16292457645,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 100.8675,
+    "Result": "What's outside? Let's go outside. Just you and me. What can you hear? What can you see? Chirp, chirp. A nice bird in a tree.Buzz buzz a black and yellow bee down by the river just you and me what can you hear? What can you see? Swish, swish. The wind blows the grass quack, quack a duck swims past, walk along the path just you and me what can you hear? What can you see?Pitter patter, I can hear the rain. I think it's time to go home again.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What's outside?",
+        "SliceSentence": "What's outside ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1940,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 1250,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "outside"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's go outside.",
+        "SliceSentence": "Let's go outside .",
+        "WrittenText": "",
+        "StartMs": 5530,
+        "EndMs": 7550,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "outside"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Just you and me.",
+        "SliceSentence": "Just you and me .",
+        "WrittenText": "",
+        "StartMs": 8590,
+        "EndMs": 10730,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Just"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you hear?",
+        "SliceSentence": "What can you hear ?",
+        "WrittenText": "",
+        "StartMs": 11620,
+        "EndMs": 13550,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you see?",
+        "SliceSentence": "What can you see ?",
+        "WrittenText": "",
+        "StartMs": 14590,
+        "EndMs": 16370,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Chirp,",
+        "SliceSentence": "Chirp ,",
+        "WrittenText": "",
+        "StartMs": 21370,
+        "EndMs": 22185,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 815,
+            "Word": "Chirp"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 815,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " chirp.",
+        "SliceSentence": "chirp .",
+        "WrittenText": "",
+        "StartMs": 22185,
+        "EndMs": 23060,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 875,
+            "Word": "chirp"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 875,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A nice bird in a tree.",
+        "SliceSentence": "A nice bird in a tree .",
+        "WrittenText": "",
+        "StartMs": 23650,
+        "EndMs": 26540,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Buzz buzz a black and yellow bee down by the river just you and me what can you hear?",
+        "SliceSentence": "Buzz buzz a black and yellow bee down by the river just you and me what can you hear ?",
+        "WrittenText": "",
+        "StartMs": 29160,
+        "EndMs": 44300,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 20,
+        "Words": [
+          {
+            "OffsetStartMs": 850,
+            "OffsetEndMs": 1550,
+            "Word": "Buzz"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2570,
+            "Word": "buzz"
+          },
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3230,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3250,
+            "OffsetEndMs": 3650,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 3790,
+            "OffsetEndMs": 4190,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4270,
+            "OffsetEndMs": 4670,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 4990,
+            "OffsetEndMs": 5810,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 7420,
+            "OffsetEndMs": 7820,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 7990,
+            "OffsetEndMs": 8390,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 8560,
+            "OffsetEndMs": 8880,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8880,
+            "OffsetEndMs": 9200,
+            "Word": "river"
+          },
+          {
+            "OffsetStartMs": 10000,
+            "OffsetEndMs": 10400,
+            "Word": "just"
+          },
+          {
+            "OffsetStartMs": 10540,
+            "OffsetEndMs": 10940,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 11140,
+            "OffsetEndMs": 11540,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 11860,
+            "OffsetEndMs": 12260,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 13360,
+            "OffsetEndMs": 13760,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 13810,
+            "OffsetEndMs": 14210,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 14290,
+            "OffsetEndMs": 14690,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 14740,
+            "OffsetEndMs": 15140,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 14740,
+            "OffsetEndMs": 15140,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you see?",
+        "SliceSentence": "What can you see ?",
+        "WrittenText": "",
+        "StartMs": 45280,
+        "EndMs": 47330,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Swish,",
+        "SliceSentence": "Swish ,",
+        "WrittenText": "",
+        "StartMs": 52300,
+        "EndMs": 52730,
+        "SpeechSpeed": 14,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Swish"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " swish.",
+        "SliceSentence": "swish .",
+        "WrittenText": "",
+        "StartMs": 53530,
+        "EndMs": 53960,
+        "SpeechSpeed": 14,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "swish"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The wind blows the grass quack,",
+        "SliceSentence": "The wind blows the grass quack ,",
+        "WrittenText": "",
+        "StartMs": 55540,
+        "EndMs": 59660,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1420,
+            "Word": "blows"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1925,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2260,
+            "Word": "grass"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4120,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4120,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " quack a duck swims past,",
+        "SliceSentence": "quack a duck swims past ,",
+        "WrittenText": "",
+        "StartMs": 60010,
+        "EndMs": 63590,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1895,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2290,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3260,
+            "Word": "swims"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3580,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3580,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " walk along the path just you and me what can you hear?",
+        "SliceSentence": "walk along the path just you and me what can you hear ?",
+        "WrittenText": "",
+        "StartMs": 67450,
+        "EndMs": 74720,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1595,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1900,
+            "Word": "path"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "just"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 4060,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4600,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 5490,
+            "OffsetEndMs": 5890,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 6060,
+            "OffsetEndMs": 6440,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 6440,
+            "OffsetEndMs": 6820,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 6870,
+            "OffsetEndMs": 7270,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 6870,
+            "OffsetEndMs": 7270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you see?",
+        "SliceSentence": "What can you see ?",
+        "WrittenText": "",
+        "StartMs": 75610,
+        "EndMs": 77390,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 905,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1270,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Pitter patter,",
+        "SliceSentence": "Pitter patter ,",
+        "WrittenText": "",
+        "StartMs": 81240,
+        "EndMs": 84650,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 3045,
+            "Word": "Pitter"
+          },
+          {
+            "OffsetStartMs": 3045,
+            "OffsetEndMs": 3410,
+            "Word": "patter"
+          },
+          {
+            "OffsetStartMs": 3045,
+            "OffsetEndMs": 3410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can hear the rain.",
+        "SliceSentence": "I can hear the rain .",
+        "WrittenText": "",
+        "StartMs": 85360,
+        "EndMs": 87440,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1760,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "rain"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I think it's time to go home again.",
+        "SliceSentence": "I think it's time to go home again .",
+        "WrittenText": "",
+        "StartMs": 88540,
+        "EndMs": 92780,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "think"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1580,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1900,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2690,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3010,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "RequestId": "889ff412-c65d-4475-af5f-e19e5be5f852",
+  "Data": {
+    "TaskId": 16292426527,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 61.8115,
+    "Result": "P.Q.Q.Que.Toe.Queen bee.Queen bee.P.Are.Are.R r.Toe.Rabbit.Rabbit.Q for queen bee, r for rabbit, the queen bee flies around, the rabbit runs around q for queen bee, r for rabbit, the queen bee flies around, the rabbit runs around.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 440,
+        "EndMs": 880,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Q.",
+        "SliceSentence": "Q .",
+        "WrittenText": "",
+        "StartMs": 1780,
+        "EndMs": 2280,
+        "SpeechSpeed": 2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Q"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Q.",
+        "SliceSentence": "Q .",
+        "WrittenText": "",
+        "StartMs": 3220,
+        "EndMs": 3570,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Q"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Que.",
+        "SliceSentence": "Que .",
+        "WrittenText": "",
+        "StartMs": 5020,
+        "EndMs": 5520,
+        "SpeechSpeed": 6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 500,
+            "Word": "Que"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 7780,
+        "EndMs": 8190,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Queen bee.",
+        "SliceSentence": "Queen bee .",
+        "WrittenText": "",
+        "StartMs": 10820,
+        "EndMs": 13360,
+        "SpeechSpeed": 3.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "Queen"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2540,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Queen bee.",
+        "SliceSentence": "Queen bee .",
+        "WrittenText": "",
+        "StartMs": 13940,
+        "EndMs": 15100,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 465,
+            "Word": "Queen"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 1160,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 1160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "P.",
+        "SliceSentence": "P .",
+        "WrittenText": "",
+        "StartMs": 18220,
+        "EndMs": 18660,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "P"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Are.",
+        "SliceSentence": "Are .",
+        "WrittenText": "",
+        "StartMs": 19620,
+        "EndMs": 20030,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Are.",
+        "SliceSentence": "Are .",
+        "WrittenText": "",
+        "StartMs": 20960,
+        "EndMs": 21220,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Are"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "R r.",
+        "SliceSentence": "R r .",
+        "WrittenText": "",
+        "StartMs": 22820,
+        "EndMs": 24190,
+        "SpeechSpeed": 2.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "R"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toe.",
+        "SliceSentence": "Toe .",
+        "WrittenText": "",
+        "StartMs": 25600,
+        "EndMs": 25980,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Toe"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Rabbit.",
+        "SliceSentence": "Rabbit .",
+        "WrittenText": "",
+        "StartMs": 29400,
+        "EndMs": 29960,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Rabbit"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Rabbit.",
+        "SliceSentence": "Rabbit .",
+        "WrittenText": "",
+        "StartMs": 31040,
+        "EndMs": 31570,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Rabbit"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Q for queen bee,",
+        "SliceSentence": "Q for queen bee ,",
+        "WrittenText": "",
+        "StartMs": 34900,
+        "EndMs": 39340,
+        "SpeechSpeed": 3.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2080,
+            "OffsetEndMs": 2480,
+            "Word": "Q"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 3020,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3620,
+            "Word": "queen"
+          },
+          {
+            "OffsetStartMs": 3760,
+            "OffsetEndMs": 4440,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 3760,
+            "OffsetEndMs": 4440,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " r for rabbit,",
+        "SliceSentence": "r for rabbit ,",
+        "WrittenText": "",
+        "StartMs": 39340,
+        "EndMs": 40920,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1580,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the queen bee flies around,",
+        "SliceSentence": "the queen bee flies around ,",
+        "WrittenText": "",
+        "StartMs": 41450,
+        "EndMs": 43770,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "queen"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1430,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the rabbit runs around q for queen bee,",
+        "SliceSentence": "the rabbit runs around q for queen bee ,",
+        "WrittenText": "",
+        "StartMs": 43910,
+        "EndMs": 51985,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "runs"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 5640,
+            "OffsetEndMs": 6040,
+            "Word": "q"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6640,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 6840,
+            "OffsetEndMs": 7240,
+            "Word": "queen"
+          },
+          {
+            "OffsetStartMs": 7440,
+            "OffsetEndMs": 8075,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 7440,
+            "OffsetEndMs": 8075,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " r for rabbit,",
+        "SliceSentence": "r for rabbit ,",
+        "WrittenText": "",
+        "StartMs": 51985,
+        "EndMs": 53490,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "r"
+          },
+          {
+            "OffsetStartMs": 535,
+            "OffsetEndMs": 935,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1105,
+            "OffsetEndMs": 1505,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 1105,
+            "OffsetEndMs": 1505,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the queen bee flies around,",
+        "SliceSentence": "the queen bee flies around ,",
+        "WrittenText": "",
+        "StartMs": 54080,
+        "EndMs": 56515,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "queen"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1490,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1840,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2435,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2435,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the rabbit runs around.",
+        "SliceSentence": "the rabbit runs around .",
+        "WrittenText": "",
+        "StartMs": 56515,
+        "EndMs": 58320,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 300,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 635,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 805,
+            "OffsetEndMs": 1205,
+            "Word": "runs"
+          },
+          {
+            "OffsetStartMs": 1405,
+            "OffsetEndMs": 1805,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 1405,
+            "OffsetEndMs": 1805,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

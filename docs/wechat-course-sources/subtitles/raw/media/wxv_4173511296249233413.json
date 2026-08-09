@@ -1,0 +1,622 @@
+{
+  "RequestId": "6233ea4a-4722-426b-ac0a-c24ad260c2cb",
+  "Data": {
+    "TaskId": 16292441091,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 70.820875,
+    "Result": "Daisy's story a magic show. What can you see?Listen, I can hear a kitten. You're right. I can smell flowers here.Now feel this. It's hard. Is it a ball? No, is it a g? Right. Feel this.Oh, it's soft. Wow, it's a big bud.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Daisy's story a magic show.",
+        "SliceSentence": "Daisy's story a magic show .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3860,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 1365,
+            "Word": "Daisy's"
+          },
+          {
+            "OffsetStartMs": 1365,
+            "OffsetEndMs": 1730,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2620,
+            "OffsetEndMs": 2955,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2955,
+            "OffsetEndMs": 3290,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "show"
+          },
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you see?",
+        "SliceSentence": "What can you see ?",
+        "WrittenText": "",
+        "StartMs": 5590,
+        "EndMs": 7070,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1100,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen,",
+        "SliceSentence": "Listen ,",
+        "WrittenText": "",
+        "StartMs": 10960,
+        "EndMs": 13410,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can hear a kitten.",
+        "SliceSentence": "I can hear a kitten .",
+        "WrittenText": "",
+        "StartMs": 16880,
+        "EndMs": 18990,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1490,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 2110,
+            "Word": "kitten"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're right.",
+        "SliceSentence": "You're right .",
+        "WrittenText": "",
+        "StartMs": 23090,
+        "EndMs": 23910,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can smell flowers here.",
+        "SliceSentence": "I can smell flowers here .",
+        "WrittenText": "",
+        "StartMs": 26840,
+        "EndMs": 31410,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "smell"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4570,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Now feel this.",
+        "SliceSentence": "Now feel this .",
+        "WrittenText": "",
+        "StartMs": 33520,
+        "EndMs": 35730,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "feel"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's hard.",
+        "SliceSentence": "It's hard .",
+        "WrittenText": "",
+        "StartMs": 39440,
+        "EndMs": 40140,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 700,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is it a ball?",
+        "SliceSentence": "Is it a ball ?",
+        "WrittenText": "",
+        "StartMs": 42710,
+        "EndMs": 44070,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1025,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1360,
+            "Word": "ball"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1360,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 45890,
+        "EndMs": 46290,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " is it a g?",
+        "SliceSentence": "is it a g ?",
+        "WrittenText": "",
+        "StartMs": 48110,
+        "EndMs": 49500,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1040,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1390,
+            "Word": "g"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Right.",
+        "SliceSentence": "Right .",
+        "WrittenText": "",
+        "StartMs": 51020,
+        "EndMs": 51420,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Right"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Feel this.",
+        "SliceSentence": "Feel this .",
+        "WrittenText": "",
+        "StartMs": 53660,
+        "EndMs": 54810,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Feel"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 58380,
+        "EndMs": 60020,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's soft.",
+        "SliceSentence": "it's soft .",
+        "WrittenText": "",
+        "StartMs": 60790,
+        "EndMs": 61520,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "soft"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wow,",
+        "SliceSentence": "Wow ,",
+        "WrittenText": "",
+        "StartMs": 66190,
+        "EndMs": 66590,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wow"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a big bud.",
+        "SliceSentence": "it's a big bud .",
+        "WrittenText": "",
+        "StartMs": 67390,
+        "EndMs": 68660,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 545,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "bud"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

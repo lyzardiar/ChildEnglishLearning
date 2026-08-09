@@ -1,0 +1,317 @@
+{
+  "RequestId": "f4f5ca1d-37d2-4f68-b100-16fadb0d3014",
+  "Data": {
+    "TaskId": 16292445645,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 23.080625,
+    "Result": "Different toys, children like toys. I like kites. This is my kite. I can fly my kite in the park. I like toy bears. This is my favourite toy bear.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Different toys,",
+        "SliceSentence": "Different toys ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1640,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "Different"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": "toys"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1640,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " children like toys.",
+        "SliceSentence": "children like toys .",
+        "WrittenText": "",
+        "StartMs": 3490,
+        "EndMs": 5540,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "toys"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like kites.",
+        "SliceSentence": "I like kites .",
+        "WrittenText": "",
+        "StartMs": 7630,
+        "EndMs": 8750,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1120,
+            "Word": "kites"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my kite.",
+        "SliceSentence": "This is my kite .",
+        "WrittenText": "",
+        "StartMs": 9670,
+        "EndMs": 10880,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 860,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can fly my kite in the park.",
+        "SliceSentence": "I can fly my kite in the park .",
+        "WrittenText": "",
+        "StartMs": 11680,
+        "EndMs": 14420,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 605,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 920,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1190,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2210,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2465,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2740,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like toy bears.",
+        "SliceSentence": "I like toy bears .",
+        "WrittenText": "",
+        "StartMs": 16180,
+        "EndMs": 18260,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2080,
+            "Word": "bears"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is my favourite toy bear.",
+        "SliceSentence": "This is my favourite toy bear .",
+        "WrittenText": "",
+        "StartMs": 18760,
+        "EndMs": 21320,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 590,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 875,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1540,
+            "Word": "favourite"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

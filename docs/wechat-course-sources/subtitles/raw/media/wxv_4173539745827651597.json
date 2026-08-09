@@ -1,0 +1,379 @@
+{
+  "RequestId": "08c5dfa2-7fb8-4962-88b9-19a7e693184c",
+  "Data": {
+    "TaskId": 16292444719,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 37.198375,
+    "Result": "Anne.N.Dan turns on the fan. He opens a can of ham. He puts the ham in the pan. Dan turns on the fan. He opens a can of hen. He puts the hand in the pan.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Anne.",
+        "SliceSentence": "Anne .",
+        "WrittenText": "",
+        "StartMs": 1220,
+        "EndMs": 1630,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Anne"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "N.",
+        "SliceSentence": "N .",
+        "WrittenText": "",
+        "StartMs": 2560,
+        "EndMs": 2880,
+        "SpeechSpeed": 3.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "N"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Dan turns on the fan.",
+        "SliceSentence": "Dan turns on the fan .",
+        "WrittenText": "",
+        "StartMs": 6440,
+        "EndMs": 12010,
+        "SpeechSpeed": 3.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3520,
+            "OffsetEndMs": 3920,
+            "Word": "Dan"
+          },
+          {
+            "OffsetStartMs": 4060,
+            "OffsetEndMs": 4460,
+            "Word": "turns"
+          },
+          {
+            "OffsetStartMs": 4720,
+            "OffsetEndMs": 5055,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 5055,
+            "OffsetEndMs": 5280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5280,
+            "OffsetEndMs": 5570,
+            "Word": "fan"
+          },
+          {
+            "OffsetStartMs": 5280,
+            "OffsetEndMs": 5570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He opens a can of ham.",
+        "SliceSentence": "He opens a can of ham .",
+        "WrittenText": "",
+        "StartMs": 12240,
+        "EndMs": 16090,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "opens"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2525,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2830,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "ham"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He puts the ham in the pan.",
+        "SliceSentence": "He puts the ham in the pan .",
+        "WrittenText": "",
+        "StartMs": 17010,
+        "EndMs": 20950,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2495,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2800,
+            "Word": "ham"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3440,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3940,
+            "Word": "pan"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Dan turns on the fan.",
+        "SliceSentence": "Dan turns on the fan .",
+        "WrittenText": "",
+        "StartMs": 24210,
+        "EndMs": 26410,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Dan"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "turns"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1550,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1865,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2200,
+            "Word": "fan"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He opens a can of hen.",
+        "SliceSentence": "He opens a can of hen .",
+        "WrittenText": "",
+        "StartMs": 26580,
+        "EndMs": 30490,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "opens"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2465,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2800,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He puts the hand in the pan.",
+        "SliceSentence": "He puts the hand in the pan .",
+        "WrittenText": "",
+        "StartMs": 31290,
+        "EndMs": 35260,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2540,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2540,
+            "OffsetEndMs": 2830,
+            "Word": "hand"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3395,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3970,
+            "Word": "pan"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

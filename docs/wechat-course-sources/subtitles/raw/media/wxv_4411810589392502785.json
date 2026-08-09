@@ -1,0 +1,201 @@
+{
+  "RequestId": "6d34955c-bdb4-4de8-8760-1f7c381ba04a",
+  "Data": {
+    "TaskId": 16292405853,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 25.750938,
+    "Result": "Q quack quack quack quack please be quiet little little duck, quack, quack quack. Please be quiet little little duck.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Q quack quack quack quack please be quiet little little duck,",
+        "SliceSentence": "Q quack quack quack quack please be quiet little little duck ,",
+        "WrittenText": "",
+        "StartMs": 820,
+        "EndMs": 13710,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Q"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1610,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 6610,
+            "OffsetEndMs": 7040,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 7210,
+            "OffsetEndMs": 7640,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 7780,
+            "OffsetEndMs": 8240,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 9010,
+            "OffsetEndMs": 9410,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 9550,
+            "OffsetEndMs": 9950,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 10120,
+            "OffsetEndMs": 10520,
+            "Word": "quiet"
+          },
+          {
+            "OffsetStartMs": 11350,
+            "OffsetEndMs": 11750,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 11950,
+            "OffsetEndMs": 12350,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 12490,
+            "OffsetEndMs": 12890,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 12490,
+            "OffsetEndMs": 12890,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " quack,",
+        "SliceSentence": "quack ,",
+        "WrittenText": "",
+        "StartMs": 16970,
+        "EndMs": 17400,
+        "SpeechSpeed": 14,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " quack quack.",
+        "SliceSentence": "quack quack .",
+        "WrittenText": "",
+        "StartMs": 17540,
+        "EndMs": 18510,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 970,
+            "Word": "quack"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Please be quiet little little duck.",
+        "SliceSentence": "Please be quiet little little duck .",
+        "WrittenText": "",
+        "StartMs": 19340,
+        "EndMs": 23310,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Please"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "quiet"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

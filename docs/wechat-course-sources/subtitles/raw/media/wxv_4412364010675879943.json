@@ -1,0 +1,1061 @@
+{
+  "RequestId": "981eb843-2950-492d-a01a-90126cba5d3a",
+  "Data": {
+    "TaskId": 16292458941,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 116.099813,
+    "Result": "Who's in the tree out in the garden up in the tree, there are six red butterflies. Can you see out in the garden? Up in the tree there are five green lizards. Can you see out in the garden? Up in the tree there are four brown birds. Can you see out in the garden? Up in the tree there are three purple cats. Can you see out in the garden up in the tree?There are two yellow dogs. Can you see? Now there's a problem. Look at the tree. There are 20 animals. Can you see by tamzin Thompson colours of the sky. The sky is blue, the clouds are white.They all look black in the dark, dark night by Leslie christophe.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Who's in the tree out in the garden up in the tree,",
+        "SliceSentence": "Who's in the tree out in the garden up in the tree ,",
+        "WrittenText": "",
+        "StartMs": 200,
+        "EndMs": 9580,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 990,
+            "Word": "Who's"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1280,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1740,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2120,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 4990,
+            "OffsetEndMs": 5390,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 5770,
+            "OffsetEndMs": 6170,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 6250,
+            "OffsetEndMs": 6555,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6555,
+            "OffsetEndMs": 6860,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 7660,
+            "OffsetEndMs": 8060,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 8260,
+            "OffsetEndMs": 8640,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 8640,
+            "OffsetEndMs": 9000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 9000,
+            "OffsetEndMs": 9380,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 9000,
+            "OffsetEndMs": 9380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there are six red butterflies.",
+        "SliceSentence": "there are six red butterflies .",
+        "WrittenText": "",
+        "StartMs": 10320,
+        "EndMs": 13570,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "six"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 3250,
+            "Word": "butterflies"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see out in the garden?",
+        "SliceSentence": "Can you see out in the garden ?",
+        "WrittenText": "",
+        "StartMs": 14370,
+        "EndMs": 19180,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 4000,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4170,
+            "OffsetEndMs": 4490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4490,
+            "OffsetEndMs": 4810,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 4490,
+            "OffsetEndMs": 4810,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Up in the tree there are five green lizards.",
+        "SliceSentence": "Up in the tree there are five green lizards .",
+        "WrittenText": "",
+        "StartMs": 20100,
+        "EndMs": 26050,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1565,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3020,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3020,
+            "OffsetEndMs": 3370,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4690,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 5130,
+            "OffsetEndMs": 5950,
+            "Word": "lizards"
+          },
+          {
+            "OffsetStartMs": 5130,
+            "OffsetEndMs": 5950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see out in the garden?",
+        "SliceSentence": "Can you see out in the garden ?",
+        "WrittenText": "",
+        "StartMs": 26820,
+        "EndMs": 31570,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4445,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4445,
+            "OffsetEndMs": 4750,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 4445,
+            "OffsetEndMs": 4750,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Up in the tree there are four brown birds.",
+        "SliceSentence": "Up in the tree there are four brown birds .",
+        "WrittenText": "",
+        "StartMs": 32430,
+        "EndMs": 37870,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1550,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1930,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3080,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3080,
+            "OffsetEndMs": 3430,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4690,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5440,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see out in the garden?",
+        "SliceSentence": "Can you see out in the garden ?",
+        "WrittenText": "",
+        "StartMs": 38850,
+        "EndMs": 44200,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4510,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5015,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5015,
+            "OffsetEndMs": 5350,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 5015,
+            "OffsetEndMs": 5350,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Up in the tree there are three purple cats.",
+        "SliceSentence": "Up in the tree there are three purple cats .",
+        "WrittenText": "",
+        "StartMs": 44970,
+        "EndMs": 50740,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Up"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1700,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2080,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3245,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3610,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 4500,
+            "OffsetEndMs": 4900,
+            "Word": "purple"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5770,
+            "Word": "cats"
+          },
+          {
+            "OffsetStartMs": 5370,
+            "OffsetEndMs": 5770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see out in the garden up in the tree?",
+        "SliceSentence": "Can you see out in the garden up in the tree ?",
+        "WrittenText": "",
+        "StartMs": 51780,
+        "EndMs": 59980,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4510,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5000,
+            "OffsetEndMs": 5320,
+            "Word": "garden"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6640,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 6930,
+            "OffsetEndMs": 7330,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7410,
+            "OffsetEndMs": 7805,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7805,
+            "OffsetEndMs": 8200,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 7805,
+            "OffsetEndMs": 8200,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "There are two yellow dogs.",
+        "SliceSentence": "There are two yellow dogs .",
+        "WrittenText": "",
+        "StartMs": 60680,
+        "EndMs": 63730,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 525,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 525,
+            "OffsetEndMs": 890,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 2650,
+            "OffsetEndMs": 3050,
+            "Word": "dogs"
+          },
+          {
+            "OffsetStartMs": 2650,
+            "OffsetEndMs": 3050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see?",
+        "SliceSentence": "Can you see ?",
+        "WrittenText": "",
+        "StartMs": 64740,
+        "EndMs": 66190,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now there's a problem.",
+        "SliceSentence": "Now there's a problem .",
+        "WrittenText": "",
+        "StartMs": 70800,
+        "EndMs": 73030,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1535,
+            "Word": "there's"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "problem"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the tree.",
+        "SliceSentence": "Look at the tree .",
+        "WrittenText": "",
+        "StartMs": 74340,
+        "EndMs": 76420,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are 20 animals.",
+        "SliceSentence": "There are 20 animals .",
+        "WrittenText": "",
+        "StartMs": 77700,
+        "EndMs": 80230,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "20"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see by tamzin Thompson colours of the sky.",
+        "SliceSentence": "Can you see by tamzin Thompson colours of the sky .",
+        "WrittenText": "",
+        "StartMs": 81750,
+        "EndMs": 91270,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2885,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3650,
+            "Word": "tamzin"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4450,
+            "Word": "Thompson"
+          },
+          {
+            "OffsetStartMs": 7590,
+            "OffsetEndMs": 8285,
+            "Word": "colours"
+          },
+          {
+            "OffsetStartMs": 8285,
+            "OffsetEndMs": 8680,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 8760,
+            "OffsetEndMs": 9140,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 9140,
+            "OffsetEndMs": 9520,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 9140,
+            "OffsetEndMs": 9520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sky is blue,",
+        "SliceSentence": "The sky is blue ,",
+        "WrittenText": "",
+        "StartMs": 93090,
+        "EndMs": 95110,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "sky"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "blue"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the clouds are white.",
+        "SliceSentence": "the clouds are white .",
+        "WrittenText": "",
+        "StartMs": 96510,
+        "EndMs": 98410,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "clouds"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1520,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "They all look black in the dark,",
+        "SliceSentence": "They all look black in the dark ,",
+        "WrittenText": "",
+        "StartMs": 100600,
+        "EndMs": 104280,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 360,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 740,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1310,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 1850,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3105,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3105,
+            "OffsetEndMs": 3375,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3375,
+            "OffsetEndMs": 3680,
+            "Word": "dark"
+          },
+          {
+            "OffsetStartMs": 3375,
+            "OffsetEndMs": 3680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " dark night by Leslie christophe.",
+        "SliceSentence": "dark night by Leslie christophe .",
+        "WrittenText": "",
+        "StartMs": 104540,
+        "EndMs": 108750,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "dark"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2705,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 3335,
+            "Word": "Leslie"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 4210,
+            "Word": "christophe"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 4210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

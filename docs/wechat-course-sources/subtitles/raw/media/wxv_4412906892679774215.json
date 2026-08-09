@@ -1,0 +1,667 @@
+{
+  "RequestId": "b4cd34b4-8dba-4e8e-8947-d003da9a3555",
+  "Data": {
+    "TaskId": 16292536418,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 39.659688,
+    "Result": "What's the date today? It's the fifth of may. It's my birthday today. Hooray hooray. Come and play, come and play. I come't wait, it's a happy day. What's the date today? It's the fifth of may. It's my birthday today. Hooray, hooray. Come and play, come and play. I can't wait. It's a happy day.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What's the date today?",
+        "SliceSentence": "What's the date today ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3980,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 2410,
+            "OffsetEndMs": 2865,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3060,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3380,
+            "Word": "date"
+          },
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 3980,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 3980,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the fifth of may.",
+        "SliceSentence": "It's the fifth of may .",
+        "WrittenText": "",
+        "StartMs": 4180,
+        "EndMs": 6260,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "fifth"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1760,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's my birthday today.",
+        "SliceSentence": "It's my birthday today .",
+        "WrittenText": "",
+        "StartMs": 7060,
+        "EndMs": 8780,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 695,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hooray hooray.",
+        "SliceSentence": "Hooray hooray .",
+        "WrittenText": "",
+        "StartMs": 9220,
+        "EndMs": 11150,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "Hooray"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1930,
+            "Word": "hooray"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come and play,",
+        "SliceSentence": "Come and play ,",
+        "WrittenText": "",
+        "StartMs": 11320,
+        "EndMs": 12380,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " come and play.",
+        "SliceSentence": "come and play .",
+        "WrittenText": "",
+        "StartMs": 12520,
+        "EndMs": 13610,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I come't wait,",
+        "SliceSentence": "I come't wait ,",
+        "WrittenText": "",
+        "StartMs": 14320,
+        "EndMs": 15920,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1280,
+            "Word": "come't"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's a happy day.",
+        "SliceSentence": "it's a happy day .",
+        "WrittenText": "",
+        "StartMs": 16660,
+        "EndMs": 18230,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's the date today?",
+        "SliceSentence": "What's the date today ?",
+        "WrittenText": "",
+        "StartMs": 20320,
+        "EndMs": 21860,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "date"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the fifth of may.",
+        "SliceSentence": "It's the fifth of may .",
+        "WrittenText": "",
+        "StartMs": 22090,
+        "EndMs": 24200,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 620,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "fifth"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1775,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's my birthday today.",
+        "SliceSentence": "It's my birthday today .",
+        "WrittenText": "",
+        "StartMs": 24940,
+        "EndMs": 26630,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 680,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1030,
+            "Word": "birthday"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hooray,",
+        "SliceSentence": "Hooray ,",
+        "WrittenText": "",
+        "StartMs": 27070,
+        "EndMs": 27800,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Hooray"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hooray.",
+        "SliceSentence": "hooray .",
+        "WrittenText": "",
+        "StartMs": 28270,
+        "EndMs": 29000,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "hooray"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Come and play,",
+        "SliceSentence": "Come and play ,",
+        "WrittenText": "",
+        "StartMs": 29230,
+        "EndMs": 30200,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Come"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " come and play.",
+        "SliceSentence": "come and play .",
+        "WrittenText": "",
+        "StartMs": 30340,
+        "EndMs": 31460,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't wait.",
+        "SliceSentence": "I can't wait .",
+        "WrittenText": "",
+        "StartMs": 32170,
+        "EndMs": 33740,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 1235,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a happy day.",
+        "SliceSentence": "It's a happy day .",
+        "WrittenText": "",
+        "StartMs": 34540,
+        "EndMs": 36140,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "RequestId": "c201c669-467f-4cdb-bd18-49004adc6640",
+  "Data": {
+    "TaskId": 16292456374,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 65.271313,
+    "Result": "Clothes for a busy day hi. I'm changing. I live in Beijing. Friday is a busy day. In the morning we start school. I wear my school uniform, a shirt and a skirt. I bring my school bag in the afternoon. We have PE. I put on a t shirt, shorts and sports shoes. I can run fast after school. I help in the park. We wear a white t shirt. My busy day is over. It's time to go to bed.I'm tired but happy today.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Clothes for a busy day hi.",
+        "SliceSentence": "Clothes for a busy day hi .",
+        "WrittenText": "",
+        "StartMs": 140,
+        "EndMs": 5320,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Clothes"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1635,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1635,
+            "OffsetEndMs": 1950,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2300,
+            "Word": "busy"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2900,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 4780,
+            "OffsetEndMs": 5180,
+            "Word": "hi"
+          },
+          {
+            "OffsetStartMs": 4780,
+            "OffsetEndMs": 5180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm changing.",
+        "SliceSentence": "I'm changing .",
+        "WrittenText": "",
+        "StartMs": 6030,
+        "EndMs": 6850,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "changing"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I live in Beijing.",
+        "SliceSentence": "I live in Beijing .",
+        "WrittenText": "",
+        "StartMs": 7920,
+        "EndMs": 9370,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1115,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "Beijing"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Friday is a busy day.",
+        "SliceSentence": "Friday is a busy day .",
+        "WrittenText": "",
+        "StartMs": 10530,
+        "EndMs": 12760,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Friday"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1040,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1325,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1660,
+            "Word": "busy"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the morning we start school.",
+        "SliceSentence": "In the morning we start school .",
+        "WrittenText": "",
+        "StartMs": 14370,
+        "EndMs": 17290,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "start"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wear my school uniform,",
+        "SliceSentence": "I wear my school uniform ,",
+        "WrittenText": "",
+        "StartMs": 18480,
+        "EndMs": 20890,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "uniform"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a shirt and a skirt.",
+        "SliceSentence": "a shirt and a skirt .",
+        "WrittenText": "",
+        "StartMs": 21750,
+        "EndMs": 24190,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1790,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2075,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2440,
+            "Word": "skirt"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I bring my school bag in the afternoon.",
+        "SliceSentence": "I bring my school bag in the afternoon .",
+        "WrittenText": "",
+        "StartMs": 25380,
+        "EndMs": 29830,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 875,
+            "Word": "bring"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1220,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1595,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1990,
+            "Word": "bag"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3905,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3905,
+            "OffsetEndMs": 4145,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4145,
+            "OffsetEndMs": 4450,
+            "Word": "afternoon"
+          },
+          {
+            "OffsetStartMs": 4145,
+            "OffsetEndMs": 4450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We have PE.",
+        "SliceSentence": "We have PE .",
+        "WrittenText": "",
+        "StartMs": 30810,
+        "EndMs": 32050,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "PE"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I put on a t shirt,",
+        "SliceSentence": "I put on a t shirt ,",
+        "WrittenText": "",
+        "StartMs": 34200,
+        "EndMs": 36550,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1240,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1715,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1715,
+            "OffsetEndMs": 2000,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2350,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2350,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " shorts and sports shoes.",
+        "SliceSentence": "shorts and sports shoes .",
+        "WrittenText": "",
+        "StartMs": 37410,
+        "EndMs": 39760,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "shorts"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "sports"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "shoes"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can run fast after school.",
+        "SliceSentence": "I can run fast after school .",
+        "WrittenText": "",
+        "StartMs": 41760,
+        "EndMs": 46180,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "fast"
+          },
+          {
+            "OffsetStartMs": 3240,
+            "OffsetEndMs": 3640,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4420,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 4020,
+            "OffsetEndMs": 4420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I help in the park.",
+        "SliceSentence": "I help in the park .",
+        "WrittenText": "",
+        "StartMs": 46590,
+        "EndMs": 48550,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1460,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1685,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1960,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We wear a white t shirt.",
+        "SliceSentence": "We wear a white t shirt .",
+        "WrittenText": "",
+        "StartMs": 50040,
+        "EndMs": 52360,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1010,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1360,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1940,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2320,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My busy day is over.",
+        "SliceSentence": "My busy day is over .",
+        "WrittenText": "",
+        "StartMs": 53700,
+        "EndMs": 55870,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "busy"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2170,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's time to go to bed.",
+        "SliceSentence": "It's time to go to bed .",
+        "WrittenText": "",
+        "StartMs": 57240,
+        "EndMs": 59470,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 850,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1310,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1600,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1940,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2230,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm tired but happy today.",
+        "SliceSentence": "I'm tired but happy today .",
+        "WrittenText": "",
+        "StartMs": 60620,
+        "EndMs": 63520,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 525,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 525,
+            "OffsetEndMs": 830,
+            "Word": "tired"
+          },
+          {
+            "OffsetStartMs": 1390,
+            "OffsetEndMs": 1755,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2120,
+            "Word": "happy"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2900,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1150,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

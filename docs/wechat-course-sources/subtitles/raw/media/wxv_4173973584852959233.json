@@ -1,0 +1,734 @@
+{
+  "RequestId": "6e8e02bd-2103-491d-9d43-0d01e2590379",
+  "Data": {
+    "TaskId": 16292507329,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 76.463313,
+    "Result": "My sunflower the third of may. I have some small black sunflower seeds. I put a seed in the soil, mum Waters it the 22nd of may. Now the plant has some green leaves, but I can't see the roots. They grow down the 20 fisrt of july. Now my sunflower is tall with a big yellow flower. The flower is round my family love it. The third of september my sunflower has.A lot of seeds. People can make oil from the seeds. Sunflowers are amazing.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "My sunflower the third of may.",
+        "SliceSentence": "My sunflower the third of may .",
+        "WrittenText": "",
+        "StartMs": 640,
+        "EndMs": 7290,
+        "SpeechSpeed": 4.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1820,
+            "Word": "sunflower"
+          },
+          {
+            "OffsetStartMs": 5080,
+            "OffsetEndMs": 5385,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5385,
+            "OffsetEndMs": 5690,
+            "Word": "third"
+          },
+          {
+            "OffsetStartMs": 5920,
+            "OffsetEndMs": 6285,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 6285,
+            "OffsetEndMs": 6650,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 6285,
+            "OffsetEndMs": 6650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have some small black sunflower seeds.",
+        "SliceSentence": "I have some small black sunflower seeds .",
+        "WrittenText": "",
+        "StartMs": 8450,
+        "EndMs": 13140,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3820,
+            "Word": "sunflower"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4690,
+            "Word": "seeds"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I put a seed in the soil,",
+        "SliceSentence": "I put a seed in the soil ,",
+        "WrittenText": "",
+        "StartMs": 14390,
+        "EndMs": 16950,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1115,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "seed"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2075,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2270,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2560,
+            "Word": "soil"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2560,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mum Waters it the 22nd of may.",
+        "SliceSentence": "mum Waters it the 22 ndof may .",
+        "WrittenText": "",
+        "StartMs": 18500,
+        "EndMs": 24330,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "Waters"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4175,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4175,
+            "OffsetEndMs": 5020,
+            "Word": "22"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5525,
+            "Word": "ndof"
+          },
+          {
+            "OffsetStartMs": 5525,
+            "OffsetEndMs": 5830,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 5525,
+            "OffsetEndMs": 5830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now the plant has some green leaves,",
+        "SliceSentence": "Now the plant has some green leaves ,",
+        "WrittenText": "",
+        "StartMs": 25670,
+        "EndMs": 28710,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1180,
+            "Word": "plant"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1775,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2140,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2560,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": "leaves"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 3040,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but I can't see the roots.",
+        "SliceSentence": "but I can't see the roots .",
+        "WrittenText": "",
+        "StartMs": 29990,
+        "EndMs": 32760,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1355,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2090,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2770,
+            "Word": "roots"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They grow down the 20 fisrt of july.",
+        "SliceSentence": "They grow down the 20 fisrt of july .",
+        "WrittenText": "",
+        "StartMs": 33440,
+        "EndMs": 39180,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4220,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "20"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 5285,
+            "Word": "fisrt"
+          },
+          {
+            "OffsetStartMs": 5285,
+            "OffsetEndMs": 5450,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 5450,
+            "OffsetEndMs": 5740,
+            "Word": "july"
+          },
+          {
+            "OffsetStartMs": 5450,
+            "OffsetEndMs": 5740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now my sunflower is tall with a big yellow flower.",
+        "SliceSentence": "Now my sunflower is tall with a big yellow flower .",
+        "WrittenText": "",
+        "StartMs": 40520,
+        "EndMs": 46200,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 905,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1810,
+            "Word": "sunflower"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2300,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2680,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3710,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3710,
+            "OffsetEndMs": 4010,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4010,
+            "OffsetEndMs": 4360,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 4530,
+            "OffsetEndMs": 4930,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 5280,
+            "OffsetEndMs": 5680,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 5280,
+            "OffsetEndMs": 5680,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The flower is round my family love it.",
+        "SliceSentence": "The flower is round my family love it .",
+        "WrittenText": "",
+        "StartMs": 47510,
+        "EndMs": 52740,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1445,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1840,
+            "Word": "round"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3760,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 4290,
+            "OffsetEndMs": 4690,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The third of september my sunflower has.",
+        "SliceSentence": "The third of september my sunflower has .",
+        "WrittenText": "",
+        "StartMs": 55700,
+        "EndMs": 60960,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "third"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "september"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 4390,
+            "Word": "sunflower"
+          },
+          {
+            "OffsetStartMs": 4860,
+            "OffsetEndMs": 5260,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 4860,
+            "OffsetEndMs": 5260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A lot of seeds.",
+        "SliceSentence": "A lot of seeds .",
+        "WrittenText": "",
+        "StartMs": 61120,
+        "EndMs": 63210,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 315,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 315,
+            "OffsetEndMs": 620,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1125,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 2090,
+            "Word": "seeds"
+          },
+          {
+            "OffsetStartMs": 1125,
+            "OffsetEndMs": 2090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People can make oil from the seeds.",
+        "SliceSentence": "People can make oil from the seeds .",
+        "WrittenText": "",
+        "StartMs": 64130,
+        "EndMs": 67770,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1025,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1420,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "oil"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2630,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2885,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3640,
+            "Word": "seeds"
+          },
+          {
+            "OffsetStartMs": 2885,
+            "OffsetEndMs": 3640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sunflowers are amazing.",
+        "SliceSentence": "Sunflowers are amazing .",
+        "WrittenText": "",
+        "StartMs": 68780,
+        "EndMs": 71010,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1205,
+            "Word": "Sunflowers"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "amazing"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

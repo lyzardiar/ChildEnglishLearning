@@ -1,0 +1,645 @@
+{
+  "RequestId": "40fea7f9-099d-43c5-8757-b5d379d551e4",
+  "Data": {
+    "TaskId": 16291889282,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 54.86875,
+    "Result": "The spider and the honey tree, a story from Liberia.One day Anna is looking for food. She meets a spider. Can I come with you? Okay, look bananas, no bananas for me. Look plums, no plums for me. I love honey.Me too, later. Oh no, I can't get out haha. Let me help you.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The spider and the honey tree,",
+        "SliceSentence": "The spider and the honey tree ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3500,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 915,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1280,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2240,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2320,
+            "OffsetEndMs": 2610,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2900,
+            "Word": "honey"
+          },
+          {
+            "OffsetStartMs": 3100,
+            "OffsetEndMs": 3500,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3100,
+            "OffsetEndMs": 3500,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a story from Liberia.",
+        "SliceSentence": "a story from Liberia .",
+        "WrittenText": "",
+        "StartMs": 4870,
+        "EndMs": 7400,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 2530,
+            "Word": "Liberia"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 2530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "One day Anna is looking for food.",
+        "SliceSentence": "One day Anna is looking for food .",
+        "WrittenText": "",
+        "StartMs": 9400,
+        "EndMs": 12840,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 375,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 740,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1920,
+            "Word": "Anna"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2235,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2235,
+            "OffsetEndMs": 2600,
+            "Word": "looking"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3075,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3075,
+            "OffsetEndMs": 3440,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 3075,
+            "OffsetEndMs": 3440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She meets a spider.",
+        "SliceSentence": "She meets a spider .",
+        "WrittenText": "",
+        "StartMs": 14270,
+        "EndMs": 15930,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 935,
+            "Word": "meets"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1660,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can I come with you?",
+        "SliceSentence": "Can I come with you ?",
+        "WrittenText": "",
+        "StartMs": 17600,
+        "EndMs": 19050,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 815,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1115,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 19970,
+        "EndMs": 20370,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " look bananas,",
+        "SliceSentence": "look bananas ,",
+        "WrittenText": "",
+        "StartMs": 22820,
+        "EndMs": 24600,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1780,
+            "Word": "bananas"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1780,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " no bananas for me.",
+        "SliceSentence": "no bananas for me .",
+        "WrittenText": "",
+        "StartMs": 27500,
+        "EndMs": 29190,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1130,
+            "Word": "bananas"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1385,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1690,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look plums,",
+        "SliceSentence": "Look plums ,",
+        "WrittenText": "",
+        "StartMs": 31790,
+        "EndMs": 33180,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1390,
+            "Word": "plums"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " no plums for me.",
+        "SliceSentence": "no plums for me .",
+        "WrittenText": "",
+        "StartMs": 34100,
+        "EndMs": 35640,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 850,
+            "Word": "plums"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1235,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1540,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I love honey.",
+        "SliceSentence": "I love honey .",
+        "WrittenText": "",
+        "StartMs": 39920,
+        "EndMs": 40980,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "love"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "honey"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Me too,",
+        "SliceSentence": "Me too ,",
+        "WrittenText": "",
+        "StartMs": 41960,
+        "EndMs": 42970,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " later.",
+        "SliceSentence": "later .",
+        "WrittenText": "",
+        "StartMs": 45150,
+        "EndMs": 45550,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "later"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 47730,
+        "EndMs": 48520,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can't get out haha.",
+        "SliceSentence": "I can't get out haha .",
+        "WrittenText": "",
+        "StartMs": 48930,
+        "EndMs": 51640,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 815,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 995,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1300,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2710,
+            "Word": "haha"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let me help you.",
+        "SliceSentence": "Let me help you .",
+        "WrittenText": "",
+        "StartMs": 52080,
+        "EndMs": 53290,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 845,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

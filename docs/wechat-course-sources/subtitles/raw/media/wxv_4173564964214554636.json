@@ -1,0 +1,640 @@
+{
+  "RequestId": "3fa51226-0705-4ef6-9d69-bdb737b29359",
+  "Data": {
+    "TaskId": 16292449290,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 81.060875,
+    "Result": "Penny's story on the farm, let's find black and white animals. Look at the butterfly. Don't touch it. Here are some chick. They are red and brown. Look, here's a puppy. It's brown. It's cute. Let's give it some water. These are white goats.I don't like go look, cows, they're black and white, yes.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Penny's story on the farm,",
+        "SliceSentence": "Penny's story on the farm ,",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 3570,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 1275,
+            "Word": "Penny's"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1670,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 2500,
+            "OffsetEndMs": 2880,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3165,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3165,
+            "OffsetEndMs": 3470,
+            "Word": "farm"
+          },
+          {
+            "OffsetStartMs": 3165,
+            "OffsetEndMs": 3470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's find black and white animals.",
+        "SliceSentence": "let's find black and white animals .",
+        "WrittenText": "",
+        "StartMs": 9320,
+        "EndMs": 11550,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1535,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1850,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2230,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the butterfly.",
+        "SliceSentence": "Look at the butterfly .",
+        "WrittenText": "",
+        "StartMs": 18080,
+        "EndMs": 19650,
+        "SpeechSpeed": 14,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 860,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1570,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't touch it.",
+        "SliceSentence": "Don't touch it .",
+        "WrittenText": "",
+        "StartMs": 21080,
+        "EndMs": 22320,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 845,
+            "Word": "touch"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1240,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here are some chick.",
+        "SliceSentence": "Here are some chick .",
+        "WrittenText": "",
+        "StartMs": 25580,
+        "EndMs": 26730,
+        "SpeechSpeed": 17.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Here"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 590,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 815,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1150,
+            "Word": "chick"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are red and brown.",
+        "SliceSentence": "They are red and brown .",
+        "WrittenText": "",
+        "StartMs": 28790,
+        "EndMs": 30240,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 560,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 845,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1130,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 34070,
+        "EndMs": 34470,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a puppy.",
+        "SliceSentence": "here's a puppy .",
+        "WrittenText": "",
+        "StartMs": 35210,
+        "EndMs": 36510,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 785,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1300,
+            "Word": "puppy"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's brown.",
+        "SliceSentence": "It's brown .",
+        "WrittenText": "",
+        "StartMs": 38390,
+        "EndMs": 39150,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's cute.",
+        "SliceSentence": "It's cute .",
+        "WrittenText": "",
+        "StartMs": 39890,
+        "EndMs": 40680,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "cute"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's give it some water.",
+        "SliceSentence": "Let's give it some water .",
+        "WrittenText": "",
+        "StartMs": 45590,
+        "EndMs": 47160,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 485,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 680,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 950,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1235,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " These are white goats.",
+        "SliceSentence": "These are white goats .",
+        "WrittenText": "",
+        "StartMs": 58400,
+        "EndMs": 60360,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "These"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 785,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1150,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1960,
+            "Word": "goats"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I don't like go look,",
+        "SliceSentence": "I don't like go look ,",
+        "WrittenText": "",
+        "StartMs": 60580,
+        "EndMs": 68850,
+        "SpeechSpeed": 2.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1960,
+            "OffsetEndMs": 2460,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2715,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2715,
+            "OffsetEndMs": 3110,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 7870,
+            "OffsetEndMs": 8270,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 7870,
+            "OffsetEndMs": 8270,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " cows,",
+        "SliceSentence": "cows ,",
+        "WrittenText": "",
+        "StartMs": 69290,
+        "EndMs": 69720,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "cows"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they're black and white,",
+        "SliceSentence": "they're black and white ,",
+        "WrittenText": "",
+        "StartMs": 73070,
+        "EndMs": 74550,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "they're"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 860,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1160,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " yes.",
+        "SliceSentence": "yes .",
+        "WrittenText": "",
+        "StartMs": 76310,
+        "EndMs": 76710,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "RequestId": "334d25c9-af5a-4187-8930-c5ae2cea1259",
+  "Data": {
+    "TaskId": 16292481554,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 54.566875,
+    "Result": "F l flag C L K cl club.At school, we raise the flag. On monday in art class, we draw flowers. At three o'clock, it's music club. I can play my flute for hours.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "F l flag C L K cl club.",
+        "SliceSentence": "F l flag C L K cl club .",
+        "WrittenText": "",
+        "StartMs": 60,
+        "EndMs": 34580,
+        "SpeechSpeed": 0.6,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 5980,
+            "OffsetEndMs": 6380,
+            "Word": "F"
+          },
+          {
+            "OffsetStartMs": 6460,
+            "OffsetEndMs": 6860,
+            "Word": "l"
+          },
+          {
+            "OffsetStartMs": 15340,
+            "OffsetEndMs": 15740,
+            "Word": "flag"
+          },
+          {
+            "OffsetStartMs": 24550,
+            "OffsetEndMs": 24950,
+            "Word": "C"
+          },
+          {
+            "OffsetStartMs": 25000,
+            "OffsetEndMs": 25400,
+            "Word": "L"
+          },
+          {
+            "OffsetStartMs": 25900,
+            "OffsetEndMs": 26145,
+            "Word": "K"
+          },
+          {
+            "OffsetStartMs": 26145,
+            "OffsetEndMs": 26390,
+            "Word": "cl"
+          },
+          {
+            "OffsetStartMs": 34120,
+            "OffsetEndMs": 34520,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 34120,
+            "OffsetEndMs": 34520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "At school,",
+        "SliceSentence": "At school ,",
+        "WrittenText": "",
+        "StartMs": 36960,
+        "EndMs": 39500,
+        "SpeechSpeed": 3.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2160,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2540,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2540,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we raise the flag.",
+        "SliceSentence": "we raise the flag .",
+        "WrittenText": "",
+        "StartMs": 39670,
+        "EndMs": 41720,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "raise"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "flag"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On monday in art class,",
+        "SliceSentence": "On monday in art class ,",
+        "WrittenText": "",
+        "StartMs": 41950,
+        "EndMs": 44780,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "monday"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1925,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2260,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we draw flowers.",
+        "SliceSentence": "we draw flowers .",
+        "WrittenText": "",
+        "StartMs": 45010,
+        "EndMs": 46520,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At three o'clock,",
+        "SliceSentence": "At three o'clock ,",
+        "WrittenText": "",
+        "StartMs": 47170,
+        "EndMs": 48405,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 710,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1235,
+            "Word": "o'clock"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1235,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's music club.",
+        "SliceSentence": "it's music club .",
+        "WrittenText": "",
+        "StartMs": 48405,
+        "EndMs": 49640,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 390,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 665,
+            "Word": "music"
+          },
+          {
+            "OffsetStartMs": 835,
+            "OffsetEndMs": 1235,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 835,
+            "OffsetEndMs": 1235,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can play my flute for hours.",
+        "SliceSentence": "I can play my flute for hours .",
+        "WrittenText": "",
+        "StartMs": 49780,
+        "EndMs": 51980,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 695,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1010,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1310,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1700,
+            "Word": "flute"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 1880,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2200,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

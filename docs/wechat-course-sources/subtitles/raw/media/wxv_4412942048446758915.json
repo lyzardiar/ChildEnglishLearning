@@ -1,0 +1,986 @@
+{
+  "RequestId": "2dd0476d-45c3-4989-8e7c-40b422e73df3",
+  "Data": {
+    "TaskId": 16292574542,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 73.700125,
+    "Result": "Little Leo's lessons.Little Leo liked drawing very much. His friends all liked his pictures. You're going to be an artist, Leo. They always said little Leo took drawing lessons. In the first lesson, the teacher put an egg on the table and asked little Leo to draw it.That's easy, said little Leo. In the second lesson, the teacher still asked him to draw an egg, but he put the egg on a plate. Little Leo felt unhappy and asked why do we draw eggs all the time? Look carefully. It's an egg again, but it looks different, said the teacher. Little Leo worked hard and became a great artist.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Little Leo's lessons.",
+        "SliceSentence": "Little Leo's lessons .",
+        "WrittenText": "",
+        "StartMs": 960,
+        "EndMs": 2720,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1425,
+            "Word": "Leo's"
+          },
+          {
+            "OffsetStartMs": 1425,
+            "OffsetEndMs": 1760,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 1425,
+            "OffsetEndMs": 1760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Little Leo liked drawing very much.",
+        "SliceSentence": "Little Leo liked drawing very much .",
+        "WrittenText": "",
+        "StartMs": 3880,
+        "EndMs": 9780,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3560,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 3820,
+            "OffsetEndMs": 4220,
+            "Word": "liked"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4790,
+            "Word": "drawing"
+          },
+          {
+            "OffsetStartMs": 5050,
+            "OffsetEndMs": 5450,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 5500,
+            "OffsetEndMs": 5900,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 5500,
+            "OffsetEndMs": 5900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " His friends all liked his pictures.",
+        "SliceSentence": "His friends all liked his pictures .",
+        "WrittenText": "",
+        "StartMs": 11120,
+        "EndMs": 13380,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "His"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1235,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "liked"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1940,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "pictures"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're going to be an artist,",
+        "SliceSentence": "You're going to be an artist ,",
+        "WrittenText": "",
+        "StartMs": 14600,
+        "EndMs": 16290,
+        "SpeechSpeed": 17.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 760,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1055,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1220,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1400,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1690,
+            "Word": "artist"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 1690,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Leo.",
+        "SliceSentence": "Leo .",
+        "WrittenText": "",
+        "StartMs": 16580,
+        "EndMs": 17190,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 610,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They always said little Leo took drawing lessons.",
+        "SliceSentence": "They always said little Leo took drawing lessons .",
+        "WrittenText": "",
+        "StartMs": 17630,
+        "EndMs": 23610,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1010,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1390,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 4050,
+            "OffsetEndMs": 4690,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 4710,
+            "OffsetEndMs": 5105,
+            "Word": "took"
+          },
+          {
+            "OffsetStartMs": 5105,
+            "OffsetEndMs": 5500,
+            "Word": "drawing"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 5980,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 5980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the first lesson,",
+        "SliceSentence": "In the first lesson ,",
+        "WrittenText": "",
+        "StartMs": 25670,
+        "EndMs": 27030,
+        "SpeechSpeed": 14.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 515,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "first"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "lesson"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the teacher put an egg on the table and asked little Leo to draw it.",
+        "SliceSentence": "the teacher put an egg on the table and asked little Leo to draw it .",
+        "WrittenText": "",
+        "StartMs": 27590,
+        "EndMs": 33210,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1130,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1430,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2285,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2480,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2740,
+            "Word": "table"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3440,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3760,
+            "Word": "asked"
+          },
+          {
+            "OffsetStartMs": 3780,
+            "OffsetEndMs": 4180,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 4200,
+            "OffsetEndMs": 4790,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 4790,
+            "OffsetEndMs": 5075,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5075,
+            "OffsetEndMs": 5300,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 5300,
+            "OffsetEndMs": 5620,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 5300,
+            "OffsetEndMs": 5620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "That's easy,",
+        "SliceSentence": "That's easy ,",
+        "WrittenText": "",
+        "StartMs": 34040,
+        "EndMs": 34720,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 390,
+            "Word": "That's"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 680,
+            "Word": "easy"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 680,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said little Leo.",
+        "SliceSentence": "said little Leo .",
+        "WrittenText": "",
+        "StartMs": 35460,
+        "EndMs": 36820,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1360,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the second lesson,",
+        "SliceSentence": "In the second lesson ,",
+        "WrittenText": "",
+        "StartMs": 38370,
+        "EndMs": 39610,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "second"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "lesson"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the teacher still asked him to draw an egg,",
+        "SliceSentence": "the teacher still asked him to draw an egg ,",
+        "WrittenText": "",
+        "StartMs": 40020,
+        "EndMs": 43090,
+        "SpeechSpeed": 14,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1205,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "asked"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2000,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2255,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2495,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2750,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but he put the egg on a plate.",
+        "SliceSentence": "but he put the egg on a plate .",
+        "WrittenText": "",
+        "StartMs": 43740,
+        "EndMs": 45880,
+        "SpeechSpeed": 14,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 770,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 995,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1270,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1640,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1640,
+            "OffsetEndMs": 1835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2140,
+            "Word": "plate"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little Leo felt unhappy and asked why do we draw eggs all the time?",
+        "SliceSentence": "Little Leo felt unhappy and asked why do we draw eggs all the time ?",
+        "WrittenText": "",
+        "StartMs": 47520,
+        "EndMs": 53620,
+        "SpeechSpeed": 11,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1025,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "felt"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 2290,
+            "Word": "unhappy"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2645,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 2950,
+            "Word": "asked"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4085,
+            "Word": "why"
+          },
+          {
+            "OffsetStartMs": 4085,
+            "OffsetEndMs": 4325,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 4325,
+            "OffsetEndMs": 4535,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4835,
+            "Word": "draw"
+          },
+          {
+            "OffsetStartMs": 4835,
+            "OffsetEndMs": 5200,
+            "Word": "eggs"
+          },
+          {
+            "OffsetStartMs": 5250,
+            "OffsetEndMs": 5585,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 5585,
+            "OffsetEndMs": 5810,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5810,
+            "OffsetEndMs": 6100,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 5810,
+            "OffsetEndMs": 6100,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look carefully.",
+        "SliceSentence": "Look carefully .",
+        "WrittenText": "",
+        "StartMs": 55050,
+        "EndMs": 55720,
+        "SpeechSpeed": 22.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "carefully"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's an egg again,",
+        "SliceSentence": "It's an egg again ,",
+        "WrittenText": "",
+        "StartMs": 56670,
+        "EndMs": 57850,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 515,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 785,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1180,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 1180,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but it looks different,",
+        "SliceSentence": "but it looks different ,",
+        "WrittenText": "",
+        "StartMs": 58470,
+        "EndMs": 59500,
+        "SpeechSpeed": 22.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 425,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 665,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the teacher.",
+        "SliceSentence": "said the teacher .",
+        "WrittenText": "",
+        "StartMs": 60210,
+        "EndMs": 61060,
+        "SpeechSpeed": 20,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "teacher"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Little Leo worked hard and became a great artist.",
+        "SliceSentence": "Little Leo worked hard and became a great artist .",
+        "WrittenText": "",
+        "StartMs": 64740,
+        "EndMs": 69040,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1055,
+            "Word": "Leo"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "worked"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2615,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2990,
+            "Word": "became"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3370,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4300,
+            "Word": "artist"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

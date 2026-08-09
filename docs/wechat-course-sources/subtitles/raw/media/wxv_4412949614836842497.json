@@ -1,0 +1,1215 @@
+{
+  "RequestId": "31a0bc2f-ca95-42f0-b089-4d3332fbc473",
+  "Data": {
+    "TaskId": 16292590843,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 123.692688,
+    "Result": "The wind and the sun from aesop's fables I said Mr wind am stronger than you you're not said Mr sun I'm stronger than you alright said Mr wind, see how hard I blow? Oh yes said Mr sun, I can make the plants grow.That man said Mr wind, I'll blow off his clothes. Let's see, said Mr sun and behind a cloud he went. I'm cold, said the man. I'll put on my scarf, I told you, said Mr sun, and he began to laugh. Your turn, said Mr wind.I had mine. Okay, said Mister sun. Then he began to shine. I'm hot, said the man, I'll go swimming and he took off his clothes. See, said Mr sun, I win Mr wind.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The wind and the sun from aesop's fables I said Mr wind am stronger than you you're not said Mr sun I'm stronger than you alright said Mr wind,",
+        "SliceSentence": "The wind and the sun from aesop's fables I said Mr wind am stronger than you you're not said Mr sun I'm stronger than you alright said Mr wind ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 34790,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 30,
+        "Words": [
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 1935,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1935,
+            "OffsetEndMs": 2240,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2670,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 2865,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3140,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4755,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 4755,
+            "OffsetEndMs": 5580,
+            "Word": "aesop's"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 6170,
+            "Word": "fables"
+          },
+          {
+            "OffsetStartMs": 18910,
+            "OffsetEndMs": 19310,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 19840,
+            "OffsetEndMs": 20205,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 20205,
+            "OffsetEndMs": 20565,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 20565,
+            "OffsetEndMs": 20960,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 21460,
+            "OffsetEndMs": 21860,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 21970,
+            "OffsetEndMs": 22370,
+            "Word": "stronger"
+          },
+          {
+            "OffsetStartMs": 22420,
+            "OffsetEndMs": 22740,
+            "Word": "than"
+          },
+          {
+            "OffsetStartMs": 22740,
+            "OffsetEndMs": 23060,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 27130,
+            "OffsetEndMs": 27615,
+            "Word": "you're"
+          },
+          {
+            "OffsetStartMs": 27615,
+            "OffsetEndMs": 27890,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 28330,
+            "OffsetEndMs": 28680,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 28680,
+            "OffsetEndMs": 29025,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 29025,
+            "OffsetEndMs": 29420,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 29950,
+            "OffsetEndMs": 30480,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 30480,
+            "OffsetEndMs": 30795,
+            "Word": "stronger"
+          },
+          {
+            "OffsetStartMs": 30795,
+            "OffsetEndMs": 31080,
+            "Word": "than"
+          },
+          {
+            "OffsetStartMs": 31080,
+            "OffsetEndMs": 31370,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 32950,
+            "OffsetEndMs": 33350,
+            "Word": "alright"
+          },
+          {
+            "OffsetStartMs": 33730,
+            "OffsetEndMs": 34065,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 34065,
+            "OffsetEndMs": 34395,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 34395,
+            "OffsetEndMs": 34790,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 34395,
+            "OffsetEndMs": 34790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " see how hard I blow?",
+        "SliceSentence": "see how hard I blow ?",
+        "WrittenText": "",
+        "StartMs": 35410,
+        "EndMs": 37190,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "how"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1030,
+            "Word": "hard"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1430,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "blow"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh yes said Mr sun,",
+        "SliceSentence": "Oh yes said Mr sun ,",
+        "WrittenText": "",
+        "StartMs": 46690,
+        "EndMs": 49010,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "yes"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1595,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1925,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2320,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 1925,
+            "OffsetEndMs": 2320,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 9500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can make the plants grow.",
+        "SliceSentence": "I can make the plants grow .",
+        "WrittenText": "",
+        "StartMs": 49690,
+        "EndMs": 51680,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 605,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 860,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1115,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1420,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "That man said Mr wind,",
+        "SliceSentence": "That man said Mr wind ,",
+        "WrittenText": "",
+        "StartMs": 60260,
+        "EndMs": 62410,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 345,
+            "Word": "That"
+          },
+          {
+            "OffsetStartMs": 345,
+            "OffsetEndMs": 680,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1410,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1755,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2150,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2150,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll blow off his clothes.",
+        "SliceSentence": "I'll blow off his clothes .",
+        "WrittenText": "",
+        "StartMs": 62940,
+        "EndMs": 64420,
+        "SpeechSpeed": 17.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 695,
+            "Word": "blow"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 905,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1145,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's see,",
+        "SliceSentence": "Let's see ,",
+        "WrittenText": "",
+        "StartMs": 65820,
+        "EndMs": 66550,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said Mr sun and behind a cloud he went.",
+        "SliceSentence": "said Mr sun and behind a cloud he went .",
+        "WrittenText": "",
+        "StartMs": 66900,
+        "EndMs": 70600,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2225,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2585,
+            "Word": "behind"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2825,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3095,
+            "Word": "cloud"
+          },
+          {
+            "OffsetStartMs": 3095,
+            "OffsetEndMs": 3395,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3700,
+            "Word": "went"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm cold,",
+        "SliceSentence": "I'm cold ,",
+        "WrittenText": "",
+        "StartMs": 73020,
+        "EndMs": 73690,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 425,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 670,
+            "Word": "cold"
+          },
+          {
+            "OffsetStartMs": 425,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the man.",
+        "SliceSentence": "said the man .",
+        "WrittenText": "",
+        "StartMs": 74220,
+        "EndMs": 74980,
+        "SpeechSpeed": 17.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 500,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll put on my scarf,",
+        "SliceSentence": "I'll put on my scarf ,",
+        "WrittenText": "",
+        "StartMs": 75630,
+        "EndMs": 77260,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 545,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 740,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 965,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1630,
+            "Word": "scarf"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I told you,",
+        "SliceSentence": "I told you ,",
+        "WrittenText": "",
+        "StartMs": 82140,
+        "EndMs": 83290,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "told"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said Mr sun,",
+        "SliceSentence": "said Mr sun ,",
+        "WrittenText": "",
+        "StartMs": 83340,
+        "EndMs": 84370,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 635,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1030,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 50,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " and he began to laugh.",
+        "SliceSentence": "and he began to laugh .",
+        "WrittenText": "",
+        "StartMs": 85320,
+        "EndMs": 86710,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 545,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 860,
+            "Word": "began"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1100,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1390,
+            "Word": "laugh"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1390,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Your turn,",
+        "SliceSentence": "Your turn ,",
+        "WrittenText": "",
+        "StartMs": 89580,
+        "EndMs": 90310,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Your"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said Mr wind.",
+        "SliceSentence": "said Mr wind .",
+        "WrittenText": "",
+        "StartMs": 90600,
+        "EndMs": 91600,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 1000,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 1000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I had mine.",
+        "SliceSentence": "I had mine .",
+        "WrittenText": "",
+        "StartMs": 92580,
+        "EndMs": 93530,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 390,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 615,
+            "Word": "had"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "mine"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 96730,
+        "EndMs": 97130,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said Mister sun.",
+        "SliceSentence": "said Mister sun .",
+        "WrittenText": "",
+        "StartMs": 97270,
+        "EndMs": 98300,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "Mister"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then he began to shine.",
+        "SliceSentence": "Then he began to shine .",
+        "WrittenText": "",
+        "StartMs": 98980,
+        "EndMs": 100550,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 680,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1040,
+            "Word": "began"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1280,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "shine"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm hot,",
+        "SliceSentence": "I'm hot ,",
+        "WrittenText": "",
+        "StartMs": 102700,
+        "EndMs": 103370,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 670,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 670,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said the man,",
+        "SliceSentence": "said the man ,",
+        "WrittenText": "",
+        "StartMs": 103840,
+        "EndMs": 104600,
+        "SpeechSpeed": 17.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 500,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'll go swimming and he took off his clothes.",
+        "SliceSentence": "I'll go swimming and he took off his clothes .",
+        "WrittenText": "",
+        "StartMs": 105310,
+        "EndMs": 109880,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 665,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3425,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3620,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 3620,
+            "OffsetEndMs": 3815,
+            "Word": "took"
+          },
+          {
+            "OffsetStartMs": 3815,
+            "OffsetEndMs": 4025,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 4025,
+            "OffsetEndMs": 4250,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 4250,
+            "OffsetEndMs": 4570,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 4250,
+            "OffsetEndMs": 4570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " See,",
+        "SliceSentence": "See ,",
+        "WrittenText": "",
+        "StartMs": 116410,
+        "EndMs": 116810,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "See"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " said Mr sun,",
+        "SliceSentence": "said Mr sun ,",
+        "WrittenText": "",
+        "StartMs": 117400,
+        "EndMs": 118460,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "said"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 665,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1060,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I win Mr wind.",
+        "SliceSentence": "I win Mr wind .",
+        "WrittenText": "",
+        "StartMs": 119110,
+        "EndMs": 120710,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "win"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "wind"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,914 @@
+{
+  "RequestId": "2f7805ec-675b-4640-9e43-21e1f406a50a",
+  "Data": {
+    "TaskId": 16292569203,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 84.6135,
+    "Result": "Ms Wen is a writer. In the past, she uses a pen and paper to write her books. Now she uses a computer.Mrs HONG is a farmer.In the past, she got her crops in by hand.Now she uses a machine.Mr Zhang is a photographer. In the past, he uses film to take photos. Now he uses a digital camera. He can see his photos right away.Mr Yang is a street cleaner. In the past, he swept the streets with a broom. Now he drives a street sweeper. It can clean the streets in a short time.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Ms Wen is a writer.",
+        "SliceSentence": "Ms Wen is a writer .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 6350,
+        "SpeechSpeed": 2.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 4480,
+            "OffsetEndMs": 5010,
+            "Word": "Ms"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5360,
+            "Word": "Wen"
+          },
+          {
+            "OffsetStartMs": 5530,
+            "OffsetEndMs": 5835,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5835,
+            "OffsetEndMs": 6045,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6045,
+            "OffsetEndMs": 6350,
+            "Word": "writer"
+          },
+          {
+            "OffsetStartMs": 6045,
+            "OffsetEndMs": 6350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the past,",
+        "SliceSentence": "In the past ,",
+        "WrittenText": "",
+        "StartMs": 8290,
+        "EndMs": 9050,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she uses a pen and paper to write her books.",
+        "SliceSentence": "she uses a pen and paper to write her books .",
+        "WrittenText": "",
+        "StartMs": 9520,
+        "EndMs": 12980,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1055,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1355,
+            "Word": "pen"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1700,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2050,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2615,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2870,
+            "Word": "write"
+          },
+          {
+            "OffsetStartMs": 2870,
+            "OffsetEndMs": 3140,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 3140,
+            "OffsetEndMs": 3460,
+            "Word": "books"
+          },
+          {
+            "OffsetStartMs": 3140,
+            "OffsetEndMs": 3460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now she uses a computer.",
+        "SliceSentence": "Now she uses a computer .",
+        "WrittenText": "",
+        "StartMs": 16030,
+        "EndMs": 18440,
+        "SpeechSpeed": 10,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1055,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1390,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "computer"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mrs HONG is a farmer.",
+        "SliceSentence": "Mrs HONG is a farmer .",
+        "WrittenText": "",
+        "StartMs": 24240,
+        "EndMs": 26270,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Mrs"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1010,
+            "Word": "HONG"
+          },
+          {
+            "OffsetStartMs": 1270,
+            "OffsetEndMs": 1575,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1755,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2030,
+            "Word": "farmer"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "In the past,",
+        "SliceSentence": "In the past ,",
+        "WrittenText": "",
+        "StartMs": 27760,
+        "EndMs": 28890,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 690,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 855,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1130,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1130,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she got her crops in by hand.",
+        "SliceSentence": "she got her crops in by hand .",
+        "WrittenText": "",
+        "StartMs": 29450,
+        "EndMs": 32010,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "got"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 980,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1505,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1810,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2225,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2560,
+            "Word": "hand"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Now she uses a machine.",
+        "SliceSentence": "Now she uses a machine .",
+        "WrittenText": "",
+        "StartMs": 33600,
+        "EndMs": 35720,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 960,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1310,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1830,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2120,
+            "Word": "machine"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mr Zhang is a photographer.",
+        "SliceSentence": "Mr Zhang is a photographer .",
+        "WrittenText": "",
+        "StartMs": 37800,
+        "EndMs": 43580,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3190,
+            "OffsetEndMs": 3590,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 3700,
+            "OffsetEndMs": 4130,
+            "Word": "Zhang"
+          },
+          {
+            "OffsetStartMs": 4240,
+            "OffsetEndMs": 4545,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4545,
+            "OffsetEndMs": 4740,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5780,
+            "Word": "photographer"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the past,",
+        "SliceSentence": "In the past ,",
+        "WrittenText": "",
+        "StartMs": 46450,
+        "EndMs": 47210,
+        "SpeechSpeed": 15.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he uses film to take photos.",
+        "SliceSentence": "he uses film to take photos .",
+        "WrittenText": "",
+        "StartMs": 47680,
+        "EndMs": 50090,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "film"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1805,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2045,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "photos"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now he uses a digital camera.",
+        "SliceSentence": "Now he uses a digital camera .",
+        "WrittenText": "",
+        "StartMs": 51970,
+        "EndMs": 54680,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1010,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1330,
+            "Word": "uses"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1790,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2110,
+            "Word": "digital"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "camera"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He can see his photos right away.",
+        "SliceSentence": "He can see his photos right away .",
+        "WrittenText": "",
+        "StartMs": 56260,
+        "EndMs": 59120,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 590,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 905,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1235,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1600,
+            "Word": "photos"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2380,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "away"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mr Yang is a street cleaner.",
+        "SliceSentence": "Mr Yang is a street cleaner .",
+        "WrittenText": "",
+        "StartMs": 63360,
+        "EndMs": 66230,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1100,
+            "Word": "Yang"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1455,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1455,
+            "OffsetEndMs": 1755,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1755,
+            "OffsetEndMs": 2150,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2870,
+            "Word": "cleaner"
+          },
+          {
+            "OffsetStartMs": 2170,
+            "OffsetEndMs": 2870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the past,",
+        "SliceSentence": "In the past ,",
+        "WrittenText": "",
+        "StartMs": 67030,
+        "EndMs": 67820,
+        "SpeechSpeed": 15.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 515,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": "past"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he swept the streets with a broom.",
+        "SliceSentence": "he swept the streets with a broom .",
+        "WrittenText": "",
+        "StartMs": 68350,
+        "EndMs": 70970,
+        "SpeechSpeed": 13,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 980,
+            "Word": "swept"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "streets"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2105,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2285,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2620,
+            "Word": "broom"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now he drives a street sweeper.",
+        "SliceSentence": "Now he drives a street sweeper .",
+        "WrittenText": "",
+        "StartMs": 73630,
+        "EndMs": 76580,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1025,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "drives"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1880,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2260,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2950,
+            "Word": "sweeper"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can clean the streets in a short time.",
+        "SliceSentence": "It can clean the streets in a short time .",
+        "WrittenText": "",
+        "StartMs": 77260,
+        "EndMs": 80450,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 740,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1100,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1780,
+            "Word": "streets"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2210,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2405,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2710,
+            "Word": "short"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

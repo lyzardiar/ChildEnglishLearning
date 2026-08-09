@@ -3,6 +3,17 @@
   <block wx:if="{{!currentGame}}">
     <!-- 单元选择 -->
     <view class="unit-selector card">
+      <scroll-view class="grade-scroll" scroll-x enhanced show-scrollbar="{{false}}">
+        <view class="grade-options">
+          <view
+            class="grade-option {{grade === item.grade ? 'active' : ''}}"
+            wx:for="{{grades}}"
+            wx:key="grade"
+            data-grade="{{item.grade}}"
+            bindtap="onSwitchGrade"
+          >{{item.grade}}年级</view>
+        </view>
+      </scroll-view>
       <view class="semester-tabs">
         <view
           class="tab {{semester === 'upper' ? 'active' : ''}}"
@@ -45,6 +56,37 @@
           <text class="game-desc">{{item.desc}}</text>
         </view>
         <view class="game-arrow">›</view>
+      </view>
+    </view>
+  </block>
+
+  <block wx:if="{{currentGame === 'meaning-match'}}">
+    <view class="game-header">
+      <text class="game-score">得分 {{gameScore}}</text>
+      <text class="game-round">{{gameRound}} / {{totalRounds}}</text>
+      <view class="exit-btn" bindtap="onExitGame">✕</view>
+    </view>
+
+    <view class="listen-match-area">
+      <view class="meaning-prompt">
+        <text class="meaning-label">选择对应的英文</text>
+        <text class="meaning-chinese">{{promptChinese}}</text>
+      </view>
+
+      <view class="answer-feedback" wx:if="{{lastAnswerCorrect !== null}}">
+        <text class="feedback-text {{lastAnswerCorrect ? 'correct' : 'wrong'}}">{{lastAnswerCorrect ? '答对了' : '再想想'}}</text>
+      </view>
+
+      <view class="options-grid">
+        <view
+          class="option-item {{lastAnswerCorrect !== null && item.english === listenMatchCorrect ? 'highlight' : ''}}"
+          wx:for="{{listenMatchOptions}}"
+          wx:key="english"
+          data-english="{{item.english}}"
+          bindtap="onMeaningMatchAnswer"
+        >
+          <text class="option-text">{{item.english}}</text>
+        </view>
       </view>
     </view>
   </block>

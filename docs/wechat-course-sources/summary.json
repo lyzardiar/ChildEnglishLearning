@@ -1,0 +1,422 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-08",
+  "status": "complete",
+  "scope": "沪教版英语1-6年级上下册",
+  "sources": {
+    "sourceCount": 4,
+    "sourcesRead": 4,
+    "indexArticlesCached": 4,
+    "indexLinksCached": 288,
+    "audioIndexLinks": 184,
+    "videoUnitLinks": 104
+  },
+  "courses": {
+    "gradeCount": 6,
+    "semesterCount": 2,
+    "totalUnits": 104,
+    "byGrade": {
+      "1": {
+        "upper": {
+          "unitCount": 6,
+          "audioLinks": 12,
+          "videoLinks": 6,
+          "extraAudioLinks": 6
+        },
+        "lower": {
+          "unitCount": 6,
+          "audioLinks": 8,
+          "videoLinks": 6,
+          "extraAudioLinks": 2
+        }
+      },
+      "2": {
+        "upper": {
+          "unitCount": 6,
+          "audioLinks": 10,
+          "videoLinks": 6,
+          "extraAudioLinks": 4
+        },
+        "lower": {
+          "unitCount": 6,
+          "audioLinks": 8,
+          "videoLinks": 6,
+          "extraAudioLinks": 2
+        }
+      },
+      "3": {
+        "upper": {
+          "unitCount": 8,
+          "audioLinks": 13,
+          "videoLinks": 8,
+          "extraAudioLinks": 5
+        },
+        "lower": {
+          "unitCount": 8,
+          "audioLinks": 11,
+          "videoLinks": 8,
+          "extraAudioLinks": 3
+        }
+      },
+      "4": {
+        "upper": {
+          "unitCount": 8,
+          "audioLinks": 10,
+          "videoLinks": 8,
+          "extraAudioLinks": 2
+        },
+        "lower": {
+          "unitCount": 8,
+          "audioLinks": 11,
+          "videoLinks": 8,
+          "extraAudioLinks": 3
+        }
+      },
+      "5": {
+        "upper": {
+          "unitCount": 12,
+          "audioLinks": 24,
+          "videoLinks": 12,
+          "extraAudioLinks": 0
+        },
+        "lower": {
+          "unitCount": 12,
+          "audioLinks": 25,
+          "videoLinks": 12,
+          "extraAudioLinks": 1
+        }
+      },
+      "6": {
+        "upper": {
+          "unitCount": 12,
+          "audioLinks": 24,
+          "videoLinks": 12,
+          "extraAudioLinks": 0
+        },
+        "lower": {
+          "unitCount": 12,
+          "audioLinks": 28,
+          "videoLinks": 12,
+          "extraAudioLinks": 4
+        }
+      }
+    }
+  },
+  "expandedVideoContent": {
+    "pagesCached": 104,
+    "pagesTotal": 104,
+    "pagesRemaining": 0,
+    "videoSegments": 268,
+    "durableVideoIds": 268,
+    "temporarySignedMediaUrlsObserved": 262,
+    "totalDurationSeconds": 29429,
+    "totalDurationText": "8:10:29",
+    "wholeUnitOnlyPages": 25,
+    "knowledgeCategoryOccurrences": {
+      "storyTitles": 22,
+      "extend": 51,
+      "letters": 12,
+      "sounds": 51,
+      "explore": 32,
+      "listenAndSay": 23,
+      "lookAndRead": 9,
+      "readAStory": 13,
+      "learnTheSounds": 9,
+      "listenAndEnjoy": 4,
+      "pageReferences": 204
+    },
+    "byGradeSemester": [
+      {
+        "grade": 1,
+        "semester": "upper",
+        "unitPages": 6,
+        "videoSegments": 24,
+        "durationSeconds": 1458,
+        "durationText": "0:24:18",
+        "durableVideoIds": 24,
+        "knowledge": {
+          "storyTitles": 6,
+          "extend": 6,
+          "letters": 12,
+          "sounds": 0,
+          "explore": 0,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 24
+        }
+      },
+      {
+        "grade": 2,
+        "semester": "upper",
+        "unitPages": 6,
+        "videoSegments": 21,
+        "durationSeconds": 946,
+        "durationText": "0:15:46",
+        "durableVideoIds": 21,
+        "knowledge": {
+          "storyTitles": 5,
+          "extend": 5,
+          "letters": 0,
+          "sounds": 10,
+          "explore": 0,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 21
+        }
+      },
+      {
+        "grade": 3,
+        "semester": "upper",
+        "unitPages": 8,
+        "videoSegments": 16,
+        "durationSeconds": 599,
+        "durationText": "0:09:59",
+        "durableVideoIds": 16,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 8,
+          "letters": 0,
+          "sounds": 0,
+          "explore": 8,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 16
+        }
+      },
+      {
+        "grade": 4,
+        "semester": "upper",
+        "unitPages": 8,
+        "videoSegments": 24,
+        "durationSeconds": 1442,
+        "durationText": "0:24:02",
+        "durableVideoIds": 24,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 8,
+          "letters": 0,
+          "sounds": 8,
+          "explore": 8,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 16
+        }
+      },
+      {
+        "grade": 5,
+        "semester": "upper",
+        "unitPages": 12,
+        "videoSegments": 12,
+        "durationSeconds": 8092,
+        "durationText": "2:14:52",
+        "durableVideoIds": 12,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 0,
+          "letters": 0,
+          "sounds": 0,
+          "explore": 0,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 0
+        }
+      },
+      {
+        "grade": 6,
+        "semester": "upper",
+        "unitPages": 12,
+        "videoSegments": 12,
+        "durationSeconds": 7987,
+        "durationText": "2:13:07",
+        "durableVideoIds": 12,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 0,
+          "letters": 0,
+          "sounds": 0,
+          "explore": 0,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 0
+        }
+      },
+      {
+        "grade": 1,
+        "semester": "lower",
+        "unitPages": 6,
+        "videoSegments": 38,
+        "durationSeconds": 1001,
+        "durationText": "0:16:41",
+        "durableVideoIds": 38,
+        "knowledge": {
+          "storyTitles": 5,
+          "extend": 5,
+          "letters": 0,
+          "sounds": 6,
+          "explore": 0,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 17
+        }
+      },
+      {
+        "grade": 2,
+        "semester": "lower",
+        "unitPages": 6,
+        "videoSegments": 21,
+        "durationSeconds": 1032,
+        "durationText": "0:17:12",
+        "durableVideoIds": 21,
+        "knowledge": {
+          "storyTitles": 6,
+          "extend": 4,
+          "letters": 0,
+          "sounds": 10,
+          "explore": 0,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 20
+        }
+      },
+      {
+        "grade": 3,
+        "semester": "lower",
+        "unitPages": 8,
+        "videoSegments": 17,
+        "durationSeconds": 1140,
+        "durationText": "0:19:00",
+        "durableVideoIds": 17,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 7,
+          "letters": 0,
+          "sounds": 0,
+          "explore": 8,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 15
+        }
+      },
+      {
+        "grade": 4,
+        "semester": "lower",
+        "unitPages": 8,
+        "videoSegments": 24,
+        "durationSeconds": 1872,
+        "durationText": "0:31:12",
+        "durableVideoIds": 24,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 8,
+          "letters": 0,
+          "sounds": 8,
+          "explore": 8,
+          "listenAndSay": 0,
+          "lookAndRead": 0,
+          "readAStory": 0,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 0,
+          "pageReferences": 16
+        }
+      },
+      {
+        "grade": 5,
+        "semester": "lower",
+        "unitPages": 12,
+        "videoSegments": 32,
+        "durationSeconds": 1932,
+        "durationText": "0:32:12",
+        "durableVideoIds": 32,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 0,
+          "letters": 0,
+          "sounds": 9,
+          "explore": 0,
+          "listenAndSay": 11,
+          "lookAndRead": 5,
+          "readAStory": 6,
+          "learnTheSounds": 9,
+          "listenAndEnjoy": 0,
+          "pageReferences": 32
+        }
+      },
+      {
+        "grade": 6,
+        "semester": "lower",
+        "unitPages": 12,
+        "videoSegments": 27,
+        "durationSeconds": 1928,
+        "durationText": "0:32:08",
+        "durableVideoIds": 27,
+        "knowledge": {
+          "storyTitles": 0,
+          "extend": 0,
+          "letters": 0,
+          "sounds": 0,
+          "explore": 0,
+          "listenAndSay": 12,
+          "lookAndRead": 4,
+          "readAStory": 7,
+          "learnTheSounds": 0,
+          "listenAndEnjoy": 4,
+          "pageReferences": 27
+        }
+      }
+    ],
+    "coverageNotes": [
+      "1-6 年级上下册 104 个动画 Unit 页已全部展开缓存。",
+      "五、六年级上册多为每 Unit 一段整单元视频，正文不提供细分知识标签。",
+      "下册三至六年级页面同时公开单次播放和循环播放音频元数据；早期缓存的一、二年级下册未重复访问补抓该字段。"
+    ]
+  },
+  "contentAvailability": {
+    "indexMetadata": "complete",
+    "audioIndexMetadata": "complete",
+    "videoUnitMetadata": "complete",
+    "durableVideoIds": "complete",
+    "audioPlayerMetadata": "partial",
+    "temporarySignedMediaUrls": "observed-and-expiring",
+    "textbookTranscripts": "not-provided-by-source-pages",
+    "audioBinaries": "not-downloaded",
+    "videoBinaries": "not-downloaded"
+  },
+  "files": {
+    "sourceIndex": "sources.json",
+    "resourceCatalog": "catalog/all-grades.json",
+    "knowledgeCatalog": "catalog/knowledge-by-unit.json",
+    "anomalies": "anomalies.json"
+  },
+  "limitations": [
+    "音频入口页与多数音频子页不提供课文文字稿，因此这些来源不能单独还原完整单词、句型和课文台词。",
+    "视频临时直链带签名并会过期，长期使用应依赖原文章 URL 和 mpvid；接入小程序前仍需确认资源授权。",
+    "媒体二进制未下载，避免仓库膨胀和小程序 2MB 包体问题。"
+  ]
+}

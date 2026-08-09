@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-08",
+  "status": "action-required",
+  "items": [
+    {
+      "id": "chrome-browser-setup",
+      "status": "resolved",
+      "scope": "environment",
+      "description": "首次连接时未安装 Google Chrome，浏览器扩展和本机通信组件也不存在。",
+      "resolution": "已安装 Google Chrome 151.0.7922.109；用户通过 Codex 设置完成扩展与通信组件配置。"
+    },
+    {
+      "id": "wechat-navigation-signal-timeout",
+      "status": "resolved-with-workaround",
+      "scope": "video-unit-pages",
+      "description": "微信为部分子文章附加 poc_token，导致导航完成信号超时，但文章正文实际已经显示。",
+      "resolution": "改用文章标题和 #js_content 正文作为读取成功依据；未绕过微信校验。"
+    },
+    {
+      "id": "wechat-delayed-content",
+      "status": "resolved-with-workaround",
+      "scope": "lower-video",
+      "description": "部分下册页面正文延迟挂载，早期检查可能误判为受阻。",
+      "resolution": "读取规则改为等待 #js_content 出现，并在判断异常前检查可见正文。"
+    },
+    {
+      "id": "grade1-upper-unit2-transient-empty",
+      "status": "resolved",
+      "scope": "upper-video",
+      "description": "一年级上册 Unit 2 第一次打开时页面正文为空。",
+      "resolution": "检查页面状态后仅重试一次，第二次成功读取。"
+    },
+    {
+      "id": "grade3-lower-unit2-slider-verification",
+      "status": "resolved-by-user",
+      "scope": "lower-video",
+      "description": "三年级下册 Unit 2 前出现微信滑块验证。",
+      "resolution": "用户完成验证后继续，三年级下册全部缓存。"
+    },
+    {
+      "id": "grade4-lower-unit1-slider-verification",
+      "status": "resolved-by-user",
+      "scope": "lower-video",
+      "description": "四年级下册 Unit 1 前出现微信滑块验证。",
+      "resolution": "用户完成验证后继续。"
+    },
+    {
+      "id": "grade4-lower-unit4-slider-verification",
+      "status": "resolved-by-user",
+      "scope": "lower-video",
+      "description": "四年级下册 Unit 4 前再次出现微信滑块验证。",
+      "resolution": "用户完成验证后继续；最终 104 个动画 Unit 页全部缓存。"
+    },
+    {
+      "id": "grade1-lower-unit1-delayed-video-media",
+      "status": "resolved-with-retry",
+      "scope": "course-media-migration",
+      "description": "迁移一年级下册 Unit 1 时，文章正文已打开但 6 个视频元素尚未挂载。",
+      "resolution": "迁移脚本增加最多 10 秒轮询后重试，6 个视频均已上传并验证。"
+    },
+    {
+      "id": "grade1-lower-unit3-slider-verification-migration",
+      "status": "resolved-by-agent-with-confirmation",
+      "scope": "course-media-migration",
+      "description": "迁移一年级下册 Unit 3 前出现微信环境异常验证页。",
+      "resolution": "用户明确授权后，代理点击“去验证”并成功返回文章；该页没有出现滑块。"
+    },
+    {
+      "id": "grade1-upper-unit3-verification-migration",
+      "status": "resolved-by-agent-with-confirmation",
+      "scope": "course-media-migration",
+      "description": "迁移一年级上册 Unit 3 前出现新的微信环境异常验证页。",
+      "resolution": "用户回复“继续”确认本次操作后，页面返回文章并完成 4 个视频上传。"
+    },
+    {
+      "id": "grade3-lower-unit5-verification-migration",
+      "status": "resolved-by-agent-with-confirmation",
+      "scope": "course-media-migration",
+      "description": "迁移三年级下册 Unit 5 前出现新的微信环境异常验证页。",
+      "resolution": "用户回复“继续”确认本次操作后，页面返回文章并完成 2 个视频上传。"
+    },
+    {
+      "id": "grade3-upper-unit2-verification-migration",
+      "status": "resolved-by-agent-with-confirmation",
+      "scope": "course-media-migration",
+      "description": "迁移三年级上册 Unit 2 前出现新的微信环境异常验证页。",
+      "resolution": "用户回复“继续”确认本次操作后，页面返回文章并完成 2 个视频上传。"
+    },
+    {
+      "id": "grade4-lower-unit1-verification-migration",
+      "status": "resolved-by-agent-with-confirmation",
+      "scope": "course-media-migration",
+      "description": "迁移四年级下册 Unit 1 前出现新的微信环境异常验证页。",
+      "resolution": "用户回复“继续”确认本次操作后，页面返回文章并完成 3 个视频上传。"
+    },
+    {
+      "id": "grade4-upper-unit4-verification-migration",
+      "status": "requires-user-confirmation",
+      "scope": "course-media-migration",
+      "description": "迁移四年级上册 Unit 4 前出现新的微信环境异常验证页。",
+      "resolution": "按验证码操作规则，等待用户对本次验证进行临操作确认。"
+    },
+    {
+      "id": "grade1-lower-unit1-audio-browser-connection",
+      "status": "action-required",
+      "scope": "subtitle-sample",
+      "description": "制作一年级下册 Unit 1 歌词样板时，Google Chrome 已启动且扩展、Native Host 检查正常，但 Browser 插件持续返回‘浏览器不可用’，无法读取音频文章。",
+      "resolution": "在 Codex 插件界面重装 Browser 插件后，打开 Unit 1 音频文章并继续提取 voiceEncodeFileId；目标文章为 mid=2650504844、idx=1。视频双语字幕与音频歌词播放器代码已完成，不需要返工。"
+    }
+  ]
+}

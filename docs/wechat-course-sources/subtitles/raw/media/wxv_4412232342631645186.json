@@ -1,0 +1,199 @@
+{
+  "RequestId": "4ad2c15d-68aa-4bce-b633-b01aab7b00ae",
+  "Data": {
+    "TaskId": 16292434957,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 20.247813,
+    "Result": "The lion dance I am in the lion dance club at the spring festival. We do the lion buns lions can bring. Good luck.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The lion dance I am in the lion dance club at the spring festival.",
+        "SliceSentence": "The lion dance I am in the lion dance club at the spring festival .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 10370,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 700,
+            "OffsetEndMs": 1005,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1310,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 3970,
+            "OffsetEndMs": 4335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4335,
+            "OffsetEndMs": 4680,
+            "Word": "am"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5010,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 5010,
+            "OffsetEndMs": 5235,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5235,
+            "OffsetEndMs": 5510,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 5680,
+            "OffsetEndMs": 6080,
+            "Word": "dance"
+          },
+          {
+            "OffsetStartMs": 6130,
+            "OffsetEndMs": 6530,
+            "Word": "club"
+          },
+          {
+            "OffsetStartMs": 9100,
+            "OffsetEndMs": 9420,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 9420,
+            "OffsetEndMs": 9690,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 9690,
+            "OffsetEndMs": 10005,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 10005,
+            "OffsetEndMs": 10370,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 10005,
+            "OffsetEndMs": 10370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We do the lion buns lions can bring.",
+        "SliceSentence": "We do the lion buns lions can bring .",
+        "WrittenText": "",
+        "StartMs": 13120,
+        "EndMs": 17760,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 515,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 710,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1000,
+            "Word": "lion"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1930,
+            "Word": "buns"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3850,
+            "Word": "lions"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4340,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 4340,
+            "OffsetEndMs": 4640,
+            "Word": "bring"
+          },
+          {
+            "OffsetStartMs": 4340,
+            "OffsetEndMs": 4640,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good luck.",
+        "SliceSentence": "Good luck .",
+        "WrittenText": "",
+        "StartMs": 17760,
+        "EndMs": 18380,
+        "SpeechSpeed": 16.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 285,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 620,
+            "Word": "luck"
+          },
+          {
+            "OffsetStartMs": 285,
+            "OffsetEndMs": 620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

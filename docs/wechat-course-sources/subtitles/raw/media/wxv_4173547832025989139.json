@@ -1,0 +1,372 @@
+{
+  "RequestId": "e7046a27-bec7-4f02-8816-94d0e59af4ca",
+  "Data": {
+    "TaskId": 16292446602,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 51.153563,
+    "Result": "At at.Lucy is with her pet, she has a butterfly net, it's raining, it's raining. Lucy and her pet get what Lucy is with her pet, she has a butterfly net it its raining Lucy and her pet get wet.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "At at.",
+        "SliceSentence": "At at .",
+        "WrittenText": "",
+        "StartMs": 820,
+        "EndMs": 2370,
+        "SpeechSpeed": 3.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Lucy is with her pet,",
+        "SliceSentence": "Lucy is with her pet ,",
+        "WrittenText": "",
+        "StartMs": 6060,
+        "EndMs": 13400,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "Lucy"
+          },
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5090,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5860,
+            "OffsetEndMs": 6260,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 6400,
+            "OffsetEndMs": 6800,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "pet"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she has a butterfly net,",
+        "SliceSentence": "she has a butterfly net ,",
+        "WrittenText": "",
+        "StartMs": 14350,
+        "EndMs": 18230,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2465,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 3400,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "net"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's raining,",
+        "SliceSentence": "it's raining ,",
+        "WrittenText": "",
+        "StartMs": 19090,
+        "EndMs": 20690,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "raining"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's raining.",
+        "SliceSentence": "it's raining .",
+        "WrittenText": "",
+        "StartMs": 21490,
+        "EndMs": 23060,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "raining"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Lucy and her pet get what Lucy is with her pet,",
+        "SliceSentence": "Lucy and her pet get what Lucy is with her pet ,",
+        "WrittenText": "",
+        "StartMs": 23890,
+        "EndMs": 34940,
+        "SpeechSpeed": 4.3,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Lucy"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 935,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1220,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "pet"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 7170,
+            "OffsetEndMs": 7570,
+            "Word": "Lucy"
+          },
+          {
+            "OffsetStartMs": 8340,
+            "OffsetEndMs": 8740,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 9540,
+            "OffsetEndMs": 9940,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 10080,
+            "OffsetEndMs": 10480,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 10650,
+            "OffsetEndMs": 11050,
+            "Word": "pet"
+          },
+          {
+            "OffsetStartMs": 10650,
+            "OffsetEndMs": 11050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she has a butterfly net it its raining Lucy and her pet get wet.",
+        "SliceSentence": "she has a butterfly net it its raining Lucy and her pet get wet .",
+        "WrittenText": "",
+        "StartMs": 35830,
+        "EndMs": 49340,
+        "SpeechSpeed": 4.7,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 820,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2450,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 3430,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "net"
+          },
+          {
+            "OffsetStartMs": 4770,
+            "OffsetEndMs": 5470,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 7170,
+            "OffsetEndMs": 7960,
+            "Word": "its"
+          },
+          {
+            "OffsetStartMs": 8340,
+            "OffsetEndMs": 8740,
+            "Word": "raining"
+          },
+          {
+            "OffsetStartMs": 9540,
+            "OffsetEndMs": 9940,
+            "Word": "Lucy"
+          },
+          {
+            "OffsetStartMs": 10140,
+            "OffsetEndMs": 10490,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 10490,
+            "OffsetEndMs": 10775,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 10775,
+            "OffsetEndMs": 11110,
+            "Word": "pet"
+          },
+          {
+            "OffsetStartMs": 11940,
+            "OffsetEndMs": 12340,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 13110,
+            "OffsetEndMs": 13510,
+            "Word": "wet"
+          },
+          {
+            "OffsetStartMs": 13110,
+            "OffsetEndMs": 13510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

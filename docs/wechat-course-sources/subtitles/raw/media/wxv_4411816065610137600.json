@@ -1,0 +1,331 @@
+{
+  "RequestId": "e613c904-640e-421c-b925-b6bd94e41a38",
+  "Data": {
+    "TaskId": 16292407463,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 29.257125,
+    "Result": "T t.Taste. Taste, taste the soup. Taste the soup on the table. Taste, taste. Taste the soup. Taste the soup on the table.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "T t.",
+        "SliceSentence": "T t .",
+        "WrittenText": "",
+        "StartMs": 860,
+        "EndMs": 2320,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "T"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Taste.",
+        "SliceSentence": "Taste .",
+        "WrittenText": "",
+        "StartMs": 2780,
+        "EndMs": 7750,
+        "SpeechSpeed": 1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 4570,
+            "OffsetEndMs": 4970,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 4570,
+            "OffsetEndMs": 4970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taste,",
+        "SliceSentence": "Taste ,",
+        "WrittenText": "",
+        "StartMs": 8550,
+        "EndMs": 8950,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " taste the soup.",
+        "SliceSentence": "taste the soup .",
+        "WrittenText": "",
+        "StartMs": 9750,
+        "EndMs": 11260,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "taste"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1115,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1510,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taste the soup on the table.",
+        "SliceSentence": "Taste the soup on the table .",
+        "WrittenText": "",
+        "StartMs": 12120,
+        "EndMs": 14860,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1265,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1570,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2180,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2180,
+            "OffsetEndMs": 2435,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2740,
+            "Word": "table"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taste,",
+        "SliceSentence": "Taste ,",
+        "WrittenText": "",
+        "StartMs": 18000,
+        "EndMs": 18400,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " taste.",
+        "SliceSentence": "taste .",
+        "WrittenText": "",
+        "StartMs": 19260,
+        "EndMs": 19660,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "taste"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taste the soup.",
+        "SliceSentence": "Taste the soup .",
+        "WrittenText": "",
+        "StartMs": 20460,
+        "EndMs": 21940,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Taste the soup on the table.",
+        "SliceSentence": "Taste the soup on the table .",
+        "WrittenText": "",
+        "StartMs": 22770,
+        "EndMs": 26680,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Taste"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "table"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "RequestId": "0e0ecc5c-ed24-4e7f-9d85-db888774d3fb",
+  "Data": {
+    "TaskId": 16292399255,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 23.823688,
+    "Result": "H a hen in a hat, a hen in a big big. A hen in a hat, a hen in a big big hat.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "H a hen in a hat,",
+        "SliceSentence": "H a hen in a hat ,",
+        "WrittenText": "",
+        "StartMs": 960,
+        "EndMs": 8930,
+        "SpeechSpeed": 2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "H"
+          },
+          {
+            "OffsetStartMs": 6220,
+            "OffsetEndMs": 6510,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6510,
+            "OffsetEndMs": 6800,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 7060,
+            "OffsetEndMs": 7410,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7410,
+            "OffsetEndMs": 7665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7665,
+            "OffsetEndMs": 7970,
+            "Word": "hat"
+          },
+          {
+            "OffsetStartMs": 7665,
+            "OffsetEndMs": 7970,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a hen in a big big.",
+        "SliceSentence": "a hen in a big big .",
+        "WrittenText": "",
+        "StartMs": 9490,
+        "EndMs": 11960,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1535,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1870,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A hen in a hat,",
+        "SliceSentence": "A hen in a hat ,",
+        "WrittenText": "",
+        "StartMs": 15490,
+        "EndMs": 17360,
+        "SpeechSpeed": 8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1415,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1595,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1870,
+            "Word": "hat"
+          },
+          {
+            "OffsetStartMs": 1595,
+            "OffsetEndMs": 1870,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a hen in a big big hat.",
+        "SliceSentence": "a hen in a big big hat .",
+        "WrittenText": "",
+        "StartMs": 17830,
+        "EndMs": 20780,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "hen"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1265,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1565,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1870,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "hat"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

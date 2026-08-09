@@ -1,0 +1,1146 @@
+{
+  "RequestId": "66d68f43-3eb3-4c48-a450-5dec7b82893a",
+  "Data": {
+    "TaskId": 16292492956,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 102.701875,
+    "Result": "What time is it? What time is it? That is a good question. A day has 24 hours, one hour has 60 minutes, one minute has 60 seconds. People in different countries may have different time. The sun comes up and goes down every day. Ageing, it is seven o'clock in the morning in Beijing. Children are getting ready for school. Some people are going to the park to do exercise. Some people are travelling to work but in other places.The time is different. What are people doing at the same time? London, it is 11 o'clock in London. Many people are sleeping. Good night, sweet dreams. New York. In new York, people are having dinner. It is family time.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What time is it?",
+        "SliceSentence": "What time is it ?",
+        "WrittenText": "",
+        "StartMs": 240,
+        "EndMs": 2780,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 980,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1840,
+            "OffsetEndMs": 2190,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2540,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2540,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What time is it?",
+        "SliceSentence": "What time is it ?",
+        "WrittenText": "",
+        "StartMs": 4000,
+        "EndMs": 6050,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1700,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2050,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2050,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " That is a good question.",
+        "SliceSentence": "That is a good question .",
+        "WrittenText": "",
+        "StartMs": 6670,
+        "EndMs": 8630,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "That"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1055,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1420,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "question"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A day has 24 hours,",
+        "SliceSentence": "A day has 24 hours ,",
+        "WrittenText": "",
+        "StartMs": 10960,
+        "EndMs": 13820,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 2480,
+            "Word": "24"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2860,
+            "Word": "hours"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2860,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " one hour has 60 minutes,",
+        "SliceSentence": "one hour has 60 minutes ,",
+        "WrittenText": "",
+        "StartMs": 16810,
+        "EndMs": 19790,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "hour"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "60"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "minutes"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " one minute has 60 seconds.",
+        "SliceSentence": "one minute has 60 seconds .",
+        "WrittenText": "",
+        "StartMs": 21370,
+        "EndMs": 23840,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "minute"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1460,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1840,
+            "Word": "60"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "seconds"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People in different countries may have different time.",
+        "SliceSentence": "People in different countries may have different time .",
+        "WrittenText": "",
+        "StartMs": 26770,
+        "EndMs": 31310,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 995,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "countries"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3065,
+            "Word": "may"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3460,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sun comes up and goes down every day.",
+        "SliceSentence": "The sun comes up and goes down every day .",
+        "WrittenText": "",
+        "StartMs": 33160,
+        "EndMs": 37130,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2075,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2470,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3490,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ageing,",
+        "SliceSentence": "Ageing ,",
+        "WrittenText": "",
+        "StartMs": 38710,
+        "EndMs": 39470,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": "Ageing"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is seven o'clock in the morning in Beijing.",
+        "SliceSentence": "it is seven o'clock in the morning in Beijing .",
+        "WrittenText": "",
+        "StartMs": 40390,
+        "EndMs": 44090,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 650,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1030,
+            "Word": "seven"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1840,
+            "Word": "o'clock"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2270,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2465,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2740,
+            "Word": "morning"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3365,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3700,
+            "Word": "Beijing"
+          },
+          {
+            "OffsetStartMs": 3365,
+            "OffsetEndMs": 3700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Children are getting ready for school.",
+        "SliceSentence": "Children are getting ready for school .",
+        "WrittenText": "",
+        "StartMs": 45430,
+        "EndMs": 48350,
+        "SpeechSpeed": 13,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Children"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1025,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "getting"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "ready"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people are going to the park to do exercise.",
+        "SliceSentence": "Some people are going to the park to do exercise .",
+        "WrittenText": "",
+        "StartMs": 49540,
+        "EndMs": 54050,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1355,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1720,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2105,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2270,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2560,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3395,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 3395,
+            "OffsetEndMs": 3700,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4510,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 4110,
+            "OffsetEndMs": 4510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people are travelling to work but in other places.",
+        "SliceSentence": "Some people are travelling to work but in other places .",
+        "WrittenText": "",
+        "StartMs": 55150,
+        "EndMs": 60380,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1355,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 2060,
+            "Word": "travelling"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2300,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2590,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4085,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 4085,
+            "OffsetEndMs": 4385,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4385,
+            "OffsetEndMs": 4720,
+            "Word": "other"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "places"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The time is different.",
+        "SliceSentence": "The time is different .",
+        "WrittenText": "",
+        "StartMs": 60720,
+        "EndMs": 62690,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 885,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 885,
+            "OffsetEndMs": 1190,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1605,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1605,
+            "OffsetEndMs": 1970,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 1605,
+            "OffsetEndMs": 1970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What are people doing at the same time?",
+        "SliceSentence": "What are people doing at the same time ?",
+        "WrittenText": "",
+        "StartMs": 63880,
+        "EndMs": 67040,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 755,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1120,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2225,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2225,
+            "OffsetEndMs": 2450,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "same"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " London,",
+        "SliceSentence": "London ,",
+        "WrittenText": "",
+        "StartMs": 69130,
+        "EndMs": 69530,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "London"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is 11 o'clock in London.",
+        "SliceSentence": "it is 11 o'clock in London .",
+        "WrittenText": "",
+        "StartMs": 71140,
+        "EndMs": 74150,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "11"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 2200,
+            "Word": "o'clock"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2675,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3010,
+            "Word": "London"
+          },
+          {
+            "OffsetStartMs": 2675,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Many people are sleeping.",
+        "SliceSentence": "Many people are sleeping .",
+        "WrittenText": "",
+        "StartMs": 75070,
+        "EndMs": 77090,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Many"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "sleeping"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good night,",
+        "SliceSentence": "Good night ,",
+        "WrittenText": "",
+        "StartMs": 78280,
+        "EndMs": 78860,
+        "SpeechSpeed": 19,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " sweet dreams.",
+        "SliceSentence": "sweet dreams .",
+        "WrittenText": "",
+        "StartMs": 79690,
+        "EndMs": 80450,
+        "SpeechSpeed": 17.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "sweet"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "dreams"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " New York.",
+        "SliceSentence": "New York .",
+        "WrittenText": "",
+        "StartMs": 82870,
+        "EndMs": 83720,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "New"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "York"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In new York,",
+        "SliceSentence": "In new York ,",
+        "WrittenText": "",
+        "StartMs": 85000,
+        "EndMs": 86240,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "York"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " people are having dinner.",
+        "SliceSentence": "people are having dinner .",
+        "WrittenText": "",
+        "StartMs": 86740,
+        "EndMs": 88640,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1330,
+            "Word": "having"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "dinner"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is family time.",
+        "SliceSentence": "It is family time .",
+        "WrittenText": "",
+        "StartMs": 89680,
+        "EndMs": 91550,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

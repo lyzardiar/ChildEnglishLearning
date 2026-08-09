@@ -1,0 +1,841 @@
+{
+  "RequestId": "40f0a28f-ef0f-473f-aaf3-0b56b245b8c2",
+  "Data": {
+    "TaskId": 16292541190,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 65.944688,
+    "Result": "The story of nien nien is a monster. He lives in the hills. At the end of every year, he goes into the village and eats people. One day an old man comes to the village. Nian is afraid of the color red. Soon it is the last day of the year. Nen comes down from the hills. He sees red paper on the doors and Windows. He also sees red firecrackers. He feels afraid and runs back into the hills. The people in the village never see nen again. They use red things and like that.Crackers at the spring festival every year.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The story of nien nien is a monster.",
+        "SliceSentence": "The story of nien nien is a monster .",
+        "WrittenText": "",
+        "StartMs": 760,
+        "EndMs": 8460,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 420,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 770,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1340,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1450,
+            "OffsetEndMs": 2060,
+            "Word": "nien"
+          },
+          {
+            "OffsetStartMs": 6100,
+            "OffsetEndMs": 6710,
+            "Word": "nien"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7215,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7215,
+            "OffsetEndMs": 7410,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7410,
+            "OffsetEndMs": 7700,
+            "Word": "monster"
+          },
+          {
+            "OffsetStartMs": 7410,
+            "OffsetEndMs": 7700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He lives in the hills.",
+        "SliceSentence": "He lives in the hills .",
+        "WrittenText": "",
+        "StartMs": 9440,
+        "EndMs": 10980,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1085,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1265,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1540,
+            "Word": "hills"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At the end of every year,",
+        "SliceSentence": "At the end of every year ,",
+        "WrittenText": "",
+        "StartMs": 12950,
+        "EndMs": 14970,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 545,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "end"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1190,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he goes into the village and eats people.",
+        "SliceSentence": "he goes into the village and eats people .",
+        "WrittenText": "",
+        "StartMs": 15320,
+        "EndMs": 18420,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1160,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1295,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1570,
+            "Word": "village"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2195,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2795,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3100,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day an old man comes to the village.",
+        "SliceSentence": "One day an old man comes to the village .",
+        "WrittenText": "",
+        "StartMs": 20330,
+        "EndMs": 23700,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1355,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "old"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 2990,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3110,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3370,
+            "Word": "village"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Nian is afraid of the color red.",
+        "SliceSentence": "Nian is afraid of the color red .",
+        "WrittenText": "",
+        "StartMs": 25550,
+        "EndMs": 28320,
+        "SpeechSpeed": 11.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Nian"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "afraid"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1775,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2290,
+            "Word": "color"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Soon it is the last day of the year.",
+        "SliceSentence": "Soon it is the last day of the year .",
+        "WrittenText": "",
+        "StartMs": 29600,
+        "EndMs": 32220,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Soon"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1055,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1265,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1445,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1720,
+            "Word": "last"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2030,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2210,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2360,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2620,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Nen comes down from the hills.",
+        "SliceSentence": "Nen comes down from the hills .",
+        "WrittenText": "",
+        "StartMs": 34400,
+        "EndMs": 36870,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 520,
+            "Word": "Nen"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "down"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2000,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2195,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2470,
+            "Word": "hills"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He sees red paper on the doors and Windows.",
+        "SliceSentence": "He sees red paper on the doors and Windows .",
+        "WrittenText": "",
+        "StartMs": 38180,
+        "EndMs": 41430,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 605,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 965,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1330,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1835,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2030,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 2320,
+            "Word": "doors"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2900,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3250,
+            "Word": "Windows"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He also sees red firecrackers.",
+        "SliceSentence": "He also sees red firecrackers .",
+        "WrittenText": "",
+        "StartMs": 43580,
+        "EndMs": 46710,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "sees"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2030,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 3130,
+            "Word": "firecrackers"
+          },
+          {
+            "OffsetStartMs": 2030,
+            "OffsetEndMs": 3130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He feels afraid and runs back into the hills.",
+        "SliceSentence": "He feels afraid and runs back into the hills .",
+        "WrittenText": "",
+        "StartMs": 48320,
+        "EndMs": 52440,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "feels"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "afraid"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2060,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2410,
+            "Word": "runs"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3695,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 3695,
+            "OffsetEndMs": 3845,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4120,
+            "Word": "hills"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The people in the village never see nen again.",
+        "SliceSentence": "The people in the village never see nen again .",
+        "WrittenText": "",
+        "StartMs": 53930,
+        "EndMs": 57540,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 575,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 845,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 995,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1270,
+            "Word": "village"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2105,
+            "Word": "never"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2500,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2980,
+            "Word": "nen"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "again"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They use red things and like that.",
+        "SliceSentence": "They use red things and like that .",
+        "WrittenText": "",
+        "StartMs": 58460,
+        "EndMs": 61210,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "use"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1040,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1390,
+            "Word": "things"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2105,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2405,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2750,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Crackers at the spring festival every year.",
+        "SliceSentence": "Crackers at the spring festival every year .",
+        "WrittenText": "",
+        "StartMs": 61240,
+        "EndMs": 64020,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 555,
+            "Word": "Crackers"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 765,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 765,
+            "OffsetEndMs": 1005,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1275,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1610,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 2380,
+            "OffsetEndMs": 2780,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 30,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

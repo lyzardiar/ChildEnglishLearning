@@ -5,25 +5,25 @@ Component({
       {
         key: 'index',
         pagePath: '/pages/index/index',
-        icon: '🏠',
-        text: '首页'
+        icon: '⌂',
+        text: '学习'
       },
       {
         key: 'game',
         pagePath: '/pages/game/game',
-        icon: '🎮',
+        icon: '◇',
         text: '游戏'
       },
       {
         key: 'checkin',
         pagePath: '/pages/checkin/checkin',
-        icon: '⭐',
+        icon: '✓',
         text: '打卡'
       },
       {
         key: 'profile',
         pagePath: '/pages/profile/profile',
-        icon: '👤',
+        icon: '○',
         text: '我的'
       }
     ]

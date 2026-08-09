@@ -1,0 +1,334 @@
+{
+  "RequestId": "58686e5f-2326-4044-8226-cccf8d7c659c",
+  "Data": {
+    "TaskId": 16292411723,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 31.416625,
+    "Result": "W it is winter. It is snowy. It is windy. It is snowy and windy. It is winter, it is snowy, it is windy. It is snowy and windy.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "W it is winter.",
+        "SliceSentence": "W it is winter .",
+        "WrittenText": "",
+        "StartMs": 920,
+        "EndMs": 6880,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "W"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 4960,
+            "OffsetEndMs": 5360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5560,
+            "OffsetEndMs": 5960,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 5560,
+            "OffsetEndMs": 5960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is snowy.",
+        "SliceSentence": "It is snowy .",
+        "WrittenText": "",
+        "StartMs": 7650,
+        "EndMs": 9580,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1930,
+            "Word": "snowy"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is windy.",
+        "SliceSentence": "It is windy .",
+        "WrittenText": "",
+        "StartMs": 10050,
+        "EndMs": 11980,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1930,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is snowy and windy.",
+        "SliceSentence": "It is snowy and windy .",
+        "WrittenText": "",
+        "StartMs": 12420,
+        "EndMs": 15520,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1880,
+            "Word": "snowy"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2200,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 3100,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 3100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is winter,",
+        "SliceSentence": "It is winter ,",
+        "WrittenText": "",
+        "StartMs": 18390,
+        "EndMs": 19960,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is snowy,",
+        "SliceSentence": "it is snowy ,",
+        "WrittenText": "",
+        "StartMs": 20730,
+        "EndMs": 22720,
+        "SpeechSpeed": 6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1990,
+            "Word": "snowy"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1990,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is windy.",
+        "SliceSentence": "it is windy .",
+        "WrittenText": "",
+        "StartMs": 23160,
+        "EndMs": 25120,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1960,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is snowy and windy.",
+        "SliceSentence": "It is snowy and windy .",
+        "WrittenText": "",
+        "StartMs": 25560,
+        "EndMs": 28630,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1895,
+            "Word": "snowy"
+          },
+          {
+            "OffsetStartMs": 1895,
+            "OffsetEndMs": 2200,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 3070,
+            "Word": "windy"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

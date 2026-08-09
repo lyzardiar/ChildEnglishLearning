@@ -1,0 +1,1040 @@
+{
+  "RequestId": "10bf7f6c-d876-4c4f-88db-2f3e2505c531",
+  "Data": {
+    "TaskId": 16292567769,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 86.517563,
+    "Result": "Hi I'm Joe. I live in the city. There are a lot of tall buildings in the city. There are a lot of shops and restaurants too. People go to work by car, bus or underground at the weekend some people enjoy themselves at the cinema or theatre. Some people visit museums or parks. Hi, I'm George. I live in the countryside. There are a lot of houses with gardens in the countryside. There are hills, rivers, lakes.And a lot of trees. There aren't many cars. The air is fresh. People here like to walk or ride their bikes. Farmers plant crops in spring.Then in autumn, they get the crops in.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Hi I'm Joe.",
+        "SliceSentence": "Hi I'm Joe .",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 7860,
+        "SpeechSpeed": 1.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 6340,
+            "OffsetEndMs": 6740,
+            "Word": "Hi"
+          },
+          {
+            "OffsetStartMs": 6970,
+            "OffsetEndMs": 7500,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 7500,
+            "OffsetEndMs": 7760,
+            "Word": "Joe"
+          },
+          {
+            "OffsetStartMs": 7500,
+            "OffsetEndMs": 7760,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I live in the city.",
+        "SliceSentence": "I live in the city .",
+        "WrittenText": "",
+        "StartMs": 8540,
+        "EndMs": 9900,
+        "SpeechSpeed": 14,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 905,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1085,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are a lot of tall buildings in the city.",
+        "SliceSentence": "There are a lot of tall buildings in the city .",
+        "WrittenText": "",
+        "StartMs": 12050,
+        "EndMs": 14700,
+        "SpeechSpeed": 17.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 860,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1085,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1385,
+            "Word": "tall"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1780,
+            "Word": "buildings"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2210,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2375,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2650,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are a lot of shops and restaurants too.",
+        "SliceSentence": "There are a lot of shops and restaurants too .",
+        "WrittenText": "",
+        "StartMs": 18470,
+        "EndMs": 21420,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 545,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 725,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 905,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1100,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1390,
+            "Word": "shops"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 1955,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2290,
+            "Word": "restaurants"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People go to work by car,",
+        "SliceSentence": "People go to work by car ,",
+        "WrittenText": "",
+        "StartMs": 22910,
+        "EndMs": 24870,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 755,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 965,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1240,
+            "Word": "work"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1625,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1960,
+            "Word": "car"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1960,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " bus or underground at the weekend some people enjoy themselves at the cinema or theatre.",
+        "SliceSentence": "bus or underground at the weekend some people enjoy themselves at the cinema or theatre .",
+        "WrittenText": "",
+        "StartMs": 25400,
+        "EndMs": 35550,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1040,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1360,
+            "Word": "underground"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5135,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 5135,
+            "OffsetEndMs": 5315,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5315,
+            "OffsetEndMs": 5590,
+            "Word": "weekend"
+          },
+          {
+            "OffsetStartMs": 6360,
+            "OffsetEndMs": 6725,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 6725,
+            "OffsetEndMs": 7090,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 7380,
+            "OffsetEndMs": 7780,
+            "Word": "enjoy"
+          },
+          {
+            "OffsetStartMs": 7860,
+            "OffsetEndMs": 8260,
+            "Word": "themselves"
+          },
+          {
+            "OffsetStartMs": 8400,
+            "OffsetEndMs": 8705,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 8705,
+            "OffsetEndMs": 8900,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 8900,
+            "OffsetEndMs": 9190,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 9450,
+            "OffsetEndMs": 9800,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 9800,
+            "OffsetEndMs": 10150,
+            "Word": "theatre"
+          },
+          {
+            "OffsetStartMs": 9800,
+            "OffsetEndMs": 10150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Some people visit museums or parks.",
+        "SliceSentence": "Some people visit museums or parks .",
+        "WrittenText": "",
+        "StartMs": 37070,
+        "EndMs": 40290,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Some"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1145,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1990,
+            "Word": "museums"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2495,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 3220,
+            "Word": "parks"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hi,",
+        "SliceSentence": "Hi ,",
+        "WrittenText": "",
+        "StartMs": 43520,
+        "EndMs": 43920,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hi"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm George.",
+        "SliceSentence": "I'm George .",
+        "WrittenText": "",
+        "StartMs": 44630,
+        "EndMs": 45450,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "George"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I live in the countryside.",
+        "SliceSentence": "I live in the countryside .",
+        "WrittenText": "",
+        "StartMs": 46460,
+        "EndMs": 48210,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "live"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 890,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1055,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1750,
+            "Word": "countryside"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are a lot of houses with gardens in the countryside.",
+        "SliceSentence": "There are a lot of houses with gardens in the countryside .",
+        "WrittenText": "",
+        "StartMs": 50870,
+        "EndMs": 54870,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 500,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 905,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1130,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1420,
+            "Word": "houses"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2120,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2825,
+            "Word": "gardens"
+          },
+          {
+            "OffsetStartMs": 2825,
+            "OffsetEndMs": 3110,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3110,
+            "OffsetEndMs": 3260,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 4000,
+            "Word": "countryside"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 4000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are hills,",
+        "SliceSentence": "There are hills ,",
+        "WrittenText": "",
+        "StartMs": 57410,
+        "EndMs": 58170,
+        "SpeechSpeed": 21.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 485,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": "hills"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 760,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2540,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " rivers,",
+        "SliceSentence": "rivers ,",
+        "WrittenText": "",
+        "StartMs": 58760,
+        "EndMs": 59160,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "rivers"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " lakes.",
+        "SliceSentence": "lakes .",
+        "WrittenText": "",
+        "StartMs": 59690,
+        "EndMs": 60150,
+        "SpeechSpeed": 13,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 460,
+            "Word": "lakes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "And a lot of trees.",
+        "SliceSentence": "And a lot of trees .",
+        "WrittenText": "",
+        "StartMs": 60580,
+        "EndMs": 61950,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 480,
+            "Word": "And"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 645,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 825,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1050,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1370,
+            "Word": "trees"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There aren't many cars.",
+        "SliceSentence": "There aren't many cars .",
+        "WrittenText": "",
+        "StartMs": 64010,
+        "EndMs": 65430,
+        "SpeechSpeed": 16.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 830,
+            "Word": "aren't"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1070,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1420,
+            "Word": "cars"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1420,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The air is fresh.",
+        "SliceSentence": "The air is fresh .",
+        "WrittenText": "",
+        "StartMs": 68270,
+        "EndMs": 69540,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "air"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 935,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "fresh"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People here like to walk or ride their bikes.",
+        "SliceSentence": "People here like to walk or ride their bikes .",
+        "WrittenText": "",
+        "StartMs": 72470,
+        "EndMs": 75780,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1160,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1385,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1660,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2135,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 2135,
+            "OffsetEndMs": 2435,
+            "Word": "ride"
+          },
+          {
+            "OffsetStartMs": 2435,
+            "OffsetEndMs": 2690,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3310,
+            "Word": "bikes"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Farmers plant crops in spring.",
+        "SliceSentence": "Farmers plant crops in spring .",
+        "WrittenText": "",
+        "StartMs": 77000,
+        "EndMs": 79350,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Farmers"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "plant"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1625,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1900,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Then in autumn,",
+        "SliceSentence": "Then in autumn ,",
+        "WrittenText": "",
+        "StartMs": 80560,
+        "EndMs": 81990,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 840,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1430,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they get the crops in.",
+        "SliceSentence": "they get the crops in .",
+        "WrittenText": "",
+        "StartMs": 82220,
+        "EndMs": 83520,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 485,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 680,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1025,
+            "Word": "crops"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1300,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

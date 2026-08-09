@@ -1,0 +1,433 @@
+{
+  "RequestId": "8eb639f8-5910-49b6-bc82-acba516d6538",
+  "Data": {
+    "TaskId": 16292446178,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 42.4925,
+    "Result": "Ed.Ed.The sun is high and red. Ted sleeps in his bed, time for school. Ted mum pat his bed. The sun is high and red. Ted sleeps in his bed. Ted for school. Ted mom pats his bed.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Ed.",
+        "SliceSentence": "Ed .",
+        "WrittenText": "",
+        "StartMs": 1180,
+        "EndMs": 1620,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Ed"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ed.",
+        "SliceSentence": "Ed .",
+        "WrittenText": "",
+        "StartMs": 2560,
+        "EndMs": 2850,
+        "SpeechSpeed": 6.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Ed"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The sun is high and red.",
+        "SliceSentence": "The sun is high and red .",
+        "WrittenText": "",
+        "StartMs": 6800,
+        "EndMs": 12790,
+        "SpeechSpeed": 3.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 3070,
+            "OffsetEndMs": 3360,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3650,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 3880,
+            "OffsetEndMs": 4280,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 4420,
+            "OffsetEndMs": 4820,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5420,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 5590,
+            "OffsetEndMs": 5990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ted sleeps in his bed,",
+        "SliceSentence": "Ted sleeps in his bed ,",
+        "WrittenText": "",
+        "StartMs": 13620,
+        "EndMs": 16330,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ted"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1265,
+            "Word": "sleeps"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1600,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " time for school.",
+        "SliceSentence": "time for school .",
+        "WrittenText": "",
+        "StartMs": 17160,
+        "EndMs": 18790,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ted mum pat his bed.",
+        "SliceSentence": "Ted mum pat his bed .",
+        "WrittenText": "",
+        "StartMs": 19620,
+        "EndMs": 23560,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ted"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "mum"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "pat"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The sun is high and red.",
+        "SliceSentence": "The sun is high and red .",
+        "WrittenText": "",
+        "StartMs": 26520,
+        "EndMs": 29530,
+        "SpeechSpeed": 8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "sun"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "high"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ted sleeps in his bed.",
+        "SliceSentence": "Ted sleeps in his bed .",
+        "WrittenText": "",
+        "StartMs": 30360,
+        "EndMs": 33130,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ted"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1325,
+            "Word": "sleeps"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1630,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ted for school.",
+        "SliceSentence": "Ted for school .",
+        "WrittenText": "",
+        "StartMs": 33930,
+        "EndMs": 35530,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ted"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Ted mom pats his bed.",
+        "SliceSentence": "Ted mom pats his bed .",
+        "WrittenText": "",
+        "StartMs": 36270,
+        "EndMs": 40240,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Ted"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "mom"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2620,
+            "Word": "pats"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3370,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "bed"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

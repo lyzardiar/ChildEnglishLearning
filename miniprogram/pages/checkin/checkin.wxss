@@ -127,14 +127,14 @@
   width: 200rpx;
   height: 200rpx;
   border-radius: 50%;
-  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-light));
+  background: var(--color-primary);
   box-shadow: 0 12rpx 32rpx rgba(74, 144, 217, 0.4);
   gap: 8rpx;
   transition: all 0.3s;
 }
 
 .checkin-btn.done {
-  background: linear-gradient(135deg, var(--color-success), #7ED957);
+  background: var(--color-success);
   box-shadow: 0 12rpx 32rpx rgba(82, 196, 26, 0.3);
 }
 

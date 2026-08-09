@@ -1,0 +1,580 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0OTYz",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:13,180"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 13180
+      },
+      "text": " page 24 extend the lion dance I am in the lion dance club at the spring",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.676378,
+          "t_dtw": -1
+        },
+        {
+          "text": " page",
+          "timestamps": {
+            "from": "00:00:00,030",
+            "to": "00:00:00,110"
+          },
+          "offsets": {
+            "from": 30,
+            "to": 110
+          },
+          "id": 2443,
+          "p": 0.439331,
+          "t_dtw": -1
+        },
+        {
+          "text": " 24",
+          "timestamps": {
+            "from": "00:00:00,990",
+            "to": "00:00:02,000"
+          },
+          "offsets": {
+            "from": 990,
+            "to": 2000
+          },
+          "id": 1987,
+          "p": 0.977027,
+          "t_dtw": -1
+        },
+        {
+          "text": " extend",
+          "timestamps": {
+            "from": "00:00:02,000",
+            "to": "00:00:04,070"
+          },
+          "offsets": {
+            "from": 2000,
+            "to": 4070
+          },
+          "id": 9117,
+          "p": 0.698537,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:05,500",
+            "to": "00:00:05,500"
+          },
+          "offsets": {
+            "from": 5500,
+            "to": 5500
+          },
+          "id": 262,
+          "p": 0.708757,
+          "t_dtw": -1
+        },
+        {
+          "text": " lion",
+          "timestamps": {
+            "from": "00:00:05,560",
+            "to": "00:00:06,160"
+          },
+          "offsets": {
+            "from": 5560,
+            "to": 6160
+          },
+          "id": 18744,
+          "p": 0.890884,
+          "t_dtw": -1
+        },
+        {
+          "text": " dance",
+          "timestamps": {
+            "from": "00:00:06,160",
+            "to": "00:00:06,840"
+          },
+          "offsets": {
+            "from": 6160,
+            "to": 6840
+          },
+          "id": 9280,
+          "p": 0.974699,
+          "t_dtw": -1
+        },
+        {
+          "text": " I",
+          "timestamps": {
+            "from": "00:00:07,440",
+            "to": "00:00:07,440"
+          },
+          "offsets": {
+            "from": 7440,
+            "to": 7440
+          },
+          "id": 314,
+          "p": 0.690297,
+          "t_dtw": -1
+        },
+        {
+          "text": " am",
+          "timestamps": {
+            "from": "00:00:08,240",
+            "to": "00:00:08,330"
+          },
+          "offsets": {
+            "from": 8240,
+            "to": 8330
+          },
+          "id": 716,
+          "p": 0.988422,
+          "t_dtw": -1
+        },
+        {
+          "text": " in",
+          "timestamps": {
+            "from": "00:00:08,450",
+            "to": "00:00:09,240"
+          },
+          "offsets": {
+            "from": 8450,
+            "to": 9240
+          },
+          "id": 287,
+          "p": 0.982811,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:09,240",
+            "to": "00:00:09,480"
+          },
+          "offsets": {
+            "from": 9240,
+            "to": 9480
+          },
+          "id": 262,
+          "p": 0.923538,
+          "t_dtw": -1
+        },
+        {
+          "text": " lion",
+          "timestamps": {
+            "from": "00:00:09,480",
+            "to": "00:00:09,970"
+          },
+          "offsets": {
+            "from": 9480,
+            "to": 9970
+          },
+          "id": 18744,
+          "p": 0.74324,
+          "t_dtw": -1
+        },
+        {
+          "text": " dance",
+          "timestamps": {
+            "from": "00:00:10,000",
+            "to": "00:00:10,280"
+          },
+          "offsets": {
+            "from": 10000,
+            "to": 10280
+          },
+          "id": 9280,
+          "p": 0.760196,
+          "t_dtw": -1
+        },
+        {
+          "text": " club",
+          "timestamps": {
+            "from": "00:00:10,280",
+            "to": "00:00:10,940"
+          },
+          "offsets": {
+            "from": 10280,
+            "to": 10940
+          },
+          "id": 3430,
+          "p": 0.615905,
+          "t_dtw": -1
+        },
+        {
+          "text": " at",
+          "timestamps": {
+            "from": "00:00:12,510",
+            "to": "00:00:12,560"
+          },
+          "offsets": {
+            "from": 12510,
+            "to": 12560
+          },
+          "id": 379,
+          "p": 0.89394,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:12,560",
+            "to": "00:00:12,770"
+          },
+          "offsets": {
+            "from": 12560,
+            "to": 12770
+          },
+          "id": 262,
+          "p": 0.972984,
+          "t_dtw": -1
+        },
+        {
+          "text": " spring",
+          "timestamps": {
+            "from": "00:00:13,030",
+            "to": "00:00:13,180"
+          },
+          "offsets": {
+            "from": 13030,
+            "to": 13180
+          },
+          "id": 6076,
+          "p": 0.694354,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_659]",
+          "timestamps": {
+            "from": "00:00:13,180",
+            "to": "00:00:13,180"
+          },
+          "offsets": {
+            "from": 13180,
+            "to": 13180
+          },
+          "id": 51022,
+          "p": 0.194542,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:13,180",
+        "to": "00:00:21,580"
+      },
+      "offsets": {
+        "from": 13180,
+        "to": 21580
+      },
+      "text": " festival we do the lion bonds lions can bring good luck",
+      "tokens": [
+        {
+          "text": " festival",
+          "timestamps": {
+            "from": "00:00:14,130",
+            "to": "00:00:14,480"
+          },
+          "offsets": {
+            "from": 14130,
+            "to": 14480
+          },
+          "id": 10876,
+          "p": 0.94517,
+          "t_dtw": -1
+        },
+        {
+          "text": " we",
+          "timestamps": {
+            "from": "00:00:14,590",
+            "to": "00:00:14,890"
+          },
+          "offsets": {
+            "from": 14590,
+            "to": 14890
+          },
+          "id": 356,
+          "p": 0.991023,
+          "t_dtw": -1
+        },
+        {
+          "text": " do",
+          "timestamps": {
+            "from": "00:00:14,930",
+            "to": "00:00:15,240"
+          },
+          "offsets": {
+            "from": 14930,
+            "to": 15240
+          },
+          "id": 466,
+          "p": 0.776817,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:15,240",
+            "to": "00:00:15,420"
+          },
+          "offsets": {
+            "from": 15240,
+            "to": 15420
+          },
+          "id": 262,
+          "p": 0.995617,
+          "t_dtw": -1
+        },
+        {
+          "text": " lion",
+          "timestamps": {
+            "from": "00:00:16,440",
+            "to": "00:00:16,440"
+          },
+          "offsets": {
+            "from": 16440,
+            "to": 16440
+          },
+          "id": 18744,
+          "p": 0.939382,
+          "t_dtw": -1
+        },
+        {
+          "text": " bonds",
+          "timestamps": {
+            "from": "00:00:16,440",
+            "to": "00:00:17,180"
+          },
+          "offsets": {
+            "from": 16440,
+            "to": 17180
+          },
+          "id": 13100,
+          "p": 0.536435,
+          "t_dtw": -1
+        },
+        {
+          "text": " lions",
+          "timestamps": {
+            "from": "00:00:17,240",
+            "to": "00:00:17,330"
+          },
+          "offsets": {
+            "from": 17240,
+            "to": 17330
+          },
+          "id": 31420,
+          "p": 0.7009,
+          "t_dtw": -1
+        },
+        {
+          "text": " can",
+          "timestamps": {
+            "from": "00:00:18,720",
+            "to": "00:00:18,720"
+          },
+          "offsets": {
+            "from": 18720,
+            "to": 18720
+          },
+          "id": 460,
+          "p": 0.992322,
+          "t_dtw": -1
+        },
+        {
+          "text": " bring",
+          "timestamps": {
+            "from": "00:00:18,740",
+            "to": "00:00:19,000"
+          },
+          "offsets": {
+            "from": 18740,
+            "to": 19000
+          },
+          "id": 2222,
+          "p": 0.970708,
+          "t_dtw": -1
+        },
+        {
+          "text": " good",
+          "timestamps": {
+            "from": "00:00:19,000",
+            "to": "00:00:19,320"
+          },
+          "offsets": {
+            "from": 19000,
+            "to": 19320
+          },
+          "id": 922,
+          "p": 0.899112,
+          "t_dtw": -1
+        },
+        {
+          "text": " luck",
+          "timestamps": {
+            "from": "00:00:19,320",
+            "to": "00:00:20,040"
+          },
+          "offsets": {
+            "from": 19320,
+            "to": 20040
+          },
+          "id": 8458,
+          "p": 0.914207,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1079]",
+          "timestamps": {
+            "from": "00:00:21,580",
+            "to": "00:00:21,580"
+          },
+          "offsets": {
+            "from": 21580,
+            "to": 21580
+          },
+          "id": 51442,
+          "p": 0.0455041,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:22,420",
+        "to": "00:00:28,580"
+      },
+      "offsets": {
+        "from": 22420,
+        "to": 28580
+      },
+      "text": " what can you learn from school clubs",
+      "tokens": [
+        {
+          "text": " what",
+          "timestamps": {
+            "from": "00:00:22,450",
+            "to": "00:00:22,510"
+          },
+          "offsets": {
+            "from": 22450,
+            "to": 22510
+          },
+          "id": 644,
+          "p": 0.666825,
+          "t_dtw": -1
+        },
+        {
+          "text": " can",
+          "timestamps": {
+            "from": "00:00:22,510",
+            "to": "00:00:22,530"
+          },
+          "offsets": {
+            "from": 22510,
+            "to": 22530
+          },
+          "id": 460,
+          "p": 0.999828,
+          "t_dtw": -1
+        },
+        {
+          "text": " you",
+          "timestamps": {
+            "from": "00:00:23,410",
+            "to": "00:00:23,850"
+          },
+          "offsets": {
+            "from": 23410,
+            "to": 23850
+          },
+          "id": 345,
+          "p": 0.999817,
+          "t_dtw": -1
+        },
+        {
+          "text": " learn",
+          "timestamps": {
+            "from": "00:00:23,920",
+            "to": "00:00:24,660"
+          },
+          "offsets": {
+            "from": 23920,
+            "to": 24660
+          },
+          "id": 2193,
+          "p": 0.999714,
+          "t_dtw": -1
+        },
+        {
+          "text": " from",
+          "timestamps": {
+            "from": "00:00:25,680",
+            "to": "00:00:25,990"
+          },
+          "offsets": {
+            "from": 25680,
+            "to": 25990
+          },
+          "id": 422,
+          "p": 0.999634,
+          "t_dtw": -1
+        },
+        {
+          "text": " school",
+          "timestamps": {
+            "from": "00:00:26,050",
+            "to": "00:00:26,490"
+          },
+          "offsets": {
+            "from": 26050,
+            "to": 26490
+          },
+          "id": 1524,
+          "p": 0.997004,
+          "t_dtw": -1
+        },
+        {
+          "text": " clubs",
+          "timestamps": {
+            "from": "00:00:27,970",
+            "to": "00:00:28,580"
+          },
+          "offsets": {
+            "from": 27970,
+            "to": 28580
+          },
+          "id": 9784,
+          "p": 0.990216,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_1429]",
+          "timestamps": {
+            "from": "00:00:28,580",
+            "to": "00:00:28,580"
+          },
+          "offsets": {
+            "from": 28580,
+            "to": 28580
+          },
+          "id": 51792,
+          "p": 0.0915828,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

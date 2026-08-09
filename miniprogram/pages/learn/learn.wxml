@@ -1,70 +1,206 @@
-<view class="container">
-  <!-- 顶部 Tab 切换 -->
-  <view class="page-tabs">
-    <view class="page-tab {{activeTab === 'words' ? 'active' : ''}}" bindtap="onSwitchTab" data-tab="words">
-      <text>📖 单词</text>
-    </view>
-    <view class="page-tab {{activeTab === 'letters' ? 'active' : ''}}" bindtap="onSwitchTab" data-tab="letters">
-      <text>🔤 字母</text>
+<view class="lesson-page">
+  <view class="lesson-header">
+    <text class="lesson-kicker">{{lessonKicker}}</text>
+    <text class="lesson-title">{{unitTitle}}</text>
+    <text class="lesson-chinese">{{unitChinese}}</text>
+    <view class="lesson-counts">
+      <text wx:if="{{videos.length}}">▷ {{videos.length}} 段动画</text>
+      <text>♪ {{audios.length}} 条音频</text>
     </view>
   </view>
 
-  <!-- === 单词学习 === -->
-  <block wx:if="{{activeTab === 'words'}}">
-    <!-- 进度条 -->
-    <view class="progress-bar">
-      <view class="progress-fill" style="width: {{totalCount > 0 ? (currentWordIndex / totalCount * 100) : 0}}%"></view>
-    </view>
-    <text class="progress-text">{{currentWordIndex + 1}} / {{totalCount}}</text>
-
-    <!-- 单词卡片 -->
-    <view class="word-card card" wx:if="{{currentWord}}">
-      <image
-        wx:if="{{currentWordImage && !imageLoadError}}"
-        class="word-image"
-        src="{{currentWordImage}}"
-        mode="aspectFit"
-        binderror="onImageError"
-      />
-      <view wx:else class="word-image-placeholder">
-        <text class="placeholder-emoji">🖼️</text>
-      </view>
-      <text class="word-english">{{currentWord.english}}</text>
-      <text class="word-chinese">{{currentWord.chinese}}</text>
-
-      <!-- 播放示范发音按钮 -->
-      <view class="play-btn {{isPlaying ? 'playing' : ''}}" bindtap="onPlayWord">
-        <text class="play-emoji" wx:if="{{!isPlaying}}">🔊</text>
-        <view class="loading-spinner" wx:else></view>
-      </view>
-    </view>
-
-    <!-- 操作按钮区 -->
-    <view class="action-area">
-      <view class="nav-btn {{currentWordIndex === 0 ? 'disabled' : ''}}" bindtap="onPrevWord">
-        <text class="nav-arrow">‹</text>
-      </view>
-      <view class="nav-btn" bindtap="onNextWord">
-        <text class="nav-arrow">›</text>
-      </view>
-    </view>
-  </block>
-
-  <!-- === 字母认读 === -->
-  <block wx:if="{{activeTab === 'letters'}}">
-    <view class="letters-grid">
+  <scroll-view class="lesson-tabs" scroll-x enhanced show-scrollbar="{{false}}" wx:if="{{tabs.length > 1}}">
+    <view class="lesson-tab-row">
       <view
-        class="letter-card card"
-        wx:for="{{letters}}"
-        wx:key="letter"
-        bindtap="onPlayLetter"
-        data-index="{{index}}"
-      >
-        <text class="letter-big">{{item.letter}}</text>
-        <text class="letter-word">{{item.word}}</text>
-        <text class="letter-chinese">{{item.chinese}}</text>
-        <text class="letter-play">🔊</text>
-      </view>
+        class="lesson-tab {{activeTab === item.key ? 'active' : ''}}"
+        wx:for="{{tabs}}"
+        wx:key="key"
+        data-tab="{{item.key}}"
+        bindtap="onSwitchTab"
+      >{{item.name}}</view>
     </view>
-  </block>
+  </scroll-view>
+
+  <view class="lesson-body">
+    <block wx:if="{{activeTab === 'media'}}">
+      <block wx:if="{{videos.length}}">
+        <view class="video-shell">
+          <view class="media-loading" wx:if="{{videoLoading}}">视频加载中</view>
+          <view class="media-error" wx:elif="{{videoError}}">视频暂时无法播放</view>
+          <video
+            id="lesson-video"
+            wx:else
+            class="lesson-video"
+            src="{{currentVideoUrl}}"
+            controls
+            object-fit="contain"
+            show-center-play-btn
+            enable-progress-gesture
+            bindplay="onVideoPlay"
+            bindtimeupdate="onVideoTimeUpdate"
+            binderror="onVideoError"
+          />
+        </view>
+
+        <view class="subtitle-status" wx:if="{{subtitleLoading}}">字幕加载中...</view>
+        <view class="subtitle-status error" wx:elif="{{subtitleError}}" bindtap="onRetrySubtitles">字幕加载失败，点这里重试</view>
+
+        <view class="video-caption" wx:if="{{currentVideoSubtitles.length}}">
+          <view class="video-caption-content" wx:if="{{activeVideoSubtitle}}">
+            <text class="video-caption-english">{{activeVideoSubtitle.english}}</text>
+            <text class="video-caption-chinese">{{activeVideoSubtitle.chinese}}</text>
+          </view>
+        </view>
+
+        <scroll-view class="video-selector" scroll-x enhanced show-scrollbar="{{false}}" wx:if="{{videos.length > 1}}">
+          <view class="video-selector-row">
+            <view
+              class="video-option {{currentVideoIndex === index ? 'active' : ''}}"
+              wx:for="{{videos}}"
+              wx:key="id"
+              data-index="{{index}}"
+              bindtap="onSelectVideo"
+            >
+              <text class="video-option-number">{{index + 1}}</text>
+              <text class="video-option-time">{{item.durationText}}</text>
+            </view>
+          </view>
+        </scroll-view>
+      </block>
+
+      <view class="subtitle-status" wx:if="{{!videos.length && subtitleLoading}}">字幕加载中...</view>
+      <view class="subtitle-status error" wx:elif="{{!videos.length && subtitleError}}" bindtap="onRetrySubtitles">字幕加载失败，点这里重试</view>
+
+      <block wx:if="{{audios.length}}">
+        <text class="section-heading">{{audioSectionTitle}}</text>
+        <view class="audio-list">
+          <view class="audio-item" wx:for="{{audios}}" wx:key="id">
+            <view class="audio-row" data-index="{{index}}" bindtap="onToggleAudio">
+              <view class="audio-button">
+                <text wx:if="{{audioLoadingId === item.id}}">…</text>
+                <text wx:elif="{{playingAudioId === item.id && !audioPaused}}">Ⅱ</text>
+                <text wx:else>▶</text>
+              </view>
+              <view class="audio-main">
+                <text class="audio-name">{{item.name}}</text>
+                <view class="audio-progress-row" wx:if="{{playingAudioId === item.id}}" catchtap="onIgnoreAudioTap">
+                  <text>{{audioCurrentText}}</text>
+                  <slider class="audio-slider" min="0" max="100" value="{{audioProgress}}" block-size="14" activeColor="#1677C8" backgroundColor="#D9E6EF" bindchange="onSeekAudio" />
+                  <text>{{audioDurationText}}</text>
+                </view>
+                <text class="audio-time" wx:else>{{item.durationText}}</text>
+              </view>
+            </view>
+            <scroll-view
+              class="audio-lyrics"
+              scroll-y
+              scroll-with-animation
+              scroll-into-view="{{audioLyricScrollTarget}}"
+              wx:if="{{playingAudioId === item.id && currentAudioLyrics.length}}"
+            >
+              <view
+                id="{{line.anchor}}"
+                class="lyric-line {{activeAudioLyricIndex === lineIndex ? 'active' : ''}}"
+                wx:for="{{currentAudioLyrics}}"
+                wx:key="anchor"
+                wx:for-item="line"
+                wx:for-index="lineIndex"
+                data-index="{{lineIndex}}"
+                bindtap="onSeekAudioLyric"
+              >
+                <text class="lyric-english">{{line.english}}</text>
+                <text class="lyric-chinese">{{line.chinese}}</text>
+              </view>
+            </scroll-view>
+          </view>
+        </view>
+      </block>
+
+      <block wx:if="{{knowledge.length}}">
+        <text class="section-heading">本单元内容</text>
+        <view class="knowledge-list">
+          <view class="knowledge-row" wx:for="{{knowledge}}" wx:key="index">
+            <view class="knowledge-mark"></view>
+            <view class="knowledge-main">
+              <text class="knowledge-category">{{item.categoryChinese}} <text wx:if="{{item.page}}">· {{item.page}}</text></text>
+              <text class="knowledge-title" wx:if="{{item.title}}">{{item.title}}</text>
+              <text class="knowledge-chinese" wx:if="{{item.titleChinese}}">{{item.titleChinese}}</text>
+            </view>
+          </view>
+        </view>
+      </block>
+
+      <view class="empty-media" wx:if="{{!videos.length && !audios.length}}">{{resourceMessage}}</view>
+    </block>
+
+    <block wx:if="{{activeTab === 'words' && currentWord}}">
+      <view class="word-progress">
+        <view class="word-progress-fill" style="width: {{(currentWordIndex + 1) / words.length * 100}}%"></view>
+      </view>
+      <view class="word-focus">
+        <image wx:if="{{!imageLoadError}}" class="word-image" src="{{currentWordImage}}" mode="aspectFit" binderror="onImageError" />
+        <view wx:else class="word-placeholder">Aa</view>
+        <text class="word-english">{{currentWord.english}}</text>
+        <text class="word-chinese">{{currentWord.chinese}}</text>
+        <view class="round-action" data-text="{{currentWord.english}}" data-key="word" bindtap="onSpeak">{{ttsPlayingKey === 'word' ? '…' : '♪'}}</view>
+      </view>
+      <view class="word-navigation">
+        <view class="nav-action {{currentWordIndex === 0 ? 'disabled' : ''}}" bindtap="onPrevWord">‹</view>
+        <text class="word-count">{{currentWordIndex + 1}} / {{words.length}}</text>
+        <view class="nav-action" bindtap="onNextWord">›</view>
+      </view>
+    </block>
+
+    <block wx:if="{{activeTab === 'sentences'}}">
+      <view class="bilingual-list">
+        <view class="bilingual-row" wx:for="{{sentences}}" wx:key="index">
+          <text class="line-number">{{index + 1}}</text>
+          <view class="bilingual-main">
+            <text class="line-english">{{item.english}}</text>
+            <text class="line-chinese">{{item.chinese}}</text>
+          </view>
+          <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
+        </view>
+      </view>
+    </block>
+
+    <block wx:if="{{activeTab === 'story'}}">
+      <view class="story-title-block" wx:if="{{story.title}}">
+        <text class="story-title">{{story.title}}</text>
+        <text class="story-chinese">{{story.titleChinese}}</text>
+      </view>
+      <view class="bilingual-list" wx:if="{{story.lines && story.lines.length}}">
+        <view class="bilingual-row" wx:for="{{story.lines}}" wx:key="index">
+          <text class="line-number">{{index + 1}}</text>
+          <view class="bilingual-main">
+            <text class="line-english">{{item.english}}</text>
+            <text class="line-chinese">{{item.chinese}}</text>
+          </view>
+          <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
+        </view>
+      </view>
+      <text class="section-heading" wx:if="{{extendLines.length}}">拓展阅读</text>
+      <view class="bilingual-list" wx:if="{{extendLines.length}}">
+        <view class="bilingual-row" wx:for="{{extendLines}}" wx:key="index">
+          <text class="line-number">{{index + 1}}</text>
+          <view class="bilingual-main">
+            <text class="line-english">{{item.english}}</text>
+            <text class="line-chinese">{{item.chinese}}</text>
+          </view>
+          <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
+        </view>
+      </view>
+    </block>
+
+    <block wx:if="{{activeTab === 'letters'}}">
+      <view class="letters-grid">
+        <view class="letter-row" wx:for="{{letters}}" wx:key="letter" data-text="{{item.speechText}}" bindtap="onSpeak">
+          <text class="letter-symbol">{{item.letter}}</text>
+          <text class="letter-word">{{item.word}}</text>
+          <text class="letter-chinese">{{item.chinese}}</text>
+          <text class="letter-audio">♪</text>
+        </view>
+      </view>
+    </block>
+  </view>
 </view>

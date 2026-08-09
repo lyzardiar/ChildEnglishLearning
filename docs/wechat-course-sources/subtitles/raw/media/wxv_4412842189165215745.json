@@ -1,0 +1,1114 @@
+{
+  "RequestId": "26e5de02-768f-482c-8df3-19cb2804fa93",
+  "Data": {
+    "TaskId": 16292532189,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 118.586938,
+    "Result": "The emperor's new clothes.There is an emperor. He likes beautiful clothes. One day a man visits him with some nice clothes. Which shirt do you like, the man asks.I like the green one, says the emperor. I also have some magic clothes for you. They're in this box, says the man. Only clever people can see them. The emperor cannot see any clothes, but he nods with a big smile. The man cries. Oh, the emperor is so clever.The emperor puts on the new clothes and gives the man a lot of money. The emperor walks in the street in his new clothes. People keep quiet, but a child laughs. Look, he isn't wearing any clothes.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The emperor's new clothes.",
+        "SliceSentence": "The emperor's new clothes .",
+        "WrittenText": "",
+        "StartMs": 1420,
+        "EndMs": 3750,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 450,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 1485,
+            "Word": "emperor's"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1820,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "There is an emperor.",
+        "SliceSentence": "There is an emperor .",
+        "WrittenText": "",
+        "StartMs": 4960,
+        "EndMs": 7470,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 1300,
+            "OffsetEndMs": 1700,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 1720,
+            "OffsetEndMs": 2010,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2205,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2510,
+            "Word": "emperor"
+          },
+          {
+            "OffsetStartMs": 2205,
+            "OffsetEndMs": 2510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He likes beautiful clothes.",
+        "SliceSentence": "He likes beautiful clothes .",
+        "WrittenText": "",
+        "StartMs": 8660,
+        "EndMs": 10770,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day a man visits him with some nice clothes.",
+        "SliceSentence": "One day a man visits him with some nice clothes .",
+        "WrittenText": "",
+        "StartMs": 13070,
+        "EndMs": 17160,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1340,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1630,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2210,
+            "Word": "visits"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "him"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3065,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3305,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3305,
+            "OffsetEndMs": 3640,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 3690,
+            "OffsetEndMs": 4090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Which shirt do you like,",
+        "SliceSentence": "Which shirt do you like ,",
+        "WrittenText": "",
+        "StartMs": 22490,
+        "EndMs": 23850,
+        "SpeechSpeed": 17.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Which"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 950,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1085,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1360,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5330,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the man asks.",
+        "SliceSentence": "the man asks .",
+        "WrittenText": "",
+        "StartMs": 24230,
+        "EndMs": 25050,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 470,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 820,
+            "Word": "asks"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I like the green one,",
+        "SliceSentence": "I like the green one ,",
+        "WrittenText": "",
+        "StartMs": 29680,
+        "EndMs": 32280,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 520,
+            "OffsetEndMs": 920,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1800,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2180,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says the emperor.",
+        "SliceSentence": "says the emperor .",
+        "WrittenText": "",
+        "StartMs": 32780,
+        "EndMs": 33690,
+        "SpeechSpeed": 18.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 650,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 910,
+            "Word": "emperor"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I also have some magic clothes for you.",
+        "SliceSentence": "I also have some magic clothes for you .",
+        "WrittenText": "",
+        "StartMs": 43880,
+        "EndMs": 46860,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 550,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 965,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1295,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1660,
+            "Word": "magic"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2630,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2980,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They're in this box,",
+        "SliceSentence": "They're in this box ,",
+        "WrittenText": "",
+        "StartMs": 47120,
+        "EndMs": 48120,
+        "SpeechSpeed": 20,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "They're"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 485,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 485,
+            "OffsetEndMs": 680,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "box"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says the man.",
+        "SliceSentence": "says the man .",
+        "WrittenText": "",
+        "StartMs": 49040,
+        "EndMs": 49950,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 910,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Only clever people can see them.",
+        "SliceSentence": "Only clever people can see them .",
+        "WrittenText": "",
+        "StartMs": 50900,
+        "EndMs": 53340,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Only"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "clever"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1835,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2090,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2440,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The emperor cannot see any clothes,",
+        "SliceSentence": "The emperor cannot see any clothes ,",
+        "WrittenText": "",
+        "StartMs": 60740,
+        "EndMs": 63630,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 550,
+            "Word": "emperor"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "cannot"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2105,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2495,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2890,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2890,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but he nods with a big smile.",
+        "SliceSentence": "but he nods with a big smile .",
+        "WrittenText": "",
+        "StartMs": 64280,
+        "EndMs": 66030,
+        "SpeechSpeed": 16.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 455,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 890,
+            "Word": "nods"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1055,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1055,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1385,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1750,
+            "Word": "smile"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The man cries.",
+        "SliceSentence": "The man cries .",
+        "WrittenText": "",
+        "StartMs": 66890,
+        "EndMs": 67800,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 260,
+            "OffsetEndMs": 500,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 910,
+            "Word": "cries"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 69110,
+        "EndMs": 69510,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the emperor is so clever.",
+        "SliceSentence": "the emperor is so clever .",
+        "WrittenText": "",
+        "StartMs": 69770,
+        "EndMs": 72390,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "emperor"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "clever"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The emperor puts on the new clothes and gives the man a lot of money.",
+        "SliceSentence": "The emperor puts on the new clothes and gives the man a lot of money .",
+        "WrittenText": "",
+        "StartMs": 90000,
+        "EndMs": 96500,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 16,
+        "Words": [
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1485,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 1485,
+            "OffsetEndMs": 1760,
+            "Word": "emperor"
+          },
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2505,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 2505,
+            "OffsetEndMs": 2820,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3105,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3105,
+            "OffsetEndMs": 3435,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 3435,
+            "OffsetEndMs": 3830,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 4300,
+            "OffsetEndMs": 4620,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 4620,
+            "OffsetEndMs": 4920,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 4920,
+            "OffsetEndMs": 5160,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5160,
+            "OffsetEndMs": 5420,
+            "Word": "man"
+          },
+          {
+            "OffsetStartMs": 5440,
+            "OffsetEndMs": 5760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5760,
+            "OffsetEndMs": 5985,
+            "Word": "lot"
+          },
+          {
+            "OffsetStartMs": 5985,
+            "OffsetEndMs": 6195,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 6195,
+            "OffsetEndMs": 6500,
+            "Word": "money"
+          },
+          {
+            "OffsetStartMs": 6195,
+            "OffsetEndMs": 6500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 17610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The emperor walks in the street in his new clothes.",
+        "SliceSentence": "The emperor walks in the street in his new clothes .",
+        "WrittenText": "",
+        "StartMs": 99490,
+        "EndMs": 102740,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 550,
+            "Word": "emperor"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "walks"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1445,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1700,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2015,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2255,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2480,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2830,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People keep quiet,",
+        "SliceSentence": "People keep quiet ,",
+        "WrittenText": "",
+        "StartMs": 106810,
+        "EndMs": 107990,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 815,
+            "Word": "keep"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "quiet"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but a child laughs.",
+        "SliceSentence": "but a child laughs .",
+        "WrittenText": "",
+        "StartMs": 108400,
+        "EndMs": 109940,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 275,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 275,
+            "OffsetEndMs": 440,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 730,
+            "Word": "child"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1540,
+            "Word": "laughs"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 111970,
+        "EndMs": 112370,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " he isn't wearing any clothes.",
+        "SliceSentence": "he isn't wearing any clothes .",
+        "WrittenText": "",
+        "StartMs": 112840,
+        "EndMs": 114890,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 845,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1180,
+            "Word": "wearing"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

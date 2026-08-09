@@ -1,0 +1,763 @@
+{
+  "RequestId": "efe89eb0-8579-47a4-950e-93b6152c43e6",
+  "Data": {
+    "TaskId": 16292506734,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 95.991313,
+    "Result": "The seasons of Arnold's Apple tree my name is Arnold. I have an Apple tree. It's spring. There are lots of flowers on my Apple tree. Honey bees look for food. It's summer. I build a tree house in my Apple tree. I watch small apples grow.It's autumn. My Apple tree now has big red apples. My family and I make Apple pies. It's winter. There is lots of snow. I make a snowman. There are no leaves on the Apple tree now.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The seasons of Arnold's Apple tree my name is Arnold.",
+        "SliceSentence": "The seasons of Arnold's Apple tree my name is Arnold .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 7610,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 900,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1190,
+            "Word": "seasons"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1845,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1845,
+            "OffsetEndMs": 2760,
+            "Word": "Arnold's"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3080,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3620,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 5680,
+            "OffsetEndMs": 6015,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 6015,
+            "OffsetEndMs": 6350,
+            "Word": "name"
+          },
+          {
+            "OffsetStartMs": 6400,
+            "OffsetEndMs": 6800,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 6820,
+            "OffsetEndMs": 7610,
+            "Word": "Arnold"
+          },
+          {
+            "OffsetStartMs": 6820,
+            "OffsetEndMs": 7610,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have an Apple tree.",
+        "SliceSentence": "I have an Apple tree .",
+        "WrittenText": "",
+        "StartMs": 9010,
+        "EndMs": 11360,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's spring.",
+        "SliceSentence": "It's spring .",
+        "WrittenText": "",
+        "StartMs": 16510,
+        "EndMs": 17810,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 640,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are lots of flowers on my Apple tree.",
+        "SliceSentence": "There are lots of flowers on my Apple tree .",
+        "WrittenText": "",
+        "StartMs": 29620,
+        "EndMs": 32870,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 845,
+            "Word": "lots"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1160,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1510,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2045,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2315,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2650,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Honey bees look for food.",
+        "SliceSentence": "Honey bees look for food .",
+        "WrittenText": "",
+        "StartMs": 34090,
+        "EndMs": 36200,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Honey"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1115,
+            "Word": "bees"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1430,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 1430,
+            "OffsetEndMs": 1760,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2110,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's summer.",
+        "SliceSentence": "It's summer .",
+        "WrittenText": "",
+        "StartMs": 39640,
+        "EndMs": 40730,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 640,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I build a tree house in my Apple tree.",
+        "SliceSentence": "I build a tree house in my Apple tree .",
+        "WrittenText": "",
+        "StartMs": 43030,
+        "EndMs": 46970,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "build"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1445,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1790,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2140,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 2280,
+            "OffsetEndMs": 2630,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2945,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3310,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I watch small apples grow.",
+        "SliceSentence": "I watch small apples grow .",
+        "WrittenText": "",
+        "StartMs": 55540,
+        "EndMs": 58160,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "grow"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It's autumn.",
+        "SliceSentence": "It's autumn .",
+        "WrittenText": "",
+        "StartMs": 60400,
+        "EndMs": 62670,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 910,
+            "OffsetEndMs": 1515,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 2270,
+            "Word": "autumn"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My Apple tree now has big red apples.",
+        "SliceSentence": "My Apple tree now has big red apples .",
+        "WrittenText": "",
+        "StartMs": 64670,
+        "EndMs": 68220,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1865,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2230,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3130,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " My family and I make Apple pies.",
+        "SliceSentence": "My family and I make Apple pies .",
+        "WrittenText": "",
+        "StartMs": 70100,
+        "EndMs": 73020,
+        "SpeechSpeed": 11,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "My"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1325,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1655,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2045,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2440,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2920,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's winter.",
+        "SliceSentence": "It's winter .",
+        "WrittenText": "",
+        "StartMs": 79730,
+        "EndMs": 80700,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There is lots of snow.",
+        "SliceSentence": "There is lots of snow .",
+        "WrittenText": "",
+        "StartMs": 83330,
+        "EndMs": 85080,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 980,
+            "Word": "lots"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1355,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "snow"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1750,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I make a snowman.",
+        "SliceSentence": "I make a snowman .",
+        "WrittenText": "",
+        "StartMs": 86390,
+        "EndMs": 88230,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 770,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1145,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1840,
+            "Word": "snowman"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1310,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are no leaves on the Apple tree now.",
+        "SliceSentence": "There are no leaves on the Apple tree now .",
+        "WrittenText": "",
+        "StartMs": 89870,
+        "EndMs": 93150,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 965,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1360,
+            "Word": "leaves"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1880,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2090,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2380,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2915,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 2915,
+            "OffsetEndMs": 3280,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 2915,
+            "OffsetEndMs": 3280,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

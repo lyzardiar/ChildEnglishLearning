@@ -1,0 +1,275 @@
+{
+  "RequestId": "db37ab1b-4c76-4432-9df9-70c80beacbbd",
+  "Data": {
+    "TaskId": 16292402735,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 23.011,
+    "Result": "Do you like summer? Summer is here. It is hot. Do you like it? I feel hot all day, but I can go out and play.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Do you like summer?",
+        "SliceSentence": "Do you like summer ?",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2090,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 940,
+            "OffsetEndMs": 1230,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1440,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1725,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 1725,
+            "OffsetEndMs": 2090,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 1725,
+            "OffsetEndMs": 2090,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Summer is here.",
+        "SliceSentence": "Summer is here .",
+        "WrittenText": "",
+        "StartMs": 4930,
+        "EndMs": 6050,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Summer"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 800,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1120,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is hot.",
+        "SliceSentence": "It is hot .",
+        "WrittenText": "",
+        "StartMs": 7270,
+        "EndMs": 8090,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 515,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like it?",
+        "SliceSentence": "Do you like it ?",
+        "WrittenText": "",
+        "StartMs": 10180,
+        "EndMs": 11210,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 470,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 695,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I feel hot all day,",
+        "SliceSentence": "I feel hot all day ,",
+        "WrittenText": "",
+        "StartMs": 14080,
+        "EndMs": 15920,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "feel"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1460,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1840,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but I can go out and play.",
+        "SliceSentence": "but I can go out and play .",
+        "WrittenText": "",
+        "StartMs": 18040,
+        "EndMs": 20150,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 845,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1145,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1445,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1760,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2110,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

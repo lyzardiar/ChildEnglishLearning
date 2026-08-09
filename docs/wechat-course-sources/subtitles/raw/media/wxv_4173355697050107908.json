@@ -1,0 +1,588 @@
+{
+  "RequestId": "a2926ac3-fef5-4558-9bf7-59688e847804",
+  "Data": {
+    "TaskId": 16292424101,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 51.525063,
+    "Result": "What can animals do?It can fly. Can you see it can't swim, say with me. It a bird. It can swim. Can you see it? Can't run, say with me. It's a fish. It can jump. Can you see? It can swim. Stay with me. It's a frog.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What can animals do?",
+        "SliceSentence": "What can animals do ?",
+        "WrittenText": "",
+        "StartMs": 460,
+        "EndMs": 2490,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 495,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 825,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 825,
+            "OffsetEndMs": 1190,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "It can fly.",
+        "SliceSentence": "It can fly .",
+        "WrittenText": "",
+        "StartMs": 4140,
+        "EndMs": 10610,
+        "SpeechSpeed": 1.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 4840,
+            "OffsetEndMs": 5240,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 5380,
+            "OffsetEndMs": 5780,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6470,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see it can't swim,",
+        "SliceSentence": "Can you see it can't swim ,",
+        "WrittenText": "",
+        "StartMs": 11350,
+        "EndMs": 15470,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3740,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 4120,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 4120,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " say with me.",
+        "SliceSentence": "say with me .",
+        "WrittenText": "",
+        "StartMs": 16090,
+        "EndMs": 17690,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It a bird.",
+        "SliceSentence": "It a bird .",
+        "WrittenText": "",
+        "StartMs": 18490,
+        "EndMs": 20060,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can swim.",
+        "SliceSentence": "It can swim .",
+        "WrittenText": "",
+        "StartMs": 22120,
+        "EndMs": 23780,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see it?",
+        "SliceSentence": "Can you see it ?",
+        "WrittenText": "",
+        "StartMs": 24460,
+        "EndMs": 27320,
+        "SpeechSpeed": 5.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can't run,",
+        "SliceSentence": "Can't run ,",
+        "WrittenText": "",
+        "StartMs": 27430,
+        "EndMs": 28490,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "Can't"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1060,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1060,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " say with me.",
+        "SliceSentence": "say with me .",
+        "WrittenText": "",
+        "StartMs": 29260,
+        "EndMs": 30800,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a fish.",
+        "SliceSentence": "It's a fish .",
+        "WrittenText": "",
+        "StartMs": 31630,
+        "EndMs": 33200,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 970,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can jump.",
+        "SliceSentence": "It can jump .",
+        "WrittenText": "",
+        "StartMs": 35200,
+        "EndMs": 36770,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see?",
+        "SliceSentence": "Can you see ?",
+        "WrittenText": "",
+        "StartMs": 37600,
+        "EndMs": 39200,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can swim.",
+        "SliceSentence": "It can swim .",
+        "WrittenText": "",
+        "StartMs": 40000,
+        "EndMs": 41690,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Stay with me.",
+        "SliceSentence": "Stay with me .",
+        "WrittenText": "",
+        "StartMs": 42400,
+        "EndMs": 43910,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Stay"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a frog.",
+        "SliceSentence": "It's a frog .",
+        "WrittenText": "",
+        "StartMs": 44770,
+        "EndMs": 46760,
+        "SpeechSpeed": 6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 650,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 970,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1990,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

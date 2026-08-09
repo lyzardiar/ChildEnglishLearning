@@ -1,0 +1,885 @@
+{
+  "RequestId": "83462c9c-4a7d-44b6-91d7-80a490ad91bb",
+  "Data": {
+    "TaskId": 16292455907,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 70.031375,
+    "Result": "What do students wear? Trousers, shorts? A skirt? What do you wear at school? Students around the world wear different clothes. Let's take a look at my school. We wear a uniform. I wear a shirt and a skirt. On a sunny day, I wear a cat, wood Chen. At my school, we don't wear a uniform. On a cloudy day, I'd wear a t shirt and trousers, but on a sunny day, I wear shorts. I wear a cap, too.Gary.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "What do students wear?",
+        "SliceSentence": "What do students wear ?",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 3030,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 770,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1430,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 2530,
+            "OffsetEndMs": 2930,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 2530,
+            "OffsetEndMs": 2930,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Trousers,",
+        "SliceSentence": "Trousers ,",
+        "WrittenText": "",
+        "StartMs": 5960,
+        "EndMs": 6870,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": "Trousers"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " shorts?",
+        "SliceSentence": "shorts ?",
+        "WrittenText": "",
+        "StartMs": 7280,
+        "EndMs": 7680,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "shorts"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A skirt?",
+        "SliceSentence": "A skirt ?",
+        "WrittenText": "",
+        "StartMs": 8600,
+        "EndMs": 9360,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 760,
+            "Word": "skirt"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 760,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you wear at school?",
+        "SliceSentence": "What do you wear at school ?",
+        "WrittenText": "",
+        "StartMs": 10280,
+        "EndMs": 12690,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1085,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1085,
+            "OffsetEndMs": 1480,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Students around the world wear different clothes.",
+        "SliceSentence": "Students around the world wear different clothes .",
+        "WrittenText": "",
+        "StartMs": 14390,
+        "EndMs": 18540,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Students"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1865,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1865,
+            "OffsetEndMs": 2170,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3340,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "clothes"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's take a look at my school.",
+        "SliceSentence": "Let's take a look at my school .",
+        "WrittenText": "",
+        "StartMs": 19520,
+        "EndMs": 23760,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 755,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1090,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1580,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1900,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3190,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We wear a uniform.",
+        "SliceSentence": "We wear a uniform .",
+        "WrittenText": "",
+        "StartMs": 24500,
+        "EndMs": 26400,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "uniform"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wear a shirt and a skirt.",
+        "SliceSentence": "I wear a shirt and a skirt .",
+        "WrittenText": "",
+        "StartMs": 27620,
+        "EndMs": 31170,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1265,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1570,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3155,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3550,
+            "Word": "skirt"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3550,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On a sunny day,",
+        "SliceSentence": "On a sunny day ,",
+        "WrittenText": "",
+        "StartMs": 32750,
+        "EndMs": 34260,
+        "SpeechSpeed": 9.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1000,
+            "Word": "sunny"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wear a cat,",
+        "SliceSentence": "I wear a cat ,",
+        "WrittenText": "",
+        "StartMs": 35060,
+        "EndMs": 36540,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1175,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1480,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1480,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " wood Chen.",
+        "SliceSentence": "wood Chen .",
+        "WrittenText": "",
+        "StartMs": 38120,
+        "EndMs": 38910,
+        "SpeechSpeed": 12.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "wood"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 790,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " At my school,",
+        "SliceSentence": "At my school ,",
+        "WrittenText": "",
+        "StartMs": 40970,
+        "EndMs": 42270,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we don't wear a uniform.",
+        "SliceSentence": "we don't wear a uniform .",
+        "WrittenText": "",
+        "StartMs": 42770,
+        "EndMs": 45090,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 920,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1240,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "uniform"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On a cloudy day,",
+        "SliceSentence": "On a cloudy day ,",
+        "WrittenText": "",
+        "StartMs": 45800,
+        "EndMs": 47430,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 1355,
+            "Word": "cloudy"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1630,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'd wear a t shirt and trousers,",
+        "SliceSentence": "I'd wear a t shirt and trousers ,",
+        "WrittenText": "",
+        "StartMs": 47990,
+        "EndMs": 51840,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "I'd"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 880,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1280,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1660,
+            "Word": "t"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "shirt"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3850,
+            "Word": "trousers"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3850,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but on a sunny day,",
+        "SliceSentence": "but on a sunny day ,",
+        "WrittenText": "",
+        "StartMs": 52490,
+        "EndMs": 54420,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 815,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1100,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1420,
+            "Word": "sunny"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wear shorts.",
+        "SliceSentence": "I wear shorts .",
+        "WrittenText": "",
+        "StartMs": 54830,
+        "EndMs": 56340,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "shorts"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I wear a cap,",
+        "SliceSentence": "I wear a cap ,",
+        "WrittenText": "",
+        "StartMs": 57440,
+        "EndMs": 59040,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "wear"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": "cap"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 59480,
+        "EndMs": 59880,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Gary.",
+        "SliceSentence": "Gary .",
+        "WrittenText": "",
+        "StartMs": 60580,
+        "EndMs": 61290,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Gary"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 700,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

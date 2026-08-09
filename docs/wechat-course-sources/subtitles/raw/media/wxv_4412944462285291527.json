@@ -1,0 +1,645 @@
+{
+  "RequestId": "82cba9bf-99da-4d3a-8220-d23a86fa407d",
+  "Data": {
+    "TaskId": 16292579733,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 53.939938,
+    "Result": "Swimming lessons.For a swimming lesson, you need a swimsuit and a swim cap. The swimsuit should not be too big or too small. A pair of swimming goggles so the water does not get into your eyes. You should wash yourself before you go into the swimming pool. Do it after swimming too. Do warm up exercises before you go into the water. Swimming is fun. It helps you stay healthy and fit. Enjoy your swimming lessons.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Swimming lessons.",
+        "SliceSentence": "Swimming lessons .",
+        "WrittenText": "",
+        "StartMs": 1580,
+        "EndMs": 2620,
+        "SpeechSpeed": 15.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 280,
+            "OffsetEndMs": 660,
+            "Word": "Swimming"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1040,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "For a swimming lesson,",
+        "SliceSentence": "For a swimming lesson ,",
+        "WrittenText": "",
+        "StartMs": 4140,
+        "EndMs": 9230,
+        "SpeechSpeed": 4.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 3580,
+            "OffsetEndMs": 3945,
+            "Word": "For"
+          },
+          {
+            "OffsetStartMs": 3945,
+            "OffsetEndMs": 4275,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4275,
+            "OffsetEndMs": 4640,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5090,
+            "Word": "lesson"
+          },
+          {
+            "OffsetStartMs": 4690,
+            "OffsetEndMs": 5090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " you need a swimsuit and a swim cap.",
+        "SliceSentence": "you need a swimsuit and a swim cap .",
+        "WrittenText": "",
+        "StartMs": 9670,
+        "EndMs": 13790,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "need"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2060,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2060,
+            "OffsetEndMs": 2770,
+            "Word": "swimsuit"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3245,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3245,
+            "OffsetEndMs": 3440,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3725,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4120,
+            "Word": "cap"
+          },
+          {
+            "OffsetStartMs": 3725,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The swimsuit should not be too big or too small.",
+        "SliceSentence": "The swimsuit should not be too big or too small .",
+        "WrittenText": "",
+        "StartMs": 14710,
+        "EndMs": 18530,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 980,
+            "Word": "swimsuit"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1295,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1550,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1805,
+            "Word": "be"
+          },
+          {
+            "OffsetStartMs": 1805,
+            "OffsetEndMs": 2090,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 2090,
+            "OffsetEndMs": 2440,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2950,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3425,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3820,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A pair of swimming goggles so the water does not get into your eyes.",
+        "SliceSentence": "A pair of swimming goggles so the water does not get into your eyes .",
+        "WrittenText": "",
+        "StartMs": 19330,
+        "EndMs": 24350,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 545,
+            "Word": "pair"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 875,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1240,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1900,
+            "Word": "goggles"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2690,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 2900,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3190,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3590,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 3590,
+            "OffsetEndMs": 3845,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 3845,
+            "OffsetEndMs": 4180,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 4260,
+            "OffsetEndMs": 4535,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4715,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 4715,
+            "OffsetEndMs": 5020,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 4715,
+            "OffsetEndMs": 5020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You should wash yourself before you go into the swimming pool.",
+        "SliceSentence": "You should wash yourself before you go into the swimming pool .",
+        "WrittenText": "",
+        "StartMs": 25510,
+        "EndMs": 30440,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "wash"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "yourself"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3155,
+            "Word": "before"
+          },
+          {
+            "OffsetStartMs": 3155,
+            "OffsetEndMs": 3440,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3730,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4070,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 4070,
+            "OffsetEndMs": 4235,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4235,
+            "OffsetEndMs": 4535,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4930,
+            "Word": "pool"
+          },
+          {
+            "OffsetStartMs": 4535,
+            "OffsetEndMs": 4930,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do it after swimming too.",
+        "SliceSentence": "Do it after swimming too .",
+        "WrittenText": "",
+        "StartMs": 32050,
+        "EndMs": 33920,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 500,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 790,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do warm up exercises before you go into the water.",
+        "SliceSentence": "Do warm up exercises before you go into the water .",
+        "WrittenText": "",
+        "StartMs": 35050,
+        "EndMs": 39140,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "warm"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "up"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1810,
+            "Word": "exercises"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2705,
+            "Word": "before"
+          },
+          {
+            "OffsetStartMs": 2705,
+            "OffsetEndMs": 2990,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2990,
+            "OffsetEndMs": 3310,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3665,
+            "Word": "into"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3815,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3815,
+            "OffsetEndMs": 4090,
+            "Word": "water"
+          },
+          {
+            "OffsetStartMs": 3815,
+            "OffsetEndMs": 4090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Swimming is fun.",
+        "SliceSentence": "Swimming is fun .",
+        "WrittenText": "",
+        "StartMs": 40600,
+        "EndMs": 41810,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Swimming"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It helps you stay healthy and fit.",
+        "SliceSentence": "It helps you stay healthy and fit .",
+        "WrittenText": "",
+        "StartMs": 42640,
+        "EndMs": 45230,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "helps"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1040,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1040,
+            "OffsetEndMs": 1325,
+            "Word": "stay"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1660,
+            "Word": "healthy"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2195,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2590,
+            "Word": "fit"
+          },
+          {
+            "OffsetStartMs": 2195,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Enjoy your swimming lessons.",
+        "SliceSentence": "Enjoy your swimming lessons .",
+        "WrittenText": "",
+        "StartMs": 47920,
+        "EndMs": 49460,
+        "SpeechSpeed": 18.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Enjoy"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1145,
+            "Word": "swimming"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "lessons"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

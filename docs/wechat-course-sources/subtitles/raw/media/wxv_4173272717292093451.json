@@ -1,0 +1,358 @@
+{
+  "RequestId": "b2210d9b-c520-4401-b012-3d6b86b20985",
+  "Data": {
+    "TaskId": 16292419133,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 46.323813,
+    "Result": "The tortoise and the rabbit.How are you? I'm happyy 123 go. I'm tired. I'm hot. I'm hot and thirsty. Run, run. Okay, tortoise wings.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The tortoise and the rabbit.",
+        "SliceSentence": "The tortoise and the rabbit .",
+        "WrittenText": "",
+        "StartMs": 520,
+        "EndMs": 2550,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 405,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 405,
+            "OffsetEndMs": 1100,
+            "Word": "tortoise"
+          },
+          {
+            "OffsetStartMs": 1150,
+            "OffsetEndMs": 1500,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1740,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2030,
+            "Word": "rabbit"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How are you?",
+        "SliceSentence": "How are you ?",
+        "WrittenText": "",
+        "StartMs": 4380,
+        "EndMs": 6620,
+        "SpeechSpeed": 4.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1515,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 1515,
+            "OffsetEndMs": 1875,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1875,
+            "OffsetEndMs": 2240,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1875,
+            "OffsetEndMs": 2240,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm happyy 123 go.",
+        "SliceSentence": "I'm happyy 123 go .",
+        "WrittenText": "",
+        "StartMs": 7420,
+        "EndMs": 13430,
+        "SpeechSpeed": 3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 605,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 1270,
+            "Word": "happyy"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 5350,
+            "Word": "123"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 6010,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 6010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm tired.",
+        "SliceSentence": "I'm tired .",
+        "WrittenText": "",
+        "StartMs": 18640,
+        "EndMs": 19670,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 740,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1030,
+            "Word": "tired"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm hot.",
+        "SliceSentence": "I'm hot .",
+        "WrittenText": "",
+        "StartMs": 22120,
+        "EndMs": 23000,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 880,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm hot and thirsty.",
+        "SliceSentence": "I'm hot and thirsty .",
+        "WrittenText": "",
+        "StartMs": 27670,
+        "EndMs": 29990,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 910,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1400,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 2320,
+            "Word": "thirsty"
+          },
+          {
+            "OffsetStartMs": 1400,
+            "OffsetEndMs": 2320,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Run,",
+        "SliceSentence": "Run ,",
+        "WrittenText": "",
+        "StartMs": 33730,
+        "EndMs": 34130,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Run"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " run.",
+        "SliceSentence": "run .",
+        "WrittenText": "",
+        "StartMs": 34690,
+        "EndMs": 35090,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Okay,",
+        "SliceSentence": "Okay ,",
+        "WrittenText": "",
+        "StartMs": 36850,
+        "EndMs": 37250,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1760,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " tortoise wings.",
+        "SliceSentence": "tortoise wings .",
+        "WrittenText": "",
+        "StartMs": 39970,
+        "EndMs": 41030,
+        "SpeechSpeed": 14.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 710,
+            "Word": "tortoise"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1060,
+            "Word": "wings"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

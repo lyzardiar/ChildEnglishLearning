@@ -1,0 +1,874 @@
+{
+  "RequestId": "9cde66a9-d074-487d-a5e0-4bb3abae29a6",
+  "Data": {
+    "TaskId": 16292468371,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 71.145938,
+    "Result": "Children's day around the world Zhang Lu is from China on children's day. There are no classes. He and his classmates can visit museums or go to parks. Aa is from Thailand on children's day. Aa likes going to the zoo. She has a great time there. In Japan, there are two children's days, one for girls, 1 for boys. Akio is a boy. On children's day, his family flies paper fish outside their house. There is one fish for his.Father, one for his mother, one for his brother, 1 for achio.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Children's day around the world Zhang Lu is from China on children's day.",
+        "SliceSentence": "Children's day around the world Zhang Lu is from China on children's day .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 11270,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 1395,
+            "Word": "Children's"
+          },
+          {
+            "OffsetStartMs": 1395,
+            "OffsetEndMs": 1670,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 2050,
+            "OffsetEndMs": 2450,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3000,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3290,
+            "Word": "world"
+          },
+          {
+            "OffsetStartMs": 5920,
+            "OffsetEndMs": 6350,
+            "Word": "Zhang"
+          },
+          {
+            "OffsetStartMs": 6370,
+            "OffsetEndMs": 6770,
+            "Word": "Lu"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7335,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 7335,
+            "OffsetEndMs": 7710,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 7710,
+            "OffsetEndMs": 8090,
+            "Word": "China"
+          },
+          {
+            "OffsetStartMs": 9370,
+            "OffsetEndMs": 9770,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 9880,
+            "OffsetEndMs": 10935,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 10935,
+            "OffsetEndMs": 11270,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 10935,
+            "OffsetEndMs": 11270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are no classes.",
+        "SliceSentence": "There are no classes .",
+        "WrittenText": "",
+        "StartMs": 12340,
+        "EndMs": 13970,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 755,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1150,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "classes"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He and his classmates can visit museums or go to parks.",
+        "SliceSentence": "He and his classmates can visit museums or go to parks .",
+        "WrittenText": "",
+        "StartMs": 15100,
+        "EndMs": 21350,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1240,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2080,
+            "Word": "classmates"
+          },
+          {
+            "OffsetStartMs": 2550,
+            "OffsetEndMs": 2900,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3250,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 4330,
+            "Word": "museums"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4910,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 4910,
+            "OffsetEndMs": 5210,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 5210,
+            "OffsetEndMs": 5480,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5480,
+            "OffsetEndMs": 6250,
+            "Word": "parks"
+          },
+          {
+            "OffsetStartMs": 5480,
+            "OffsetEndMs": 6250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Aa is from Thailand on children's day.",
+        "SliceSentence": "Aa is from Thailand on children's day .",
+        "WrittenText": "",
+        "StartMs": 23350,
+        "EndMs": 28370,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 940,
+            "Word": "Aa"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1415,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1790,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2590,
+            "Word": "Thailand"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3785,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3785,
+            "OffsetEndMs": 4715,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 4715,
+            "OffsetEndMs": 5020,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 4715,
+            "OffsetEndMs": 5020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Aa likes going to the zoo.",
+        "SliceSentence": "Aa likes going to the zoo .",
+        "WrittenText": "",
+        "StartMs": 28990,
+        "EndMs": 31880,
+        "SpeechSpeed": 9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 875,
+            "Word": "Aa"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1270,
+            "Word": "likes"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "going"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2315,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2315,
+            "OffsetEndMs": 2555,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2890,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She has a great time there.",
+        "SliceSentence": "She has a great time there .",
+        "WrittenText": "",
+        "StartMs": 32740,
+        "EndMs": 35570,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1360,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "great"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "time"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In Japan,",
+        "SliceSentence": "In Japan ,",
+        "WrittenText": "",
+        "StartMs": 36910,
+        "EndMs": 37940,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "Japan"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there are two children's days,",
+        "SliceSentence": "there are two children's days ,",
+        "WrittenText": "",
+        "StartMs": 38350,
+        "EndMs": 41150,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 2465,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2800,
+            "Word": "days"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2800,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " one for girls,",
+        "SliceSentence": "one for girls ,",
+        "WrittenText": "",
+        "StartMs": 42010,
+        "EndMs": 43040,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 680,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1030,
+            "Word": "girls"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 1 for boys.",
+        "SliceSentence": "1 for boys .",
+        "WrittenText": "",
+        "StartMs": 43935,
+        "EndMs": 44960,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 360,
+            "Word": "1"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 690,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1025,
+            "Word": "boys"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1025,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 895,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Akio is a boy.",
+        "SliceSentence": "Akio is a boy .",
+        "WrittenText": "",
+        "StartMs": 46240,
+        "EndMs": 48290,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 970,
+            "Word": "Akio"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1415,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1730,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2050,
+            "Word": "boy"
+          },
+          {
+            "OffsetStartMs": 1730,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On children's day,",
+        "SliceSentence": "On children's day ,",
+        "WrittenText": "",
+        "StartMs": 49450,
+        "EndMs": 51110,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1325,
+            "Word": "children's"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1660,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " his family flies paper fish outside their house.",
+        "SliceSentence": "his family flies paper fish outside their house .",
+        "WrittenText": "",
+        "StartMs": 51610,
+        "EndMs": 56720,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1810,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 2760,
+            "OffsetEndMs": 3160,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 3900,
+            "OffsetEndMs": 4300,
+            "Word": "outside"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 4760,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 4760,
+            "OffsetEndMs": 5110,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 4760,
+            "OffsetEndMs": 5110,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There is one fish for his.",
+        "SliceSentence": "There is one fish for his .",
+        "WrittenText": "",
+        "StartMs": 57910,
+        "EndMs": 60200,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1100,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1480,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 1985,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2290,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1985,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Father,",
+        "SliceSentence": "Father ,",
+        "WrittenText": "",
+        "StartMs": 60280,
+        "EndMs": 60570,
+        "SpeechSpeed": 20.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Father"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " one for his mother,",
+        "SliceSentence": "one for his mother ,",
+        "WrittenText": "",
+        "StartMs": 61430,
+        "EndMs": 62820,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 725,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1025,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "mother"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " one for his brother,",
+        "SliceSentence": "one for his brother ,",
+        "WrittenText": "",
+        "StartMs": 63530,
+        "EndMs": 64920,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 695,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1010,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1390,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1390,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 1 for achio.",
+        "SliceSentence": "1 for achio .",
+        "WrittenText": "",
+        "StartMs": 65815,
+        "EndMs": 67350,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 390,
+            "Word": "1"
+          },
+          {
+            "OffsetStartMs": 390,
+            "OffsetEndMs": 720,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1535,
+            "Word": "achio"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1535,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 895,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

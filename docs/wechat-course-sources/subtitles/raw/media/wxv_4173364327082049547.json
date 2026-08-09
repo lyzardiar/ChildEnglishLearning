@@ -1,0 +1,726 @@
+{
+  "RequestId": "1a8d6421-7ab1-452a-a435-c35217b72e29",
+  "Data": {
+    "TaskId": 16292427464,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 79.4355,
+    "Result": "In the park.Children, let's play a game. Great, find something green. A green tree, a green frog. Good job. Find something white, a white bird, a white duck. Well done. Find something yellow two yellow flowers. They are nice one for you, 1 for me no shop.A bee? Oh no, it hurts. Let's go to the hospital.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "In the park.",
+        "SliceSentence": "In the park .",
+        "WrittenText": "",
+        "StartMs": 920,
+        "EndMs": 1900,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 420,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 675,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 980,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 675,
+            "OffsetEndMs": 980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Children,",
+        "SliceSentence": "Children ,",
+        "WrittenText": "",
+        "StartMs": 3700,
+        "EndMs": 7650,
+        "SpeechSpeed": 2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "Children"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's play a game.",
+        "SliceSentence": "let's play a game .",
+        "WrittenText": "",
+        "StartMs": 8600,
+        "EndMs": 10140,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 620,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 920,
+            "Word": "play"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "game"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great,",
+        "SliceSentence": "Great ,",
+        "WrittenText": "",
+        "StartMs": 10940,
+        "EndMs": 11340,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " find something green.",
+        "SliceSentence": "find something green .",
+        "WrittenText": "",
+        "StartMs": 13820,
+        "EndMs": 16020,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A green tree,",
+        "SliceSentence": "A green tree ,",
+        "WrittenText": "",
+        "StartMs": 17750,
+        "EndMs": 18990,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a green frog.",
+        "SliceSentence": "a green frog .",
+        "WrittenText": "",
+        "StartMs": 21680,
+        "EndMs": 23370,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1690,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Good job.",
+        "SliceSentence": "Good job .",
+        "WrittenText": "",
+        "StartMs": 26660,
+        "EndMs": 27450,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "Good"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Find something white,",
+        "SliceSentence": "Find something white ,",
+        "WrittenText": "",
+        "StartMs": 29420,
+        "EndMs": 31680,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Find"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1970,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white bird,",
+        "SliceSentence": "a white bird ,",
+        "WrittenText": "",
+        "StartMs": 33080,
+        "EndMs": 34170,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "bird"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a white duck.",
+        "SliceSentence": "a white duck .",
+        "WrittenText": "",
+        "StartMs": 39650,
+        "EndMs": 40860,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Well done.",
+        "SliceSentence": "Well done .",
+        "WrittenText": "",
+        "StartMs": 44270,
+        "EndMs": 45120,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Well"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "done"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Find something yellow two yellow flowers.",
+        "SliceSentence": "Find something yellow two yellow flowers .",
+        "WrittenText": "",
+        "StartMs": 48440,
+        "EndMs": 53340,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Find"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "something"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 3930,
+            "OffsetEndMs": 4330,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 4500,
+            "OffsetEndMs": 4900,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 4500,
+            "OffsetEndMs": 4900,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They are nice one for you,",
+        "SliceSentence": "They are nice one for you ,",
+        "WrittenText": "",
+        "StartMs": 55220,
+        "EndMs": 58770,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 1000,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2975,
+            "Word": "one"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3260,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3550,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3550,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 1 for me no shop.",
+        "SliceSentence": "1 for me no shop .",
+        "WrittenText": "",
+        "StartMs": 59450,
+        "EndMs": 62880,
+        "SpeechSpeed": 5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "1"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 770,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1090,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2530,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A bee?",
+        "SliceSentence": "A bee ?",
+        "WrittenText": "",
+        "StartMs": 64180,
+        "EndMs": 65070,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 555,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 890,
+            "Word": "bee"
+          },
+          {
+            "OffsetStartMs": 555,
+            "OffsetEndMs": 890,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 66170,
+        "EndMs": 67200,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it hurts.",
+        "SliceSentence": "it hurts .",
+        "WrittenText": "",
+        "StartMs": 72620,
+        "EndMs": 73350,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "hurts"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let's go to the hospital.",
+        "SliceSentence": "Let's go to the hospital .",
+        "WrittenText": "",
+        "StartMs": 74990,
+        "EndMs": 76800,
+        "SpeechSpeed": 13.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 590,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1325,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1535,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1810,
+            "Word": "hospital"
+          },
+          {
+            "OffsetStartMs": 1535,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

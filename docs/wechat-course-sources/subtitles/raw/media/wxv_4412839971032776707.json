@@ -1,0 +1,441 @@
+{
+  "RequestId": "500f4f59-7ca1-4a62-ab4b-d6cf9497b272",
+  "Data": {
+    "TaskId": 16292530044,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 26.6565,
+    "Result": "Can you see the bear Claire? It has long brown hair and it's eating a yellow pear. Claire, don't go near that bear. Can you see the bear? Claire, it has long brown hair and it's eating a yellow pear. Claire, don't go near that bear.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Can you see the bear Claire?",
+        "SliceSentence": "Can you see the bear Claire ?",
+        "WrittenText": "",
+        "StartMs": 200,
+        "EndMs": 4780,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2730,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 2730,
+            "OffsetEndMs": 3030,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3300,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3300,
+            "OffsetEndMs": 3570,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3890,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 4580,
+            "Word": "Claire"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 4580,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has long brown hair and it's eating a yellow pear.",
+        "SliceSentence": "It has long brown hair and it's eating a yellow pear .",
+        "WrittenText": "",
+        "StartMs": 4920,
+        "EndMs": 9460,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 980,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1265,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1600,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2735,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2735,
+            "OffsetEndMs": 3140,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 3140,
+            "OffsetEndMs": 3400,
+            "Word": "eating"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3740,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 4000,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "pear"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Claire,",
+        "SliceSentence": "Claire ,",
+        "WrittenText": "",
+        "StartMs": 9720,
+        "EndMs": 10150,
+        "SpeechSpeed": 16.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Claire"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " don't go near that bear.",
+        "SliceSentence": "don't go near that bear .",
+        "WrittenText": "",
+        "StartMs": 10320,
+        "EndMs": 11920,
+        "SpeechSpeed": 15,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 650,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 965,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1265,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1600,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Can you see the bear?",
+        "SliceSentence": "Can you see the bear ?",
+        "WrittenText": "",
+        "StartMs": 14490,
+        "EndMs": 16060,
+        "SpeechSpeed": 13.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Can"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 650,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 950,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Claire,",
+        "SliceSentence": "Claire ,",
+        "WrittenText": "",
+        "StartMs": 16290,
+        "EndMs": 16720,
+        "SpeechSpeed": 16.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Claire"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it has long brown hair and it's eating a yellow pear.",
+        "SliceSentence": "it has long brown hair and it's eating a yellow pear .",
+        "WrittenText": "",
+        "StartMs": 16860,
+        "EndMs": 21400,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 635,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 965,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2765,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2765,
+            "OffsetEndMs": 3125,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 3125,
+            "OffsetEndMs": 3370,
+            "Word": "eating"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3740,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3740,
+            "OffsetEndMs": 4000,
+            "Word": "yellow"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "pear"
+          },
+          {
+            "OffsetStartMs": 4140,
+            "OffsetEndMs": 4540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Claire,",
+        "SliceSentence": "Claire ,",
+        "WrittenText": "",
+        "StartMs": 21630,
+        "EndMs": 22060,
+        "SpeechSpeed": 16.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Claire"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " don't go near that bear.",
+        "SliceSentence": "don't go near that bear .",
+        "WrittenText": "",
+        "StartMs": 22230,
+        "EndMs": 23800,
+        "SpeechSpeed": 15.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "don't"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 680,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 980,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1250,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "bear"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

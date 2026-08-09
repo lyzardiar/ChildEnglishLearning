@@ -1,0 +1,984 @@
+{
+  "RequestId": "ff526c01-9243-4491-98d7-6506aadaf7ff",
+  "Data": {
+    "TaskId": 16292430472,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 89.86125,
+    "Result": "Jenny's story a tasting test, a food festival. I'm hungry. Me too. Look, let's try it. What is it Amy? Oh, it's kanji. I like it. What is it Jenny? Hmm. Noodles, what's next? Oh, there isn't any food. Wait, here's a clue what's over there?Aha, that's ours, here you are. Oh, that's easy. It's pantai. What would you like? I'd like some dim sum. I'd like some both. Yum.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Jenny's story a tasting test,",
+        "SliceSentence": "Jenny's story a tasting test ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3140,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 1020,
+            "Word": "Jenny's"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "story"
+          },
+          {
+            "OffsetStartMs": 1810,
+            "OffsetEndMs": 2130,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2790,
+            "Word": "tasting"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3140,
+            "Word": "test"
+          },
+          {
+            "OffsetStartMs": 2790,
+            "OffsetEndMs": 3140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a food festival.",
+        "SliceSentence": "a food festival .",
+        "WrittenText": "",
+        "StartMs": 6400,
+        "EndMs": 7310,
+        "SpeechSpeed": 17.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 560,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 910,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm hungry.",
+        "SliceSentence": "I'm hungry .",
+        "WrittenText": "",
+        "StartMs": 8560,
+        "EndMs": 9260,
+        "SpeechSpeed": 15.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 700,
+            "Word": "hungry"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Me too.",
+        "SliceSentence": "Me too .",
+        "WrittenText": "",
+        "StartMs": 10720,
+        "EndMs": 11450,
+        "SpeechSpeed": 9.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Me"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 13900,
+        "EndMs": 14300,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's try it.",
+        "SliceSentence": "let's try it .",
+        "WrittenText": "",
+        "StartMs": 17230,
+        "EndMs": 18410,
+        "SpeechSpeed": 11,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 800,
+            "Word": "try"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2930,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What is it Amy?",
+        "SliceSentence": "What is it Amy ?",
+        "WrittenText": "",
+        "StartMs": 24730,
+        "EndMs": 26000,
+        "SpeechSpeed": 11.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 890,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1270,
+            "Word": "Amy"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 27550,
+        "EndMs": 27950,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's kanji.",
+        "SliceSentence": "it's kanji .",
+        "WrittenText": "",
+        "StartMs": 28390,
+        "EndMs": 29510,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 440,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 1120,
+            "Word": "kanji"
+          },
+          {
+            "OffsetStartMs": 440,
+            "OffsetEndMs": 1120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I like it.",
+        "SliceSentence": "I like it .",
+        "WrittenText": "",
+        "StartMs": 29710,
+        "EndMs": 30620,
+        "SpeechSpeed": 11,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What is it Jenny?",
+        "SliceSentence": "What is it Jenny ?",
+        "WrittenText": "",
+        "StartMs": 34870,
+        "EndMs": 36500,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 575,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 910,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1630,
+            "Word": "Jenny"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1630,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hmm.",
+        "SliceSentence": "Hmm .",
+        "WrittenText": "",
+        "StartMs": 37180,
+        "EndMs": 37580,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hmm"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Noodles,",
+        "SliceSentence": "Noodles ,",
+        "WrittenText": "",
+        "StartMs": 38440,
+        "EndMs": 39170,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Noodles"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what's next?",
+        "SliceSentence": "what's next ?",
+        "WrittenText": "",
+        "StartMs": 41890,
+        "EndMs": 42620,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "next"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 730,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2720,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 43570,
+        "EndMs": 43970,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " there isn't any food.",
+        "SliceSentence": "there isn't any food .",
+        "WrittenText": "",
+        "StartMs": 44620,
+        "EndMs": 46310,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 875,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1210,
+            "Word": "any"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wait,",
+        "SliceSentence": "Wait ,",
+        "WrittenText": "",
+        "StartMs": 50800,
+        "EndMs": 51200,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wait"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here's a clue what's over there?",
+        "SliceSentence": "here's a clue what's over there ?",
+        "WrittenText": "",
+        "StartMs": 51640,
+        "EndMs": 56630,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "here's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 605,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "clue"
+          },
+          {
+            "OffsetStartMs": 3870,
+            "OffsetEndMs": 4325,
+            "Word": "what's"
+          },
+          {
+            "OffsetStartMs": 4325,
+            "OffsetEndMs": 4595,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 4595,
+            "OffsetEndMs": 4990,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 4595,
+            "OffsetEndMs": 4990,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Aha,",
+        "SliceSentence": "Aha ,",
+        "WrittenText": "",
+        "StartMs": 60380,
+        "EndMs": 61090,
+        "SpeechSpeed": 4.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 710,
+            "Word": "Aha"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 710,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that's ours,",
+        "SliceSentence": "that's ours ,",
+        "WrittenText": "",
+        "StartMs": 61890,
+        "EndMs": 62980,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "ours"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " here you are.",
+        "SliceSentence": "here you are .",
+        "WrittenText": "",
+        "StartMs": 69390,
+        "EndMs": 70390,
+        "SpeechSpeed": 13,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 725,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1000,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 71370,
+        "EndMs": 71770,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " that's easy.",
+        "SliceSentence": "that's easy .",
+        "WrittenText": "",
+        "StartMs": 72240,
+        "EndMs": 72970,
+        "SpeechSpeed": 16.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "that's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": "easy"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's pantai.",
+        "SliceSentence": "It's pantai .",
+        "WrittenText": "",
+        "StartMs": 73740,
+        "EndMs": 74800,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 1060,
+            "Word": "pantai"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What would you like?",
+        "SliceSentence": "What would you like ?",
+        "WrittenText": "",
+        "StartMs": 78840,
+        "EndMs": 80020,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 635,
+            "Word": "would"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 860,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1180,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1180,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'd like some dim sum.",
+        "SliceSentence": "I'd like some dim sum .",
+        "WrittenText": "",
+        "StartMs": 81090,
+        "EndMs": 83050,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 500,
+            "Word": "I'd"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 760,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "dim"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1960,
+            "Word": "sum"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'd like some both.",
+        "SliceSentence": "I'd like some both .",
+        "WrittenText": "",
+        "StartMs": 84150,
+        "EndMs": 85420,
+        "SpeechSpeed": 15,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "I'd"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 695,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 950,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1270,
+            "Word": "both"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1100,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yum.",
+        "SliceSentence": "Yum .",
+        "WrittenText": "",
+        "StartMs": 85920,
+        "EndMs": 86350,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Yum"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

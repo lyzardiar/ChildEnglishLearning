@@ -1,0 +1,1012 @@
+{
+  "RequestId": "c3db76bd-2141-4e22-8f4d-8a232a64ffc5",
+  "Data": {
+    "TaskId": 16292408451,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 135.140125,
+    "Result": "Little tadpole now it is spring the eggs are tadpoles I'm an egg I'm small and black little tadpole can't find his mummy a butterfly is coming mummy. Mummy, I'm little tadpole I'm not your mummy your mummy has big eyes a goldfish is coming mummy mummy I'm not your mummy your mummy has a big mouth oh I'm sorry now little tadpole has two legs.A duck is coming, mummy, mummy.I'm not your mummy your mummy has a green body oh I'm sorry now little tadpole has four legs a tortoise is coming oh mummy mummy I'm not your mummy your mummy can jump but I can't oh I'm sorry now little tadpole has no tail a frog is coming big eyes, a big mouth and a green body and she can jump mummy, mummy, oh my baby I Miss you.Let's catch flies, okay?",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Little tadpole now it is spring the eggs are tadpoles I'm an egg I'm small and black little tadpole can't find his mummy a butterfly is coming mummy.",
+        "SliceSentence": "Little tadpole now it is spring the eggs are tadpoles I'm an egg I'm small and black little tadpole can't find his mummy a butterfly is coming mummy .",
+        "WrittenText": "",
+        "StartMs": 280,
+        "EndMs": 24780,
+        "SpeechSpeed": 6,
+        "WordsNum": 29,
+        "Words": [
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 830,
+            "Word": "Little"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1850,
+            "Word": "tadpole"
+          },
+          {
+            "OffsetStartMs": 4600,
+            "OffsetEndMs": 4950,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 4950,
+            "OffsetEndMs": 5175,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 5175,
+            "OffsetEndMs": 5400,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 5400,
+            "OffsetEndMs": 5750,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 6580,
+            "OffsetEndMs": 6855,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6855,
+            "OffsetEndMs": 7110,
+            "Word": "eggs"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7395,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 7395,
+            "OffsetEndMs": 7970,
+            "Word": "tadpoles"
+          },
+          {
+            "OffsetStartMs": 8920,
+            "OffsetEndMs": 9420,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 9420,
+            "OffsetEndMs": 9570,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 9570,
+            "OffsetEndMs": 9890,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 10540,
+            "OffsetEndMs": 11070,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 11070,
+            "OffsetEndMs": 11420,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 11590,
+            "OffsetEndMs": 11990,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 12220,
+            "OffsetEndMs": 12620,
+            "Word": "black"
+          },
+          {
+            "OffsetStartMs": 15730,
+            "OffsetEndMs": 16130,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 16330,
+            "OffsetEndMs": 17210,
+            "Word": "tadpole"
+          },
+          {
+            "OffsetStartMs": 17410,
+            "OffsetEndMs": 18225,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 18225,
+            "OffsetEndMs": 18560,
+            "Word": "find"
+          },
+          {
+            "OffsetStartMs": 18730,
+            "OffsetEndMs": 19095,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 19095,
+            "OffsetEndMs": 19760,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 20560,
+            "OffsetEndMs": 20910,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 20910,
+            "OffsetEndMs": 21825,
+            "Word": "butterfly"
+          },
+          {
+            "OffsetStartMs": 21825,
+            "OffsetEndMs": 22170,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 22170,
+            "OffsetEndMs": 22520,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 23770,
+            "OffsetEndMs": 24500,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 23770,
+            "OffsetEndMs": 24500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mummy,",
+        "SliceSentence": "Mummy ,",
+        "WrittenText": "",
+        "StartMs": 24950,
+        "EndMs": 25680,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "Mummy"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm little tadpole I'm not your mummy your mummy has big eyes a goldfish is coming mummy mummy I'm not your mummy your mummy has a big mouth oh I'm sorry now little tadpole has two legs.",
+        "SliceSentence": "I'm little tadpole I'm not your mummy your mummy has big eyes a goldfish is coming mummy mummy I'm not your mummy your mummy has a big mouth oh I'm sorry now little tadpole has two legs .",
+        "WrittenText": "",
+        "StartMs": 26150,
+        "EndMs": 59550,
+        "SpeechSpeed": 5.6,
+        "WordsNum": 38,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1720,
+            "Word": "tadpole"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3530,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 3530,
+            "OffsetEndMs": 3850,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 3990,
+            "OffsetEndMs": 4390,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 4410,
+            "OffsetEndMs": 5110,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6130,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 7000,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 7170,
+            "OffsetEndMs": 7570,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 7680,
+            "OffsetEndMs": 8080,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 8250,
+            "OffsetEndMs": 8650,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 11580,
+            "OffsetEndMs": 11945,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 11945,
+            "OffsetEndMs": 12970,
+            "Word": "goldfish"
+          },
+          {
+            "OffsetStartMs": 13350,
+            "OffsetEndMs": 13715,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 13715,
+            "OffsetEndMs": 14080,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 15420,
+            "OffsetEndMs": 16150,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 16320,
+            "OffsetEndMs": 17080,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 18180,
+            "OffsetEndMs": 18770,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 18770,
+            "OffsetEndMs": 19090,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 19170,
+            "OffsetEndMs": 19565,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 19565,
+            "OffsetEndMs": 20260,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 20760,
+            "OffsetEndMs": 21160,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 21270,
+            "OffsetEndMs": 22060,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 22200,
+            "OffsetEndMs": 22600,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 22620,
+            "OffsetEndMs": 22985,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 22985,
+            "OffsetEndMs": 23350,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 23580,
+            "OffsetEndMs": 23980,
+            "Word": "mouth"
+          },
+          {
+            "OffsetStartMs": 25440,
+            "OffsetEndMs": 25840,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 26160,
+            "OffsetEndMs": 26720,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 26720,
+            "OffsetEndMs": 27010,
+            "Word": "sorry"
+          },
+          {
+            "OffsetStartMs": 29400,
+            "OffsetEndMs": 29800,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 30330,
+            "OffsetEndMs": 30730,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 30870,
+            "OffsetEndMs": 31720,
+            "Word": "tadpole"
+          },
+          {
+            "OffsetStartMs": 31980,
+            "OffsetEndMs": 32380,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 32490,
+            "OffsetEndMs": 32890,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 33000,
+            "OffsetEndMs": 33400,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 33000,
+            "OffsetEndMs": 33400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "A duck is coming,",
+        "SliceSentence": "A duck is coming ,",
+        "WrittenText": "",
+        "StartMs": 60760,
+        "EndMs": 62310,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 590,
+            "Word": "duck"
+          },
+          {
+            "OffsetStartMs": 760,
+            "OffsetEndMs": 1155,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1550,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1550,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1210,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mummy,",
+        "SliceSentence": "mummy ,",
+        "WrittenText": "",
+        "StartMs": 63140,
+        "EndMs": 63840,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mummy.",
+        "SliceSentence": "mummy .",
+        "WrittenText": "",
+        "StartMs": 63950,
+        "EndMs": 64650,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm not your mummy your mummy has a green body oh I'm sorry now little tadpole has four legs a tortoise is coming oh mummy mummy I'm not your mummy your mummy can jump but I can't oh I'm sorry now little tadpole has no tail a frog is coming big eyes,",
+        "SliceSentence": "I'm not your mummy your mummy has a green body oh I'm sorry now little tadpole has four legs a tortoise is coming oh mummy mummy I'm not your mummy your mummy can jump but I can't oh I'm sorry now little tadpole has no tail a frog is coming big eyes ,",
+        "WrittenText": "",
+        "StartMs": 65600,
+        "EndMs": 110740,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 53,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 735,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 735,
+            "OffsetEndMs": 1040,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1570,
+            "OffsetEndMs": 2270,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 2740,
+            "OffsetEndMs": 3140,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3980,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 4030,
+            "OffsetEndMs": 4425,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 4425,
+            "OffsetEndMs": 4800,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4800,
+            "OffsetEndMs": 5180,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 5380,
+            "OffsetEndMs": 5780,
+            "Word": "body"
+          },
+          {
+            "OffsetStartMs": 7690,
+            "OffsetEndMs": 8090,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 8650,
+            "OffsetEndMs": 9195,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 9195,
+            "OffsetEndMs": 9470,
+            "Word": "sorry"
+          },
+          {
+            "OffsetStartMs": 12820,
+            "OffsetEndMs": 13220,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 13480,
+            "OffsetEndMs": 13880,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 13990,
+            "OffsetEndMs": 14840,
+            "Word": "tadpole"
+          },
+          {
+            "OffsetStartMs": 15100,
+            "OffsetEndMs": 15500,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 15610,
+            "OffsetEndMs": 16010,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 16120,
+            "OffsetEndMs": 16520,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 17560,
+            "OffsetEndMs": 17880,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 17880,
+            "OffsetEndMs": 18480,
+            "Word": "tortoise"
+          },
+          {
+            "OffsetStartMs": 18480,
+            "OffsetEndMs": 18735,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 18735,
+            "OffsetEndMs": 19070,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 20350,
+            "OffsetEndMs": 20750,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 21430,
+            "OffsetEndMs": 22130,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 22240,
+            "OffsetEndMs": 22940,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 23920,
+            "OffsetEndMs": 24570,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 24570,
+            "OffsetEndMs": 24860,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 24910,
+            "OffsetEndMs": 25310,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 25330,
+            "OffsetEndMs": 26030,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 26710,
+            "OffsetEndMs": 27110,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 27190,
+            "OffsetEndMs": 27885,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 27885,
+            "OffsetEndMs": 28220,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 28330,
+            "OffsetEndMs": 28730,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 29110,
+            "OffsetEndMs": 29490,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 29490,
+            "OffsetEndMs": 29870,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 29950,
+            "OffsetEndMs": 30800,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 31870,
+            "OffsetEndMs": 32270,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 32920,
+            "OffsetEndMs": 33375,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 33375,
+            "OffsetEndMs": 33650,
+            "Word": "sorry"
+          },
+          {
+            "OffsetStartMs": 36430,
+            "OffsetEndMs": 36830,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 37270,
+            "OffsetEndMs": 37670,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 37810,
+            "OffsetEndMs": 38690,
+            "Word": "tadpole"
+          },
+          {
+            "OffsetStartMs": 39010,
+            "OffsetEndMs": 39410,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 39430,
+            "OffsetEndMs": 39830,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 39940,
+            "OffsetEndMs": 40340,
+            "Word": "tail"
+          },
+          {
+            "OffsetStartMs": 41440,
+            "OffsetEndMs": 41835,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 41835,
+            "OffsetEndMs": 42570,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 42570,
+            "OffsetEndMs": 42900,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 42900,
+            "OffsetEndMs": 43280,
+            "Word": "coming"
+          },
+          {
+            "OffsetStartMs": 44470,
+            "OffsetEndMs": 44805,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 44805,
+            "OffsetEndMs": 45140,
+            "Word": "eyes"
+          },
+          {
+            "OffsetStartMs": 44805,
+            "OffsetEndMs": 45140,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " a big mouth and a green body and she can jump mummy,",
+        "SliceSentence": "a big mouth and a green body and she can jump mummy ,",
+        "WrittenText": "",
+        "StartMs": 111570,
+        "EndMs": 117880,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 575,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 940,
+            "Word": "mouth"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1610,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1790,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2045,
+            "Word": "green"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2410,
+            "Word": "body"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3920,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3920,
+            "OffsetEndMs": 4235,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 4235,
+            "OffsetEndMs": 4520,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 4520,
+            "OffsetEndMs": 4870,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 6310,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 5610,
+            "OffsetEndMs": 6310,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " mummy,",
+        "SliceSentence": "mummy ,",
+        "WrittenText": "",
+        "StartMs": 118080,
+        "EndMs": 118780,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "mummy"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " oh my baby I Miss you.",
+        "SliceSentence": "oh my baby I Miss you .",
+        "WrittenText": "",
+        "StartMs": 119580,
+        "EndMs": 123730,
+        "SpeechSpeed": 5.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "baby"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3610,
+            "Word": "Miss"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's catch flies,",
+        "SliceSentence": "Let's catch flies ,",
+        "WrittenText": "",
+        "StartMs": 126000,
+        "EndMs": 128660,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1545,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 1545,
+            "OffsetEndMs": 1880,
+            "Word": "catch"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2660,
+            "Word": "flies"
+          },
+          {
+            "OffsetStartMs": 2230,
+            "OffsetEndMs": 2660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " okay?",
+        "SliceSentence": "okay ?",
+        "WrittenText": "",
+        "StartMs": 130180,
+        "EndMs": 130580,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1520,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

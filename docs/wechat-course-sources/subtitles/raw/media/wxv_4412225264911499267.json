@@ -1,0 +1,521 @@
+{
+  "RequestId": "76cd948b-9518-4c39-8a6f-354e3dd7124f",
+  "Data": {
+    "TaskId": 16292433670,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 50.108688,
+    "Result": "Art.Ought.Hot.Hot.Part.Pot.Mum cooks soup in a pot. The soup is hot. Don't touch the pot. It's too hot. Mum cooks soup in a pot. The soup is hot. Don't touch the pot, it's too hot.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Art.",
+        "SliceSentence": "Art .",
+        "WrittenText": "",
+        "StartMs": 540,
+        "EndMs": 980,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Art"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Ought.",
+        "SliceSentence": "Ought .",
+        "WrittenText": "",
+        "StartMs": 1980,
+        "EndMs": 2240,
+        "SpeechSpeed": 19.2,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "Ought"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hot.",
+        "SliceSentence": "Hot .",
+        "WrittenText": "",
+        "StartMs": 5820,
+        "EndMs": 6260,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Hot"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hot.",
+        "SliceSentence": "Hot .",
+        "WrittenText": "",
+        "StartMs": 7240,
+        "EndMs": 7530,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Hot"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Part.",
+        "SliceSentence": "Part .",
+        "WrittenText": "",
+        "StartMs": 12140,
+        "EndMs": 12550,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Part"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Pot.",
+        "SliceSentence": "Pot .",
+        "WrittenText": "",
+        "StartMs": 13660,
+        "EndMs": 13950,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "Pot"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mum cooks soup in a pot.",
+        "SliceSentence": "Mum cooks soup in a pot .",
+        "WrittenText": "",
+        "StartMs": 17500,
+        "EndMs": 25740,
+        "SpeechSpeed": 2.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4760,
+            "Word": "Mum"
+          },
+          {
+            "OffsetStartMs": 4960,
+            "OffsetEndMs": 5595,
+            "Word": "cooks"
+          },
+          {
+            "OffsetStartMs": 5595,
+            "OffsetEndMs": 5900,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7360,
+            "OffsetEndMs": 7760,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 7840,
+            "OffsetEndMs": 8240,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 7840,
+            "OffsetEndMs": 8240,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The soup is hot.",
+        "SliceSentence": "The soup is hot .",
+        "WrittenText": "",
+        "StartMs": 26480,
+        "EndMs": 28290,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1270,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't touch the pot.",
+        "SliceSentence": "Don't touch the pot .",
+        "WrittenText": "",
+        "StartMs": 29090,
+        "EndMs": 30630,
+        "SpeechSpeed": 13,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 965,
+            "Word": "touch"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1250,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's too hot.",
+        "SliceSentence": "It's too hot .",
+        "WrittenText": "",
+        "StartMs": 31460,
+        "EndMs": 33060,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 700,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mum cooks soup in a pot.",
+        "SliceSentence": "Mum cooks soup in a pot .",
+        "WrittenText": "",
+        "StartMs": 36230,
+        "EndMs": 40080,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Mum"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1145,
+            "Word": "cooks"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3280,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 3450,
+            "OffsetEndMs": 3850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The soup is hot.",
+        "SliceSentence": "The soup is hot .",
+        "WrittenText": "",
+        "StartMs": 40850,
+        "EndMs": 42540,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "soup"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Don't touch the pot,",
+        "SliceSentence": "Don't touch the pot ,",
+        "WrittenText": "",
+        "StartMs": 43340,
+        "EndMs": 44940,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 680,
+            "Word": "Don't"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1010,
+            "Word": "touch"
+          },
+          {
+            "OffsetStartMs": 1010,
+            "OffsetEndMs": 1295,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": "pot"
+          },
+          {
+            "OffsetStartMs": 1295,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's too hot.",
+        "SliceSentence": "it's too hot .",
+        "WrittenText": "",
+        "StartMs": 45740,
+        "EndMs": 47280,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "hot"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

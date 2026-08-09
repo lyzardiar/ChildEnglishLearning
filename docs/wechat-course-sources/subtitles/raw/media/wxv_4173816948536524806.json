@@ -1,0 +1,980 @@
+{
+  "RequestId": "0b2f7462-f76c-45f5-a74e-523264b4d480",
+  "Data": {
+    "TaskId": 16292500561,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 107.485188,
+    "Result": "City mouse and country mouse. City mouse lives in a city. There are too many people and cars here let me visit my friend in the country. City mouse goes to visit his friend, country mouse.Welcome to my home in the country they eat apples for dinner. It's quiet here but it's not fun come with me to the city okay? In the city they eat some nice food have some cheese yummy yummy. Listen, what can you hear? A big cat run now they are safe come with me to the country it's safe there. Oh no, the country is good for you but the city.Is good for me. The two mice say goodbye, they go back to their homes.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "City mouse and country mouse.",
+        "SliceSentence": "City mouse and country mouse .",
+        "WrittenText": "",
+        "StartMs": 740,
+        "EndMs": 3610,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 190,
+            "OffsetEndMs": 590,
+            "Word": "City"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 1760,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2870,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " City mouse lives in a city.",
+        "SliceSentence": "City mouse lives in a city .",
+        "WrittenText": "",
+        "StartMs": 6300,
+        "EndMs": 9370,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "City"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "lives"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2525,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2525,
+            "OffsetEndMs": 2750,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 2750,
+            "OffsetEndMs": 3070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2690,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are too many people and cars here let me visit my friend in the country.",
+        "SliceSentence": "There are too many people and cars here let me visit my friend in the country .",
+        "WrittenText": "",
+        "StartMs": 15150,
+        "EndMs": 23200,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 17,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 695,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1090,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "many"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "cars"
+          },
+          {
+            "OffsetStartMs": 3420,
+            "OffsetEndMs": 3820,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 4860,
+            "OffsetEndMs": 5240,
+            "Word": "let"
+          },
+          {
+            "OffsetStartMs": 5240,
+            "OffsetEndMs": 5600,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 5600,
+            "OffsetEndMs": 5980,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 6090,
+            "OffsetEndMs": 6490,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 6540,
+            "OffsetEndMs": 6940,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 7050,
+            "OffsetEndMs": 7400,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 7400,
+            "OffsetEndMs": 7700,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7700,
+            "OffsetEndMs": 8050,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 7700,
+            "OffsetEndMs": 8050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " City mouse goes to visit his friend,",
+        "SliceSentence": "City mouse goes to visit his friend ,",
+        "WrittenText": "",
+        "StartMs": 26430,
+        "EndMs": 29890,
+        "SpeechSpeed": 10.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "City"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "goes"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2255,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2560,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3065,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3460,
+            "Word": "friend"
+          },
+          {
+            "OffsetStartMs": 3065,
+            "OffsetEndMs": 3460,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " country mouse.",
+        "SliceSentence": "country mouse .",
+        "WrittenText": "",
+        "StartMs": 30300,
+        "EndMs": 31330,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "mouse"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Welcome to my home in the country they eat apples for dinner.",
+        "SliceSentence": "Welcome to my home in the country they eat apples for dinner .",
+        "WrittenText": "",
+        "StartMs": 33400,
+        "EndMs": 43200,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 1210,
+            "OffsetEndMs": 1610,
+            "Word": "Welcome"
+          },
+          {
+            "OffsetStartMs": 2020,
+            "OffsetEndMs": 2415,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2415,
+            "OffsetEndMs": 2810,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2830,
+            "OffsetEndMs": 3230,
+            "Word": "home"
+          },
+          {
+            "OffsetStartMs": 5890,
+            "OffsetEndMs": 6240,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 6240,
+            "OffsetEndMs": 6510,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6510,
+            "OffsetEndMs": 6830,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 7450,
+            "OffsetEndMs": 7845,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 7845,
+            "OffsetEndMs": 8240,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 8350,
+            "OffsetEndMs": 8750,
+            "Word": "apples"
+          },
+          {
+            "OffsetStartMs": 9160,
+            "OffsetEndMs": 9480,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 9480,
+            "OffsetEndMs": 9800,
+            "Word": "dinner"
+          },
+          {
+            "OffsetStartMs": 9480,
+            "OffsetEndMs": 9800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's quiet here but it's not fun come with me to the city okay?",
+        "SliceSentence": "It's quiet here but it's not fun come with me to the city okay ?",
+        "WrittenText": "",
+        "StartMs": 44480,
+        "EndMs": 52890,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 15,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 530,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 850,
+            "Word": "quiet"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 2190,
+            "OffsetEndMs": 2510,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2510,
+            "OffsetEndMs": 2840,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 2840,
+            "OffsetEndMs": 3130,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 3150,
+            "OffsetEndMs": 3550,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 4530,
+            "OffsetEndMs": 4910,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 4910,
+            "OffsetEndMs": 5240,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 5240,
+            "OffsetEndMs": 5590,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6050,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 6050,
+            "OffsetEndMs": 6290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 6290,
+            "OffsetEndMs": 6610,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 8010,
+            "OffsetEndMs": 8410,
+            "Word": "okay"
+          },
+          {
+            "OffsetStartMs": 8010,
+            "OffsetEndMs": 8410,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " In the city they eat some nice food have some cheese yummy yummy.",
+        "SliceSentence": "In the city they eat some nice food have some cheese yummy yummy .",
+        "WrittenText": "",
+        "StartMs": 54680,
+        "EndMs": 66720,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "In"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 755,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1090,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2075,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2470,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2975,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 2975,
+            "OffsetEndMs": 3370,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 4920,
+            "OffsetEndMs": 5315,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 5315,
+            "OffsetEndMs": 5710,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 5730,
+            "OffsetEndMs": 6130,
+            "Word": "cheese"
+          },
+          {
+            "OffsetStartMs": 10380,
+            "OffsetEndMs": 11110,
+            "Word": "yummy"
+          },
+          {
+            "OffsetStartMs": 11280,
+            "OffsetEndMs": 12040,
+            "Word": "yummy"
+          },
+          {
+            "OffsetStartMs": 11280,
+            "OffsetEndMs": 12040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Listen,",
+        "SliceSentence": "Listen ,",
+        "WrittenText": "",
+        "StartMs": 68000,
+        "EndMs": 68400,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1280,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what can you hear?",
+        "SliceSentence": "what can you hear ?",
+        "WrittenText": "",
+        "StartMs": 69140,
+        "EndMs": 70710,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1190,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1570,
+            "Word": "hear"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1570,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A big cat run now they are safe come with me to the country it's safe there.",
+        "SliceSentence": "A big cat run now they are safe come with me to the country it's safe there .",
+        "WrittenText": "",
+        "StartMs": 71780,
+        "EndMs": 86670,
+        "SpeechSpeed": 5.1,
+        "WordsNum": 18,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 1000,
+            "Word": "cat"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "run"
+          },
+          {
+            "OffsetStartMs": 7170,
+            "OffsetEndMs": 7570,
+            "Word": "now"
+          },
+          {
+            "OffsetStartMs": 7800,
+            "OffsetEndMs": 8150,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 8150,
+            "OffsetEndMs": 8495,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 8495,
+            "OffsetEndMs": 8890,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 10230,
+            "OffsetEndMs": 10630,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 10740,
+            "OffsetEndMs": 11140,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 11160,
+            "OffsetEndMs": 11560,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 11700,
+            "OffsetEndMs": 12035,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 12035,
+            "OffsetEndMs": 12275,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 12275,
+            "OffsetEndMs": 12580,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 13410,
+            "OffsetEndMs": 13985,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 13985,
+            "OffsetEndMs": 14290,
+            "Word": "safe"
+          },
+          {
+            "OffsetStartMs": 14490,
+            "OffsetEndMs": 14890,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 14490,
+            "OffsetEndMs": 14890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1070,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh no,",
+        "SliceSentence": "Oh no ,",
+        "WrittenText": "",
+        "StartMs": 87860,
+        "EndMs": 88740,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the country is good for you but the city.",
+        "SliceSentence": "the country is good for you but the city .",
+        "WrittenText": "",
+        "StartMs": 90290,
+        "EndMs": 93450,
+        "SpeechSpeed": 13,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 580,
+            "Word": "country"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1070,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1385,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1670,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1990,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2630,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 2630,
+            "OffsetEndMs": 2855,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3160,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3160,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is good for me.",
+        "SliceSentence": "Is good for me .",
+        "WrittenText": "",
+        "StartMs": 93880,
+        "EndMs": 95010,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 195,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 195,
+            "OffsetEndMs": 495,
+            "Word": "good"
+          },
+          {
+            "OffsetStartMs": 495,
+            "OffsetEndMs": 795,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1130,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1130,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The two mice say goodbye,",
+        "SliceSentence": "The two mice say goodbye ,",
+        "WrittenText": "",
+        "StartMs": 95960,
+        "EndMs": 98730,
+        "SpeechSpeed": 9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "two"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1570,
+            "Word": "mice"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "goodbye"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " they go back to their homes.",
+        "SliceSentence": "they go back to their homes .",
+        "WrittenText": "",
+        "StartMs": 99530,
+        "EndMs": 101550,
+        "SpeechSpeed": 13.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 725,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1120,
+            "Word": "back"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1460,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1685,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2020,
+            "Word": "homes"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

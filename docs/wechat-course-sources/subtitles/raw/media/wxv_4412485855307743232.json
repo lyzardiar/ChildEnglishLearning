@@ -1,0 +1,404 @@
+{
+  "RequestId": "15cb4b9f-581d-4572-aaa0-518983929f1b",
+  "Data": {
+    "TaskId": 16292484096,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 55.611813,
+    "Result": "B R B brush Brian's job is cutting hair. Brady's job is baking bread. Brianna's job is gardening. She plants flowers instead. One day I'll have a job like that, but today I have another. I'm looking after Brendan. He's my little brother.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "B R B brush Brian's job is cutting hair.",
+        "SliceSentence": "B R B brush Brian's job is cutting hair .",
+        "WrittenText": "",
+        "StartMs": 120,
+        "EndMs": 25100,
+        "SpeechSpeed": 1.6,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 5680,
+            "OffsetEndMs": 6080,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 6130,
+            "OffsetEndMs": 6530,
+            "Word": "R"
+          },
+          {
+            "OffsetStartMs": 7150,
+            "OffsetEndMs": 7550,
+            "Word": "B"
+          },
+          {
+            "OffsetStartMs": 14980,
+            "OffsetEndMs": 15380,
+            "Word": "brush"
+          },
+          {
+            "OffsetStartMs": 21100,
+            "OffsetEndMs": 22200,
+            "Word": "Brian's"
+          },
+          {
+            "OffsetStartMs": 22200,
+            "OffsetEndMs": 22580,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 22810,
+            "OffsetEndMs": 23210,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 23980,
+            "OffsetEndMs": 24380,
+            "Word": "cutting"
+          },
+          {
+            "OffsetStartMs": 24580,
+            "OffsetEndMs": 24980,
+            "Word": "hair"
+          },
+          {
+            "OffsetStartMs": 24580,
+            "OffsetEndMs": 24980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Brady's job is baking bread.",
+        "SliceSentence": "Brady's job is baking bread .",
+        "WrittenText": "",
+        "StartMs": 25960,
+        "EndMs": 29960,
+        "SpeechSpeed": 7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1030,
+            "Word": "Brady's"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2970,
+            "OffsetEndMs": 3650,
+            "Word": "baking"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4000,
+            "Word": "bread"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 4000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Brianna's job is gardening.",
+        "SliceSentence": "Brianna's job is gardening .",
+        "WrittenText": "",
+        "StartMs": 30550,
+        "EndMs": 33920,
+        "SpeechSpeed": 8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1090,
+            "Word": "Brianna's"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2290,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 3370,
+            "Word": "gardening"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 3370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She plants flowers instead.",
+        "SliceSentence": "She plants flowers instead .",
+        "WrittenText": "",
+        "StartMs": 34810,
+        "EndMs": 37700,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 1090,
+            "Word": "plants"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "flowers"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "instead"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One day I'll have a job like that,",
+        "SliceSentence": "One day I'll have a job like that ,",
+        "WrittenText": "",
+        "StartMs": 39070,
+        "EndMs": 42950,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1850,
+            "Word": "I'll"
+          },
+          {
+            "OffsetStartMs": 1850,
+            "OffsetEndMs": 2140,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2480,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2480,
+            "OffsetEndMs": 2800,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " but today I have another.",
+        "SliceSentence": "but today I have another .",
+        "WrittenText": "",
+        "StartMs": 43450,
+        "EndMs": 46430,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "but"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1625,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1625,
+            "OffsetEndMs": 1960,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "another"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm looking after Brendan.",
+        "SliceSentence": "I'm looking after Brendan .",
+        "WrittenText": "",
+        "StartMs": 47410,
+        "EndMs": 50600,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 695,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "looking"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 3190,
+            "Word": "Brendan"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 3190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He's my little brother.",
+        "SliceSentence": "He's my little brother .",
+        "WrittenText": "",
+        "StartMs": 50980,
+        "EndMs": 53240,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 725,
+            "Word": "He's"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1030,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "brother"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

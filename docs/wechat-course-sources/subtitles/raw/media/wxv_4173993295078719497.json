@@ -1,0 +1,315 @@
+{
+  "RequestId": "fcce44c9-679f-4445-9345-ef1ee72c191a",
+  "Data": {
+    "TaskId": 16292511532,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 44.04825,
+    "Result": "You a sunday?Every sunday I go to my grandparents house. They hug me and give me a bun. We drink tea and chat, then go to the park. Visiting them is such fun.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "You a sunday?",
+        "SliceSentence": "You a sunday ?",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 15480,
+        "SpeechSpeed": 0.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 6070,
+            "OffsetEndMs": 6470,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 7240,
+            "OffsetEndMs": 7640,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 14980,
+            "OffsetEndMs": 15380,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 14980,
+            "OffsetEndMs": 15380,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Every sunday I go to my grandparents house.",
+        "SliceSentence": "Every sunday I go to my grandparents house .",
+        "WrittenText": "",
+        "StartMs": 19800,
+        "EndMs": 27170,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 2140,
+            "OffsetEndMs": 2540,
+            "Word": "Every"
+          },
+          {
+            "OffsetStartMs": 3340,
+            "OffsetEndMs": 3740,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 4360,
+            "OffsetEndMs": 4680,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 5000,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 5170,
+            "OffsetEndMs": 5520,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5520,
+            "OffsetEndMs": 5835,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 5835,
+            "OffsetEndMs": 7065,
+            "Word": "grandparents"
+          },
+          {
+            "OffsetStartMs": 7065,
+            "OffsetEndMs": 7370,
+            "Word": "house"
+          },
+          {
+            "OffsetStartMs": 7065,
+            "OffsetEndMs": 7370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They hug me and give me a bun.",
+        "SliceSentence": "They hug me and give me a bun .",
+        "WrittenText": "",
+        "StartMs": 27700,
+        "EndMs": 30710,
+        "SpeechSpeed": 10,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 830,
+            "Word": "hug"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1120,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1505,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1870,
+            "Word": "give"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2420,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 2420,
+            "OffsetEndMs": 2690,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3010,
+            "Word": "bun"
+          },
+          {
+            "OffsetStartMs": 2690,
+            "OffsetEndMs": 3010,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We drink tea and chat,",
+        "SliceSentence": "We drink tea and chat ,",
+        "WrittenText": "",
+        "StartMs": 31420,
+        "EndMs": 33110,
+        "SpeechSpeed": 13,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "drink"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1070,
+            "Word": "tea"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1355,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": "chat"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1690,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " then go to the park.",
+        "SliceSentence": "then go to the park .",
+        "WrittenText": "",
+        "StartMs": 33340,
+        "EndMs": 35390,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1520,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1760,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2050,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 1760,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Visiting them is such fun.",
+        "SliceSentence": "Visiting them is such fun .",
+        "WrittenText": "",
+        "StartMs": 36400,
+        "EndMs": 40280,
+        "SpeechSpeed": 6.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Visiting"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "such"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "fun"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

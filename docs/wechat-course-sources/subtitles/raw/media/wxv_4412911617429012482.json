@@ -1,0 +1,600 @@
+{
+  "RequestId": "f9be0993-5be8-41fa-9171-f7b79010912a",
+  "Data": {
+    "TaskId": 16292540414,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 47.368688,
+    "Result": "The spring festival comes in january or february. Every year. It is an important Chinese festival. People also call it Chinese new year. On Chinese new year's Eve, families have a big dinner together. They often eat fish and dumplings. People visit their friends and relatives. Children often get red packets with some money in them. People also watch fireworks at night. They like the beautiful fireworks very much.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "The spring festival comes in january or february.",
+        "SliceSentence": "The spring festival comes in january or february .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 3950,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 375,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 705,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 705,
+            "OffsetEndMs": 1070,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 1570,
+            "OffsetEndMs": 1950,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2295,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2295,
+            "OffsetEndMs": 2660,
+            "Word": "january"
+          },
+          {
+            "OffsetStartMs": 3220,
+            "OffsetEndMs": 3585,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 3585,
+            "OffsetEndMs": 3950,
+            "Word": "february"
+          },
+          {
+            "OffsetStartMs": 3585,
+            "OffsetEndMs": 3950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Every year.",
+        "SliceSentence": "Every year .",
+        "WrittenText": "",
+        "StartMs": 4390,
+        "EndMs": 5240,
+        "SpeechSpeed": 12.9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Every"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is an important Chinese festival.",
+        "SliceSentence": "It is an important Chinese festival .",
+        "WrittenText": "",
+        "StartMs": 6220,
+        "EndMs": 8480,
+        "SpeechSpeed": 15.9,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 455,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 710,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1090,
+            "Word": "important"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "festival"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People also call it Chinese new year.",
+        "SliceSentence": "People also call it Chinese new year .",
+        "WrittenText": "",
+        "StartMs": 9610,
+        "EndMs": 12830,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1505,
+            "Word": "call"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1840,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2900,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3220,
+            "Word": "year"
+          },
+          {
+            "OffsetStartMs": 2900,
+            "OffsetEndMs": 3220,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " On Chinese new year's Eve,",
+        "SliceSentence": "On Chinese new year's Eve ,",
+        "WrittenText": "",
+        "StartMs": 14650,
+        "EndMs": 16490,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "On"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "Chinese"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1175,
+            "Word": "new"
+          },
+          {
+            "OffsetStartMs": 1175,
+            "OffsetEndMs": 1580,
+            "Word": "year's"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1840,
+            "Word": "Eve"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " families have a big dinner together.",
+        "SliceSentence": "families have a big dinner together .",
+        "WrittenText": "",
+        "StartMs": 17140,
+        "EndMs": 19610,
+        "SpeechSpeed": 14.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "families"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1160,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1325,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1580,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1960,
+            "Word": "dinner"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "together"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They often eat fish and dumplings.",
+        "SliceSentence": "They often eat fish and dumplings .",
+        "WrittenText": "",
+        "StartMs": 21280,
+        "EndMs": 23870,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 610,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 995,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1360,
+            "Word": "fish"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1940,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2590,
+            "Word": "dumplings"
+          },
+          {
+            "OffsetStartMs": 1940,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People visit their friends and relatives.",
+        "SliceSentence": "People visit their friends and relatives .",
+        "WrittenText": "",
+        "StartMs": 26290,
+        "EndMs": 28940,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "visit"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1160,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1510,
+            "Word": "friends"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1955,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2650,
+            "Word": "relatives"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Children often get red packets with some money in them.",
+        "SliceSentence": "Children often get red packets with some money in them .",
+        "WrittenText": "",
+        "StartMs": 31390,
+        "EndMs": 35750,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Children"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "often"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1685,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 2000,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 2000,
+            "OffsetEndMs": 2650,
+            "Word": "packets"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3230,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 3230,
+            "OffsetEndMs": 3485,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 3485,
+            "OffsetEndMs": 3785,
+            "Word": "money"
+          },
+          {
+            "OffsetStartMs": 3785,
+            "OffsetEndMs": 4055,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 4055,
+            "OffsetEndMs": 4360,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 4055,
+            "OffsetEndMs": 4360,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " People also watch fireworks at night.",
+        "SliceSentence": "People also watch fireworks at night .",
+        "WrittenText": "",
+        "StartMs": 39070,
+        "EndMs": 41900,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "People"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1475,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 2210,
+            "Word": "fireworks"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2495,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2830,
+            "Word": "night"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They like the beautiful fireworks very much.",
+        "SliceSentence": "They like the beautiful fireworks very much .",
+        "WrittenText": "",
+        "StartMs": 43480,
+        "EndMs": 46430,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 620,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 890,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 890,
+            "OffsetEndMs": 1180,
+            "Word": "beautiful"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1990,
+            "Word": "fireworks"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2555,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2950,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "RequestId": "4ee0247a-9faf-4f5b-b07b-5d403150bfa1",
+  "Data": {
+    "TaskId": 16292400367,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.418125,
+    "Result": "Our weekends I go to the park with my family. I fly in the playground with my sister. I fly a kite with my father. I row a boat with my parents. I have a picnic with my family in the park.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Our weekends I go to the park with my family.",
+        "SliceSentence": "Our weekends I go to the park with my family .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 7460,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "Our"
+          },
+          {
+            "OffsetStartMs": 1180,
+            "OffsetEndMs": 1820,
+            "Word": "weekends"
+          },
+          {
+            "OffsetStartMs": 4150,
+            "OffsetEndMs": 4550,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4570,
+            "OffsetEndMs": 4950,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 4950,
+            "OffsetEndMs": 5220,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5400,
+            "OffsetEndMs": 5690,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 6370,
+            "OffsetEndMs": 6765,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 6765,
+            "OffsetEndMs": 7110,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7460,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 7110,
+            "OffsetEndMs": 7460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I fly in the playground with my sister.",
+        "SliceSentence": "I fly in the playground with my sister .",
+        "WrittenText": "",
+        "StartMs": 9310,
+        "EndMs": 12710,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 860,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1130,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1340,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 2020,
+            "Word": "playground"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2720,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2720,
+            "OffsetEndMs": 3050,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3400,
+            "Word": "sister"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1850,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I fly a kite with my father.",
+        "SliceSentence": "I fly a kite with my father .",
+        "WrittenText": "",
+        "StartMs": 14590,
+        "EndMs": 17540,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 830,
+            "Word": "fly"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1115,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1420,
+            "Word": "kite"
+          },
+          {
+            "OffsetStartMs": 1890,
+            "OffsetEndMs": 2255,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2255,
+            "OffsetEndMs": 2585,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2950,
+            "Word": "father"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I row a boat with my parents.",
+        "SliceSentence": "I row a boat with my parents .",
+        "WrittenText": "",
+        "StartMs": 19690,
+        "EndMs": 22460,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 860,
+            "Word": "row"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1145,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1450,
+            "Word": "boat"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2075,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2075,
+            "OffsetEndMs": 2405,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2770,
+            "Word": "parents"
+          },
+          {
+            "OffsetStartMs": 2405,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I have a picnic with my family in the park.",
+        "SliceSentence": "I have a picnic with my family in the park .",
+        "WrittenText": "",
+        "StartMs": 24190,
+        "EndMs": 28130,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 860,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1480,
+            "Word": "picnic"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2045,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2045,
+            "OffsetEndMs": 2285,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 2590,
+            "Word": "family"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3440,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3440,
+            "OffsetEndMs": 3665,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3940,
+            "Word": "park"
+          },
+          {
+            "OffsetStartMs": 3665,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1730,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

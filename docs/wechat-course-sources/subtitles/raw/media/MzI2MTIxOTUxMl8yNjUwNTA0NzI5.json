@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 3,
+  "engine": "whisper.cpp",
+  "model": "small.en-q5_1",
+  "mediaId": "MzI2MTIxOTUxMl8yNjUwNTA0NzI5",
+  "complete": true,
+  "transcription": [
+    {
+      "timestamps": {
+        "from": "00:00:00,000",
+        "to": "00:00:09,000"
+      },
+      "offsets": {
+        "from": 0,
+        "to": 9000
+      },
+      "text": " days of the week Monday Monday Tuesday Tuesday Wednesday Wednesday",
+      "tokens": [
+        {
+          "text": "[_BEG_]",
+          "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000"
+          },
+          "offsets": {
+            "from": 0,
+            "to": 0
+          },
+          "id": 50363,
+          "p": 0.774305,
+          "t_dtw": -1
+        },
+        {
+          "text": " days",
+          "timestamps": {
+            "from": "00:00:00,060",
+            "to": "00:00:00,600"
+          },
+          "offsets": {
+            "from": 60,
+            "to": 600
+          },
+          "id": 1528,
+          "p": 0.491868,
+          "t_dtw": -1
+        },
+        {
+          "text": " of",
+          "timestamps": {
+            "from": "00:00:00,760",
+            "to": "00:00:00,910"
+          },
+          "offsets": {
+            "from": 760,
+            "to": 910
+          },
+          "id": 286,
+          "p": 0.96898,
+          "t_dtw": -1
+        },
+        {
+          "text": " the",
+          "timestamps": {
+            "from": "00:00:00,910",
+            "to": "00:00:01,240"
+          },
+          "offsets": {
+            "from": 910,
+            "to": 1240
+          },
+          "id": 262,
+          "p": 0.992197,
+          "t_dtw": -1
+        },
+        {
+          "text": " week",
+          "timestamps": {
+            "from": "00:00:01,400",
+            "to": "00:00:02,000"
+          },
+          "offsets": {
+            "from": 1400,
+            "to": 2000
+          },
+          "id": 1285,
+          "p": 0.991877,
+          "t_dtw": -1
+        },
+        {
+          "text": " Monday",
+          "timestamps": {
+            "from": "00:00:02,000",
+            "to": "00:00:03,530"
+          },
+          "offsets": {
+            "from": 2000,
+            "to": 3530
+          },
+          "id": 3321,
+          "p": 0.746059,
+          "t_dtw": -1
+        },
+        {
+          "text": " Monday",
+          "timestamps": {
+            "from": "00:00:04,080",
+            "to": "00:00:04,730"
+          },
+          "offsets": {
+            "from": 4080,
+            "to": 4730
+          },
+          "id": 3321,
+          "p": 0.904509,
+          "t_dtw": -1
+        },
+        {
+          "text": " Tuesday",
+          "timestamps": {
+            "from": "00:00:05,340",
+            "to": "00:00:06,000"
+          },
+          "offsets": {
+            "from": 5340,
+            "to": 6000
+          },
+          "id": 3431,
+          "p": 0.820033,
+          "t_dtw": -1
+        },
+        {
+          "text": " Tuesday",
+          "timestamps": {
+            "from": "00:00:06,310",
+            "to": "00:00:07,050"
+          },
+          "offsets": {
+            "from": 6310,
+            "to": 7050
+          },
+          "id": 3431,
+          "p": 0.823375,
+          "t_dtw": -1
+        },
+        {
+          "text": " Wednesday",
+          "timestamps": {
+            "from": "00:00:07,530",
+            "to": "00:00:08,220"
+          },
+          "offsets": {
+            "from": 7530,
+            "to": 8220
+          },
+          "id": 3583,
+          "p": 0.851423,
+          "t_dtw": -1
+        },
+        {
+          "text": " Wednesday",
+          "timestamps": {
+            "from": "00:00:08,670",
+            "to": "00:00:09,000"
+          },
+          "offsets": {
+            "from": 8670,
+            "to": 9000
+          },
+          "id": 3583,
+          "p": 0.70019,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_450]",
+          "timestamps": {
+            "from": "00:00:09,000",
+            "to": "00:00:09,000"
+          },
+          "offsets": {
+            "from": 9000,
+            "to": 9000
+          },
+          "id": 50813,
+          "p": 0.0480095,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:09,000",
+        "to": "00:00:16,000"
+      },
+      "offsets": {
+        "from": 9000,
+        "to": 16000
+      },
+      "text": " Thursday Thursday Friday Friday Saturday Saturday",
+      "tokens": [
+        {
+          "text": " Thursday",
+          "timestamps": {
+            "from": "00:00:09,760",
+            "to": "00:00:10,420"
+          },
+          "offsets": {
+            "from": 9760,
+            "to": 10420
+          },
+          "id": 3635,
+          "p": 0.989997,
+          "t_dtw": -1
+        },
+        {
+          "text": " Thursday",
+          "timestamps": {
+            "from": "00:00:10,420",
+            "to": "00:00:11,300"
+          },
+          "offsets": {
+            "from": 10420,
+            "to": 11300
+          },
+          "id": 3635,
+          "p": 0.984252,
+          "t_dtw": -1
+        },
+        {
+          "text": " Friday",
+          "timestamps": {
+            "from": "00:00:11,970",
+            "to": "00:00:12,520"
+          },
+          "offsets": {
+            "from": 11970,
+            "to": 12520
+          },
+          "id": 3217,
+          "p": 0.99176,
+          "t_dtw": -1
+        },
+        {
+          "text": " Friday",
+          "timestamps": {
+            "from": "00:00:13,080",
+            "to": "00:00:13,730"
+          },
+          "offsets": {
+            "from": 13080,
+            "to": 13730
+          },
+          "id": 3217,
+          "p": 0.992404,
+          "t_dtw": -1
+        },
+        {
+          "text": " Saturday",
+          "timestamps": {
+            "from": "00:00:14,340",
+            "to": "00:00:14,990"
+          },
+          "offsets": {
+            "from": 14340,
+            "to": 14990
+          },
+          "id": 3909,
+          "p": 0.736561,
+          "t_dtw": -1
+        },
+        {
+          "text": " Saturday",
+          "timestamps": {
+            "from": "00:00:15,000",
+            "to": "00:00:16,000"
+          },
+          "offsets": {
+            "from": 15000,
+            "to": 16000
+          },
+          "id": 3909,
+          "p": 0.969739,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_800]",
+          "timestamps": {
+            "from": "00:00:16,000",
+            "to": "00:00:16,000"
+          },
+          "offsets": {
+            "from": 16000,
+            "to": 16000
+          },
+          "id": 51163,
+          "p": 0.281091,
+          "t_dtw": -1
+        }
+      ]
+    },
+    {
+      "timestamps": {
+        "from": "00:00:16,000",
+        "to": "00:00:18,000"
+      },
+      "offsets": {
+        "from": 16000,
+        "to": 18000
+      },
+      "text": " Sunday Sunday",
+      "tokens": [
+        {
+          "text": " Sunday",
+          "timestamps": {
+            "from": "00:00:16,760",
+            "to": "00:00:17,000"
+          },
+          "offsets": {
+            "from": 16760,
+            "to": 17000
+          },
+          "id": 3502,
+          "p": 0.986839,
+          "t_dtw": -1
+        },
+        {
+          "text": " Sunday",
+          "timestamps": {
+            "from": "00:00:17,000",
+            "to": "00:00:18,000"
+          },
+          "offsets": {
+            "from": 17000,
+            "to": 18000
+          },
+          "id": 3502,
+          "p": 0.995721,
+          "t_dtw": -1
+        },
+        {
+          "text": "[_TT_900]",
+          "timestamps": {
+            "from": "00:00:18,000",
+            "to": "00:00:18,000"
+          },
+          "offsets": {
+            "from": 18000,
+            "to": 18000
+          },
+          "id": 51263,
+          "p": 0.353321,
+          "t_dtw": -1
+        }
+      ]
+    }
+  ]
+}

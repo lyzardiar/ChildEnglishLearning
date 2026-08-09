@@ -1,0 +1,405 @@
+{
+  "RequestId": "0bf51e5c-3594-4742-987b-d254a6fb2e1b",
+  "Data": {
+    "TaskId": 16292410415,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.952188,
+    "Result": "You are.Uncle Lee, uncle Lee, it's ready. An umbrella for you. An umbrella for me, uncle Li. An Li, it's rainy. An umbrella for you, an umbrella for me.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "You are.",
+        "SliceSentence": "You are .",
+        "WrittenText": "",
+        "StartMs": 840,
+        "EndMs": 2300,
+        "SpeechSpeed": 4.8,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Uncle Lee,",
+        "SliceSentence": "Uncle Lee ,",
+        "WrittenText": "",
+        "StartMs": 3260,
+        "EndMs": 8680,
+        "SpeechSpeed": 1.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 4420,
+            "OffsetEndMs": 4820,
+            "Word": "Uncle"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5420,
+            "Word": "Lee"
+          },
+          {
+            "OffsetStartMs": 5020,
+            "OffsetEndMs": 5420,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " uncle Lee,",
+        "SliceSentence": "uncle Lee ,",
+        "WrittenText": "",
+        "StartMs": 8820,
+        "EndMs": 9850,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "uncle"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": "Lee"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 1030,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's ready.",
+        "SliceSentence": "it's ready .",
+        "WrittenText": "",
+        "StartMs": 10080,
+        "EndMs": 11590,
+        "SpeechSpeed": 7.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 730,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "ready"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " An umbrella for you.",
+        "SliceSentence": "An umbrella for you .",
+        "WrittenText": "",
+        "StartMs": 12240,
+        "EndMs": 14110,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "An"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1265,
+            "Word": "umbrella"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1520,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " An umbrella for me,",
+        "SliceSentence": "An umbrella for me ,",
+        "WrittenText": "",
+        "StartMs": 14640,
+        "EndMs": 16480,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "An"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 1220,
+            "Word": "umbrella"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1490,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1840,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " uncle Li.",
+        "SliceSentence": "uncle Li .",
+        "WrittenText": "",
+        "StartMs": 19590,
+        "EndMs": 20650,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "uncle"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " An Li,",
+        "SliceSentence": "An Li ,",
+        "WrittenText": "",
+        "StartMs": 20760,
+        "EndMs": 21820,
+        "SpeechSpeed": 5.7,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "An"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "Li"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 110,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's rainy.",
+        "SliceSentence": "it's rainy .",
+        "WrittenText": "",
+        "StartMs": 22020,
+        "EndMs": 24010,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 790,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1990,
+            "Word": "rainy"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " An umbrella for you,",
+        "SliceSentence": "An umbrella for you ,",
+        "WrittenText": "",
+        "StartMs": 24180,
+        "EndMs": 26020,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "An"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1205,
+            "Word": "umbrella"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1475,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1840,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " an umbrella for me.",
+        "SliceSentence": "an umbrella for me .",
+        "WrittenText": "",
+        "StartMs": 26460,
+        "EndMs": 28420,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 1325,
+            "Word": "umbrella"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1610,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1960,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

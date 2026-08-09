@@ -1,0 +1,37 @@
+{
+  "name": "childenglishlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build:catalog": "node scripts/build-miniprogram-catalog.mjs",
+    "subtitles:unit1": "node scripts/generate-unit-subtitles.mjs --grade 1 --semester lower --unit 1",
+    "subtitles:prepare": "node scripts/generate-unit-subtitles.mjs --all",
+    "subtitles:prepare-local": "node scripts/generate-unit-subtitles.mjs --all --local-asr",
+    "subtitles:translate": "node scripts/translate-subtitles.mjs",
+    "subtitles:upload": "node scripts/upload-subtitles.mjs",
+    "test": "node scripts/validate-miniprogram.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyzardiar/ChildEnglishLearning.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lyzardiar/ChildEnglishLearning/issues"
+  },
+  "homepage": "https://github.com/lyzardiar/ChildEnglishLearning#readme",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^3.18.3",
+    "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ffprobe-static": "^3.1.0",
+    "tencentcloud-sdk-nodejs-asr": "^4.1.273"
+  }
+}

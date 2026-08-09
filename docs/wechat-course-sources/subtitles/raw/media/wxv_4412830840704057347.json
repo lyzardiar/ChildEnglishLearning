@@ -1,0 +1,687 @@
+{
+  "RequestId": "69f63a46-6d0a-461c-8410-5be85c7df77c",
+  "Data": {
+    "TaskId": 16292520457,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 43.258813,
+    "Result": "Mike has nine Apple pies. He gives me 5, puts four in a line and says these are mine. Mike eats his four Apple pies. Then he smiles and says the Apple pies are nice. Now I want your French fries. Mike has nine Apple pies. He gives me 5, puts four in a line and says these are mine. Mike eats his four Apple pies. Then he smiles and says the Apple pies are nice. Now I want your French fries.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Mike has nine Apple pies.",
+        "SliceSentence": "Mike has nine Apple pies .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 4370,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 2260,
+            "OffsetEndMs": 2610,
+            "Word": "Mike"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2910,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3260,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 3370,
+            "OffsetEndMs": 3770,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 3940,
+            "OffsetEndMs": 4370,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 3940,
+            "OffsetEndMs": 4370,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He gives me 5,",
+        "SliceSentence": "He gives me 5 ,",
+        "WrittenText": "",
+        "StartMs": 4660,
+        "EndMs": 7005,
+        "SpeechSpeed": 6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1160,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2345,
+            "Word": "5"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2345,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " puts four in a line and says these are mine.",
+        "SliceSentence": "puts four in a line and says these are mine .",
+        "WrittenText": "",
+        "StartMs": 7005,
+        "EndMs": 10970,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 300,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 615,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 915,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1200,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1535,
+            "Word": "line"
+          },
+          {
+            "OffsetStartMs": 2095,
+            "OffsetEndMs": 2430,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2765,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 2995,
+            "OffsetEndMs": 3360,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 3360,
+            "OffsetEndMs": 3645,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3645,
+            "OffsetEndMs": 3965,
+            "Word": "mine"
+          },
+          {
+            "OffsetStartMs": 3645,
+            "OffsetEndMs": 3965,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mike eats his four Apple pies.",
+        "SliceSentence": "Mike eats his four Apple pies .",
+        "WrittenText": "",
+        "StartMs": 11470,
+        "EndMs": 13910,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Mike"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 740,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 935,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2440,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then he smiles and says the Apple pies are nice.",
+        "SliceSentence": "Then he smiles and says the Apple pies are nice .",
+        "WrittenText": "",
+        "StartMs": 14140,
+        "EndMs": 18110,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 935,
+            "Word": "smiles"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1235,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2450,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2740,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3335,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 3650,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3970,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now I want your French fries.",
+        "SliceSentence": "Now I want your French fries .",
+        "WrittenText": "",
+        "StartMs": 18310,
+        "EndMs": 20510,
+        "SpeechSpeed": 13.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 665,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 965,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1265,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1630,
+            "Word": "French"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2200,
+            "Word": "fries"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mike has nine Apple pies.",
+        "SliceSentence": "Mike has nine Apple pies .",
+        "WrittenText": "",
+        "StartMs": 23680,
+        "EndMs": 25880,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Mike"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 725,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 725,
+            "OffsetEndMs": 1090,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1630,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2200,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " He gives me 5,",
+        "SliceSentence": "He gives me 5 ,",
+        "WrittenText": "",
+        "StartMs": 26140,
+        "EndMs": 28515,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "He"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 920,
+            "Word": "gives"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1175,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2375,
+            "Word": "5"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2375,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " puts four in a line and says these are mine.",
+        "SliceSentence": "puts four in a line and says these are mine .",
+        "WrittenText": "",
+        "StartMs": 28515,
+        "EndMs": 32480,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 300,
+            "Word": "puts"
+          },
+          {
+            "OffsetStartMs": 300,
+            "OffsetEndMs": 630,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 915,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 915,
+            "OffsetEndMs": 1170,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1505,
+            "Word": "line"
+          },
+          {
+            "OffsetStartMs": 2095,
+            "OffsetEndMs": 2430,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2430,
+            "OffsetEndMs": 2765,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 2995,
+            "OffsetEndMs": 3345,
+            "Word": "these"
+          },
+          {
+            "OffsetStartMs": 3345,
+            "OffsetEndMs": 3630,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3965,
+            "Word": "mine"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 3965,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mike eats his four Apple pies.",
+        "SliceSentence": "Mike eats his four Apple pies .",
+        "WrittenText": "",
+        "StartMs": 32980,
+        "EndMs": 35420,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Mike"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 755,
+            "Word": "eats"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 935,
+            "Word": "his"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1270,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2440,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then he smiles and says the Apple pies are nice.",
+        "SliceSentence": "Then he smiles and says the Apple pies are nice .",
+        "WrittenText": "",
+        "StartMs": 35680,
+        "EndMs": 39620,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "he"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 920,
+            "Word": "smiles"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1220,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1540,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2360,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2360,
+            "OffsetEndMs": 2680,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2880,
+            "OffsetEndMs": 3290,
+            "Word": "pies"
+          },
+          {
+            "OffsetStartMs": 3290,
+            "OffsetEndMs": 3605,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3605,
+            "OffsetEndMs": 3940,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 3605,
+            "OffsetEndMs": 3940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Now I want your French fries.",
+        "SliceSentence": "Now I want your French fries .",
+        "WrittenText": "",
+        "StartMs": 39850,
+        "EndMs": 41990,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Now"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 650,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 650,
+            "OffsetEndMs": 950,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1235,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1235,
+            "OffsetEndMs": 1570,
+            "Word": "French"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2140,
+            "Word": "fries"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

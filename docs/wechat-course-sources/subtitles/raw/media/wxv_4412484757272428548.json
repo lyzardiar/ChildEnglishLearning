@@ -1,0 +1,854 @@
+{
+  "RequestId": "1c39dc5c-9215-4bc9-b5a7-985fae7d34b6",
+  "Data": {
+    "TaskId": 16292483682,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 100.194125,
+    "Result": "A dentist comes to school.Mrs Chen is here today. She'll talk about her job. She looks after people's teeth. What does she do? I know she's a dentist. Hello, class. I'm a dentist. I look after people's teeth.You should brush your teeth twice or three times a day. You shouldn't eat too much sweet food. What does a dentist do every day? I check people's teeth and fill holes in their teeth. Sometimes I pull bad teeth. Do you like your job? Mrs Chen? Yes I do.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A dentist comes to school.",
+        "SliceSentence": "A dentist comes to school .",
+        "WrittenText": "",
+        "StartMs": 680,
+        "EndMs": 3370,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 480,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 1220,
+            "Word": "dentist"
+          },
+          {
+            "OffsetStartMs": 1420,
+            "OffsetEndMs": 1820,
+            "Word": "comes"
+          },
+          {
+            "OffsetStartMs": 1990,
+            "OffsetEndMs": 2340,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2690,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2690,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mrs Chen is here today.",
+        "SliceSentence": "Mrs Chen is here today .",
+        "WrittenText": "",
+        "StartMs": 11420,
+        "EndMs": 14380,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "Mrs"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1550,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2010,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2360,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 2960,
+            "Word": "today"
+          },
+          {
+            "OffsetStartMs": 2560,
+            "OffsetEndMs": 2960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She'll talk about her job.",
+        "SliceSentence": "She'll talk about her job .",
+        "WrittenText": "",
+        "StartMs": 16800,
+        "EndMs": 19090,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 635,
+            "Word": "She'll"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "talk"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1550,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 1550,
+            "OffsetEndMs": 1910,
+            "Word": "her"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2290,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 1910,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " She looks after people's teeth.",
+        "SliceSentence": "She looks after people's teeth .",
+        "WrittenText": "",
+        "StartMs": 22170,
+        "EndMs": 24760,
+        "SpeechSpeed": 12,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "She"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "looks"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1180,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 2270,
+            "Word": "people's"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2590,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 2270,
+            "OffsetEndMs": 2590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What does she do?",
+        "SliceSentence": "What does she do ?",
+        "WrittenText": "",
+        "StartMs": 27810,
+        "EndMs": 29230,
+        "SpeechSpeed": 12,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 770,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1070,
+            "Word": "she"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1420,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 1070,
+            "OffsetEndMs": 1420,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I know she's a dentist.",
+        "SliceSentence": "I know she's a dentist .",
+        "WrittenText": "",
+        "StartMs": 32460,
+        "EndMs": 35500,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "know"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 2015,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 2015,
+            "OffsetEndMs": 2285,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 3040,
+            "Word": "dentist"
+          },
+          {
+            "OffsetStartMs": 2285,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hello,",
+        "SliceSentence": "Hello ,",
+        "WrittenText": "",
+        "StartMs": 38700,
+        "EndMs": 39100,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Hello"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " class.",
+        "SliceSentence": "class .",
+        "WrittenText": "",
+        "StartMs": 39330,
+        "EndMs": 39730,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "class"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 230,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm a dentist.",
+        "SliceSentence": "I'm a dentist .",
+        "WrittenText": "",
+        "StartMs": 40740,
+        "EndMs": 42190,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 560,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 755,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1450,
+            "Word": "dentist"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I look after people's teeth.",
+        "SliceSentence": "I look after people's teeth .",
+        "WrittenText": "",
+        "StartMs": 44610,
+        "EndMs": 46660,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "after"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1775,
+            "Word": "people's"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2420,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You should brush your teeth twice or three times a day.",
+        "SliceSentence": "You should brush your teeth twice or three times a day .",
+        "WrittenText": "",
+        "StartMs": 49260,
+        "EndMs": 54770,
+        "SpeechSpeed": 9.8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 1030,
+            "OffsetEndMs": 1365,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 1365,
+            "OffsetEndMs": 1680,
+            "Word": "should"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2010,
+            "Word": "brush"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2295,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 2295,
+            "OffsetEndMs": 2630,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 3130,
+            "OffsetEndMs": 3530,
+            "Word": "twice"
+          },
+          {
+            "OffsetStartMs": 3610,
+            "OffsetEndMs": 4005,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 4005,
+            "OffsetEndMs": 4350,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 4350,
+            "OffsetEndMs": 4700,
+            "Word": "times"
+          },
+          {
+            "OffsetStartMs": 4930,
+            "OffsetEndMs": 5220,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5510,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 5220,
+            "OffsetEndMs": 5510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You shouldn't eat too much sweet food.",
+        "SliceSentence": "You shouldn't eat too much sweet food .",
+        "WrittenText": "",
+        "StartMs": 57160,
+        "EndMs": 60020,
+        "SpeechSpeed": 13.3,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 845,
+            "Word": "shouldn't"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1180,
+            "Word": "eat"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1565,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 1565,
+            "OffsetEndMs": 1930,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 2070,
+            "OffsetEndMs": 2465,
+            "Word": "sweet"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2860,
+            "Word": "food"
+          },
+          {
+            "OffsetStartMs": 2465,
+            "OffsetEndMs": 2860,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What does a dentist do every day?",
+        "SliceSentence": "What does a dentist do every day ?",
+        "WrittenText": "",
+        "StartMs": 63310,
+        "EndMs": 66710,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 905,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1250,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1960,
+            "Word": "dentist"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2495,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2890,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3290,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I check people's teeth and fill holes in their teeth.",
+        "SliceSentence": "I check people's teeth and fill holes in their teeth .",
+        "WrittenText": "",
+        "StartMs": 69340,
+        "EndMs": 73880,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "check"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1475,
+            "Word": "people's"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1750,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2645,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2645,
+            "OffsetEndMs": 3020,
+            "Word": "fill"
+          },
+          {
+            "OffsetStartMs": 3020,
+            "OffsetEndMs": 3400,
+            "Word": "holes"
+          },
+          {
+            "OffsetStartMs": 3660,
+            "OffsetEndMs": 3980,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 3980,
+            "OffsetEndMs": 4220,
+            "Word": "their"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 4220,
+            "OffsetEndMs": 4540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Sometimes I pull bad teeth.",
+        "SliceSentence": "Sometimes I pull bad teeth .",
+        "WrittenText": "",
+        "StartMs": 76540,
+        "EndMs": 78980,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Sometimes"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1280,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1610,
+            "Word": "pull"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1990,
+            "Word": "bad"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "teeth"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you like your job?",
+        "SliceSentence": "Do you like your job ?",
+        "WrittenText": "",
+        "StartMs": 84970,
+        "EndMs": 86670,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 940,
+            "Word": "like"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1355,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1700,
+            "Word": "job"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1700,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5990,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Mrs Chen?",
+        "SliceSentence": "Mrs Chen ?",
+        "WrittenText": "",
+        "StartMs": 86670,
+        "EndMs": 87530,
+        "SpeechSpeed": 10.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Mrs"
+          },
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 860,
+            "Word": "Chen"
+          },
+          {
+            "OffsetStartMs": 430,
+            "OffsetEndMs": 860,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes I do.",
+        "SliceSentence": "Yes I do .",
+        "WrittenText": "",
+        "StartMs": 90580,
+        "EndMs": 91670,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 755,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1090,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

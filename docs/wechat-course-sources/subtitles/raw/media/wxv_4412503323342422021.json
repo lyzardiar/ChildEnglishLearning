@@ -1,0 +1,934 @@
+{
+  "RequestId": "9e114080-4490-4029-9253-e78681b2c84e",
+  "Data": {
+    "TaskId": 16292489257,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 110.643125,
+    "Result": "Shapes in art shapes are all around us different shapes. A square has four sides, 4 corners. A rectangle also has four sides 4 corners a triangle has three sides 3 corners a circle does not have corners every shape is special come and make art with shapes, making art with shapes. The students are making art with sh what are you doing?Xiao tianen are you making a paper cut, asks xiaoqi yes, it's the tiger. Look at the rectangle. It's the tiger's body, says Xiao 10 is xiaou painting, asks Xiao qen. Yes, she's painting circles, says Xiao qi. Wonderful, says Xiao jen.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Shapes in art shapes are all around us different shapes.",
+        "SliceSentence": "Shapes in art shapes are all around us different shapes .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 9410,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1250,
+            "Word": "Shapes"
+          },
+          {
+            "OffsetStartMs": 1690,
+            "OffsetEndMs": 2055,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2420,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 4570,
+            "OffsetEndMs": 5000,
+            "Word": "shapes"
+          },
+          {
+            "OffsetStartMs": 5380,
+            "OffsetEndMs": 5775,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 5775,
+            "OffsetEndMs": 6170,
+            "Word": "all"
+          },
+          {
+            "OffsetStartMs": 6550,
+            "OffsetEndMs": 6945,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 6945,
+            "OffsetEndMs": 7340,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 8410,
+            "OffsetEndMs": 8810,
+            "Word": "different"
+          },
+          {
+            "OffsetStartMs": 8980,
+            "OffsetEndMs": 9410,
+            "Word": "shapes"
+          },
+          {
+            "OffsetStartMs": 8980,
+            "OffsetEndMs": 9410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A square has four sides,",
+        "SliceSentence": "A square has four sides ,",
+        "WrittenText": "",
+        "StartMs": 11230,
+        "EndMs": 14210,
+        "SpeechSpeed": 8.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "square"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "sides"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " 4 corners.",
+        "SliceSentence": "4 corners .",
+        "WrittenText": "",
+        "StartMs": 15370,
+        "EndMs": 16700,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "4"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 1330,
+            "Word": "corners"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 1330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1160,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " A rectangle also has four sides 4 corners a triangle has three sides 3 corners a circle does not have corners every shape is special come and make art with shapes,",
+        "SliceSentence": "A rectangle also has four sides 4 corners a triangle has three sides 3 corners a circle does not have corners every shape is special come and make art with shapes ,",
+        "WrittenText": "",
+        "StartMs": 18340,
+        "EndMs": 46460,
+        "SpeechSpeed": 5.8,
+        "WordsNum": 32,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 1450,
+            "Word": "rectangle"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "also"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 3570,
+            "OffsetEndMs": 3970,
+            "Word": "sides"
+          },
+          {
+            "OffsetStartMs": 5070,
+            "OffsetEndMs": 5470,
+            "Word": "4"
+          },
+          {
+            "OffsetStartMs": 5580,
+            "OffsetEndMs": 6370,
+            "Word": "corners"
+          },
+          {
+            "OffsetStartMs": 8730,
+            "OffsetEndMs": 9095,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 9095,
+            "OffsetEndMs": 10090,
+            "Word": "triangle"
+          },
+          {
+            "OffsetStartMs": 10230,
+            "OffsetEndMs": 10630,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 10950,
+            "OffsetEndMs": 11350,
+            "Word": "three"
+          },
+          {
+            "OffsetStartMs": 11430,
+            "OffsetEndMs": 11830,
+            "Word": "sides"
+          },
+          {
+            "OffsetStartMs": 13230,
+            "OffsetEndMs": 13630,
+            "Word": "3"
+          },
+          {
+            "OffsetStartMs": 13680,
+            "OffsetEndMs": 14470,
+            "Word": "corners"
+          },
+          {
+            "OffsetStartMs": 16170,
+            "OffsetEndMs": 16520,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 16520,
+            "OffsetEndMs": 16870,
+            "Word": "circle"
+          },
+          {
+            "OffsetStartMs": 17460,
+            "OffsetEndMs": 17855,
+            "Word": "does"
+          },
+          {
+            "OffsetStartMs": 17855,
+            "OffsetEndMs": 18250,
+            "Word": "not"
+          },
+          {
+            "OffsetStartMs": 18270,
+            "OffsetEndMs": 18670,
+            "Word": "have"
+          },
+          {
+            "OffsetStartMs": 18900,
+            "OffsetEndMs": 19690,
+            "Word": "corners"
+          },
+          {
+            "OffsetStartMs": 21480,
+            "OffsetEndMs": 21880,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 22110,
+            "OffsetEndMs": 22510,
+            "Word": "shape"
+          },
+          {
+            "OffsetStartMs": 22680,
+            "OffsetEndMs": 23080,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 23160,
+            "OffsetEndMs": 23560,
+            "Word": "special"
+          },
+          {
+            "OffsetStartMs": 25410,
+            "OffsetEndMs": 25810,
+            "Word": "come"
+          },
+          {
+            "OffsetStartMs": 25920,
+            "OffsetEndMs": 26315,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 26315,
+            "OffsetEndMs": 26710,
+            "Word": "make"
+          },
+          {
+            "OffsetStartMs": 26730,
+            "OffsetEndMs": 27130,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 27390,
+            "OffsetEndMs": 27740,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 27740,
+            "OffsetEndMs": 28120,
+            "Word": "shapes"
+          },
+          {
+            "OffsetStartMs": 27740,
+            "OffsetEndMs": 28120,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " making art with shapes.",
+        "SliceSentence": "making art with shapes .",
+        "WrittenText": "",
+        "StartMs": 48940,
+        "EndMs": 51020,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 720,
+            "OffsetEndMs": 1120,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 1350,
+            "OffsetEndMs": 1700,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2080,
+            "Word": "shapes"
+          },
+          {
+            "OffsetStartMs": 1700,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " The students are making art with sh what are you doing?",
+        "SliceSentence": "The students are making art with sh what are you doing ?",
+        "WrittenText": "",
+        "StartMs": 52810,
+        "EndMs": 59930,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "students"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1415,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1415,
+            "OffsetEndMs": 1750,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "art"
+          },
+          {
+            "OffsetStartMs": 2610,
+            "OffsetEndMs": 2945,
+            "Word": "with"
+          },
+          {
+            "OffsetStartMs": 2945,
+            "OffsetEndMs": 3280,
+            "Word": "sh"
+          },
+          {
+            "OffsetStartMs": 5520,
+            "OffsetEndMs": 5920,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 5970,
+            "OffsetEndMs": 6350,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 6350,
+            "OffsetEndMs": 6725,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 6725,
+            "OffsetEndMs": 7120,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 6725,
+            "OffsetEndMs": 7120,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Xiao tianen are you making a paper cut,",
+        "SliceSentence": "Xiao tianen are you making a paper cut ,",
+        "WrittenText": "",
+        "StartMs": 60300,
+        "EndMs": 65600,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 240,
+            "Word": "Xiao"
+          },
+          {
+            "OffsetStartMs": 240,
+            "OffsetEndMs": 710,
+            "Word": "tianen"
+          },
+          {
+            "OffsetStartMs": 3160,
+            "OffsetEndMs": 3510,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3765,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 3765,
+            "OffsetEndMs": 4070,
+            "Word": "making"
+          },
+          {
+            "OffsetStartMs": 4270,
+            "OffsetEndMs": 4545,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 4545,
+            "OffsetEndMs": 4820,
+            "Word": "paper"
+          },
+          {
+            "OffsetStartMs": 4900,
+            "OffsetEndMs": 5300,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 4900,
+            "OffsetEndMs": 5300,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 370,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " asks xiaoqi yes,",
+        "SliceSentence": "asks xiaoqi yes ,",
+        "WrittenText": "",
+        "StartMs": 66220,
+        "EndMs": 72410,
+        "SpeechSpeed": 2.6,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "asks"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1390,
+            "Word": "xiaoqi"
+          },
+          {
+            "OffsetStartMs": 5790,
+            "OffsetEndMs": 6190,
+            "Word": "yes"
+          },
+          {
+            "OffsetStartMs": 5790,
+            "OffsetEndMs": 6190,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it's the tiger.",
+        "SliceSentence": "it's the tiger .",
+        "WrittenText": "",
+        "StartMs": 72730,
+        "EndMs": 73670,
+        "SpeechSpeed": 16,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "it's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 635,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "tiger"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look at the rectangle.",
+        "SliceSentence": "Look at the rectangle .",
+        "WrittenText": "",
+        "StartMs": 75670,
+        "EndMs": 77660,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 710,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 950,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1990,
+            "Word": "rectangle"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1990,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's the tiger's body,",
+        "SliceSentence": "It's the tiger's body ,",
+        "WrittenText": "",
+        "StartMs": 78880,
+        "EndMs": 80630,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 680,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 1460,
+            "Word": "tiger's"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1750,
+            "Word": "body"
+          },
+          {
+            "OffsetStartMs": 1460,
+            "OffsetEndMs": 1750,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1220,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Xiao 10 is xiaou painting,",
+        "SliceSentence": "says Xiao 10 is xiaou painting ,",
+        "WrittenText": "",
+        "StartMs": 81580,
+        "EndMs": 86630,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 815,
+            "Word": "Xiao"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1120,
+            "Word": "10"
+          },
+          {
+            "OffsetStartMs": 3120,
+            "OffsetEndMs": 3515,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 3515,
+            "OffsetEndMs": 4390,
+            "Word": "xiaou"
+          },
+          {
+            "OffsetStartMs": 4650,
+            "OffsetEndMs": 5050,
+            "Word": "painting"
+          },
+          {
+            "OffsetStartMs": 4650,
+            "OffsetEndMs": 5050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " asks Xiao qen.",
+        "SliceSentence": "asks Xiao qen .",
+        "WrittenText": "",
+        "StartMs": 87880,
+        "EndMs": 89330,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "asks"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1130,
+            "Word": "Xiao"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "qen"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1450,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1250,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 91000,
+        "EndMs": 91400,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1670,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " she's painting circles,",
+        "SliceSentence": "she's painting circles ,",
+        "WrittenText": "",
+        "StartMs": 91990,
+        "EndMs": 94280,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "she's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 970,
+            "Word": "painting"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 2290,
+            "Word": "circles"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 2290,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Xiao qi.",
+        "SliceSentence": "says Xiao qi .",
+        "WrittenText": "",
+        "StartMs": 95200,
+        "EndMs": 96680,
+        "SpeechSpeed": 8.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 1145,
+            "Word": "Xiao"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "qi"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1480,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Wonderful,",
+        "SliceSentence": "Wonderful ,",
+        "WrittenText": "",
+        "StartMs": 98710,
+        "EndMs": 99110,
+        "SpeechSpeed": 25,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Wonderful"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2030,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " says Xiao jen.",
+        "SliceSentence": "says Xiao jen .",
+        "WrittenText": "",
+        "StartMs": 100240,
+        "EndMs": 101390,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "says"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 830,
+            "Word": "Xiao"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1150,
+            "Word": "jen"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1150,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

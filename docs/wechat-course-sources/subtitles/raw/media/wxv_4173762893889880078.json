@@ -1,0 +1,678 @@
+{
+  "RequestId": "d77110d0-ad93-4418-b6c2-b2e0540b6ec1",
+  "Data": {
+    "TaskId": 16292474611,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 54.566875,
+    "Result": "A frog's life. It is a small egg. It can't swim or jump. It is a baby frog. It tail is long. It can swim. It is still a baby frog. It has four legs. Its tail is small and short. It can swim and jump. It is a frog. It has four legs. It has no tail. It mouth is big. It can swim and jump.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A frog's life.",
+        "SliceSentence": "A frog's life .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 1850,
+        "SpeechSpeed": 7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 840,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1530,
+            "Word": "frog's"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1850,
+            "Word": "life"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1850,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is a small egg.",
+        "SliceSentence": "It is a small egg .",
+        "WrittenText": "",
+        "StartMs": 5020,
+        "EndMs": 7730,
+        "SpeechSpeed": 6.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "egg"
+          },
+          {
+            "OffsetStartMs": 2310,
+            "OffsetEndMs": 2710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can't swim or jump.",
+        "SliceSentence": "It can't swim or jump .",
+        "WrittenText": "",
+        "StartMs": 8560,
+        "EndMs": 11330,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 1180,
+            "Word": "can't"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1980,
+            "OffsetEndMs": 2375,
+            "Word": "or"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2770,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 2375,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is a baby frog.",
+        "SliceSentence": "It is a baby frog .",
+        "WrittenText": "",
+        "StartMs": 12910,
+        "EndMs": 15950,
+        "SpeechSpeed": 5.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1445,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1810,
+            "Word": "baby"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 3040,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 3040,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It tail is long.",
+        "SliceSentence": "It tail is long .",
+        "WrittenText": "",
+        "StartMs": 16330,
+        "EndMs": 18560,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "tail"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1835,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "long"
+          },
+          {
+            "OffsetStartMs": 1835,
+            "OffsetEndMs": 2230,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can swim.",
+        "SliceSentence": "It can swim .",
+        "WrittenText": "",
+        "StartMs": 19390,
+        "EndMs": 21050,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is still a baby frog.",
+        "SliceSentence": "It is still a baby frog .",
+        "WrittenText": "",
+        "StartMs": 22540,
+        "EndMs": 26420,
+        "SpeechSpeed": 6.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1290,
+            "OffsetEndMs": 1690,
+            "Word": "still"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2300,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2650,
+            "Word": "baby"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3880,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 3090,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has four legs.",
+        "SliceSentence": "It has four legs .",
+        "WrittenText": "",
+        "StartMs": 27010,
+        "EndMs": 29150,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 1740,
+            "OffsetEndMs": 2140,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Its tail is small and short.",
+        "SliceSentence": "Its tail is small and short .",
+        "WrittenText": "",
+        "StartMs": 30160,
+        "EndMs": 33500,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Its"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 970,
+            "Word": "tail"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2960,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2960,
+            "OffsetEndMs": 3340,
+            "Word": "short"
+          },
+          {
+            "OffsetStartMs": 2960,
+            "OffsetEndMs": 3340,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can swim and jump.",
+        "SliceSentence": "It can swim and jump .",
+        "WrittenText": "",
+        "StartMs": 34510,
+        "EndMs": 37280,
+        "SpeechSpeed": 7.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It is a frog.",
+        "SliceSentence": "It is a frog .",
+        "WrittenText": "",
+        "StartMs": 38290,
+        "EndMs": 40700,
+        "SpeechSpeed": 5.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 2410,
+            "Word": "frog"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has four legs.",
+        "SliceSentence": "It has four legs .",
+        "WrittenText": "",
+        "StartMs": 41590,
+        "EndMs": 43610,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "four"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "legs"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It has no tail.",
+        "SliceSentence": "It has no tail .",
+        "WrittenText": "",
+        "StartMs": 44560,
+        "EndMs": 46370,
+        "SpeechSpeed": 8.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "has"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1210,
+            "Word": "no"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "tail"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1810,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 950,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It mouth is big.",
+        "SliceSentence": "It mouth is big .",
+        "WrittenText": "",
+        "StartMs": 47560,
+        "EndMs": 49730,
+        "SpeechSpeed": 7.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "mouth"
+          },
+          {
+            "OffsetStartMs": 1320,
+            "OffsetEndMs": 1720,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It can swim and jump.",
+        "SliceSentence": "It can swim and jump .",
+        "WrittenText": "",
+        "StartMs": 50620,
+        "EndMs": 53420,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "It"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1480,
+            "Word": "swim"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "jump"
+          },
+          {
+            "OffsetStartMs": 2400,
+            "OffsetEndMs": 2800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

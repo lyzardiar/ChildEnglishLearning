@@ -1,0 +1,775 @@
+{
+  "RequestId": "2b118168-eb8e-4193-89f0-7e123007b32d",
+  "Data": {
+    "TaskId": 16292484635,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 94.574938,
+    "Result": "At the fire station sunday, the fisrt of march, English daily. What's this? It's a fire engine. Do you want to sit in the fire engine? Yes, at the fire station by Shu Dong. This is a fire station. There are big red fire engines at the fire station. We can see firefighters there.They always wait for calls at the station and they exercise every day. Firefighters put out fires. They help people, too.Mr Wang teaches us about fire safety.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "At the fire station sunday,",
+        "SliceSentence": "At the fire station sunday ,",
+        "WrittenText": "",
+        "StartMs": 260,
+        "EndMs": 9370,
+        "SpeechSpeed": 2.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 990,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1275,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1275,
+            "OffsetEndMs": 1580,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 1630,
+            "OffsetEndMs": 2030,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 8710,
+            "OffsetEndMs": 9110,
+            "Word": "sunday"
+          },
+          {
+            "OffsetStartMs": 8710,
+            "OffsetEndMs": 9110,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the fisrt of march,",
+        "SliceSentence": "the fisrt of march ,",
+        "WrittenText": "",
+        "StartMs": 9990,
+        "EndMs": 11440,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 875,
+            "Word": "fisrt"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1115,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": "march"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1450,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " English daily.",
+        "SliceSentence": "English daily .",
+        "WrittenText": "",
+        "StartMs": 14190,
+        "EndMs": 14920,
+        "SpeechSpeed": 19.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "English"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "daily"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What's this?",
+        "SliceSentence": "What's this ?",
+        "WrittenText": "",
+        "StartMs": 19980,
+        "EndMs": 20830,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "What's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "this"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 850,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5060,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's a fire engine.",
+        "SliceSentence": "It's a fire engine .",
+        "WrittenText": "",
+        "StartMs": 23100,
+        "EndMs": 25060,
+        "SpeechSpeed": 9.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 665,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1000,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "engine"
+          },
+          {
+            "OffsetStartMs": 1560,
+            "OffsetEndMs": 1960,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2270,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Do you want to sit in the fire engine?",
+        "SliceSentence": "Do you want to sit in the fire engine ?",
+        "WrittenText": "",
+        "StartMs": 27960,
+        "EndMs": 30850,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Do"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 635,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 635,
+            "OffsetEndMs": 970,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1355,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1670,
+            "Word": "sit"
+          },
+          {
+            "OffsetStartMs": 1670,
+            "OffsetEndMs": 1955,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2150,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2150,
+            "OffsetEndMs": 2440,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "engine"
+          },
+          {
+            "OffsetStartMs": 2490,
+            "OffsetEndMs": 2890,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2900,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 33480,
+        "EndMs": 33880,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " at the fire station by Shu Dong.",
+        "SliceSentence": "at the fire station by Shu Dong .",
+        "WrittenText": "",
+        "StartMs": 38370,
+        "EndMs": 44200,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 695,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1450,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 3840,
+            "OffsetEndMs": 4240,
+            "Word": "by"
+          },
+          {
+            "OffsetStartMs": 5040,
+            "OffsetEndMs": 5435,
+            "Word": "Shu"
+          },
+          {
+            "OffsetStartMs": 5435,
+            "OffsetEndMs": 5830,
+            "Word": "Dong"
+          },
+          {
+            "OffsetStartMs": 5435,
+            "OffsetEndMs": 5830,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " This is a fire station.",
+        "SliceSentence": "This is a fire station .",
+        "WrittenText": "",
+        "StartMs": 47640,
+        "EndMs": 49720,
+        "SpeechSpeed": 11.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "This"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 920,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1160,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1480,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 1680,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " There are big red fire engines at the fire station.",
+        "SliceSentence": "There are big red fire engines at the fire station .",
+        "WrittenText": "",
+        "StartMs": 51150,
+        "EndMs": 55270,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "There"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 590,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 910,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1325,
+            "Word": "red"
+          },
+          {
+            "OffsetStartMs": 1325,
+            "OffsetEndMs": 1720,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 1770,
+            "OffsetEndMs": 2170,
+            "Word": "engines"
+          },
+          {
+            "OffsetStartMs": 2700,
+            "OffsetEndMs": 3035,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3035,
+            "OffsetEndMs": 3260,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3260,
+            "OffsetEndMs": 3550,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 3720,
+            "OffsetEndMs": 4120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1430,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can see firefighters there.",
+        "SliceSentence": "We can see firefighters there .",
+        "WrittenText": "",
+        "StartMs": 57870,
+        "EndMs": 60160,
+        "SpeechSpeed": 13.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 545,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 860,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 860,
+            "OffsetEndMs": 1970,
+            "Word": "firefighters"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2290,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1970,
+            "OffsetEndMs": 2290,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2600,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "They always wait for calls at the station and they exercise every day.",
+        "SliceSentence": "They always wait for calls at the station and they exercise every day .",
+        "WrittenText": "",
+        "StartMs": 60740,
+        "EndMs": 72010,
+        "SpeechSpeed": 6.1,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 2200,
+            "OffsetEndMs": 2600,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 2890,
+            "OffsetEndMs": 3225,
+            "Word": "always"
+          },
+          {
+            "OffsetStartMs": 3225,
+            "OffsetEndMs": 3555,
+            "Word": "wait"
+          },
+          {
+            "OffsetStartMs": 3555,
+            "OffsetEndMs": 3885,
+            "Word": "for"
+          },
+          {
+            "OffsetStartMs": 3885,
+            "OffsetEndMs": 4220,
+            "Word": "calls"
+          },
+          {
+            "OffsetStartMs": 4480,
+            "OffsetEndMs": 4830,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 4830,
+            "OffsetEndMs": 5130,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5130,
+            "OffsetEndMs": 5480,
+            "Word": "station"
+          },
+          {
+            "OffsetStartMs": 8530,
+            "OffsetEndMs": 8910,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 8910,
+            "OffsetEndMs": 9290,
+            "Word": "they"
+          },
+          {
+            "OffsetStartMs": 9760,
+            "OffsetEndMs": 10160,
+            "Word": "exercise"
+          },
+          {
+            "OffsetStartMs": 10240,
+            "OffsetEndMs": 10640,
+            "Word": "every"
+          },
+          {
+            "OffsetStartMs": 10870,
+            "OffsetEndMs": 11270,
+            "Word": "day"
+          },
+          {
+            "OffsetStartMs": 10870,
+            "OffsetEndMs": 11270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 580,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Firefighters put out fires.",
+        "SliceSentence": "Firefighters put out fires .",
+        "WrittenText": "",
+        "StartMs": 75180,
+        "EndMs": 77350,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 1160,
+            "Word": "Firefighters"
+          },
+          {
+            "OffsetStartMs": 1160,
+            "OffsetEndMs": 1475,
+            "Word": "put"
+          },
+          {
+            "OffsetStartMs": 1475,
+            "OffsetEndMs": 1790,
+            "Word": "out"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2170,
+            "Word": "fires"
+          },
+          {
+            "OffsetStartMs": 1790,
+            "OffsetEndMs": 2170,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " They help people,",
+        "SliceSentence": "They help people ,",
+        "WrittenText": "",
+        "StartMs": 80400,
+        "EndMs": 81730,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "They"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "help"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": "people"
+          },
+          {
+            "OffsetStartMs": 930,
+            "OffsetEndMs": 1330,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3050,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " too.",
+        "SliceSentence": "too .",
+        "WrittenText": "",
+        "StartMs": 81900,
+        "EndMs": 82300,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "too"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Mr Wang teaches us about fire safety.",
+        "SliceSentence": "Mr Wang teaches us about fire safety .",
+        "WrittenText": "",
+        "StartMs": 84860,
+        "EndMs": 88630,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Mr"
+          },
+          {
+            "OffsetStartMs": 580,
+            "OffsetEndMs": 1010,
+            "Word": "Wang"
+          },
+          {
+            "OffsetStartMs": 1360,
+            "OffsetEndMs": 2055,
+            "Word": "teaches"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2360,
+            "Word": "us"
+          },
+          {
+            "OffsetStartMs": 2470,
+            "OffsetEndMs": 2865,
+            "Word": "about"
+          },
+          {
+            "OffsetStartMs": 2865,
+            "OffsetEndMs": 3260,
+            "Word": "fire"
+          },
+          {
+            "OffsetStartMs": 3370,
+            "OffsetEndMs": 3770,
+            "Word": "safety"
+          },
+          {
+            "OffsetStartMs": 3370,
+            "OffsetEndMs": 3770,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2560,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

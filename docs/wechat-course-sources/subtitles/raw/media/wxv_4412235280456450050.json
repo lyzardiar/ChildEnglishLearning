@@ -1,0 +1,553 @@
+{
+  "RequestId": "576ca574-5e9b-4e3a-b1b0-6b3ac311698b",
+  "Data": {
+    "TaskId": 16292436211,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 51.5715,
+    "Result": "At.Aunt.Cut, cut.Hut, Hut.Nut nut.I'm a little squirrel, welcome to my Hut. Here's a big nut. Let me cut the nut. I'm a little squirrel. Welcome to my Hut. Here's a big nut. Let me cut the nut.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "At.",
+        "SliceSentence": "At .",
+        "WrittenText": "",
+        "StartMs": 740,
+        "EndMs": 1180,
+        "SpeechSpeed": 4.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "At"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Aunt.",
+        "SliceSentence": "Aunt .",
+        "WrittenText": "",
+        "StartMs": 2000,
+        "EndMs": 2350,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Aunt"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Cut,",
+        "SliceSentence": "Cut ,",
+        "WrittenText": "",
+        "StartMs": 6900,
+        "EndMs": 7280,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Cut"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " cut.",
+        "SliceSentence": "cut .",
+        "WrittenText": "",
+        "StartMs": 8050,
+        "EndMs": 8450,
+        "SpeechSpeed": 10,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hut,",
+        "SliceSentence": "Hut ,",
+        "WrittenText": "",
+        "StartMs": 12840,
+        "EndMs": 13310,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 470,
+            "Word": "Hut"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 470,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4390,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Hut.",
+        "SliceSentence": "Hut .",
+        "WrittenText": "",
+        "StartMs": 14050,
+        "EndMs": 14480,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Hut"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Nut nut.",
+        "SliceSentence": "Nut nut .",
+        "WrittenText": "",
+        "StartMs": 19960,
+        "EndMs": 21480,
+        "SpeechSpeed": 4.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Nut"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "nut"
+          },
+          {
+            "OffsetStartMs": 1120,
+            "OffsetEndMs": 1520,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5480,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "I'm a little squirrel,",
+        "SliceSentence": "I'm a little squirrel ,",
+        "WrittenText": "",
+        "StartMs": 22740,
+        "EndMs": 30530,
+        "SpeechSpeed": 2.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 5890,
+            "OffsetEndMs": 6420,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 6420,
+            "OffsetEndMs": 6555,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6555,
+            "OffsetEndMs": 6860,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 7120,
+            "OffsetEndMs": 7790,
+            "Word": "squirrel"
+          },
+          {
+            "OffsetStartMs": 7120,
+            "OffsetEndMs": 7790,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " welcome to my Hut.",
+        "SliceSentence": "welcome to my Hut .",
+        "WrittenText": "",
+        "StartMs": 31060,
+        "EndMs": 32630,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 935,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 935,
+            "OffsetEndMs": 1205,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "Hut"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here's a big nut.",
+        "SliceSentence": "Here's a big nut .",
+        "WrittenText": "",
+        "StartMs": 33370,
+        "EndMs": 34910,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "Here's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1000,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "nut"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let me cut the nut.",
+        "SliceSentence": "Let me cut the nut .",
+        "WrittenText": "",
+        "StartMs": 35800,
+        "EndMs": 37370,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 680,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 680,
+            "OffsetEndMs": 980,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1265,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1570,
+            "Word": "nut"
+          },
+          {
+            "OffsetStartMs": 1265,
+            "OffsetEndMs": 1570,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I'm a little squirrel.",
+        "SliceSentence": "I'm a little squirrel .",
+        "WrittenText": "",
+        "StartMs": 40510,
+        "EndMs": 42530,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 455,
+            "Word": "I'm"
+          },
+          {
+            "OffsetStartMs": 455,
+            "OffsetEndMs": 665,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 1030,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2020,
+            "Word": "squirrel"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 2020,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3140,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Welcome to my Hut.",
+        "SliceSentence": "Welcome to my Hut .",
+        "WrittenText": "",
+        "StartMs": 42910,
+        "EndMs": 44540,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Welcome"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 980,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1250,
+            "Word": "my"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1630,
+            "Word": "Hut"
+          },
+          {
+            "OffsetStartMs": 1250,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Here's a big nut.",
+        "SliceSentence": "Here's a big nut .",
+        "WrittenText": "",
+        "StartMs": 45340,
+        "EndMs": 46880,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 515,
+            "Word": "Here's"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 695,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 695,
+            "OffsetEndMs": 1030,
+            "Word": "big"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "nut"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1540,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Let me cut the nut.",
+        "SliceSentence": "Let me cut the nut .",
+        "WrittenText": "",
+        "StartMs": 47800,
+        "EndMs": 49310,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Let"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 620,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 905,
+            "Word": "cut"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1190,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "nut"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

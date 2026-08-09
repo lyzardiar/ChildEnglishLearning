@@ -1,74 +1,75 @@
-/* 全局样式 */
 page {
-  --color-primary: #4A90D9;
-  --color-primary-light: #7BB3E8;
-  --color-success: #52C41A;
-  --color-warning: #FAAD14;
-  --color-danger: #FF4D4F;
-  --color-bg: #F5F7FA;
+  --color-primary: #1677C8;
+  --color-primary-light: #52AFE6;
+  --color-primary-soft: #E2F3FD;
+  --color-accent: #E85D4A;
+  --color-accent-soft: #FCE7E2;
+  --color-sun: #F2C84B;
+  --color-success: #2F8A61;
+  --color-warning: #B86A14;
+  --color-danger: #C83E3E;
+  --color-bg: #F3F8FC;
   --color-card: #FFFFFF;
-  --color-text: #333333;
-  --color-text-secondary: #999999;
-  --radius-card: 24rpx;
-  --radius-btn: 48rpx;
+  --color-text: #172633;
+  --color-text-secondary: #617687;
+  --color-line: #D9E6EF;
+  --radius-card: 16rpx;
+  --radius-control: 12rpx;
+  --radius-btn: 12rpx;
 
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  min-height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 28rpx;
   color: var(--color-text);
-  background-color: var(--color-bg);
+  background: var(--color-bg);
+  letter-spacing: 0;
 }
 
-/* 通用容器 */
 .container {
-  padding: 24rpx;
   min-height: 100vh;
+  padding: 24rpx 28rpx;
   box-sizing: border-box;
 }
 
-/* 卡片样式 */
 .card {
   background: var(--color-card);
+  border: 1rpx solid var(--color-line);
   border-radius: var(--radius-card);
-  padding: 32rpx;
-  margin-bottom: 24rpx;
-  box-shadow: 0 4rpx 16rpx rgba(0, 0, 0, 0.05);
+  padding: 28rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 4rpx 14rpx rgba(23, 57, 82, 0.06);
 }
 
-/* 大按钮（适合儿童点击） */
 .btn-large {
   width: 100%;
-  height: 96rpx;
-  border-radius: var(--radius-btn);
+  min-height: 88rpx;
+  border-radius: var(--radius-control);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 34rpx;
-  font-weight: 600;
-  border: none;
+  box-sizing: border-box;
+  font-size: 30rpx;
+  font-weight: 700;
 }
 
 .btn-primary {
-  background: var(--color-primary);
   color: #FFFFFF;
+  background: var(--color-primary);
 }
 
 .btn-success {
-  background: var(--color-success);
   color: #FFFFFF;
+  background: var(--color-success);
 }
 
-/* 图标按钮（圆形大按钮，适合儿童） */
-.icon-btn {
-  width: 120rpx;
-  height: 120rpx;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--color-primary-light);
+.section-heading {
+  display: block;
+  margin: 32rpx 0 18rpx;
+  font-size: 30rpx;
+  line-height: 1.3;
+  font-weight: 750;
 }
 
-/* 隐藏原生 tabBar 时的底部占位 */
 .tab-bar-placeholder {
-  height: 120rpx;
+  height: calc(112rpx + env(safe-area-inset-bottom));
 }

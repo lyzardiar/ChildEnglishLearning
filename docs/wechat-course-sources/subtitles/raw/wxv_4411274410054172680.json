@@ -1,0 +1,302 @@
+{
+  "RequestId": "ab021b04-d054-4aed-94eb-3babdd17f7e9",
+  "Data": {
+    "TaskId": 16291889551,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 30.371688,
+    "Result": "A.Look, Alice, an ant on the Apple oh an ant on the Apple. Look Alice an ant on the Apple. Oh, an ant on the Apple.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "A.",
+        "SliceSentence": "A .",
+        "WrittenText": "",
+        "StartMs": 860,
+        "EndMs": 1300,
+        "SpeechSpeed": 2.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "A"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Look,",
+        "SliceSentence": "Look ,",
+        "WrittenText": "",
+        "StartMs": 3380,
+        "EndMs": 8260,
+        "SpeechSpeed": 0.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 4480,
+            "OffsetEndMs": 4880,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 4480,
+            "OffsetEndMs": 4880,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Alice,",
+        "SliceSentence": "Alice ,",
+        "WrittenText": "",
+        "StartMs": 9060,
+        "EndMs": 9460,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " an ant on the Apple oh an ant on the Apple.",
+        "SliceSentence": "an ant on the Apple oh an ant on the Apple .",
+        "WrittenText": "",
+        "StartMs": 9900,
+        "EndMs": 15280,
+        "SpeechSpeed": 8,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 670,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 810,
+            "OffsetEndMs": 1205,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1490,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1490,
+            "OffsetEndMs": 1780,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 2670,
+            "OffsetEndMs": 3070,
+            "Word": "oh"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3935,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 3935,
+            "OffsetEndMs": 4270,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 4440,
+            "OffsetEndMs": 4820,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 4820,
+            "OffsetEndMs": 5090,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 5090,
+            "OffsetEndMs": 5380,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 5090,
+            "OffsetEndMs": 5380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Look Alice an ant on the Apple.",
+        "SliceSentence": "Look Alice an ant on the Apple .",
+        "WrittenText": "",
+        "StartMs": 19740,
+        "EndMs": 23710,
+        "SpeechSpeed": 7.8,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Look"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1600,
+            "Word": "Alice"
+          },
+          {
+            "OffsetStartMs": 2160,
+            "OffsetEndMs": 2495,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2830,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3335,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3335,
+            "OffsetEndMs": 3650,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3970,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 3650,
+            "OffsetEndMs": 3970,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4460,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 24480,
+        "EndMs": 24880,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " an ant on the Apple.",
+        "SliceSentence": "an ant on the Apple .",
+        "WrittenText": "",
+        "StartMs": 25410,
+        "EndMs": 27250,
+        "SpeechSpeed": 10.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "an"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 700,
+            "Word": "ant"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1220,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1520,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "Apple"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1840,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

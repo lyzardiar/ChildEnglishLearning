@@ -1,0 +1,421 @@
+{
+  "RequestId": "81520908-b3e8-4eaf-aa8f-bd6a1cfe5ccf",
+  "Data": {
+    "TaskId": 16292502300,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 53.104063,
+    "Result": "I I five.Five little honey bees buzzing near a hive. Four brown eagles watch them dive. Three cute kittens look so nice. Who is hiding? Two white mice? One little Caterpillar crawling on a vine? Oh, the animals are doing fine.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "I I five.",
+        "SliceSentence": "I I five .",
+        "WrittenText": "",
+        "StartMs": 100,
+        "EndMs": 15300,
+        "SpeechSpeed": 0.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 6010,
+            "OffsetEndMs": 6410,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 7180,
+            "OffsetEndMs": 7580,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 14800,
+            "OffsetEndMs": 15200,
+            "Word": "five"
+          },
+          {
+            "OffsetStartMs": 14800,
+            "OffsetEndMs": 15200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Five little honey bees buzzing near a hive.",
+        "SliceSentence": "Five little honey bees buzzing near a hive .",
+        "WrittenText": "",
+        "StartMs": 19540,
+        "EndMs": 26250,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 2350,
+            "OffsetEndMs": 2750,
+            "Word": "Five"
+          },
+          {
+            "OffsetStartMs": 3040,
+            "OffsetEndMs": 3440,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3950,
+            "Word": "honey"
+          },
+          {
+            "OffsetStartMs": 4060,
+            "OffsetEndMs": 4800,
+            "Word": "bees"
+          },
+          {
+            "OffsetStartMs": 4800,
+            "OffsetEndMs": 5385,
+            "Word": "buzzing"
+          },
+          {
+            "OffsetStartMs": 5385,
+            "OffsetEndMs": 5670,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 5670,
+            "OffsetEndMs": 5940,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6710,
+            "Word": "hive"
+          },
+          {
+            "OffsetStartMs": 5940,
+            "OffsetEndMs": 6710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Four brown eagles watch them dive.",
+        "SliceSentence": "Four brown eagles watch them dive .",
+        "WrittenText": "",
+        "StartMs": 26600,
+        "EndMs": 30630,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Four"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 1060,
+            "Word": "brown"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1900,
+            "Word": "eagles"
+          },
+          {
+            "OffsetStartMs": 2460,
+            "OffsetEndMs": 2860,
+            "Word": "watch"
+          },
+          {
+            "OffsetStartMs": 3060,
+            "OffsetEndMs": 3460,
+            "Word": "them"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "dive"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 350,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Three cute kittens look so nice.",
+        "SliceSentence": "Three cute kittens look so nice .",
+        "WrittenText": "",
+        "StartMs": 31460,
+        "EndMs": 35340,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Three"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "cute"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1840,
+            "Word": "kittens"
+          },
+          {
+            "OffsetStartMs": 2340,
+            "OffsetEndMs": 2740,
+            "Word": "look"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "so"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "nice"
+          },
+          {
+            "OffsetStartMs": 3480,
+            "OffsetEndMs": 3880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Who is hiding?",
+        "SliceSentence": "Who is hiding ?",
+        "WrittenText": "",
+        "StartMs": 36200,
+        "EndMs": 37710,
+        "SpeechSpeed": 9.3,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Who"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 940,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "hiding"
+          },
+          {
+            "OffsetStartMs": 1110,
+            "OffsetEndMs": 1510,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Two white mice?",
+        "SliceSentence": "Two white mice ?",
+        "WrittenText": "",
+        "StartMs": 38570,
+        "EndMs": 40470,
+        "SpeechSpeed": 7.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Two"
+          },
+          {
+            "OffsetStartMs": 600,
+            "OffsetEndMs": 1000,
+            "Word": "white"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1900,
+            "Word": "mice"
+          },
+          {
+            "OffsetStartMs": 1140,
+            "OffsetEndMs": 1900,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " One little Caterpillar crawling on a vine?",
+        "SliceSentence": "One little Caterpillar crawling on a vine ?",
+        "WrittenText": "",
+        "StartMs": 41030,
+        "EndMs": 44940,
+        "SpeechSpeed": 10.7,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "One"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "little"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 2390,
+            "Word": "Caterpillar"
+          },
+          {
+            "OffsetStartMs": 2390,
+            "OffsetEndMs": 3035,
+            "Word": "crawling"
+          },
+          {
+            "OffsetStartMs": 3035,
+            "OffsetEndMs": 3290,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3290,
+            "OffsetEndMs": 3560,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3910,
+            "Word": "vine"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3910,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Oh,",
+        "SliceSentence": "Oh ,",
+        "WrittenText": "",
+        "StartMs": 45740,
+        "EndMs": 46140,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Oh"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " the animals are doing fine.",
+        "SliceSentence": "the animals are doing fine .",
+        "WrittenText": "",
+        "StartMs": 46640,
+        "EndMs": 49620,
+        "SpeechSpeed": 9.1,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 640,
+            "Word": "animals"
+          },
+          {
+            "OffsetStartMs": 1260,
+            "OffsetEndMs": 1610,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 1610,
+            "OffsetEndMs": 1960,
+            "Word": "doing"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "fine"
+          },
+          {
+            "OffsetStartMs": 2580,
+            "OffsetEndMs": 2980,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

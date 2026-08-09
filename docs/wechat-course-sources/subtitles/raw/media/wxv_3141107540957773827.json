@@ -1,0 +1,4606 @@
+{
+  "RequestId": "9d12dc00-71e2-44f4-8420-e9ae1b124916",
+  "Data": {
+    "TaskId": 16292558424,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 642.774813,
+    "Result": "Unit nine around the city post office quite along turn left, right between flower shop, hospital, toy shop.Get to.The.Walk along winter street.Turn left at spring street.Excuse me?Is that right?Let's go.New words.Post office.Post office.Quite.Quite.Along.Along.Turn.Turn.Left.Left.Straight.Straight.Right.Right.Between.Between.Flower shop.Flower shop.Hospital.Hospital.Toy shop.Toy shop.Road.Road.Get to.Get to.Listen and say.Walk along winter street, turn left at spring street.Excuse me. Is the post office far from here? No, it isn't. It's quite near. How do I get to the post office, walk along winter street, turn left at spring street, walk straight and you can see the post office on your right. It's between the cinema and the flower shop. Walk along winter street and turn left, then walk along spring street. Is that right? Yes, it is. Thank you very much. You're welcome.Say and act.The children are looking at a map of the zoo. I want to see the bears. What do you want to see? I want to see the monkeys. I want to see the birds. How do we get there? We can walk along summer road and then turn right at spring road. We can see the monkeys on our right. Then we can walk along spring road and see the birds. After that, we can turn left and walk along winter road. We can see the bears on our left. Great, let's go.Sentence patterns.How do I get to the post office?Walk along winter street.Turn left at spring street.How do I get to turn left at?Turn right at.How do I get to the cinema, please?You can take bus number 11 get off at city cinema bus stop.Excuse me?Is that right?Excuse me?Is that right? Thank you very much.How do I get to the post office?Walk along winter street.Turn left at spring street.How do I get to the cinema, please?You can take bus number 11 get off at city cinema bus stop.Excuse me?Is that right?Learn the sounds.Smoke smoke smoke smoke. SP spider spider St star star spider spider what can you see? I can see a small star on the tree. Spider spider, what can you see? I can see some smoke in front.Front of me, spider spider. What can you see? I can see a small star on the tree. Spider spider, what can you see? I can see some smoke in front of me.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "Unit nine around the city post office quite along turn left,",
+        "SliceSentence": "Unit nine around the city post office quite along turn left ,",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 51170,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 610,
+            "OffsetEndMs": 1005,
+            "Word": "Unit"
+          },
+          {
+            "OffsetStartMs": 1005,
+            "OffsetEndMs": 1400,
+            "Word": "nine"
+          },
+          {
+            "OffsetStartMs": 2440,
+            "OffsetEndMs": 2820,
+            "Word": "around"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3075,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3075,
+            "OffsetEndMs": 3350,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 44200,
+            "OffsetEndMs": 44600,
+            "Word": "post"
+          },
+          {
+            "OffsetStartMs": 44650,
+            "OffsetEndMs": 45050,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 46210,
+            "OffsetEndMs": 46610,
+            "Word": "quite"
+          },
+          {
+            "OffsetStartMs": 47830,
+            "OffsetEndMs": 48230,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 49240,
+            "OffsetEndMs": 49640,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 50770,
+            "OffsetEndMs": 51170,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 50770,
+            "OffsetEndMs": 51170,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " right between flower shop,",
+        "SliceSentence": "right between flower shop ,",
+        "WrittenText": "",
+        "StartMs": 52150,
+        "EndMs": 56300,
+        "SpeechSpeed": 6.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "between"
+          },
+          {
+            "OffsetStartMs": 3270,
+            "OffsetEndMs": 3670,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 3750,
+            "OffsetEndMs": 4150,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " hospital,",
+        "SliceSentence": "hospital ,",
+        "WrittenText": "",
+        "StartMs": 57130,
+        "EndMs": 57530,
+        "SpeechSpeed": 22.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "hospital"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " toy shop.",
+        "SliceSentence": "toy shop .",
+        "WrittenText": "",
+        "StartMs": 58870,
+        "EndMs": 59690,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "toy"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Get to.",
+        "SliceSentence": "Get to .",
+        "WrittenText": "",
+        "StartMs": 60220,
+        "EndMs": 61410,
+        "SpeechSpeed": 5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 400,
+            "OffsetEndMs": 795,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1190,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 795,
+            "OffsetEndMs": 1190,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The.",
+        "SliceSentence": "The .",
+        "WrittenText": "",
+        "StartMs": 63020,
+        "EndMs": 63460,
+        "SpeechSpeed": 6.8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1610,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Walk along winter street.",
+        "SliceSentence": "Walk along winter street .",
+        "WrittenText": "",
+        "StartMs": 67760,
+        "EndMs": 70030,
+        "SpeechSpeed": 10.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Walk"
+          },
+          {
+            "OffsetStartMs": 820,
+            "OffsetEndMs": 1215,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1610,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4300,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Turn left at spring street.",
+        "SliceSentence": "Turn left at spring street .",
+        "WrittenText": "",
+        "StartMs": 70920,
+        "EndMs": 73190,
+        "SpeechSpeed": 11.5,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Turn"
+          },
+          {
+            "OffsetStartMs": 370,
+            "OffsetEndMs": 770,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 880,
+            "OffsetEndMs": 1280,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1730,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excuse me?",
+        "SliceSentence": "Excuse me ?",
+        "WrittenText": "",
+        "StartMs": 74340,
+        "EndMs": 75590,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 855,
+            "Word": "Excuse"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1250,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1250,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1150,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is that right?",
+        "SliceSentence": "Is that right ?",
+        "WrittenText": "",
+        "StartMs": 76460,
+        "EndMs": 77410,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 360,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 615,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Let's go.",
+        "SliceSentence": "Let's go .",
+        "WrittenText": "",
+        "StartMs": 78420,
+        "EndMs": 79370,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 645,
+            "Word": "Let's"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 950,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 645,
+            "OffsetEndMs": 950,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1010,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "New words.",
+        "SliceSentence": "New words .",
+        "WrittenText": "",
+        "StartMs": 80460,
+        "EndMs": 87050,
+        "SpeechSpeed": 1.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 5830,
+            "OffsetEndMs": 6210,
+            "Word": "New"
+          },
+          {
+            "OffsetStartMs": 6210,
+            "OffsetEndMs": 6590,
+            "Word": "words"
+          },
+          {
+            "OffsetStartMs": 6210,
+            "OffsetEndMs": 6590,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Post office.",
+        "SliceSentence": "Post office .",
+        "WrittenText": "",
+        "StartMs": 89580,
+        "EndMs": 90470,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Post"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Post office.",
+        "SliceSentence": "Post office .",
+        "WrittenText": "",
+        "StartMs": 92660,
+        "EndMs": 93550,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 440,
+            "Word": "Post"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2190,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quite.",
+        "SliceSentence": "Quite .",
+        "WrittenText": "",
+        "StartMs": 100020,
+        "EndMs": 100580,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Quite"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6470,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Quite.",
+        "SliceSentence": "Quite .",
+        "WrittenText": "",
+        "StartMs": 103220,
+        "EndMs": 103780,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Quite"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Along.",
+        "SliceSentence": "Along .",
+        "WrittenText": "",
+        "StartMs": 110740,
+        "EndMs": 111390,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Along"
+          },
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6960,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Along.",
+        "SliceSentence": "Along .",
+        "WrittenText": "",
+        "StartMs": 114100,
+        "EndMs": 114750,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "Along"
+          },
+          {
+            "OffsetStartMs": 250,
+            "OffsetEndMs": 650,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Turn.",
+        "SliceSentence": "Turn .",
+        "WrittenText": "",
+        "StartMs": 121300,
+        "EndMs": 121770,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Turn"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Turn.",
+        "SliceSentence": "Turn .",
+        "WrittenText": "",
+        "StartMs": 124420,
+        "EndMs": 124890,
+        "SpeechSpeed": 8.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Turn"
+          },
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Left.",
+        "SliceSentence": "Left .",
+        "WrittenText": "",
+        "StartMs": 131780,
+        "EndMs": 132310,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Left"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Left.",
+        "SliceSentence": "Left .",
+        "WrittenText": "",
+        "StartMs": 134840,
+        "EndMs": 135340,
+        "SpeechSpeed": 8,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "Left"
+          },
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 500,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Straight.",
+        "SliceSentence": "Straight .",
+        "WrittenText": "",
+        "StartMs": 142420,
+        "EndMs": 143130,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Straight"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7080,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Straight.",
+        "SliceSentence": "Straight .",
+        "WrittenText": "",
+        "StartMs": 145900,
+        "EndMs": 146610,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "Straight"
+          },
+          {
+            "OffsetStartMs": 310,
+            "OffsetEndMs": 710,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Right.",
+        "SliceSentence": "Right .",
+        "WrittenText": "",
+        "StartMs": 153060,
+        "EndMs": 153620,
+        "SpeechSpeed": 8.9,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Right"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6450,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Right.",
+        "SliceSentence": "Right .",
+        "WrittenText": "",
+        "StartMs": 156140,
+        "EndMs": 156670,
+        "SpeechSpeed": 9.4,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Right"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2520,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Between.",
+        "SliceSentence": "Between .",
+        "WrittenText": "",
+        "StartMs": 163500,
+        "EndMs": 164240,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Between"
+          },
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Between.",
+        "SliceSentence": "Between .",
+        "WrittenText": "",
+        "StartMs": 166420,
+        "EndMs": 167160,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "Between"
+          },
+          {
+            "OffsetStartMs": 340,
+            "OffsetEndMs": 740,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Flower shop.",
+        "SliceSentence": "Flower shop .",
+        "WrittenText": "",
+        "StartMs": 174140,
+        "EndMs": 175210,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Flower"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Flower shop.",
+        "SliceSentence": "Flower shop .",
+        "WrittenText": "",
+        "StartMs": 177120,
+        "EndMs": 178190,
+        "SpeechSpeed": 10.3,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Flower"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 670,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hospital.",
+        "SliceSentence": "Hospital .",
+        "WrittenText": "",
+        "StartMs": 184680,
+        "EndMs": 185090,
+        "SpeechSpeed": 19.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Hospital"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6490,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Hospital.",
+        "SliceSentence": "Hospital .",
+        "WrittenText": "",
+        "StartMs": 187900,
+        "EndMs": 188310,
+        "SpeechSpeed": 19.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "Hospital"
+          },
+          {
+            "OffsetStartMs": 10,
+            "OffsetEndMs": 410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2810,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toy shop.",
+        "SliceSentence": "Toy shop .",
+        "WrittenText": "",
+        "StartMs": 195060,
+        "EndMs": 195950,
+        "SpeechSpeed": 9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Toy"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Toy shop.",
+        "SliceSentence": "Toy shop .",
+        "WrittenText": "",
+        "StartMs": 198500,
+        "EndMs": 199390,
+        "SpeechSpeed": 9,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 470,
+            "Word": "Toy"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 890,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Road.",
+        "SliceSentence": "Road .",
+        "WrittenText": "",
+        "StartMs": 205940,
+        "EndMs": 206470,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Road"
+          },
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6550,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Road.",
+        "SliceSentence": "Road .",
+        "WrittenText": "",
+        "StartMs": 209060,
+        "EndMs": 209620,
+        "SpeechSpeed": 7.1,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "Road"
+          },
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2590,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Get to.",
+        "SliceSentence": "Get to .",
+        "WrittenText": "",
+        "StartMs": 216260,
+        "EndMs": 217060,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 435,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 800,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 435,
+            "OffsetEndMs": 800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Get to.",
+        "SliceSentence": "Get to .",
+        "WrittenText": "",
+        "StartMs": 219720,
+        "EndMs": 220520,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 420,
+            "Word": "Get"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 800,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2660,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Listen and say.",
+        "SliceSentence": "Listen and say .",
+        "WrittenText": "",
+        "StartMs": 231300,
+        "EndMs": 232700,
+        "SpeechSpeed": 10,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Listen"
+          },
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1020,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "say"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1400,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10780,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Walk along winter street,",
+        "SliceSentence": "Walk along winter street ,",
+        "WrittenText": "",
+        "StartMs": 235940,
+        "EndMs": 239050,
+        "SpeechSpeed": 7.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "Walk"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2055,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 2055,
+            "OffsetEndMs": 2450,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2710,
+            "OffsetEndMs": 3110,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3240,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " turn left at spring street.",
+        "SliceSentence": "turn left at spring street .",
+        "WrittenText": "",
+        "StartMs": 239610,
+        "EndMs": 242020,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 990,
+            "OffsetEndMs": 1390,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2010,
+            "OffsetEndMs": 2410,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excuse me.",
+        "SliceSentence": "Excuse me .",
+        "WrittenText": "",
+        "StartMs": 242960,
+        "EndMs": 250270,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 6490,
+            "OffsetEndMs": 6890,
+            "Word": "Excuse"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7310,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 6910,
+            "OffsetEndMs": 7310,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 940,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is the post office far from here?",
+        "SliceSentence": "Is the post office far from here ?",
+        "WrittenText": "",
+        "StartMs": 250440,
+        "EndMs": 252880,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 545,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 820,
+            "Word": "post"
+          },
+          {
+            "OffsetStartMs": 840,
+            "OffsetEndMs": 1240,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 1380,
+            "OffsetEndMs": 1780,
+            "Word": "far"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2120,
+            "Word": "from"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2440,
+            "Word": "here"
+          },
+          {
+            "OffsetStartMs": 2120,
+            "OffsetEndMs": 2440,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " No,",
+        "SliceSentence": "No ,",
+        "WrittenText": "",
+        "StartMs": 254760,
+        "EndMs": 255160,
+        "SpeechSpeed": 7.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "No"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1880,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it isn't.",
+        "SliceSentence": "it isn't .",
+        "WrittenText": "",
+        "StartMs": 255240,
+        "EndMs": 256030,
+        "SpeechSpeed": 11.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 790,
+            "Word": "isn't"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 80,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's quite near.",
+        "SliceSentence": "It's quite near .",
+        "WrittenText": "",
+        "StartMs": 256290,
+        "EndMs": 257350,
+        "SpeechSpeed": 15.1,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 470,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 470,
+            "OffsetEndMs": 710,
+            "Word": "quite"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1060,
+            "Word": "near"
+          },
+          {
+            "OffsetStartMs": 710,
+            "OffsetEndMs": 1060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How do I get to the post office,",
+        "SliceSentence": "How do I get to the post office ,",
+        "WrittenText": "",
+        "StartMs": 258090,
+        "EndMs": 260320,
+        "SpeechSpeed": 14.3,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 590,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 800,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 800,
+            "OffsetEndMs": 1100,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1355,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1505,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1780,
+            "Word": "post"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 1830,
+            "OffsetEndMs": 2230,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " walk along winter street,",
+        "SliceSentence": "walk along winter street ,",
+        "WrittenText": "",
+        "StartMs": 265110,
+        "EndMs": 266950,
+        "SpeechSpeed": 13.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 850,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4790,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " turn left at spring street,",
+        "SliceSentence": "turn left at spring street ,",
+        "WrittenText": "",
+        "StartMs": 267570,
+        "EndMs": 269830,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1020,
+            "OffsetEndMs": 1420,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1440,
+            "OffsetEndMs": 1840,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1860,
+            "OffsetEndMs": 2260,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 620,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " walk straight and you can see the post office on your right.",
+        "SliceSentence": "walk straight and you can see the post office on your right .",
+        "WrittenText": "",
+        "StartMs": 270660,
+        "EndMs": 275260,
+        "SpeechSpeed": 13,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "straight"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1820,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1820,
+            "OffsetEndMs": 2105,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 2105,
+            "OffsetEndMs": 2345,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 2345,
+            "OffsetEndMs": 2585,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 2585,
+            "OffsetEndMs": 2795,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2795,
+            "OffsetEndMs": 3050,
+            "Word": "post"
+          },
+          {
+            "OffsetStartMs": 3050,
+            "OffsetEndMs": 3430,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 3600,
+            "OffsetEndMs": 3950,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3950,
+            "OffsetEndMs": 4250,
+            "Word": "your"
+          },
+          {
+            "OffsetStartMs": 4250,
+            "OffsetEndMs": 4600,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 4250,
+            "OffsetEndMs": 4600,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " It's between the cinema and the flower shop.",
+        "SliceSentence": "It's between the cinema and the flower shop .",
+        "WrittenText": "",
+        "StartMs": 276030,
+        "EndMs": 279280,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 545,
+            "Word": "It's"
+          },
+          {
+            "OffsetStartMs": 545,
+            "OffsetEndMs": 875,
+            "Word": "between"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1130,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1420,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 1950,
+            "OffsetEndMs": 2300,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2300,
+            "OffsetEndMs": 2555,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 2555,
+            "OffsetEndMs": 2855,
+            "Word": "flower"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3250,
+            "Word": "shop"
+          },
+          {
+            "OffsetStartMs": 2855,
+            "OffsetEndMs": 3250,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Walk along winter street and turn left,",
+        "SliceSentence": "Walk along winter street and turn left ,",
+        "WrittenText": "",
+        "StartMs": 279960,
+        "EndMs": 283180,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Walk"
+          },
+          {
+            "OffsetStartMs": 570,
+            "OffsetEndMs": 950,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1330,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1590,
+            "OffsetEndMs": 1990,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2100,
+            "OffsetEndMs": 2450,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 2450,
+            "OffsetEndMs": 2800,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3220,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 680,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " then walk along spring street.",
+        "SliceSentence": "then walk along spring street .",
+        "WrittenText": "",
+        "StartMs": 283920,
+        "EndMs": 286360,
+        "SpeechSpeed": 12.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 480,
+            "OffsetEndMs": 880,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1930,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Is that right?",
+        "SliceSentence": "Is that right ?",
+        "WrittenText": "",
+        "StartMs": 286800,
+        "EndMs": 287740,
+        "SpeechSpeed": 14.9,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 590,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 940,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 940,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 440,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Yes,",
+        "SliceSentence": "Yes ,",
+        "WrittenText": "",
+        "StartMs": 289380,
+        "EndMs": 289745,
+        "SpeechSpeed": 11,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "Yes"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1640,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " it is.",
+        "SliceSentence": "it is .",
+        "WrittenText": "",
+        "StartMs": 289745,
+        "EndMs": 290290,
+        "SpeechSpeed": 11,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 255,
+            "Word": "it"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 545,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 255,
+            "OffsetEndMs": 545,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you very much.",
+        "SliceSentence": "Thank you very much .",
+        "WrittenText": "",
+        "StartMs": 291150,
+        "EndMs": 292330,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 590,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 590,
+            "OffsetEndMs": 830,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1180,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " You're welcome.",
+        "SliceSentence": "You're welcome .",
+        "WrittenText": "",
+        "StartMs": 293310,
+        "EndMs": 293980,
+        "SpeechSpeed": 22.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 410,
+            "Word": "You're"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 670,
+            "Word": "welcome"
+          },
+          {
+            "OffsetStartMs": 410,
+            "OffsetEndMs": 670,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 980,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Say and act.",
+        "SliceSentence": "Say and act .",
+        "WrittenText": "",
+        "StartMs": 299240,
+        "EndMs": 306340,
+        "SpeechSpeed": 1.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 5620,
+            "OffsetEndMs": 6020,
+            "Word": "Say"
+          },
+          {
+            "OffsetStartMs": 6250,
+            "OffsetEndMs": 6650,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "act"
+          },
+          {
+            "OffsetStartMs": 6700,
+            "OffsetEndMs": 7100,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "The children are looking at a map of the zoo.",
+        "SliceSentence": "The children are looking at a map of the zoo .",
+        "WrittenText": "",
+        "StartMs": 308040,
+        "EndMs": 316100,
+        "SpeechSpeed": 5.5,
+        "WordsNum": 11,
+        "Words": [
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4680,
+            "Word": "The"
+          },
+          {
+            "OffsetStartMs": 4680,
+            "OffsetEndMs": 4970,
+            "Word": "children"
+          },
+          {
+            "OffsetStartMs": 5350,
+            "OffsetEndMs": 5685,
+            "Word": "are"
+          },
+          {
+            "OffsetStartMs": 5685,
+            "OffsetEndMs": 6020,
+            "Word": "looking"
+          },
+          {
+            "OffsetStartMs": 6130,
+            "OffsetEndMs": 6510,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 6510,
+            "OffsetEndMs": 6795,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 6795,
+            "OffsetEndMs": 7100,
+            "Word": "map"
+          },
+          {
+            "OffsetStartMs": 7240,
+            "OffsetEndMs": 7545,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 7545,
+            "OffsetEndMs": 7755,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 7755,
+            "OffsetEndMs": 8060,
+            "Word": "zoo"
+          },
+          {
+            "OffsetStartMs": 7755,
+            "OffsetEndMs": 8060,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1700,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to see the bears.",
+        "SliceSentence": "I want to see the bears .",
+        "WrittenText": "",
+        "StartMs": 316600,
+        "EndMs": 318980,
+        "SpeechSpeed": 10.1,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 845,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 845,
+            "OffsetEndMs": 1115,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1115,
+            "OffsetEndMs": 1385,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1385,
+            "OffsetEndMs": 1655,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2380,
+            "Word": "bears"
+          },
+          {
+            "OffsetStartMs": 1655,
+            "OffsetEndMs": 2380,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 500,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What do you want to see?",
+        "SliceSentence": "What do you want to see ?",
+        "WrittenText": "",
+        "StartMs": 319240,
+        "EndMs": 320900,
+        "SpeechSpeed": 14.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 320,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 320,
+            "OffsetEndMs": 530,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 770,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 770,
+            "OffsetEndMs": 1100,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1370,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1660,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1370,
+            "OffsetEndMs": 1660,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to see the monkeys.",
+        "SliceSentence": "I want to see the monkeys .",
+        "WrittenText": "",
+        "StartMs": 321610,
+        "EndMs": 323690,
+        "SpeechSpeed": 12.5,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 740,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 980,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1220,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1220,
+            "OffsetEndMs": 1445,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 2080,
+            "Word": "monkeys"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 2080,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I want to see the birds.",
+        "SliceSentence": "I want to see the birds .",
+        "WrittenText": "",
+        "StartMs": 326530,
+        "EndMs": 328400,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 7,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 815,
+            "Word": "want"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1100,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1100,
+            "OffsetEndMs": 1340,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1340,
+            "OffsetEndMs": 1580,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1870,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 1580,
+            "OffsetEndMs": 1870,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2840,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " How do we get there?",
+        "SliceSentence": "How do we get there ?",
+        "WrittenText": "",
+        "StartMs": 329530,
+        "EndMs": 330920,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 560,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 560,
+            "OffsetEndMs": 755,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 1025,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "there"
+          },
+          {
+            "OffsetStartMs": 1025,
+            "OffsetEndMs": 1390,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1130,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can walk along summer road and then turn right at spring road.",
+        "SliceSentence": "We can walk along summer road and then turn right at spring road .",
+        "WrittenText": "",
+        "StartMs": 331720,
+        "EndMs": 337190,
+        "SpeechSpeed": 11.9,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 605,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 605,
+            "OffsetEndMs": 940,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1445,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 1445,
+            "OffsetEndMs": 1840,
+            "Word": "summer"
+          },
+          {
+            "OffsetStartMs": 1920,
+            "OffsetEndMs": 2320,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 2820,
+            "OffsetEndMs": 3140,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3140,
+            "OffsetEndMs": 3425,
+            "Word": "then"
+          },
+          {
+            "OffsetStartMs": 3425,
+            "OffsetEndMs": 3790,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 3810,
+            "OffsetEndMs": 4205,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 4205,
+            "OffsetEndMs": 4600,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 4740,
+            "OffsetEndMs": 5105,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 5105,
+            "OffsetEndMs": 5470,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 5105,
+            "OffsetEndMs": 5470,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can see the monkeys on our right.",
+        "SliceSentence": "We can see the monkeys on our right .",
+        "WrittenText": "",
+        "StartMs": 337900,
+        "EndMs": 340460,
+        "SpeechSpeed": 14.1,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 305,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 305,
+            "OffsetEndMs": 530,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 530,
+            "OffsetEndMs": 785,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 785,
+            "OffsetEndMs": 995,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1600,
+            "Word": "monkeys"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 1955,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1955,
+            "OffsetEndMs": 2210,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 2210,
+            "OffsetEndMs": 2560,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Then we can walk along spring road and see the birds.",
+        "SliceSentence": "Then we can walk along spring road and see the birds .",
+        "WrittenText": "",
+        "StartMs": 341230,
+        "EndMs": 345560,
+        "SpeechSpeed": 12.2,
+        "WordsNum": 12,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Then"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 740,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 740,
+            "OffsetEndMs": 995,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 995,
+            "OffsetEndMs": 1330,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 1470,
+            "OffsetEndMs": 1870,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 2130,
+            "OffsetEndMs": 2495,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 2495,
+            "OffsetEndMs": 2860,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3560,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 3560,
+            "OffsetEndMs": 3860,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 3860,
+            "OffsetEndMs": 4070,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 4070,
+            "OffsetEndMs": 4330,
+            "Word": "birds"
+          },
+          {
+            "OffsetStartMs": 4070,
+            "OffsetEndMs": 4330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 770,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " After that,",
+        "SliceSentence": "After that ,",
+        "WrittenText": "",
+        "StartMs": 346450,
+        "EndMs": 347360,
+        "SpeechSpeed": 12.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "After"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 910,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 890,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we can turn left and walk along winter road.",
+        "SliceSentence": "we can turn left and walk along winter road .",
+        "WrittenText": "",
+        "StartMs": 347920,
+        "EndMs": 351350,
+        "SpeechSpeed": 12.8,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 515,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 515,
+            "OffsetEndMs": 850,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1300,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1530,
+            "OffsetEndMs": 1880,
+            "Word": "and"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2230,
+            "Word": "walk"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2615,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 2615,
+            "OffsetEndMs": 2980,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "road"
+          },
+          {
+            "OffsetStartMs": 3030,
+            "OffsetEndMs": 3430,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 560,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We can see the bears on our left.",
+        "SliceSentence": "We can see the bears on our left .",
+        "WrittenText": "",
+        "StartMs": 352060,
+        "EndMs": 354260,
+        "SpeechSpeed": 15,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 290,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 290,
+            "OffsetEndMs": 500,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 500,
+            "OffsetEndMs": 755,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 755,
+            "OffsetEndMs": 950,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 950,
+            "OffsetEndMs": 1505,
+            "Word": "bears"
+          },
+          {
+            "OffsetStartMs": 1505,
+            "OffsetEndMs": 1685,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 1685,
+            "OffsetEndMs": 1880,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2200,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1880,
+            "OffsetEndMs": 2200,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Great,",
+        "SliceSentence": "Great ,",
+        "WrittenText": "",
+        "StartMs": 355180,
+        "EndMs": 355580,
+        "SpeechSpeed": 15,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "Great"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " let's go.",
+        "SliceSentence": "let's go .",
+        "WrittenText": "",
+        "StartMs": 355900,
+        "EndMs": 356780,
+        "SpeechSpeed": 10.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 575,
+            "Word": "let's"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 880,
+            "Word": "go"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 880,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 320,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Sentence patterns.",
+        "SliceSentence": "Sentence patterns .",
+        "WrittenText": "",
+        "StartMs": 368520,
+        "EndMs": 376610,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "Sentence"
+          },
+          {
+            "OffsetStartMs": 7690,
+            "OffsetEndMs": 8090,
+            "Word": "patterns"
+          },
+          {
+            "OffsetStartMs": 7690,
+            "OffsetEndMs": 8090,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 11740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do I get to the post office?",
+        "SliceSentence": "How do I get to the post office ?",
+        "WrittenText": "",
+        "StartMs": 380360,
+        "EndMs": 382660,
+        "SpeechSpeed": 13.5,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 420,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 660,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 870,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1170,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1425,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1425,
+            "OffsetEndMs": 1575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1850,
+            "Word": "post"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3750,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Walk along winter street.",
+        "SliceSentence": "Walk along winter street .",
+        "WrittenText": "",
+        "StartMs": 384480,
+        "EndMs": 386420,
+        "SpeechSpeed": 12.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Walk"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 1000,
+            "OffsetEndMs": 1400,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Turn left at spring street.",
+        "SliceSentence": "Turn left at spring street .",
+        "WrittenText": "",
+        "StartMs": 387680,
+        "EndMs": 389980,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 465,
+            "Word": "Turn"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 830,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1480,
+            "OffsetEndMs": 1880,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1900,
+            "OffsetEndMs": 2300,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1260,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do I get to turn left at?",
+        "SliceSentence": "How do I get to turn left at ?",
+        "WrittenText": "",
+        "StartMs": 392100,
+        "EndMs": 415700,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 3550,
+            "OffsetEndMs": 3915,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 3915,
+            "OffsetEndMs": 4155,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 4155,
+            "OffsetEndMs": 4335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 4335,
+            "OffsetEndMs": 4590,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 4590,
+            "OffsetEndMs": 4940,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 22300,
+            "OffsetEndMs": 22700,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 22780,
+            "OffsetEndMs": 23180,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 23200,
+            "OffsetEndMs": 23600,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 23200,
+            "OffsetEndMs": 23600,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2120,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Turn right at.",
+        "SliceSentence": "Turn right at .",
+        "WrittenText": "",
+        "StartMs": 419880,
+        "EndMs": 421880,
+        "SpeechSpeed": 6.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 730,
+            "OffsetEndMs": 1130,
+            "Word": "Turn"
+          },
+          {
+            "OffsetStartMs": 1240,
+            "OffsetEndMs": 1620,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2000,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1620,
+            "OffsetEndMs": 2000,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 4180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do I get to the cinema,",
+        "SliceSentence": "How do I get to the cinema ,",
+        "WrittenText": "",
+        "StartMs": 434220,
+        "EndMs": 435710,
+        "SpeechSpeed": 17.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 375,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 540,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 690,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 900,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1080,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1215,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1490,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1490,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 12340,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " please?",
+        "SliceSentence": "please ?",
+        "WrittenText": "",
+        "StartMs": 435880,
+        "EndMs": 436280,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You can take bus number 11 get off at city cinema bus stop.",
+        "SliceSentence": "You can take bus number 11 get off at city cinema bus stop .",
+        "WrittenText": "",
+        "StartMs": 438020,
+        "EndMs": 443140,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 450,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 630,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 870,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1200,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "number"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2655,
+            "Word": "11"
+          },
+          {
+            "OffsetStartMs": 2655,
+            "OffsetEndMs": 2910,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3225,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 3225,
+            "OffsetEndMs": 3555,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3555,
+            "OffsetEndMs": 3885,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 3885,
+            "OffsetEndMs": 4280,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4755,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 4755,
+            "OffsetEndMs": 5120,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 4755,
+            "OffsetEndMs": 5120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excuse me?",
+        "SliceSentence": "Excuse me ?",
+        "WrittenText": "",
+        "StartMs": 444520,
+        "EndMs": 445770,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 855,
+            "Word": "Excuse"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1250,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1250,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1380,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is that right?",
+        "SliceSentence": "Is that right ?",
+        "WrittenText": "",
+        "StartMs": 447680,
+        "EndMs": 448630,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 375,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 615,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1910,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excuse me?",
+        "SliceSentence": "Excuse me ?",
+        "WrittenText": "",
+        "StartMs": 450200,
+        "EndMs": 457540,
+        "SpeechSpeed": 1.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 6520,
+            "OffsetEndMs": 6920,
+            "Word": "Excuse"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 6940,
+            "OffsetEndMs": 7340,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is that right?",
+        "SliceSentence": "Is that right ?",
+        "WrittenText": "",
+        "StartMs": 458280,
+        "EndMs": 465950,
+        "SpeechSpeed": 1.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 6760,
+            "OffsetEndMs": 7080,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 7080,
+            "OffsetEndMs": 7335,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 7335,
+            "OffsetEndMs": 7670,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 7335,
+            "OffsetEndMs": 7670,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Thank you very much.",
+        "SliceSentence": "Thank you very much .",
+        "WrittenText": "",
+        "StartMs": 469600,
+        "EndMs": 470780,
+        "SpeechSpeed": 16.9,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 350,
+            "Word": "Thank"
+          },
+          {
+            "OffsetStartMs": 350,
+            "OffsetEndMs": 575,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 815,
+            "Word": "very"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "much"
+          },
+          {
+            "OffsetStartMs": 815,
+            "OffsetEndMs": 1180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 3650,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do I get to the post office?",
+        "SliceSentence": "How do I get to the post office ?",
+        "WrittenText": "",
+        "StartMs": 480960,
+        "EndMs": 483230,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 9,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 420,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 660,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 660,
+            "OffsetEndMs": 870,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1155,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 1155,
+            "OffsetEndMs": 1410,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1410,
+            "OffsetEndMs": 1575,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1575,
+            "OffsetEndMs": 1850,
+            "Word": "post"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "office"
+          },
+          {
+            "OffsetStartMs": 1870,
+            "OffsetEndMs": 2270,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10180,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Walk along winter street.",
+        "SliceSentence": "Walk along winter street .",
+        "WrittenText": "",
+        "StartMs": 491320,
+        "EndMs": 493230,
+        "SpeechSpeed": 12.6,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 130,
+            "OffsetEndMs": 530,
+            "Word": "Walk"
+          },
+          {
+            "OffsetStartMs": 550,
+            "OffsetEndMs": 950,
+            "Word": "along"
+          },
+          {
+            "OffsetStartMs": 970,
+            "OffsetEndMs": 1370,
+            "Word": "winter"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 8090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Turn left at spring street.",
+        "SliceSentence": "Turn left at spring street .",
+        "WrittenText": "",
+        "StartMs": 500860,
+        "EndMs": 503190,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 100,
+            "OffsetEndMs": 465,
+            "Word": "Turn"
+          },
+          {
+            "OffsetStartMs": 465,
+            "OffsetEndMs": 830,
+            "Word": "left"
+          },
+          {
+            "OffsetStartMs": 1060,
+            "OffsetEndMs": 1460,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 1510,
+            "OffsetEndMs": 1910,
+            "Word": "spring"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "street"
+          },
+          {
+            "OffsetStartMs": 1930,
+            "OffsetEndMs": 2330,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7630,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "How do I get to the cinema,",
+        "SliceSentence": "How do I get to the cinema ,",
+        "WrittenText": "",
+        "StartMs": 511060,
+        "EndMs": 512550,
+        "SpeechSpeed": 17.4,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 70,
+            "OffsetEndMs": 375,
+            "Word": "How"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 540,
+            "Word": "do"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 690,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 690,
+            "OffsetEndMs": 900,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 900,
+            "OffsetEndMs": 1080,
+            "Word": "to"
+          },
+          {
+            "OffsetStartMs": 1080,
+            "OffsetEndMs": 1215,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1490,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 1215,
+            "OffsetEndMs": 1490,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7870,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " please?",
+        "SliceSentence": "please ?",
+        "WrittenText": "",
+        "StartMs": 512720,
+        "EndMs": 513120,
+        "SpeechSpeed": 17.5,
+        "WordsNum": 2,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "please"
+          },
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 170,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "You can take bus number 11 get off at city cinema bus stop.",
+        "SliceSentence": "You can take bus number 11 get off at city cinema bus stop .",
+        "WrittenText": "",
+        "StartMs": 520160,
+        "EndMs": 525280,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 14,
+        "Words": [
+          {
+            "OffsetStartMs": 160,
+            "OffsetEndMs": 450,
+            "Word": "You"
+          },
+          {
+            "OffsetStartMs": 450,
+            "OffsetEndMs": 630,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 630,
+            "OffsetEndMs": 870,
+            "Word": "take"
+          },
+          {
+            "OffsetStartMs": 870,
+            "OffsetEndMs": 1200,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1580,
+            "Word": "number"
+          },
+          {
+            "OffsetStartMs": 1660,
+            "OffsetEndMs": 2640,
+            "Word": "11"
+          },
+          {
+            "OffsetStartMs": 2640,
+            "OffsetEndMs": 2895,
+            "Word": "get"
+          },
+          {
+            "OffsetStartMs": 2895,
+            "OffsetEndMs": 3210,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 3210,
+            "OffsetEndMs": 3540,
+            "Word": "at"
+          },
+          {
+            "OffsetStartMs": 3540,
+            "OffsetEndMs": 3885,
+            "Word": "city"
+          },
+          {
+            "OffsetStartMs": 3885,
+            "OffsetEndMs": 4280,
+            "Word": "cinema"
+          },
+          {
+            "OffsetStartMs": 4390,
+            "OffsetEndMs": 4755,
+            "Word": "bus"
+          },
+          {
+            "OffsetStartMs": 4755,
+            "OffsetEndMs": 5120,
+            "Word": "stop"
+          },
+          {
+            "OffsetStartMs": 4755,
+            "OffsetEndMs": 5120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 7040,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Excuse me?",
+        "SliceSentence": "Excuse me ?",
+        "WrittenText": "",
+        "StartMs": 535680,
+        "EndMs": 536930,
+        "SpeechSpeed": 7.2,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 460,
+            "OffsetEndMs": 855,
+            "Word": "Excuse"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1250,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 855,
+            "OffsetEndMs": 1250,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 10400,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Is that right?",
+        "SliceSentence": "Is that right ?",
+        "WrittenText": "",
+        "StartMs": 542340,
+        "EndMs": 543290,
+        "SpeechSpeed": 13.7,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 40,
+            "OffsetEndMs": 360,
+            "Word": "Is"
+          },
+          {
+            "OffsetStartMs": 360,
+            "OffsetEndMs": 615,
+            "Word": "that"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "right"
+          },
+          {
+            "OffsetStartMs": 615,
+            "OffsetEndMs": 950,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 5410,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Learn the sounds.",
+        "SliceSentence": "Learn the sounds .",
+        "WrittenText": "",
+        "StartMs": 557000,
+        "EndMs": 558070,
+        "SpeechSpeed": 15,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "Learn"
+          },
+          {
+            "OffsetStartMs": 490,
+            "OffsetEndMs": 780,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1070,
+            "Word": "sounds"
+          },
+          {
+            "OffsetStartMs": 780,
+            "OffsetEndMs": 1070,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 13710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Smoke smoke smoke smoke.",
+        "SliceSentence": "Smoke smoke smoke smoke .",
+        "WrittenText": "",
+        "StartMs": 559600,
+        "EndMs": 570720,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 1540,
+            "OffsetEndMs": 1940,
+            "Word": "Smoke"
+          },
+          {
+            "OffsetStartMs": 3460,
+            "OffsetEndMs": 3860,
+            "Word": "smoke"
+          },
+          {
+            "OffsetStartMs": 8650,
+            "OffsetEndMs": 9050,
+            "Word": "smoke"
+          },
+          {
+            "OffsetStartMs": 10720,
+            "OffsetEndMs": 11120,
+            "Word": "smoke"
+          },
+          {
+            "OffsetStartMs": 10720,
+            "OffsetEndMs": 11120,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1530,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " SP spider spider St star star spider spider what can you see?",
+        "SliceSentence": "SP spider spider St star star spider spider what can you see ?",
+        "WrittenText": "",
+        "StartMs": 576920,
+        "EndMs": 606450,
+        "SpeechSpeed": 2.1,
+        "WordsNum": 13,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "SP"
+          },
+          {
+            "OffsetStartMs": 5310,
+            "OffsetEndMs": 5740,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 7230,
+            "OffsetEndMs": 7660,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 12630,
+            "OffsetEndMs": 13030,
+            "Word": "St"
+          },
+          {
+            "OffsetStartMs": 19380,
+            "OffsetEndMs": 19780,
+            "Word": "star"
+          },
+          {
+            "OffsetStartMs": 21300,
+            "OffsetEndMs": 21700,
+            "Word": "star"
+          },
+          {
+            "OffsetStartMs": 25560,
+            "OffsetEndMs": 25990,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 26730,
+            "OffsetEndMs": 27190,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 28020,
+            "OffsetEndMs": 28420,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 28560,
+            "OffsetEndMs": 28940,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 28940,
+            "OffsetEndMs": 29225,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 29225,
+            "OffsetEndMs": 29530,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 29225,
+            "OffsetEndMs": 29530,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 6200,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a small star on the tree.",
+        "SliceSentence": "I can see a small star on the tree .",
+        "WrittenText": "",
+        "StartMs": 607250,
+        "EndMs": 611280,
+        "SpeechSpeed": 8.7,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 980,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 980,
+            "OffsetEndMs": 1310,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1660,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1800,
+            "OffsetEndMs": 2200,
+            "Word": "star"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 3000,
+            "OffsetEndMs": 3400,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3630,
+            "OffsetEndMs": 4030,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Spider spider,",
+        "SliceSentence": "Spider spider ,",
+        "WrittenText": "",
+        "StartMs": 612020,
+        "EndMs": 613650,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Spider"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1630,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1630,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what can you see?",
+        "SliceSentence": "what can you see ?",
+        "WrittenText": "",
+        "StartMs": 614480,
+        "EndMs": 615990,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 920,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 920,
+            "OffsetEndMs": 1205,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1510,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1205,
+            "OffsetEndMs": 1510,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 830,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see some smoke in front.",
+        "SliceSentence": "I can see some smoke in front .",
+        "WrittenText": "",
+        "StartMs": 616790,
+        "EndMs": 620050,
+        "SpeechSpeed": 9.2,
+        "WordsNum": 8,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 665,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 665,
+            "OffsetEndMs": 965,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 965,
+            "OffsetEndMs": 1310,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1310,
+            "OffsetEndMs": 1690,
+            "Word": "smoke"
+          },
+          {
+            "OffsetStartMs": 2370,
+            "OffsetEndMs": 2770,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3260,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 2940,
+            "OffsetEndMs": 3260,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": "Front of me,",
+        "SliceSentence": "Front of me ,",
+        "WrittenText": "",
+        "StartMs": 620080,
+        "EndMs": 620790,
+        "SpeechSpeed": 15.5,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 135,
+            "Word": "Front"
+          },
+          {
+            "OffsetStartMs": 135,
+            "OffsetEndMs": 375,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 710,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 375,
+            "OffsetEndMs": 710,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 30,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " spider spider.",
+        "SliceSentence": "spider spider .",
+        "WrittenText": "",
+        "StartMs": 621530,
+        "EndMs": 623160,
+        "SpeechSpeed": 8.6,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1630,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 1200,
+            "OffsetEndMs": 1630,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 740,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " What can you see?",
+        "SliceSentence": "What can you see ?",
+        "WrittenText": "",
+        "StartMs": 624020,
+        "EndMs": 625530,
+        "SpeechSpeed": 11.3,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "What"
+          },
+          {
+            "OffsetStartMs": 540,
+            "OffsetEndMs": 905,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1190,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1510,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 860,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see a small star on the tree.",
+        "SliceSentence": "I can see a small star on the tree .",
+        "WrittenText": "",
+        "StartMs": 626450,
+        "EndMs": 630360,
+        "SpeechSpeed": 9,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 620,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 620,
+            "OffsetEndMs": 905,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 905,
+            "OffsetEndMs": 1190,
+            "Word": "a"
+          },
+          {
+            "OffsetStartMs": 1190,
+            "OffsetEndMs": 1540,
+            "Word": "small"
+          },
+          {
+            "OffsetStartMs": 1710,
+            "OffsetEndMs": 2110,
+            "Word": "star"
+          },
+          {
+            "OffsetStartMs": 2250,
+            "OffsetEndMs": 2650,
+            "Word": "on"
+          },
+          {
+            "OffsetStartMs": 2910,
+            "OffsetEndMs": 3310,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "tree"
+          },
+          {
+            "OffsetStartMs": 3510,
+            "OffsetEndMs": 3910,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 920,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " Spider spider,",
+        "SliceSentence": "Spider spider ,",
+        "WrittenText": "",
+        "StartMs": 631070,
+        "EndMs": 632730,
+        "SpeechSpeed": 8.4,
+        "WordsNum": 3,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 430,
+            "Word": "Spider"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1660,
+            "Word": "spider"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1660,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 710,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " what can you see?",
+        "SliceSentence": "what can you see ?",
+        "WrittenText": "",
+        "StartMs": 633530,
+        "EndMs": 634980,
+        "SpeechSpeed": 11.7,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "what"
+          },
+          {
+            "OffsetStartMs": 510,
+            "OffsetEndMs": 875,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 875,
+            "OffsetEndMs": 1145,
+            "Word": "you"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1450,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 1145,
+            "OffsetEndMs": 1450,
+            "Word": "?"
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 800,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " I can see some smoke in front of me.",
+        "SliceSentence": "I can see some smoke in front of me .",
+        "WrittenText": "",
+        "StartMs": 636020,
+        "EndMs": 639810,
+        "SpeechSpeed": 9.5,
+        "WordsNum": 10,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 335,
+            "Word": "I"
+          },
+          {
+            "OffsetStartMs": 335,
+            "OffsetEndMs": 575,
+            "Word": "can"
+          },
+          {
+            "OffsetStartMs": 575,
+            "OffsetEndMs": 830,
+            "Word": "see"
+          },
+          {
+            "OffsetStartMs": 830,
+            "OffsetEndMs": 1130,
+            "Word": "some"
+          },
+          {
+            "OffsetStartMs": 1130,
+            "OffsetEndMs": 1480,
+            "Word": "smoke"
+          },
+          {
+            "OffsetStartMs": 1650,
+            "OffsetEndMs": 2050,
+            "Word": "in"
+          },
+          {
+            "OffsetStartMs": 2220,
+            "OffsetEndMs": 2620,
+            "Word": "front"
+          },
+          {
+            "OffsetStartMs": 2850,
+            "OffsetEndMs": 3250,
+            "Word": "of"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "me"
+          },
+          {
+            "OffsetStartMs": 3390,
+            "OffsetEndMs": 3790,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1040,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}

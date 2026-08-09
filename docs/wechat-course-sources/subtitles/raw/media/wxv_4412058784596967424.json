@@ -1,0 +1,270 @@
+{
+  "RequestId": "5c1fab52-ad3b-4335-b853-b8176827e05f",
+  "Data": {
+    "TaskId": 16292398075,
+    "Status": 2,
+    "StatusStr": "success",
+    "AudioDuration": 25.124,
+    "Result": "School is over. We pack our school bags. We clean the classroom, we close the window, we turn off the lights, we close the door.",
+    "ResultDetail": [
+      {
+        "FinalSentence": "School is over.",
+        "SliceSentence": "School is over .",
+        "WrittenText": "",
+        "StartMs": 0,
+        "EndMs": 2180,
+        "SpeechSpeed": 6.4,
+        "WordsNum": 4,
+        "Words": [
+          {
+            "OffsetStartMs": 640,
+            "OffsetEndMs": 1040,
+            "Word": "School"
+          },
+          {
+            "OffsetStartMs": 1330,
+            "OffsetEndMs": 1730,
+            "Word": "is"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "over"
+          },
+          {
+            "OffsetStartMs": 1780,
+            "OffsetEndMs": 2180,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 0,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We pack our school bags.",
+        "SliceSentence": "We pack our school bags .",
+        "WrittenText": "",
+        "StartMs": 4000,
+        "EndMs": 6920,
+        "SpeechSpeed": 8.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 395,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 395,
+            "OffsetEndMs": 790,
+            "Word": "pack"
+          },
+          {
+            "OffsetStartMs": 1170,
+            "OffsetEndMs": 1570,
+            "Word": "our"
+          },
+          {
+            "OffsetStartMs": 2040,
+            "OffsetEndMs": 2440,
+            "Word": "school"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "bags"
+          },
+          {
+            "OffsetStartMs": 2520,
+            "OffsetEndMs": 2920,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 1820,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " We clean the classroom,",
+        "SliceSentence": "We clean the classroom ,",
+        "WrittenText": "",
+        "StartMs": 9010,
+        "EndMs": 10610,
+        "SpeechSpeed": 14.4,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 400,
+            "Word": "We"
+          },
+          {
+            "OffsetStartMs": 420,
+            "OffsetEndMs": 820,
+            "Word": "clean"
+          },
+          {
+            "OffsetStartMs": 960,
+            "OffsetEndMs": 1280,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": "classroom"
+          },
+          {
+            "OffsetStartMs": 1280,
+            "OffsetEndMs": 1600,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2090,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we close the window,",
+        "SliceSentence": "we close the window ,",
+        "WrittenText": "",
+        "StartMs": 13180,
+        "EndMs": 14990,
+        "SpeechSpeed": 11,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 380,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 380,
+            "OffsetEndMs": 760,
+            "Word": "close"
+          },
+          {
+            "OffsetStartMs": 1230,
+            "OffsetEndMs": 1520,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": "window"
+          },
+          {
+            "OffsetStartMs": 1520,
+            "OffsetEndMs": 1810,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2570,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we turn off the lights,",
+        "SliceSentence": "we turn off the lights ,",
+        "WrittenText": "",
+        "StartMs": 16990,
+        "EndMs": 19040,
+        "SpeechSpeed": 11.2,
+        "WordsNum": 6,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "turn"
+          },
+          {
+            "OffsetStartMs": 750,
+            "OffsetEndMs": 1150,
+            "Word": "off"
+          },
+          {
+            "OffsetStartMs": 1500,
+            "OffsetEndMs": 1775,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": "lights"
+          },
+          {
+            "OffsetStartMs": 1775,
+            "OffsetEndMs": 2050,
+            "Word": ","
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2000,
+        "EmotionType": [
+          "disabled"
+        ]
+      },
+      {
+        "FinalSentence": " we close the door.",
+        "SliceSentence": "we close the door .",
+        "WrittenText": "",
+        "StartMs": 21100,
+        "EndMs": 22760,
+        "SpeechSpeed": 10.8,
+        "WordsNum": 5,
+        "Words": [
+          {
+            "OffsetStartMs": 0,
+            "OffsetEndMs": 365,
+            "Word": "we"
+          },
+          {
+            "OffsetStartMs": 365,
+            "OffsetEndMs": 730,
+            "Word": "close"
+          },
+          {
+            "OffsetStartMs": 1050,
+            "OffsetEndMs": 1355,
+            "Word": "the"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "door"
+          },
+          {
+            "OffsetStartMs": 1355,
+            "OffsetEndMs": 1660,
+            "Word": "."
+          }
+        ],
+        "SpeakerId": 0,
+        "EmotionalEnergy": 0,
+        "SilenceTime": 2060,
+        "EmotionType": [
+          "disabled"
+        ]
+      }
+    ],
+    "ErrorMsg": ""
+  }
+}
