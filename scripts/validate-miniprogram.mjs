@@ -11,6 +11,8 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const MINI_ROOT = path.join(ROOT, 'miniprogram')
 const COURSE_ROOT = path.join(ROOT, 'docs', 'wechat-course-sources')
 const catalog = require(path.join(MINI_ROOT, 'data', 'media-catalog.js'))
+const grade1Lower = require(path.join(MINI_ROOT, 'data', 'grade1-lower.js'))
+const bookData = require(path.join(MINI_ROOT, 'data', 'index.js'))
 const mediaManifest = require(path.join(COURSE_ROOT, 'migration', 'media-manifest.json'))
 const subtitleSample = require(path.join(MINI_ROOT, 'data', 'subtitles', 'grade1-lower-unit-01.js'))
 const { VIDEO_SUBTITLE_LINGER_MS, findTimedLineIndex } = require(path.join(MINI_ROOT, 'utils', 'subtitle.js'))
@@ -397,6 +399,7 @@ globalThis.wx = {
     audioCreateCount += 1
     return createAudioContextMock()
   },
+  setNavigationBarTitle() {},
   showToast() {}
 }
 
@@ -423,6 +426,34 @@ try {
   await pendingAudio
   if (audioCreateCount !== audioCountBeforeResolve || racePage.data.audioLoadingId) {
     errors.push('视频开始播放后，过期的音频加载请求仍然继续播放')
+  }
+
+  const textbookPage = {
+    ...learnPageDefinition,
+    data: {
+      ...learnPageDefinition.data,
+      grade: 1,
+      semester: 'lower',
+      unitIndex: 0,
+      isAppendix: false
+    },
+    setData(updates) {
+      Object.assign(this.data, updates)
+    },
+    prepareVideo() {},
+    loadSubtitleTracks() {}
+  }
+  textbookPage.loadUnitData()
+  if (
+    textbookPage.data.unitTitle !== grade1Lower.units[0].title ||
+    textbookPage.data.readyChant.lines.length !== grade1Lower.units[0].readyChant.lines.length ||
+    textbookPage.data.communication.title !== grade1Lower.units[0].communication.title ||
+    textbookPage.data.extendTitle !== grade1Lower.units[0].extendTitle
+  ) {
+    errors.push('学习页没有完整装载一年级下册的歌谣、交流活动或拓展标题')
+  }
+  if (!textbookPage.data.letters[0].chant.length || /\bfor\b/i.test(textbookPage.data.letters[0].speechText)) {
+    errors.push('学习页仍用拼接短句代替一年级下册正式字母歌谣')
   }
 } catch (error) {
   errors.push(`音视频互斥播放校验失败: ${error.message}`)
@@ -500,6 +531,104 @@ try {
   errors.push(`非 Unit 1 远程字幕加载失败: ${error.message}`)
 } finally {
   delete globalThis.wx
+}
+
+const expectedGrade1LowerUnits = [
+  {
+    title: 'What food do you like?',
+    subtitle: '你喜欢什么食物？',
+    words: ['noodles', 'baozi', 'rice', 'carrot', 'tomato', 'bread', 'egg', 'milk'],
+    audioTrackId: 'MzI2MTIxOTUxMl8yNjUwNTA0Nzgy'
+  },
+  {
+    title: 'What do we do in the classroom?',
+    subtitle: '我们在教室里做什么？',
+    words: ['window', 'blackboard', 'door', 'desk', 'chair', 'schoolbag'],
+    audioTrackId: 'MzI2MTIxOTUxMl8yNjUwNTA0Nzkw'
+  },
+  {
+    title: 'How do we play?',
+    subtitle: '我们怎么玩？',
+    words: ['ride a bike', 'ride a scooter', 'rollerblade', 'play football', 'skateboard'],
+    audioTrackId: 'MzI2MTIxOTUxMl8yNjUwNTA0Nzk5'
+  },
+  {
+    title: 'Which season do you like?',
+    subtitle: '你喜欢哪个季节？',
+    words: ['spring', 'warm', 'summer', 'hot', 'autumn', 'cool', 'winter', 'cold'],
+    audioTrackId: 'MzI2MTIxOTUxMl8yNjUwNTA0ODA4'
+  },
+  {
+    title: 'What do you know about fruit?',
+    subtitle: '你对水果了解多少？',
+    words: ['lemon', 'banana', 'apple', 'watermelon', 'pear', 'pineapple', 'peach', 'orange'],
+    audioTrackId: 'MzI2MTIxOTUxMl8yNjUwNTA0ODE3'
+  },
+  {
+    title: 'How do animals grow?',
+    subtitle: '动物是怎样长大的？',
+    words: ['tadpole', 'frog', 'butterfly', 'goldfish', 'duck', 'tortoise'],
+    audioTrackId: 'MzI2MTIxOTUxMl8yNjUwNTA0ODI4'
+  }
+]
+
+if (grade1Lower.contentStatus !== 'textbook-verified' || grade1Lower.units.length !== expectedGrade1LowerUnits.length) {
+  errors.push('一年级下册没有标记为六单元教材校订数据')
+}
+
+for (const [index, expected] of expectedGrade1LowerUnits.entries()) {
+  const unit = grade1Lower.units[index]
+  if (!unit) continue
+  if (unit.title !== expected.title || unit.subtitle !== expected.subtitle) {
+    errors.push(`一年级下册 Unit ${index + 1} 标题与教材不一致`)
+  }
+  const actualWords = (unit.words || []).map(item => item.english)
+  if (JSON.stringify(actualWords) !== JSON.stringify(expected.words)) {
+    errors.push(`一年级下册 Unit ${index + 1} Word list 与教材不一致`)
+  }
+  if (unit.source?.audioTrackId !== expected.audioTrackId || !unit.source?.scanPages || !unit.pageRange) {
+    errors.push(`一年级下册 Unit ${index + 1} 缺少扫描件或主音轨来源`)
+  }
+  if (!unit.sentences?.length || !unit.readyChant?.lines?.length || !unit.communication?.title || !unit.communication?.question) {
+    errors.push(`一年级下册 Unit ${index + 1} 句型、课堂歌谣或交流活动不完整`)
+  }
+  if (!unit.story?.title || !unit.story?.titleChinese || !unit.story?.lines?.length) {
+    errors.push(`一年级下册 Unit ${index + 1} 故事内容不完整`)
+  }
+  if (!unit.extendTitle || !unit.extendTitleChinese || !unit.extend?.length) {
+    errors.push(`一年级下册 Unit ${index + 1} 拓展阅读不完整`)
+  }
+  if (!unit.letters?.length || unit.letters.some(item => !item.letter || !item.word || !item.chinese || !item.chant?.length)) {
+    errors.push(`一年级下册 Unit ${index + 1} 字母歌谣不完整`)
+  }
+}
+
+if (grade1Lower.units[4]?.words.some(item => /heavy|重/i.test(`${item.english}${item.chinese}`))) {
+  errors.push('一年级下册 Unit 5 Word list 混入了学生手写内容')
+}
+
+const integratedGrade1Lower = bookData.getBook('lower', 1)
+for (const [index, expected] of expectedGrade1LowerUnits.entries()) {
+  const unit = integratedGrade1Lower.units[index]
+  if (unit?.title !== expected.title || unit?.mediaId !== `grade1-lower-unit-${String(index + 1).padStart(2, '0')}`) {
+    errors.push(`一年级下册 Unit ${index + 1} 没有正确合并教材正文与媒体目录`)
+  }
+  if (!unit?.videos?.length || !unit?.audios?.length || !unit?.subtitleFileID) {
+    errors.push(`一年级下册 Unit ${index + 1} 合并后丢失音视频或字幕资源`)
+  }
+}
+
+const grade1LowerCatalogUnits = catalog.grades.find(item => item.grade === 1)?.semesters.lower.units || []
+for (const [index, expected] of expectedGrade1LowerUnits.entries()) {
+  const unit = grade1LowerCatalogUnits[index]
+  if (unit?.title !== expected.title || unit?.titleChinese !== expected.subtitle) {
+    errors.push(`媒体目录中的一年级下册 Unit ${index + 1} 仍是占位标题`)
+  }
+}
+
+const scanSourceReadme = path.join(COURSE_ROOT, 'textbooks', 'grade1-lower', 'README.md')
+if (!fs.existsSync(scanSourceReadme) || !fs.readFileSync(scanSourceReadme, 'utf8').includes('002AAE2B3418D999E20A8858A3391E4667447857F97A6628D9BCCF4DAADDE9A6')) {
+  errors.push('一年级下册扫描件来源或 SHA256 没有落地记录')
 }
 
 const packageBytes = filesUnder(MINI_ROOT).reduce((sum, file) => sum + fs.statSync(file).size, 0)

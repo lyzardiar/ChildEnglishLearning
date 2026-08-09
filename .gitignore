@@ -18,3 +18,7 @@ cloudfunctions/*/config.js
 
 # Local generated previews and diagnostic screenshots
 output/
+
+# Local textbook scan cache (source metadata remains tracked)
+docs/wechat-course-sources/textbooks/grade1-lower/scans/
+docs/wechat-course-sources/textbooks/grade1-lower/processed/contact-sheets/

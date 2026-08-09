@@ -13,6 +13,7 @@ const OUTPUT = path.join(ROOT, 'miniprogram', 'data', 'media-catalog.js')
 const manifest = JSON.parse(fs.readFileSync(path.join(SOURCE_ROOT, 'migration', 'media-manifest.json'), 'utf8'))
 const knowledge = JSON.parse(fs.readFileSync(path.join(SOURCE_ROOT, 'catalog', 'knowledge-by-unit.json'), 'utf8'))
 const grade1Upper = require(path.join(ROOT, 'miniprogram', 'data', 'grade1-upper.js'))
+const grade1Lower = require(path.join(ROOT, 'miniprogram', 'data', 'grade1-lower.js'))
 let subtitleManifest = { units: {} }
 try {
   subtitleManifest = JSON.parse(fs.readFileSync(path.join(SOURCE_ROOT, 'subtitles', 'subtitle-manifest.json'), 'utf8'))
@@ -292,10 +293,16 @@ for (const item of verifiedMedia) {
   mediaByKey.get(key)[item.mediaType === 'video' ? 'videos' : 'audios'].push(compact)
 }
 
-const upperTitles = new Map(grade1Upper.units.map((unit, index) => [index + 1, {
-  title: unit.title,
-  titleChinese: unit.subtitle
-}]))
+const grade1Titles = {
+  upper: new Map(grade1Upper.units.map((unit, index) => [index + 1, {
+    title: unit.title,
+    titleChinese: unit.subtitle
+  }])),
+  lower: new Map(grade1Lower.units.map((unit, index) => [index + 1, {
+    title: unit.title,
+    titleChinese: unit.subtitle
+  }]))
+}
 const grades = []
 
 for (let grade = 1; grade <= 6; grade += 1) {
@@ -306,7 +313,7 @@ for (let grade = 1; grade <= 6; grade += 1) {
       const number = source.unitNumber
       const unitId = `grade${grade}-${semester}-unit-${String(number).padStart(2, '0')}`
       const media = mediaByKey.get(`${grade}-${semester}-${number}`) || { videos: [], audios: [] }
-      const titleOverride = grade === 1 && semester === 'upper' ? upperTitles.get(number) : null
+      const titleOverride = grade === 1 ? grade1Titles[semester].get(number) : null
       const knowledgeItems = (source.knowledgeBlocks || []).map(parseKnowledgeBlock)
       const subtitleEntry = subtitleManifest.units?.[unitId]
       return {

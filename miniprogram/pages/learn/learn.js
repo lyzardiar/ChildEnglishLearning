@@ -49,8 +49,12 @@ Page({
     currentWordImage: '',
     imageLoadError: false,
     sentences: [],
+    readyChant: {},
+    communication: {},
     letters: [],
     story: {},
+    extendTitle: '',
+    extendTitleChinese: '',
     extendLines: [],
     ttsPlayingKey: ''
   },
@@ -85,6 +89,21 @@ Page({
     const words = unit.words || []
     const firstWord = words[0] || null
     const semesterName = this.data.semester === 'lower' ? '下册' : '上册'
+    const readyChant = unit.readyChant
+      ? {
+          ...unit.readyChant,
+          lines: (unit.readyChant.lines || []).map((item, index) => ({ ...item, ttsKey: `chant-${index}` }))
+        }
+      : {}
+    const communication = unit.communication
+      ? {
+          ...unit.communication,
+          lines: (unit.communication.lines || []).map((item, index) => ({ ...item, ttsKey: `communication-${index}` })),
+          question: unit.communication.question
+            ? { ...unit.communication.question, ttsKey: 'communication-question' }
+            : null
+        }
+      : {}
     this.setData({
       unitId: unit.id,
       unitTitle: unit.title,
@@ -103,8 +122,20 @@ Page({
       currentWord: firstWord,
       currentWordImage: firstWord ? imageStyle.getWordImage(unit.id, firstWord.english) : '',
       sentences: (unit.sentences || []).map((item, index) => ({ ...item, ttsKey: `sentence-${index}` })),
-      letters: (unit.letters || []).map(item => ({ ...item, speechText: `${item.letter}. ${item.letter[0]} for ${item.word}` })),
+      readyChant,
+      communication,
+      letters: (unit.letters || []).map((item, index) => {
+        const chant = item.chant || []
+        return {
+          ...item,
+          chant,
+          speechText: item.speechText || chant.map(line => line.english).join(' ') || `${item.letter}. ${item.letter[0]} for ${item.word}`,
+          ttsKey: `letter-${index}`
+        }
+      }),
       story: unit.story ? { ...unit.story, lines: (unit.story.lines || []).map((item, index) => ({ ...item, ttsKey: `story-${index}` })) } : {},
+      extendTitle: unit.extendTitle || '',
+      extendTitleChinese: unit.extendTitleChinese || '',
       extendLines: (unit.extend || []).map((item, index) => ({ ...item, ttsKey: `extend-${index}` }))
     })
     wx.setNavigationBarTitle({ title: this.data.isAppendix ? unit.titleChinese : `Unit ${unit.unitNumber}` })

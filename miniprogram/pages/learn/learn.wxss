@@ -528,6 +528,59 @@
   border-bottom: 1rpx solid var(--color-line);
 }
 
+.content-title-block {
+  padding: 26rpx 8rpx 18rpx;
+  border-bottom: 1rpx solid var(--color-line);
+}
+
+.content-title,
+.content-chinese {
+  display: block;
+  word-break: break-word;
+}
+
+.content-title {
+  font-size: 29rpx;
+  line-height: 1.4;
+  font-weight: 800;
+}
+
+.content-chinese {
+  margin-top: 4rpx;
+  color: var(--color-primary);
+  font-size: 23rpx;
+  line-height: 1.4;
+}
+
+.extend-title-block {
+  margin-top: 22rpx;
+}
+
+.activity-question {
+  min-height: 104rpx;
+  display: flex;
+  align-items: center;
+  padding: 20rpx 8rpx;
+  box-sizing: border-box;
+  border-bottom: 1rpx solid var(--color-line);
+  background: #F3F8FC;
+}
+
+.activity-question-mark {
+  width: 44rpx;
+  height: 44rpx;
+  flex: 0 0 44rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16rpx;
+  border-radius: 50%;
+  color: #FFFFFF;
+  background: var(--color-accent);
+  font-size: 24rpx;
+  font-weight: 800;
+}
+
 .story-title,
 .story-chinese {
   display: block;
@@ -563,6 +616,41 @@
   background: #FFFFFF;
 }
 
+.letter-row.with-chant {
+  grid-column: 1 / -1;
+  min-height: 0;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding: 24rpx 26rpx;
+}
+
+.letter-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.letter-heading.with-chant {
+  flex-direction: row;
+  align-items: center;
+  padding-right: 50rpx;
+}
+
+.letter-heading.with-chant .letter-symbol {
+  width: 110rpx;
+  flex: 0 0 110rpx;
+}
+
+.letter-word-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.letter-heading.with-chant .letter-word-group {
+  align-items: flex-start;
+}
+
 .letter-symbol {
   font-size: 60rpx;
   line-height: 1.1;
@@ -574,6 +662,10 @@
   margin-top: 10rpx;
   font-size: 27rpx;
   font-weight: 700;
+}
+
+.letter-heading.with-chant .letter-word {
+  margin-top: 0;
 }
 
 .letter-chinese {
@@ -588,4 +680,32 @@
   right: 16rpx;
   color: var(--color-accent);
   font-size: 23rpx;
+}
+
+.letter-chant {
+  margin-top: 20rpx;
+  padding-top: 14rpx;
+  border-top: 1rpx solid var(--color-line);
+}
+
+.letter-chant-line {
+  padding: 9rpx 0;
+}
+
+.letter-chant-english,
+.letter-chant-chinese {
+  display: block;
+  line-height: 1.45;
+  word-break: break-word;
+}
+
+.letter-chant-english {
+  font-size: 25rpx;
+  font-weight: 650;
+}
+
+.letter-chant-chinese {
+  margin-top: 3rpx;
+  color: var(--color-text-secondary);
+  font-size: 21rpx;
 }

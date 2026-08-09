@@ -1,5 +1,6 @@
 const catalog = require('./media-catalog.js')
 const grade1Upper = require('./grade1-upper.js')
+const grade1Lower = require('./grade1-lower.js')
 const subtitleCatalog = require('./subtitle-catalog.js')
 
 function normalizeGrade(grade) {
@@ -16,8 +17,21 @@ function getBook(semester, grade) {
   const safeGrade = normalizeGrade(grade)
   const source = getGrade(safeGrade).semesters[safeSemester]
   const units = source.units.map((unit, index) => {
-    if (safeGrade === 1 && safeSemester === 'upper' && grade1Upper.units[index]) {
-      return { ...unit, ...grade1Upper.units[index], mediaId: unit.id, videos: unit.videos, audios: unit.audios, knowledge: unit.knowledge, counts: unit.counts }
+    const textbook = safeGrade === 1
+      ? (safeSemester === 'lower' ? grade1Lower : grade1Upper)
+      : null
+    if (textbook?.units[index]) {
+      return {
+        ...unit,
+        ...textbook.units[index],
+        mediaId: unit.id,
+        unitNumber: unit.unitNumber,
+        videos: unit.videos,
+        audios: unit.audios,
+        knowledge: unit.knowledge,
+        counts: unit.counts,
+        subtitleFileID: unit.subtitleFileID
+      }
     }
     return unit
   })
@@ -26,7 +40,7 @@ function getBook(semester, grade) {
 
 function getUnit(grade, semester, unitIndex) {
   const unit = getBook(semester, grade).units[Number(unitIndex) || 0] || null
-  return unit ? { ...unit, subtitles: subtitleCatalog.getUnitTracks(unit.id) } : null
+  return unit ? { ...unit, subtitles: subtitleCatalog.getUnitTracks(unit.mediaId || unit.id) } : null
 }
 
 function getAppendix(grade, semester, appendixIndex) {

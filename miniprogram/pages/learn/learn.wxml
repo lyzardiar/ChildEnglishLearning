@@ -152,7 +152,23 @@
     </block>
 
     <block wx:if="{{activeTab === 'sentences'}}">
-      <view class="bilingual-list">
+      <view class="content-title-block" wx:if="{{readyChant.title}}">
+        <text class="content-title">{{readyChant.title}}</text>
+        <text class="content-chinese">{{readyChant.titleChinese}}</text>
+      </view>
+      <view class="bilingual-list" wx:if="{{readyChant.lines && readyChant.lines.length}}">
+        <view class="bilingual-row" wx:for="{{readyChant.lines}}" wx:key="index">
+          <text class="line-number">{{index + 1}}</text>
+          <view class="bilingual-main">
+            <text class="line-english">{{item.english}}</text>
+            <text class="line-chinese">{{item.chinese}}</text>
+          </view>
+          <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
+        </view>
+      </view>
+
+      <text class="section-heading" wx:if="{{sentences.length}}">重点句型</text>
+      <view class="bilingual-list" wx:if="{{sentences.length}}">
         <view class="bilingual-row" wx:for="{{sentences}}" wx:key="index">
           <text class="line-number">{{index + 1}}</text>
           <view class="bilingual-main">
@@ -161,6 +177,29 @@
           </view>
           <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
         </view>
+      </view>
+
+      <view class="content-title-block" wx:if="{{communication.title}}">
+        <text class="content-title">{{communication.title}}</text>
+        <text class="content-chinese">{{communication.titleChinese}}</text>
+      </view>
+      <view class="bilingual-list" wx:if="{{communication.lines && communication.lines.length}}">
+        <view class="bilingual-row" wx:for="{{communication.lines}}" wx:key="index">
+          <text class="line-number">{{index + 1}}</text>
+          <view class="bilingual-main">
+            <text class="line-english">{{item.english}}</text>
+            <text class="line-chinese">{{item.chinese}}</text>
+          </view>
+          <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
+        </view>
+      </view>
+      <view class="activity-question" wx:if="{{communication.question}}">
+        <view class="activity-question-mark">?</view>
+        <view class="bilingual-main">
+          <text class="line-english">{{communication.question.english}}</text>
+          <text class="line-chinese">{{communication.question.chinese}}</text>
+        </view>
+        <view class="line-play" data-text="{{communication.question.english}}" data-key="{{communication.question.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === communication.question.ttsKey ? '…' : '♪'}}</view>
       </view>
     </block>
 
@@ -179,7 +218,10 @@
           <view class="line-play" data-text="{{item.english}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</view>
         </view>
       </view>
-      <text class="section-heading" wx:if="{{extendLines.length}}">拓展阅读</text>
+      <view class="content-title-block extend-title-block" wx:if="{{extendLines.length}}">
+        <text class="content-title">{{extendTitle || 'Extend'}}</text>
+        <text class="content-chinese">{{extendTitleChinese || '拓展阅读'}}</text>
+      </view>
       <view class="bilingual-list" wx:if="{{extendLines.length}}">
         <view class="bilingual-row" wx:for="{{extendLines}}" wx:key="index">
           <text class="line-number">{{index + 1}}</text>
@@ -194,11 +236,21 @@
 
     <block wx:if="{{activeTab === 'letters'}}">
       <view class="letters-grid">
-        <view class="letter-row" wx:for="{{letters}}" wx:key="letter" data-text="{{item.speechText}}" bindtap="onSpeak">
-          <text class="letter-symbol">{{item.letter}}</text>
-          <text class="letter-word">{{item.word}}</text>
-          <text class="letter-chinese">{{item.chinese}}</text>
-          <text class="letter-audio">♪</text>
+        <view class="letter-row {{item.chant.length ? 'with-chant' : ''}}" wx:for="{{letters}}" wx:key="letter" data-text="{{item.speechText}}" data-key="{{item.ttsKey}}" bindtap="onSpeak">
+          <view class="letter-heading {{item.chant.length ? 'with-chant' : ''}}">
+            <text class="letter-symbol">{{item.letter}}</text>
+            <view class="letter-word-group">
+              <text class="letter-word">{{item.word}}</text>
+              <text class="letter-chinese">{{item.chinese}}</text>
+            </view>
+          </view>
+          <view class="letter-chant" wx:if="{{item.chant.length}}">
+            <view class="letter-chant-line" wx:for="{{item.chant}}" wx:key="index" wx:for-item="line">
+              <text class="letter-chant-english">{{line.english}}</text>
+              <text class="letter-chant-chinese">{{line.chinese}}</text>
+            </view>
+          </view>
+          <text class="letter-audio">{{ttsPlayingKey === item.ttsKey ? '…' : '♪'}}</text>
         </view>
       </view>
     </block>
