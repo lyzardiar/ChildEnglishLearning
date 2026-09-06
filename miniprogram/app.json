@@ -4,6 +4,7 @@
     "pages/learn/learn",
     "pages/listen/listen",
     "pages/game/game",
+    "pages/chess/chess",
     "pages/checkin/checkin",
     "pages/profile/profile"
   ],
@@ -38,6 +39,7 @@
       }
     ]
   },
+  "workers": "workers",
   "requiredPrivateInfos": [],
   "sitemapLocation": "sitemap.json",
   "lazyCodeLoading": "requiredComponents"

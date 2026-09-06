@@ -18,6 +18,13 @@ Page({
         icon: '中',
         desc: '看中文，选出对应英文',
         color: '#E85D4A'
+      },
+      {
+        id: 'chess',
+        name: '国际象棋',
+        icon: '♞',
+        desc: '和机器人对局 · 10档难度',
+        color: '#2F8A61'
       }
     ],
     grades: bookData.getGrades(),
@@ -77,6 +84,10 @@ Page({
   // 选择游戏
   onSelectGame(e) {
     const gameId = e.currentTarget.dataset.id
+    if (gameId === 'chess') {
+      wx.navigateTo({ url: '/pages/chess/chess' })
+      return
+    }
     this.setData({ currentGame: gameId, gameScore: 0, gameRound: 0, lastAnswerCorrect: null })
     this.startGame(gameId)
   },

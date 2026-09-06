@@ -1,0 +1,210 @@
+<view class="chess-loading" wx:if="{{assetsLoading}}">
+  <view class="loading-board" aria-label="正在加载">
+    <view class="loading-square light"></view>
+    <view class="loading-square dark"></view>
+    <view class="loading-square dark"></view>
+    <view class="loading-square light"></view>
+    <view class="loading-piece">♟</view>
+  </view>
+  <text class="loading-title">正在摆好棋盘</text>
+  <text class="loading-detail">{{loadingDetail}}</text>
+  <view class="loading-track">
+    <view class="loading-value" style="width: {{loadingProgress}}%;"></view>
+  </view>
+  <text class="loading-percent">{{loadingProgress}}%</text>
+</view>
+
+<view class="chess-page" wx:else>
+  <view class="chess-toolbar">
+    <view class="difficulty-control" bindtap="onOpenDifficulty">
+      <view class="difficulty-number">{{difficultyLevel}}</view>
+      <view class="difficulty-copy">
+        <text class="difficulty-label">机器人 · {{difficultyName}}</text>
+        <text class="difficulty-hint">点击切换难度</text>
+      </view>
+      <text class="toolbar-arrow">⌄</text>
+    </view>
+    <view class="icon-command" bindtap="onOpenRules" aria-label="查看规则">
+      <text class="icon-command-mark">?</text>
+    </view>
+  </view>
+
+  <view class="player-strip robot-strip {{robotTurn ? 'active-turn' : 'inactive-turn'}}">
+    <view class="player-avatar robot-avatar">R</view>
+    <view class="player-copy">
+      <text class="player-name">机器人</text>
+      <text class="player-side">{{robotColorName}}</text>
+    </view>
+    <text class="captured-pieces">{{robotCaptures}}</text>
+    <view class="turn-badge robot-badge" wx:if="{{robotTurn}}">
+      <view class="badge-pulse"></view>
+      <text>{{robotThinking ? '思考中' : '正在走'}}</text>
+    </view>
+    <image class="side-piece-image" src="{{robotKingImage}}" mode="aspectFit" aria-label="机器人棋子"></image>
+  </view>
+
+  <view class="turn-status {{statusKind}}">
+    <view class="status-dot"></view>
+    <text>{{statusText}}</text>
+  </view>
+
+  <view class="chess-board {{boardTurnClass}}" aria-label="国际象棋棋盘">
+    <view
+      class="chess-square {{item.dark ? 'dark' : 'light'}} {{item.lastFrom ? 'last-from' : ''}} {{item.lastTo ? 'last-to' : ''}} {{item.selected ? 'selected' : ''}} {{item.checked ? 'checked' : ''}}"
+      wx:for="{{squares}}"
+      wx:key="renderKey"
+      data-coord="{{item.coord}}"
+      bindtap="onSquareTap"
+      aria-label="{{item.coord}} {{item.pieceName}}"
+    >
+      <text class="rank-label" wx:if="{{item.rankLabel}}">{{item.rankLabel}}</text>
+      <text class="file-label" wx:if="{{item.fileLabel}}">{{item.fileLabel}}</text>
+      <view class="legal-dot" wx:if="{{item.legal && !item.capture}}"></view>
+      <view class="capture-ring" wx:if="{{item.capture}}"></view>
+      <view class="move-marker from-marker" wx:if="{{item.lastFrom}}">起</view>
+      <view class="move-marker to-marker" wx:if="{{item.lastTo}}">到</view>
+      <view class="capture-effect {{item.captureEffectKind}}" wx:if="{{item.captureEffect}}">
+        <view class="capture-wave wave-one"></view>
+        <view class="capture-wave wave-two"></view>
+        <text class="capture-effect-label">{{item.captureEffectText}}</text>
+      </view>
+      <image
+        class="chess-piece-image piece-{{item.pieceColor}}"
+        wx:if="{{item.pieceImage}}"
+        src="{{item.pieceImage}}"
+        mode="aspectFit"
+        aria-label="{{item.pieceName}}"
+      ></image>
+    </view>
+  </view>
+
+  <view class="player-strip human-strip {{playerTurn ? 'active-turn' : 'inactive-turn'}}">
+    <view class="player-avatar human-avatar">我</view>
+    <view class="player-copy">
+      <text class="player-name">小棋手</text>
+      <text class="player-side">{{playerColorName}}</text>
+    </view>
+    <text class="captured-pieces">{{playerCaptures}}</text>
+    <view class="turn-badge human-badge" wx:if="{{playerTurn}}">
+      <view class="badge-pulse"></view>
+      <text>正在走</text>
+    </view>
+    <image class="side-piece-image" src="{{playerKingImage}}" mode="aspectFit" aria-label="我的棋子"></image>
+  </view>
+
+  <view class="move-summary">
+    <view class="last-move">
+      <text class="summary-label">最近一步</text>
+      <text class="summary-value">{{lastMoveText}}</text>
+    </view>
+    <scroll-view class="move-history" scroll-x enhanced show-scrollbar="{{false}}" wx:if="{{recentMoves.length > 1}}">
+      <view class="move-history-row">
+        <text class="move-chip" wx:for="{{recentMoves}}" wx:key="ply">{{item.label}}</text>
+      </view>
+    </scroll-view>
+  </view>
+
+  <view class="chess-actions">
+    <view class="chess-action {{canUndo ? '' : 'disabled'}}" bindtap="onUndo">
+      <text class="action-icon">↶</text>
+      <text class="action-label">悔棋</text>
+    </view>
+    <view class="chess-action" bindtap="onNewGame">
+      <text class="action-icon">↻</text>
+      <text class="action-label">重开</text>
+    </view>
+    <view class="chess-action" bindtap="onChangeSide">
+      <text class="action-icon">⇄</text>
+      <text class="action-label">换边</text>
+    </view>
+    <view class="chess-action {{hasMoves ? '' : 'disabled'}}" bindtap="onOfferDraw">
+      <text class="action-icon">＝</text>
+      <text class="action-label">{{canClaimDraw ? '申请和棋' : '提和'}}</text>
+    </view>
+    <view class="chess-action danger {{hasMoves ? '' : 'disabled'}}" bindtap="onResign">
+      <text class="action-icon">□</text>
+      <text class="action-label">认输</text>
+    </view>
+  </view>
+
+  <text class="claim-hint" wx:if="{{canClaimDraw}}">可因{{claimReason}}申请和棋</text>
+</view>
+
+<view class="sheet-mask" wx:if="{{showDifficulty}}" bindtap="onCloseDifficulty">
+  <view class="bottom-sheet" catchtap="onStopTap">
+    <view class="sheet-handle"></view>
+    <view class="sheet-heading">
+      <view>
+        <text class="sheet-title">机器人难度</text>
+        <text class="sheet-subtitle">共 10 档，越往后计算越深入</text>
+      </view>
+      <view class="sheet-close" bindtap="onCloseDifficulty">×</view>
+    </view>
+    <view class="difficulty-grid">
+      <view
+        class="difficulty-option {{difficultyLevel === item.level ? 'active' : ''}}"
+        wx:for="{{difficulties}}"
+        wx:key="level"
+        data-level="{{item.level}}"
+        bindtap="onChooseDifficulty"
+      >
+        <text class="option-level">{{item.level}}</text>
+        <view class="option-copy">
+          <text class="option-name">{{item.name}}</text>
+          <text class="option-detail">{{item.detail}}</text>
+        </view>
+        <text class="option-check" wx:if="{{difficultyLevel === item.level}}">✓</text>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="sheet-mask" wx:if="{{showRules}}" bindtap="onCloseRules">
+  <view class="rules-sheet" catchtap="onStopTap">
+    <view class="sheet-heading rules-heading">
+      <view>
+        <text class="sheet-title">国际象棋规则</text>
+        <text class="sheet-subtitle">当前对局采用不限时标准规则</text>
+      </view>
+      <view class="sheet-close" bindtap="onCloseRules">×</view>
+    </view>
+    <scroll-view class="rules-scroll" scroll-y enhanced show-scrollbar="{{false}}">
+      <view class="rule-section" wx:for="{{rules}}" wx:key="id">
+        <view class="rule-title-row">
+          <text class="rule-mark">{{item.mark}}</text>
+          <text class="rule-title">{{item.title}}</text>
+        </view>
+        <view class="rule-item" wx:for="{{item.items}}" wx:key="index" wx:for-item="line">
+          <view class="rule-dot"></view>
+          <text>{{line}}</text>
+        </view>
+      </view>
+      <view class="rules-bottom-space"></view>
+    </scroll-view>
+  </view>
+</view>
+
+<view class="dialog-mask" wx:if="{{showPromotion}}">
+  <view class="promotion-dialog">
+    <text class="dialog-title">兵要变成什么？</text>
+    <view class="promotion-options">
+      <view class="promotion-option" wx:for="{{promotionOptions}}" wx:key="key" data-piece="{{item.key}}" bindtap="onChoosePromotion">
+        <image class="promotion-piece-image" src="{{item.image}}" mode="aspectFit"></image>
+        <text class="promotion-name">{{item.name}}</text>
+      </view>
+    </view>
+    <view class="dialog-cancel" bindtap="onCancelPromotion">取消</view>
+  </view>
+</view>
+
+<view class="dialog-mask" wx:if="{{showGameOver}}">
+  <view class="result-dialog">
+    <text class="result-symbol">{{resultTitle === '你赢了！' ? '♛' : (resultTitle === '和棋' ? '＝' : '♚')}}</text>
+    <text class="result-title">{{resultTitle}}</text>
+    <text class="result-detail">{{resultDetail}}</text>
+    <view class="result-actions">
+      <view class="result-button secondary" bindtap="onLeaveGame">返回</view>
+      <view class="result-button primary" bindtap="onRematch">再来一盘</view>
+    </view>
+  </view>
+</view>

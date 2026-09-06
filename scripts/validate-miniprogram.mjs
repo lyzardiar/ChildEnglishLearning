@@ -16,6 +16,18 @@ const bookData = require(path.join(MINI_ROOT, 'data', 'index.js'))
 const mediaManifest = require(path.join(COURSE_ROOT, 'migration', 'media-manifest.json'))
 const subtitleSample = require(path.join(MINI_ROOT, 'data', 'subtitles', 'grade1-lower-unit-01.js'))
 const { VIDEO_SUBTITLE_LINGER_MS, findTimedLineIndex } = require(path.join(MINI_ROOT, 'utils', 'subtitle.js'))
+const chessRules = require(path.join(MINI_ROOT, 'data', 'chess-rules.js'))
+const { PIECE_IMAGES } = require(path.join(MINI_ROOT, 'data', 'chess-assets.js'))
+const {
+  Chess,
+  DIFFICULTIES,
+  getDrawState,
+  getTerminalState,
+  legalMovesFrom,
+  capturedSquare,
+  createBoardSquares
+} = require(path.join(MINI_ROOT, 'utils', 'chess-game.js'))
+const { calculateRobotMove } = require(path.join(MINI_ROOT, 'utils', 'chess-ai.js'))
 const errors = []
 
 function filesUnder(root) {
@@ -629,6 +641,230 @@ for (const [index, expected] of expectedGrade1LowerUnits.entries()) {
 const scanSourceReadme = path.join(COURSE_ROOT, 'textbooks', 'grade1-lower', 'README.md')
 if (!fs.existsSync(scanSourceReadme) || !fs.readFileSync(scanSourceReadme, 'utf8').includes('002AAE2B3418D999E20A8858A3391E4667447857F97A6628D9BCCF4DAADDE9A6')) {
   errors.push('一年级下册扫描件来源或 SHA256 没有落地记录')
+}
+
+const chessRulesPath = path.join(ROOT, 'docs', 'chess-rules.md')
+const chessRulesSource = fs.existsSync(chessRulesPath) ? fs.readFileSync(chessRulesPath, 'utf8') : ''
+const requiredChessRuleTerms = [
+  '王车易位', '吃过路兵', '升变', '将军', '将死', '逼和', '死局', '认输',
+  '三次重复', '五次重复', '五十回合', '七十五回合', '同意和棋', '将死优先'
+]
+if (!chessRulesSource) errors.push('国际象棋规则文档没有落盘')
+for (const term of requiredChessRuleTerms) {
+  if (!chessRulesSource.includes(term)) errors.push(`国际象棋规则文档缺少：${term}`)
+}
+const expectedChessRuleSections = [
+  'goal', 'pieces', 'legal', 'castling', 'en-passant', 'promotion', 'win', 'draw', 'digital', 'app'
+]
+if (
+  chessRules.length !== expectedChessRuleSections.length ||
+  chessRules.some((section, index) => section.id !== expectedChessRuleSections[index] || !section.items?.length)
+) {
+  errors.push('小程序内国际象棋规则章节不完整或顺序错误')
+}
+
+const expectedChessPieceKeys = ['wk', 'wq', 'wr', 'wb', 'wn', 'wp', 'bk', 'bq', 'br', 'bb', 'bn', 'bp']
+if (
+  Object.keys(PIECE_IMAGES).length !== expectedChessPieceKeys.length ||
+  expectedChessPieceKeys.some(key => !PIECE_IMAGES[key]?.endsWith(`/images/chess/metal/${key}.png`))
+) {
+  errors.push('国际象棋金银棋子的 12 个云端映射不完整')
+}
+const chessAssetsDoc = path.join(ROOT, 'docs', 'chess-assets.md')
+if (!fs.existsSync(chessAssetsDoc) || !fs.readFileSync(chessAssetsDoc, 'utf8').includes('gpt-image-2')) {
+  errors.push('国际象棋生图来源、规格与云端映射没有落盘')
+}
+const chessWxmlSource = fs.readFileSync(path.join(MINI_ROOT, 'pages', 'chess', 'chess.wxml'), 'utf8')
+const chessWxssSource = fs.readFileSync(path.join(MINI_ROOT, 'pages', 'chess', 'chess.wxss'), 'utf8')
+if (
+  !chessWxmlSource.includes('item.pieceImage') ||
+  !chessWxmlSource.includes('wx:key="renderKey"') ||
+  chessWxmlSource.includes('moveLog.length')
+) {
+  errors.push('国际象棋页面没有使用云端 3D 棋子或仍引用非响应式走子状态')
+}
+if (!/grid-template-rows:\s*repeat\(8,\s*minmax\(0,\s*1fr\)\)/.test(chessWxssSource)) {
+  errors.push('国际象棋棋盘没有固定为严格等高的 8 行')
+}
+const chessPageSource = fs.readFileSync(path.join(MINI_ROOT, 'pages', 'chess', 'chess.js'), 'utf8')
+if (
+  !chessWxmlSource.includes('assetsLoading') ||
+  !chessPageSource.includes('preloadPieceAssets') ||
+  !chessPageSource.includes('wx.getImageInfo')
+) {
+  errors.push('国际象棋没有在显示棋盘前预加载全部棋子资源')
+}
+if (!chessWxmlSource.includes('active-turn') || !chessWxmlSource.includes('boardTurnClass')) {
+  errors.push('国际象棋没有明显区分当前走棋方')
+}
+if (
+  !/ROBOT_MOVE_MIN_DELAY_MS\s*=\s*1200/.test(chessPageSource) ||
+  !chessPageSource.includes('_aiRequestedAt') ||
+  !chessPageSource.includes('remainingDelay')
+) {
+  errors.push('国际象棋机器人没有在玩家走子后保留至少 1.2 秒的思考反馈')
+}
+if (
+  !chessWxmlSource.includes('item.lastFrom') ||
+  !chessWxmlSource.includes('item.lastTo') ||
+  !chessWxssSource.includes('.chess-square.last-from::before') ||
+  !chessWxssSource.includes('.chess-square.last-to::before')
+) {
+  errors.push('国际象棋没有分别高亮最近一步的起点和终点')
+}
+if (
+  !chessWxmlSource.includes('capture-effect') ||
+  !chessWxssSource.includes('@keyframes capture-wave') ||
+  !chessPageSource.includes('triggerCaptureEffect')
+) {
+  errors.push('国际象棋吃子后没有显示吃子动画')
+}
+const chessRulesUiText = chessRules.flatMap(section => [section.title, ...section.items]).join('\n')
+for (const term of requiredChessRuleTerms) {
+  if (!chessRulesUiText.includes(term) && !['同意和棋', '将死优先'].includes(term)) {
+    errors.push(`小程序内国际象棋规则缺少：${term}`)
+  }
+}
+
+if (
+  DIFFICULTIES.length !== 10 ||
+  DIFFICULTIES.some((difficulty, index) => difficulty.level !== index + 1) ||
+  DIFFICULTIES[0]?.name !== '新手' ||
+  DIFFICULTIES[9]?.name !== '老手'
+) {
+  errors.push('国际象棋机器人必须保留从新手到老手的连续十档难度')
+}
+
+const initialChessGame = new Chess()
+if (initialChessGame.moves().length !== 20) errors.push('国际象棋初始局面合法走法数量错误')
+const robotMove = calculateRobotMove(initialChessGame.fen(), 10, () => 0.99)
+if (!robotMove || !legalMovesFrom(initialChessGame, robotMove.from).some(move => move.to === robotMove.to)) {
+  errors.push('国际象棋机器人没有返回规则引擎认可的合法走法')
+}
+
+const castlingGame = new Chess('r3k2r/8/8/8/8/8/8/R3K2R w KQkq - 0 1')
+const castlingTargets = legalMovesFrom(castlingGame, 'e1').map(move => move.to)
+if (!castlingTargets.includes('c1') || !castlingTargets.includes('g1')) {
+  errors.push('国际象棋规则引擎没有提供完整的长短王车易位')
+}
+castlingGame.move({ from: 'e1', to: 'g1' })
+if (castlingGame.get('g1')?.type !== 'k' || castlingGame.get('f1')?.type !== 'r') {
+  errors.push('国际象棋短易位没有同时移动王和车')
+}
+const attackedCastlingGame = new Chess('r3kr1r/8/8/8/8/8/8/R3K2R w KQkq - 0 1')
+const attackedCastlingTargets = legalMovesFrom(attackedCastlingGame, 'e1').map(move => move.to)
+if (attackedCastlingTargets.includes('g1') || !attackedCastlingTargets.includes('c1')) {
+  errors.push('国际象棋王车易位没有正确检查王经过的受攻击格')
+}
+
+const enPassantGame = new Chess('4k3/8/8/3pP3/8/8/8/4K3 w - d6 0 1')
+const enPassantMove = legalMovesFrom(enPassantGame, 'e5').find(move => move.to === 'd6')
+if (!enPassantMove || !String(enPassantMove.flags).includes('e')) {
+  errors.push('国际象棋规则引擎没有提供吃过路兵')
+} else {
+  enPassantGame.move({ from: 'e5', to: 'd6' })
+  if (enPassantGame.get('d6')?.type !== 'p' || enPassantGame.get('d5')) {
+    errors.push('国际象棋吃过路兵没有移除被吃的兵')
+  }
+}
+
+for (const promotion of ['q', 'r', 'b', 'n']) {
+  const promotionGame = new Chess('7k/P7/8/8/8/8/8/7K w - - 0 1')
+  const choices = legalMovesFrom(promotionGame, 'a7').filter(move => move.to === 'a8')
+  if (new Set(choices.map(move => move.promotion)).size !== 4) {
+    errors.push('国际象棋升变没有提供后、车、象、马四种选择')
+    break
+  }
+  promotionGame.move({ from: 'a7', to: 'a8', promotion })
+  if (promotionGame.get('a8')?.type !== promotion) errors.push(`国际象棋不能升变为：${promotion}`)
+}
+
+const pinnedGame = new Chess('k3r3/8/8/8/8/8/4R3/4K3 w - - 0 1')
+if (legalMovesFrom(pinnedGame, 'e2').some(move => move.to === 'd2')) {
+  errors.push('国际象棋规则引擎允许被牵制棋子暴露己方王')
+}
+const captureRenderGame = new Chess('4k3/8/8/8/5p2/7N/8/4K3 w - - 0 1')
+const beforeCaptureSquares = createBoardSquares(captureRenderGame, 'b', '', [], null)
+captureRenderGame.move({ from: 'h3', to: 'f4' })
+const afterCaptureSquares = createBoardSquares(captureRenderGame, 'b', '', [], { from: 'h3', to: 'f4' })
+const beforeCaptureTarget = beforeCaptureSquares.find(square => square.coord === 'f4')
+const afterCaptureTarget = afterCaptureSquares.find(square => square.coord === 'f4')
+const afterCaptureOrigin = afterCaptureSquares.find(square => square.coord === 'h3')
+if (
+  beforeCaptureTarget?.pieceKey !== 'bp' ||
+  afterCaptureTarget?.pieceKey !== 'wn' ||
+  beforeCaptureTarget.renderKey === afterCaptureTarget.renderKey ||
+  afterCaptureOrigin?.pieceKey !== ''
+) {
+  errors.push('国际象棋吃子后没有强制刷新起点和目标格的棋子图片')
+}
+if (!afterCaptureTarget?.lastTo || !afterCaptureOrigin?.lastFrom) {
+  errors.push('国际象棋最近一步没有正确标记起点和终点')
+}
+if (
+  capturedSquare({ from: 'h3', to: 'f4', captured: 'p', flags: 'c' }) !== 'f4' ||
+  capturedSquare({ from: 'e5', to: 'd6', captured: 'p', flags: 'e' }) !== 'd5' ||
+  capturedSquare({ from: 'e2', to: 'e4', flags: 'b' }) !== ''
+) {
+  errors.push('国际象棋吃子动画没有定位到实际被吃棋子的格子')
+}
+const stalemateGame = new Chess('7k/5Q2/6K1/8/8/8/8/8 b - - 0 1')
+if (getTerminalState(stalemateGame, [stalemateGame.fen()]).reason !== '逼和') {
+  errors.push('国际象棋没有正确自动判定逼和')
+}
+const insufficientGame = new Chess('7k/8/8/8/8/8/8/K7 w - - 0 1')
+if (getTerminalState(insufficientGame, [insufficientGame.fen()]).reason !== '子力不足') {
+  errors.push('国际象棋没有正确自动判定标准子力不足局面')
+}
+const repeatedGame = new Chess()
+const threefold = getDrawState(repeatedGame, Array(3).fill(repeatedGame.fen()))
+const fivefold = getDrawState(repeatedGame, Array(5).fill(repeatedGame.fen()))
+if (!threefold.claimable || threefold.automatic || threefold.reason !== '三次重复局面') {
+  errors.push('国际象棋三次重复没有作为可申请和棋处理')
+}
+if (!fivefold.automatic || fivefold.reason !== '五次重复局面') {
+  errors.push('国际象棋五次重复没有自动判和')
+}
+const fiftyMoveGame = new Chess('7k/8/8/8/8/8/R7/7K w - - 100 51')
+const seventyFiveMoveGame = new Chess('7k/8/8/8/8/8/R7/7K w - - 150 76')
+if (!getDrawState(fiftyMoveGame, [fiftyMoveGame.fen()]).claimable) {
+  errors.push('国际象棋五十回合规则没有作为可申请和棋处理')
+}
+if (getTerminalState(seventyFiveMoveGame, [seventyFiveMoveGame.fen()]).reason !== '七十五回合无吃子或兵移动') {
+  errors.push('国际象棋七十五回合规则没有自动判和')
+}
+const checkmateAtSeventyFive = new Chess('7k/6Q1/6K1/8/8/8/8/8 b - - 150 76')
+if (getTerminalState(checkmateAtSeventyFive, [checkmateAtSeventyFive.fen()]).type !== 'checkmate') {
+  errors.push('国际象棋最后一步同时触发七十五回合时没有优先判定将死')
+}
+
+const chessWorkerPath = path.join(MINI_ROOT, 'workers', 'chess-ai.js')
+const chessWorkerSource = fs.existsSync(chessWorkerPath) ? fs.readFileSync(chessWorkerPath, 'utf8') : ''
+if (!chessWorkerSource || /require\(["']\.\.[/\\]/.test(chessWorkerSource)) {
+  errors.push('国际象棋 Worker 没有构建为独立单文件')
+} else {
+  let workerHandler
+  let workerReply
+  const workerContext = {
+    worker: {
+      onMessage(handler) { workerHandler = handler },
+      postMessage(message) { workerReply = message }
+    },
+    console
+  }
+  try {
+    new vm.Script(chessWorkerSource, { filename: chessWorkerPath }).runInNewContext(workerContext)
+    workerHandler?.({ requestId: 'validation', fen: initialChessGame.fen(), level: 1 })
+    if (
+      workerReply?.requestId !== 'validation' ||
+      !workerReply.move ||
+      !legalMovesFrom(initialChessGame, workerReply.move.from).some(move => move.to === workerReply.move.to)
+    ) {
+      errors.push('国际象棋 Worker 没有返回规则引擎认可的合法走法')
+    }
+  } catch (error) {
+    errors.push(`国际象棋 Worker 无法独立运行: ${error.message}`)
+  }
 }
 
 const packageBytes = filesUnder(MINI_ROOT).reduce((sum, file) => sum + fs.statSync(file).size, 0)

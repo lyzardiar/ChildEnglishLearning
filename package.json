@@ -8,6 +8,9 @@
   },
   "scripts": {
     "build:catalog": "node scripts/build-miniprogram-catalog.mjs",
+    "build:chess": "node scripts/build-chess-engine.mjs",
+    "process:chess-assets": "node scripts/process-chess-assets.js",
+    "upload:chess-assets": "node scripts/upload-chess-assets.js",
     "subtitles:unit1": "node scripts/generate-unit-subtitles.mjs --grade 1 --semester lower --unit 1",
     "subtitles:prepare": "node scripts/generate-unit-subtitles.mjs --all",
     "subtitles:prepare-local": "node scripts/generate-unit-subtitles.mjs --all --local-asr",
@@ -27,10 +30,13 @@
   "homepage": "https://github.com/lyzardiar/ChildEnglishLearning#readme",
   "dependencies": {
     "@cloudbase/node-sdk": "^3.18.3",
+    "chess.js": "^1.4.0",
+    "js-chess-engine": "^2.4.6",
     "ws": "^8.21.3"
   },
   "devDependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "esbuild": "^0.25.9",
     "ffprobe-static": "^3.1.0",
     "tencentcloud-sdk-nodejs-asr": "^4.1.273"
   }
